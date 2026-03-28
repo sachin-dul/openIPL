@@ -12,6 +12,11 @@ on:
         description: 'Fetch mode (auto/full/incremental)'
         required: false
         default: 'auto'
+      reprocess:
+        description: 'Reprocess already processed matches'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   update:
@@ -50,34 +55,65 @@ jobs:
           fi
 
       - name: Fetch and process IPL data
+        id: process
         run: |
           cd scripts
-          python orchestrator.py \
+          REPROCESS_FLAG=""
+          if [ "${{ github.event.inputs.reprocess }}" = "true" ]; then
+            REPROCESS_FLAG="--reprocess"
+          fi
+          if python orchestrator.py \
             --season ${{ steps.season.outputs.year }} \
-            --fetch-mode ${{ steps.mode.outputs.mode }}
+            --fetch-mode ${{ steps.mode.outputs.mode }} $REPROCESS_FLAG; then
+            echo "status=success" >> $GITHUB_OUTPUT
+          else
+            echo "status=failure" >> $GITHUB_OUTPUT
+            exit 1
+          fi
 
       - name: Check for changes
+        if: always()
         id: changes
         run: |
           git add -A
+          SEASON=${{ steps.season.outputs.year }}
+          NEW_MATCHES=$(git diff --cached --name-only | grep "^data/${SEASON}/matches/match_" | sed 's|.*/match_\([0-9]*\)_.*|\1|' | sort -un | tr '\n' ',' | sed 's/,$//')
+          echo "matches=${NEW_MATCHES:-none}" >> $GITHUB_OUTPUT
           if git diff --cached --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
+      - name: Append to run log
+        if: always()
+        run: |
+          SEASON=${{ steps.season.outputs.year }}
+          STATUS=${{ steps.process.outputs.status || 'failure' }}
+          MATCHES=${{ steps.changes.outputs.matches || 'none' }}
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          if [ "${{ github.event.inputs.reprocess }}" = "true" ]; then
+            TYPE="reprocess"
+          else
+            TYPE="new"
+          fi
+          mkdir -p logs
+          echo "| ${TIMESTAMP} | ${SEASON} | ${MATCHES} | ${TYPE} | ${{ steps.mode.outputs.mode }} | ${STATUS} |" >> logs/run_log.md
+
       - name: Commit and push
-        if: steps.changes.outputs.has_changes == 'true'
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           SEASON=${{ steps.season.outputs.year }}
-          NEW_MATCHES=$(git diff --cached --name-only | grep "^data/${SEASON}/matches/match_" | sed 's|.*/match_\([0-9]*\)_.*|\1|' | sort -un)
-          MATCH_NUMS=$(echo "$NEW_MATCHES" | tr '\n' ',' | sed 's/,$//')
-          if [ $(echo "$NEW_MATCHES" | wc -w | tr -d ' ') -eq 1 ]; then
-            git commit -m "Add IPL ${SEASON} match ${MATCH_NUMS} data"
+          MATCHES="${{ steps.changes.outputs.matches || 'none' }}"
+          STATUS="${{ steps.process.outputs.status || 'failure' }}"
+          if [ "$STATUS" = "failure" ]; then
+            git commit -m "Log failed run for IPL ${SEASON}" || true
+          elif [ "$MATCHES" = "none" ]; then
+            git commit -m "Log run for IPL ${SEASON} (no new data)" || true
           else
-            git commit -m "Add IPL ${SEASON} match ${MATCH_NUMS} data"
+            git commit -m "Add IPL ${SEASON} match ${MATCHES} data"
           fi
           git push
