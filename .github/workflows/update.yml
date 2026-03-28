@@ -1,0 +1,83 @@
+name: Update IPL Data
+run-name: "Update IPL ${{ inputs.season || 'current' }} season data (${{ inputs.fetch_mode || 'auto' }})"
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: 'IPL season year'
+        required: false
+        default: '2026'
+      fetch_mode:
+        description: 'Fetch mode (auto/full/incremental)'
+        required: false
+        default: 'auto'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine season
+        id: season
+        run: |
+          if [ -n "${{ github.event.inputs.season }}" ]; then
+            echo "year=${{ github.event.inputs.season }}" >> $GITHUB_OUTPUT
+          else
+            echo "year=$(date +%Y)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Determine fetch mode
+        id: mode
+        run: |
+          if [ -n "${{ github.event.inputs.fetch_mode }}" ]; then
+            echo "mode=${{ github.event.inputs.fetch_mode }}" >> $GITHUB_OUTPUT
+          else
+            echo "mode=auto" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fetch and process IPL data
+        run: |
+          cd scripts
+          python orchestrator.py \
+            --season ${{ steps.season.outputs.year }} \
+            --fetch-mode ${{ steps.mode.outputs.mode }}
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          SEASON=${{ steps.season.outputs.year }}
+          NEW_MATCHES=$(git diff --cached --name-only | grep "^data/${SEASON}/matches/match_" | sed 's|.*/match_\([0-9]*\)_.*|\1|' | sort -un)
+          MATCH_NUMS=$(echo "$NEW_MATCHES" | tr '\n' ',' | sed 's/,$//')
+          if [ $(echo "$NEW_MATCHES" | wc -w | tr -d ' ') -eq 1 ]; then
+            git commit -m "Add IPL ${SEASON} match ${MATCH_NUMS} data"
+          else
+            git commit -m "Add IPL ${SEASON} match ${MATCH_NUMS} data"
+          fi
+          git push
