@@ -234,6 +234,16 @@ def main():
     write_csv(os.path.join(season_dir, "matches.csv"), all_match_rows)
     print(f"\nWrote matches.csv ({len(all_match_rows)} matches)")
 
+    # Write player_registry.csv (deduplicated across all matches)
+    all_registry = {}
+    for parsed in all_parsed:
+        for name, cricsheet_id in parsed.get("registry", {}).items():
+            all_registry[name] = cricsheet_id
+    if all_registry:
+        registry_rows = [{"player": name, "cricsheet_id": cid} for name, cid in sorted(all_registry.items())]
+        write_csv(os.path.join(season_dir, "player_registry.csv"), registry_rows)
+        print(f"Wrote player_registry.csv ({len(registry_rows)} entries)")
+
     # Build points table
     table = build_points_table(all_parsed, season_dir)
     print("Updated points_table.csv")

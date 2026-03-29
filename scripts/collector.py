@@ -47,6 +47,13 @@ def collect_season(season_dir):
     team_results = defaultdict(list)      # team -> [rows]
     all_teams = set()
 
+    # Build match info lookup from season-level matches.csv
+    matches_csv = os.path.join(season_dir, "matches.csv")
+    matches_rows = read_csv(matches_csv)
+    match_info_by_num = {}
+    for row in matches_rows:
+        match_info_by_num[int(row["match_number"])] = row
+
     match_dirs = sorted(
         [d for d in os.listdir(matches_dir) if os.path.isdir(os.path.join(matches_dir, d))]
     )
@@ -54,12 +61,17 @@ def collect_season(season_dir):
     for match_dir_name in match_dirs:
         match_path = os.path.join(matches_dir, match_dir_name)
 
-        info_rows = read_csv(os.path.join(match_path, "info.csv"))
-        if not info_rows:
+        # Extract match number from directory name (match_01_CSK_vs_MI)
+        parts = match_dir_name.split("_")
+        try:
+            match_num = int(parts[1])
+        except (IndexError, ValueError):
             continue
-        info = info_rows[0]
 
-        match_num = int(info.get("match_number", 0))
+        info = match_info_by_num.get(match_num)
+        if not info:
+            continue
+
         date = info.get("date", "")
         venue = info.get("venue", "")
         team_1 = info.get("team_1", "")
