@@ -1,14 +1,18 @@
 """
 Core parser: transforms a single Cricsheet JSON file into per-match CSVs.
 
-Produces:
-  - info.csv
+Produces (always):
   - ball_by_ball.csv
   - batting_scorecard.csv
   - bowling_scorecard.csv
   - partnerships.csv
   - fall_of_wickets.csv
   - phase_summary.csv
+
+Produces (when data exists):
+  - reviews.csv          (DRS reviews)
+  - super_over.csv       (super over deliveries)
+  - substitutions.csv    (impact player / concussion subs)
 """
 
 import json
@@ -69,27 +73,12 @@ def parse_match(json_path, match_number_override=None):
         else:
             team_2 = teams[1] if team_1 == teams[0] else teams[0]
 
-    # --- info.csv ---
-    umpires = officials.get("umpires", [])
-    info_row = {
-        "match_id": match_id,
-        "match_number": match_number,
-        "date": date,
-        "venue": venue,
-        "team_1": team_1,
-        "team_2": team_2,
-        "toss_winner": toss.get("winner", ""),
-        "toss_decision": toss.get("decision", ""),
-        "winner": winner,
-        "result": result,
-        "win_by_runs": win_by_runs,
-        "win_by_wickets": win_by_wickets,
-        "player_of_match": ", ".join(info.get("player_of_match", [])),
-        "umpire_1": umpires[0] if len(umpires) > 0 else "",
-        "umpire_2": umpires[1] if len(umpires) > 1 else "",
-        "tv_umpire": ", ".join(officials.get("tv_umpires", [])),
-        "match_referee": ", ".join(officials.get("match_referees", [])),
-    }
+    # --- Event metadata ---
+    event = info.get("event", {})
+    match_stage = event.get("stage", "league")
+
+    # --- Player registry ---
+    registry = info.get("registry", {}).get("people", {})
 
     # --- ball_by_ball.csv ---
     ball_by_ball = []
@@ -101,13 +90,50 @@ def parse_match(json_path, match_number_override=None):
     fow = []             # fall of wickets
     partnerships = []    # partnership data
     phase_stats = {}     # (innings, team, phase) -> stats
+    reviews = []         # DRS reviews
+    super_over = []      # super over deliveries
+    substitutions = []   # impact player / concussion subs
 
     innings_teams = {}  # inn_num -> (batting_team, bowling_team)
 
+    inn_num = 0  # track actual innings number (excludes super overs)
     for inn_idx, innings in enumerate(innings_data):
-        inn_num = inn_idx + 1
         batting_team = innings["team"]
         bowling_team = team_2 if batting_team == team_1 else team_1
+
+        # --- Super over: capture separately and skip regular processing ---
+        if innings.get("super_over"):
+            so_ball_num = 0
+            for over_obj in innings["overs"]:
+                for delivery in over_obj["deliveries"]:
+                    extras = delivery.get("extras", {})
+                    is_legal = "wides" not in extras and "noballs" not in extras
+                    if is_legal:
+                        so_ball_num += 1
+                    is_wicket = "wickets" in delivery
+                    wicket_kind = ""
+                    player_out = ""
+                    if is_wicket:
+                        w = delivery["wickets"][0]
+                        wicket_kind = w["kind"]
+                        player_out = w["player_out"]
+                    super_over.append({
+                        "team": batting_team,
+                        "ball": so_ball_num,
+                        "batter": delivery["batter"],
+                        "bowler": delivery["bowler"],
+                        "non_striker": delivery["non_striker"],
+                        "batter_runs": delivery["runs"]["batter"],
+                        "extra_runs": delivery["runs"]["extras"],
+                        "total_runs": delivery["runs"]["total"],
+                        "extra_type": ", ".join(extras.keys()) if extras else "",
+                        "is_wicket": is_wicket,
+                        "wicket_kind": wicket_kind,
+                        "player_out": player_out,
+                    })
+            continue
+
+        inn_num += 1
         innings_teams[inn_num] = (batting_team, bowling_team)
         position_counter = 0
         team_score = 0
@@ -142,6 +168,34 @@ def parse_match(json_path, match_number_override=None):
 
                 is_wide = "wides" in extras
                 is_noball = "noballs" in extras
+
+                # --- DRS reviews ---
+                if "review" in delivery:
+                    rev = delivery["review"]
+                    reviews.append({
+                        "innings": inn_num,
+                        "over": over_num + 1,
+                        "ball": ball_counter + 1,
+                        "team": rev.get("by", ""),
+                        "batter": rev.get("batter", batter),
+                        "bowler": bowler,
+                        "umpire": rev.get("umpire", ""),
+                        "type": rev.get("type", ""),
+                        "decision": rev.get("decision", ""),
+                    })
+
+                # --- Substitutions (impact player, concussion, etc.) ---
+                if "replacements" in delivery:
+                    for sub in delivery["replacements"].get("match", []):
+                        substitutions.append({
+                            "innings": inn_num,
+                            "over": over_num + 1,
+                            "ball": ball_counter + 1,
+                            "team": sub.get("team", ""),
+                            "player_in": sub.get("in", ""),
+                            "player_out": sub.get("out", ""),
+                            "reason": sub.get("reason", ""),
+                        })
 
                 # Ball counting: wides and noballs don't count as legal deliveries
                 is_legal = not is_wide and not is_noball
@@ -347,6 +401,11 @@ def parse_match(json_path, match_number_override=None):
                     "extra_runs": extra_runs,
                     "total_runs": total_runs,
                     "extra_type": extra_type,
+                    "wides": extras.get("wides", 0),
+                    "noballs": extras.get("noballs", 0),
+                    "byes": extras.get("byes", 0),
+                    "legbyes": extras.get("legbyes", 0),
+                    "penalty": extras.get("penalty", 0),
                     "is_wicket": is_wicket,
                     "wicket_kind": wicket_kind,
                     "player_out": player_out,
@@ -447,9 +506,11 @@ def parse_match(json_path, match_number_override=None):
             "dots": stats["dots"],
         })
 
-    # --- Compute team scores for matches.csv ---
+    # --- Compute team scores for matches.csv (exclude super overs) ---
     team_scores = {}
     for inn_idx, innings in enumerate(innings_data):
+        if innings.get("super_over"):
+            continue
         team = innings["team"]
         total = 0
         wickets = 0
@@ -462,9 +523,11 @@ def parse_match(json_path, match_number_override=None):
                             wickets += 1
         team_scores[team] = f"{total}/{wickets}"
 
-    # Compute overs bowled per innings (for NRR)
+    # Compute overs bowled per innings (for NRR, exclude super overs)
     innings_overs = {}
     for inn_idx, innings in enumerate(innings_data):
+        if innings.get("super_over"):
+            continue
         team = innings["team"]
         total_balls = 0
         for over_obj in innings["overs"]:
@@ -476,6 +539,7 @@ def parse_match(json_path, match_number_override=None):
         overs_partial = total_balls % 6
         innings_overs[team] = float(f"{overs_complete}.{overs_partial}")
 
+    umpires = officials.get("umpires", [])
     match_row = {
         "match_id": match_id,
         "match_number": match_number,
@@ -492,10 +556,14 @@ def parse_match(json_path, match_number_override=None):
         "player_of_match": ", ".join(info.get("player_of_match", [])),
         "team_1_score": team_scores.get(team_1, ""),
         "team_2_score": team_scores.get(team_2, ""),
+        "match_stage": match_stage,
+        "umpire_1": umpires[0] if len(umpires) > 0 else "",
+        "umpire_2": umpires[1] if len(umpires) > 1 else "",
+        "tv_umpire": ", ".join(officials.get("tv_umpires", [])),
+        "match_referee": ", ".join(officials.get("match_referees", [])),
     }
 
     return {
-        "info": info_row,
         "match": match_row,
         "ball_by_ball": ball_by_ball,
         "batting_scorecard": batting_scorecard,
@@ -504,6 +572,10 @@ def parse_match(json_path, match_number_override=None):
         "fall_of_wickets": fow,
         "phase_summary": phase_summary,
         "fielding_stats": fielding_stats,
+        "reviews": reviews,
+        "super_over": super_over,
+        "substitutions": substitutions,
+        "registry": registry,
         "team_scores": team_scores,
         "innings_overs": innings_overs,
         "team_1": team_1,
@@ -526,13 +598,19 @@ def write_csv(filepath, rows, fieldnames=None):
 
 def write_match_csvs(parsed, output_dir):
     """Write all per-match CSVs to output_dir."""
-    write_csv(os.path.join(output_dir, "info.csv"), [parsed["info"]])
     write_csv(os.path.join(output_dir, "ball_by_ball.csv"), parsed["ball_by_ball"])
     write_csv(os.path.join(output_dir, "batting_scorecard.csv"), parsed["batting_scorecard"])
     write_csv(os.path.join(output_dir, "bowling_scorecard.csv"), parsed["bowling_scorecard"])
     write_csv(os.path.join(output_dir, "partnerships.csv"), parsed["partnerships"])
     write_csv(os.path.join(output_dir, "fall_of_wickets.csv"), parsed["fall_of_wickets"])
     write_csv(os.path.join(output_dir, "phase_summary.csv"), parsed["phase_summary"])
+    # Conditional CSVs — only written when data exists
+    if parsed["reviews"]:
+        write_csv(os.path.join(output_dir, "reviews.csv"), parsed["reviews"])
+    if parsed["super_over"]:
+        write_csv(os.path.join(output_dir, "super_over.csv"), parsed["super_over"])
+    if parsed["substitutions"]:
+        write_csv(os.path.join(output_dir, "substitutions.csv"), parsed["substitutions"])
 
 
 if __name__ == "__main__":

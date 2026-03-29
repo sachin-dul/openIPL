@@ -20,10 +20,12 @@ A comprehensive dataset for every match of the Indian Premier League, starting f
 
 | Level | What you get |
 |-------|-------------|
-| **Season** | `matches.csv` &middot; `points_table.csv` &middot; `players.csv` |
-| **Per Match** | `ball_by_ball.csv` &middot; `batting_scorecard.csv` &middot; `bowling_scorecard.csv` &middot; `partnerships.csv` &middot; `fall_of_wickets.csv` &middot; `phase_summary.csv` |
+| **Season** | `matches.csv` &middot; `points_table.csv` &middot; `players.csv` &middot; `player_registry.csv` |
+| **Per Match** | `ball_by_ball.csv` &middot; `batting_scorecard.csv` &middot; `bowling_scorecard.csv` &middot; `partnerships.csv` &middot; `fall_of_wickets.csv` &middot; `phase_summary.csv` &middot; `reviews.csv`* &middot; `super_over.csv`* &middot; `substitutions.csv`* |
 | **Per Player** | `batting.csv` &middot; `bowling.csv` &middot; `fielding.csv` |
 | **Per Team** | `batting.csv` &middot; `bowling.csv` &middot; `results.csv` |
+
+<sub>* Only generated when the data exists for that match</sub>
 
 <details>
 <summary><strong>Full directory structure</strong></summary>
@@ -31,18 +33,21 @@ A comprehensive dataset for every match of the Indian Premier League, starting f
 ```
 data/
   2026/
-    matches.csv                    # All matches: date, venue, teams, result, toss
+    matches.csv                    # All matches: date, venue, teams, result, toss, officials
     points_table.csv               # Standings with NRR
     players.csv                    # All players with team and role
+    player_registry.csv            # Cricsheet IDs for cross-season player linking
     matches/
       match_01_CSK_vs_MI/
-        info.csv                   # Match metadata
-        ball_by_ball.csv           # Every delivery
+        ball_by_ball.csv           # Every delivery (with granular extras)
         batting_scorecard.csv      # Batting figures
         bowling_scorecard.csv      # Bowling figures
         partnerships.csv           # Partnership data
         fall_of_wickets.csv        # Wicket progression
         phase_summary.csv          # Powerplay / Middle / Death splits
+        reviews.csv                # DRS reviews (when present)
+        super_over.csv             # Super over deliveries (when present)
+        substitutions.csv          # Impact player / concussion subs (when present)
     players/
       Virat_Kohli/
         batting.csv                # Match-by-match batting

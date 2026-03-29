@@ -4,9 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-03-29
+
+### Added
+
+- DRS reviews extraction (`reviews.csv` per match, when reviews occurred)
+- Super over extraction (`super_over.csv` per match, when super over was played)
+- Impact player / concussion substitutions (`substitutions.csv` per match, when subs occurred)
+- Player registry (`player_registry.csv` at season level) with Cricsheet IDs for cross-season linking
+- Granular extras breakdown in `ball_by_ball.csv` (wides, noballs, byes, legbyes, penalty as separate columns)
+- Match stage field in `matches.csv` (league / Qualifier 1 / Eliminator / Final)
+- Umpire and match referee fields merged into `matches.csv`
+
+### Removed
+
+- Per-match `info.csv` (redundant — data now lives in `matches.csv`)
+
 ## 2026-03-28
 
 ### Added
+
 - Data pipeline: `orchestrator.py`, `fetcher.py`, `parser.py`, `collector.py`
 - GitHub Actions workflow (`update.yml`) with incremental, full, and auto fetch modes
 - `reprocess` input to GitHub Actions workflow
