@@ -38,7 +38,7 @@ def parse_match(json_path, match_number_override=None):
     info = data["info"]
     innings_data = data.get("innings", [])
 
-    match_id = os.path.splitext(os.path.basename(json_path))[0]
+    cricsheet_match_id = os.path.splitext(os.path.basename(json_path))[0]
     match_number = match_number_override if match_number_override is not None else info.get("event", {}).get("match_number", 0)
     date = info["dates"][0]
     venue = info.get("venue", "")
@@ -357,7 +357,10 @@ def parse_match(json_path, match_number_override=None):
 
                         # Fall of wickets
                         team_wickets += 1
-                        over_ball = f"{over_num + 1}.{ball_counter}"
+                        if ball_counter == 6:
+                            over_ball = f"{over_num + 1}.0"
+                        else:
+                            over_ball = f"{over_num}.{ball_counter}"
                         fow.append({
                             "innings": inn_num,
                             "team": batting_team,
@@ -541,7 +544,7 @@ def parse_match(json_path, match_number_override=None):
 
     umpires = officials.get("umpires", [])
     match_row = {
-        "match_id": match_id,
+        "cricsheet_match_id": cricsheet_match_id,
         "match_number": match_number,
         "date": date,
         "venue": venue,

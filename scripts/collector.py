@@ -124,6 +124,7 @@ def collect_season(season_dir):
 
             team_batting[team].append({
                 "match_number": match_num,
+                "opponent": opponent,
                 "batter": batter,
                 "runs": int(row["runs"]),
                 "balls": int(row["balls"]),
@@ -160,6 +161,7 @@ def collect_season(season_dir):
 
             team_bowling[team].append({
                 "match_number": match_num,
+                "opponent": opponent,
                 "bowler": bowler,
                 "overs": float(row["overs"]),
                 "maidens": int(row["maidens"]),

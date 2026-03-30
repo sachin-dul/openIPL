@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-03-30
+
+### Changed
+
+- Renamed `match_id` to `cricsheet_match_id` in `matches.csv` for clarity
+- Fall of wickets over format now uses standard cricket notation (e.g., `2.0` instead of `1.6` when wicket falls on last ball of an over)
+- Added `opponent` column to per-team `batting.csv` and `bowling.csv`
+
 ## 2026-03-29
 
 ### Added

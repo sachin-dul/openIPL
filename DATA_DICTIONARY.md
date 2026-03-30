@@ -12,7 +12,7 @@ Season-level match index.
 
 | Column | Type | Description |
 |--------|------|-------------|
-| match_id | string | Cricsheet match ID |
+| cricsheet_match_id | string | Cricsheet match ID |
 | match_number | int | Match number in the season (1-70 league, 71+ playoffs) |
 | date | date | Match date (YYYY-MM-DD) |
 | venue | string | Stadium and city |
@@ -156,7 +156,7 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | wicket_number | int | Nth wicket to fall |
 | player_out | string | Dismissed batter |
 | score | int | Team score when wicket fell |
-| over | string | Over at which wicket fell (e.g., "5.3") |
+| over | string | Over at which wicket fell in cricket notation (e.g., "5.3" = 5 overs 3 balls, "6.0" = 6 overs complete) |
 
 ### `phase_summary.csv`
 
@@ -290,6 +290,7 @@ Located in `teams/<Team_Name>/`.
 | Column | Type | Description |
 |--------|------|-------------|
 | match_number | int | Season match number |
+| opponent | string | Opposition team |
 | batter | string | Batter name |
 | runs | int | Runs scored |
 | balls | int | Balls faced |
@@ -303,6 +304,7 @@ Located in `teams/<Team_Name>/`.
 | Column | Type | Description |
 |--------|------|-------------|
 | match_number | int | Season match number |
+| opponent | string | Opposition team |
 | bowler | string | Bowler name |
 | overs | float | Overs bowled |
 | maidens | int | Maidens |
