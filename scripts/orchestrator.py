@@ -117,15 +117,19 @@ def build_points_table(all_match_data, season_dir):
             teams[winner]["points"] += 2
             teams[loser]["lost"] += 1
 
-        # NRR data
+        # NRR data — per ICC rules, all-out teams are deemed to have faced 20 overs
         for team, opponent in [(team_1, team_2), (team_2, team_1)]:
             score_str = team_scores.get(team, "0/0")
-            runs = int(score_str.split("/")[0])
-            overs = innings_overs.get(team, 0.0)
+            parts = score_str.split("/")
+            runs = int(parts[0])
+            wickets = int(parts[1]) if len(parts) > 1 else 0
+            overs = 20.0 if wickets == 10 else innings_overs.get(team, 0.0)
 
             opp_score_str = team_scores.get(opponent, "0/0")
-            opp_runs = int(opp_score_str.split("/")[0])
-            opp_overs = innings_overs.get(opponent, 0.0)
+            opp_parts = opp_score_str.split("/")
+            opp_runs = int(opp_parts[0])
+            opp_wickets = int(opp_parts[1]) if len(opp_parts) > 1 else 0
+            opp_overs = 20.0 if opp_wickets == 10 else innings_overs.get(opponent, 0.0)
 
             teams[team]["runs_scored"] += runs
             teams[team]["overs_faced"] += overs
