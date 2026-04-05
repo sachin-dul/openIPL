@@ -12,6 +12,8 @@ All notable changes to this project will be documented in this file.
 - Reusable Plotly chart helpers (`utils/charts.py`): horizontal/vertical bar, line chart, worm chart, phase comparison, fall of wickets timeline
 - Data loading utilities (`utils/data_loader.py`) with `@lru_cache` for all CSV types
 - Consistent IPL team colors, logos, and short names across all visualizations
+- Deployed dashboard to [ShinyApps.io](https://openipl.shinyapps.io/openipl/)
+- Auto-redeploy step in GitHub Actions workflow after data updates
 
 ### Changed
 

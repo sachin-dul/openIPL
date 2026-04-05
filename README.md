@@ -66,6 +66,8 @@ data/
 
 openIPL includes an interactive analytics dashboard built with [Shiny for Python](https://shiny.posit.co/py/) and Plotly.
 
+**Live:** [openipl.shinyapps.io/openipl](https://openipl.shinyapps.io/openipl/)
+
 ```bash
 pip install -r requirements.txt
 shiny run app.py

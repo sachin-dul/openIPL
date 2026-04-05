@@ -117,3 +117,13 @@ jobs:
             git commit -m "Add IPL ${SEASON} match ${MATCHES} data"
           fi
           git push
+
+      - name: Deploy dashboard to ShinyApps.io
+        if: steps.process.outputs.status == 'success' && steps.changes.outputs.has_changes == 'true'
+        env:
+          SHINYAPPS_TOKEN: ${{ secrets.SHINYAPPS_TOKEN }}
+          SHINYAPPS_SECRET: ${{ secrets.SHINYAPPS_SECRET }}
+        run: |
+          pip install rsconnect-python
+          rsconnect add --account openipl --name openipl --token "$SHINYAPPS_TOKEN" --secret "$SHINYAPPS_SECRET"
+          rsconnect deploy shiny . --name openipl --title openipl
