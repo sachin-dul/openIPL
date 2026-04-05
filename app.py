@@ -579,10 +579,11 @@ def server(input, output, session):
             textfont=dict(size=13, color="#333"), width=0.5,
         ))
         fig.update_layout(height=300, yaxis_title="Avg Score",
-                          margin=dict(l=40, r=10, t=10, b=10),
+                          margin=dict(l=40, r=10, t=50, b=10),
                           paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
         fig.update_xaxes(gridcolor="rgba(0,0,0,0.05)", zeroline=False)
-        fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)
+        fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False,
+                         range=[0, max(avg1, avg2) * 1.15])
         return plotly_ui(fig)
 
     @reactive.calc
@@ -817,7 +818,7 @@ def server(input, output, session):
         fig.update_traces(texttemplate="")
         chart_height = max(120, len(y_labels) * 55 + 30)
         fig.update_layout(
-            **LAYOUT_TEMPLATE, margin=dict(l=0, r=0, t=30, b=0), height=chart_height,
+            **LAYOUT_TEMPLATE, margin=dict(l=0, r=0, t=30, b=0, autoexpand=True), height=chart_height,
             xaxis=dict(side="top"), yaxis=dict(autorange="reversed"),
         )
 
@@ -976,7 +977,7 @@ def server(input, output, session):
                 )
         chart_height = max(120, len(y_labels) * 55 + 30)
         fig.update_layout(
-            **LAYOUT_TEMPLATE, margin=dict(l=0, r=0, t=30, b=0), height=chart_height,
+            **LAYOUT_TEMPLATE, margin=dict(l=0, r=0, t=30, b=0, autoexpand=True), height=chart_height,
             xaxis=dict(side="top"), yaxis=dict(autorange="reversed"),
         )
 
@@ -1079,7 +1080,7 @@ def server(input, output, session):
         ))
         fig.update_layout(
             barmode="stack", showlegend=False,
-            **LAYOUT_TEMPLATE, margin=dict(l=10, r=60, t=20, b=10),
+            **LAYOUT_TEMPLATE, margin=dict(l=10, r=60, t=20, b=10, autoexpand=True),
             height=max(300, len(top) * 45),
         )
         fig.update_xaxes(gridcolor="rgba(0,0,0,0.05)", zeroline=False, title_text="Runs")
@@ -1129,7 +1130,7 @@ def server(input, output, session):
                 title="Runs", zeroline=True, zerolinecolor="rgba(0,0,0,0.2)", zerolinewidth=1,
                 tickvals=[], showticklabels=False,
             ),
-            **LAYOUT_TEMPLATE, margin=dict(l=10, r=80, t=20, b=40),
+            **LAYOUT_TEMPLATE, margin=dict(l=10, r=80, t=20, b=40, autoexpand=True),
             height=max(300, len(best) * 50),
         )
         fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)

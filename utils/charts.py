@@ -74,7 +74,7 @@ def _apply_style(fig, height=None):
     """Apply common styling to all charts."""
     fig.update_layout(
         **LAYOUT_TEMPLATE,
-        margin=dict(l=40, r=40, t=50, b=40, autoexpand=False),
+        margin=dict(l=40, r=40, t=50, b=40, autoexpand=True),
     )
     if height:
         fig.update_layout(height=height)
