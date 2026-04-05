@@ -1,4 +1,4 @@
 requests>=2.28
-shiny>=1.0
+shiny[theme]>=1.0
 plotly>=5.20
 pandas>=2.0
