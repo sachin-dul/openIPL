@@ -120,10 +120,7 @@ jobs:
 
       - name: Deploy dashboard to ShinyApps.io
         if: steps.process.outputs.status == 'success' && steps.changes.outputs.has_changes == 'true'
-        env:
-          SHINYAPPS_TOKEN: ${{ secrets.SHINYAPPS_TOKEN }}
-          SHINYAPPS_SECRET: ${{ secrets.SHINYAPPS_SECRET }}
         run: |
           pip install rsconnect-python
-          rsconnect add --account openipl --name openipl --token "$SHINYAPPS_TOKEN" --secret "$SHINYAPPS_SECRET"
+          rsconnect add --account openipl --name openipl --token "${{ secrets.SHINYAPPS_TOKEN }}" --secret "${{ secrets.SHINYAPPS_SECRET }}"
           rsconnect deploy shiny . --name openipl --title openipl
