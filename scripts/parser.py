@@ -433,8 +433,8 @@ def parse_match(json_path, match_number_override=None):
                 if (inn_num, bowler_name) in bowling_stats:
                     bowling_stats[(inn_num, bowler_name)]["maidens"] += 1
 
-        # Save final unbroken partnership
-        if current_pair and pair_stats:
+        # Save final unbroken partnership (skip if all out)
+        if current_pair and pair_stats and team_wickets < 10:
             batters = list(pair_stats.keys())
             b1 = batters[0] if batters else ""
             b2 = batters[1] if len(batters) > 1 else ""

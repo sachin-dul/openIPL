@@ -62,6 +62,19 @@ data/
 
 </details>
 
+## Dashboard
+
+openIPL includes an interactive analytics dashboard built with [Shiny for Python](https://shiny.posit.co/py/) and Plotly.
+
+**Live:** [openipl.shinyapps.io/openipl](https://openipl.shinyapps.io/openipl/)
+
+```bash
+pip install -r requirements.txt
+shiny run app.py
+```
+
+**Pages:** Overview (points table, recent results) · Batting (Orange Cap, strike rates, boundaries) · Bowling (Purple Cap, economy, dot balls) · Fielding & Partnerships · Team Analysis (NRR progression, phase comparison) · Match Centre (scorecards, worm chart, fall of wickets)
+
 ## Quick Start
 
 ### Browse on GitHub

@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-05
+
+### Added
+
+- Interactive dashboard (`app.py`) with 6 pages: Overview, Batting, Bowling, Fielding & Partnerships, Team Analysis, Match Centre
+- Reusable Plotly chart helpers (`utils/charts.py`): horizontal/vertical bar, line chart, worm chart, phase comparison, fall of wickets timeline
+- Data loading utilities (`utils/data_loader.py`) with `@lru_cache` for all CSV types
+- Consistent IPL team colors, logos, and short names across all visualizations
+- Deployed dashboard to [ShinyApps.io](https://openipl.shinyapps.io/openipl/)
+- Auto-redeploy step in GitHub Actions workflow after data updates
+
+### Changed
+
+- Fixed NRR calculation in `orchestrator.py`: all-out teams (10 wickets) now deemed to have faced 20 overs per ICC rules
+- Fixed duplicate unbroken partnership in `parser.py`: skip final partnership save when team is all out
+
 ## 2026-03-30
 
 ### Changed
