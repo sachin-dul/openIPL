@@ -20,11 +20,32 @@ import os
 import csv
 
 
-def get_phase(over_num):
-    """Return phase based on over number (0-indexed from Cricsheet)."""
-    if over_num <= 5:
+def get_phase_ball_boundaries(total_overs):
+    """Return (pp_balls, middle_balls) — cumulative ball counts for phase boundaries.
+
+    For 20-over matches: PP = balls 1-36, Middle = 37-90, Death = 91-120.
+    For shortened matches: PP = 30% of total balls (rounded to nearest ball),
+    remaining 70% split equally between middle and death.
+    """
+    if total_overs >= 20:
+        return 36, 90  # standard boundaries
+
+    total_balls = int(total_overs) * 6 + round((total_overs % 1) * 10)
+    pp_balls = round(total_balls * 0.30)
+    remaining_balls = total_balls - pp_balls
+    middle_balls = remaining_balls // 2
+    return pp_balls, pp_balls + middle_balls
+
+
+def get_phase(cumulative_legal_ball, total_overs=20):
+    """Return phase based on cumulative legal ball number (1-indexed).
+
+    For shortened matches, phase boundaries fall at ball level, not over level.
+    """
+    pp_end, middle_end = get_phase_ball_boundaries(total_overs)
+    if cumulative_legal_ball <= pp_end:
         return "powerplay"
-    elif over_num <= 14:
+    elif cumulative_legal_ball <= middle_end:
         return "middle"
     else:
         return "death"
@@ -53,6 +74,7 @@ def parse_match(json_path, match_number_override=None):
     win_by_runs = win_by.get("runs", 0)
     win_by_wickets = win_by.get("wickets", 0)
     result = outcome.get("result", "")  # "no result", "tie"
+    method = outcome.get("method", "")  # "D/L", "DLS", etc.
 
     # Determine batting first / second
     if toss.get("decision") == "bat":
@@ -95,6 +117,23 @@ def parse_match(json_path, match_number_override=None):
     substitutions = []   # impact player / concussion subs
 
     innings_teams = {}  # inn_num -> (batting_team, bowling_team)
+
+    # Pre-compute actual overs per innings for phase boundary calculation
+    innings_actual_overs = {}  # inn_num (1-based) -> float overs
+    _pre_inn = 0
+    for innings in innings_data:
+        if innings.get("super_over"):
+            continue
+        _pre_inn += 1
+        _total_balls = 0
+        for over_obj in innings["overs"]:
+            for delivery in over_obj["deliveries"]:
+                extras = delivery.get("extras", {})
+                if "wides" not in extras and "noballs" not in extras:
+                    _total_balls += 1
+        _ov = _total_balls // 6
+        _b = _total_balls % 6
+        innings_actual_overs[_pre_inn] = float(f"{_ov}.{_b}")
 
     inn_num = 0  # track actual innings number (excludes super overs)
     for inn_idx, innings in enumerate(innings_data):
@@ -147,9 +186,11 @@ def parse_match(json_path, match_number_override=None):
         pair_stats = {}  # batter -> {runs, balls}
         wicket_number = 0
 
+        innings_total_overs = innings_actual_overs.get(inn_num, 20)
+        innings_legal_balls = 0
+
         for over_obj in innings["overs"]:
             over_num = over_obj["over"]  # 0-indexed
-            phase = get_phase(over_num)
             ball_counter = 0
 
             for delivery in over_obj["deliveries"]:
@@ -168,6 +209,10 @@ def parse_match(json_path, match_number_override=None):
 
                 is_wide = "wides" in extras
                 is_noball = "noballs" in extras
+
+                if not is_wide and not is_noball:
+                    innings_legal_balls += 1
+                phase = get_phase(max(innings_legal_balls, 1), innings_total_overs)
 
                 # --- DRS reviews ---
                 if "review" in delivery:
@@ -528,10 +573,15 @@ def parse_match(json_path, match_number_override=None):
 
     # Compute overs bowled per innings (for NRR, exclude super overs)
     innings_overs = {}
+    # Extract target overs for 2nd innings (< 20 means rain-shortened)
+    target_overs = 20
     for inn_idx, innings in enumerate(innings_data):
         if innings.get("super_over"):
             continue
         team = innings["team"]
+        target = innings.get("target", {})
+        if target.get("overs") and target["overs"] < 20:
+            target_overs = target["overs"]
         total_balls = 0
         for over_obj in innings["overs"]:
             for delivery in over_obj["deliveries"]:
@@ -559,6 +609,10 @@ def parse_match(json_path, match_number_override=None):
         "player_of_match": ", ".join(info.get("player_of_match", [])),
         "team_1_score": team_scores.get(team_1, ""),
         "team_2_score": team_scores.get(team_2, ""),
+        "team_1_overs": innings_overs.get(team_1, 0.0),
+        "team_2_overs": innings_overs.get(team_2, 0.0),
+        "method": method,
+        "target_overs": target_overs,
         "match_stage": match_stage,
         "umpire_1": umpires[0] if len(umpires) > 0 else "",
         "umpire_2": umpires[1] if len(umpires) > 1 else "",

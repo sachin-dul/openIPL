@@ -27,6 +27,10 @@ Season-level match index.
 | player_of_match | string | Player of the match |
 | team_1_score | string | Total score (e.g., "185/4") |
 | team_2_score | string | Total score (e.g., "170/10") |
+| team_1_overs | float | Overs batted by team_1 |
+| team_2_overs | float | Overs batted by team_2 |
+| method | string | Match result method (e.g., "D/L" for Duckworth-Lewis) |
+| target_overs | float | Target overs for rain-shortened matches (< 20 if affected) |
 | match_stage | string | league / Qualifier 1 / Qualifier 2 / Eliminator / Final |
 | umpire_1 | string | On-field umpire |
 | umpire_2 | string | On-field umpire |

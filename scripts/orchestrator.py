@@ -50,10 +50,14 @@ def get_season_matches(json_dir, season):
     # Assign sequential match numbers to playoff matches (match_number=0)
     if matches:
         max_num = max(m[0] for m in matches if m[0] != 0) if any(m[0] != 0 for m in matches) else 0
-        matches = [
-            (m[0], m[1], m[2]) if m[0] != 0 else ((max_num := max_num + 1), m[1], m[2])
-            for m in matches
-        ]
+        renumbered = []
+        for m in matches:
+            if m[0] != 0:
+                renumbered.append(m)
+            else:
+                max_num += 1
+                renumbered.append((max_num, m[1], m[2]))
+        matches = renumbered
     return matches
 
 
@@ -67,19 +71,11 @@ def compute_nrr(team_data):
     runs_conceded = team_data.get("runs_conceded", 0)
     overs_bowled = team_data.get("overs_bowled", 0.0)
 
-    def overs_to_balls(overs):
-        complete = int(overs)
-        partial = round((overs - complete) * 10)
-        return complete * 6 + partial
-
-    balls_faced = overs_to_balls(overs_faced)
-    balls_bowled = overs_to_balls(overs_bowled)
-
-    if balls_faced == 0 or balls_bowled == 0:
+    if overs_faced == 0 or overs_bowled == 0:
         return 0.0
 
-    scoring_rate = runs_scored / (balls_faced / 6)
-    conceding_rate = runs_conceded / (balls_bowled / 6)
+    scoring_rate = runs_scored / overs_faced
+    conceding_rate = runs_conceded / overs_bowled
     return round(scoring_rate - conceding_rate, 3)
 
 
@@ -118,23 +114,24 @@ def build_points_table(all_match_data, season_dir):
             teams[loser]["lost"] += 1
 
         # NRR data — per ICC rules, all-out teams are deemed to have faced 20 overs
-        for team, opponent in [(team_1, team_2), (team_2, team_1)]:
-            score_str = team_scores.get(team, "0/0")
-            parts = score_str.split("/")
-            runs = int(parts[0])
-            wickets = int(parts[1]) if len(parts) > 1 else 0
-            overs = 20.0 if wickets == 10 else innings_overs.get(team, 0.0)
+        if result != "no result":
+            for team, opponent in [(team_1, team_2), (team_2, team_1)]:
+                score_str = team_scores.get(team, "0/0")
+                parts = score_str.split("/")
+                runs = int(parts[0])
+                wickets = int(parts[1]) if len(parts) > 1 else 0
+                overs = 20.0 if wickets == 10 else innings_overs.get(team, 0.0)
 
-            opp_score_str = team_scores.get(opponent, "0/0")
-            opp_parts = opp_score_str.split("/")
-            opp_runs = int(opp_parts[0])
-            opp_wickets = int(opp_parts[1]) if len(opp_parts) > 1 else 0
-            opp_overs = 20.0 if opp_wickets == 10 else innings_overs.get(opponent, 0.0)
+                opp_score_str = team_scores.get(opponent, "0/0")
+                opp_parts = opp_score_str.split("/")
+                opp_runs = int(opp_parts[0])
+                opp_wickets = int(opp_parts[1]) if len(opp_parts) > 1 else 0
+                opp_overs = 20.0 if opp_wickets == 10 else innings_overs.get(opponent, 0.0)
 
-            teams[team]["runs_scored"] += runs
-            teams[team]["overs_faced"] += overs
-            teams[team]["runs_conceded"] += opp_runs
-            teams[team]["overs_bowled"] += opp_overs
+                teams[team]["runs_scored"] += runs
+                teams[team]["overs_faced"] += overs
+                teams[team]["runs_conceded"] += opp_runs
+                teams[team]["overs_bowled"] += opp_overs
 
     # Sort by points, then NRR
     table = []

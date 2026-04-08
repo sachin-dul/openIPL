@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-08
+
+### Added
+
+- Added `method` and `target_overs` fields to `matches.csv` for better rain-affected match handling
+- Added score normalization for rain-shortened matches in dashboard calculations
+- Added footnotes in `app.py` for rain-affected matches in charts and tables
+
+### Changed
+
+- Updated NRR calculation in `orchestrator.py` to use decimal overs instead of ball conversions for improved accuracy
+- Enhanced phase boundary calculation in `parser.py` for rain-shortened matches, using cumulative legal balls instead of over numbers
+- Modified `app.py` to exclude no-result matches from all statistics and charts
+- Improved UI in `app.py` by hiding Plotly mode bar for cleaner visualizations
+
 ## 2026-04-05
 
 ### Added
