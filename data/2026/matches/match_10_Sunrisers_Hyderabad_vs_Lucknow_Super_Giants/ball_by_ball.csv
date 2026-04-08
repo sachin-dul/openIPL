@@ -1,0 +1,243 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Sunrisers Hyderabad,1,1,TM Head,Mohammed Shami,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,2,TM Head,Mohammed Shami,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,3,TM Head,Mohammed Shami,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,4,TM Head,Mohammed Shami,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,5,Abhishek Sharma,Mohammed Shami,TM Head,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,6,Abhishek Sharma,Mohammed Shami,TM Head,0,0,0,,0,0,0,0,0,True,caught,Abhishek Sharma,M Siddharth,powerplay
+1,Sunrisers Hyderabad,2,1,TM Head,DS Rathi,Ishan Kishan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,2,TM Head,DS Rathi,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,3,Ishan Kishan,DS Rathi,TM Head,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4,Ishan Kishan,DS Rathi,TM Head,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,5,Ishan Kishan,DS Rathi,TM Head,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,6,TM Head,DS Rathi,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,1,TM Head,Mohammed Shami,Ishan Kishan,0,0,0,,0,0,0,0,0,True,caught,TM Head,AK Markram,powerplay
+1,Sunrisers Hyderabad,3,2,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,2.wides,LS Livingstone,Mohammed Shami,Ishan Kishan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,3,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,4,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,5,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,6,LS Livingstone,Mohammed Shami,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,1,LS Livingstone,Prince Yadav,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,2,LS Livingstone,Prince Yadav,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,3,Ishan Kishan,Prince Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,True,bowled,Ishan Kishan,,powerplay
+1,Sunrisers Hyderabad,4,4,H Klaasen,Prince Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,5,H Klaasen,Prince Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,6,H Klaasen,Prince Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,1,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,2,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,3,LS Livingstone,Mohammed Shami,H Klaasen,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,4,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,5,LS Livingstone,Mohammed Shami,H Klaasen,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,6,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,1,H Klaasen,M Siddharth,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,2,H Klaasen,M Siddharth,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,3,H Klaasen,M Siddharth,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,4,LS Livingstone,M Siddharth,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,5,LS Livingstone,M Siddharth,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,6,LS Livingstone,M Siddharth,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,7,1,H Klaasen,Avesh Khan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,2,H Klaasen,Avesh Khan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,3,LS Livingstone,Avesh Khan,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,4,H Klaasen,Avesh Khan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,5,LS Livingstone,Avesh Khan,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,6,LS Livingstone,Avesh Khan,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,1,LS Livingstone,DS Rathi,H Klaasen,0,0,0,,0,0,0,0,0,True,caught,LS Livingstone,RR Pant,middle
+1,Sunrisers Hyderabad,8,2,Nithish Kumar Reddy,DS Rathi,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,3,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,4,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,5,Nithish Kumar Reddy,DS Rathi,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,6,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,1,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,2,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,3,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,4,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,5,H Klaasen,Mohammed Shami,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,6,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,1,H Klaasen,M Siddharth,Nithish Kumar Reddy,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,2,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,3,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,4,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,5,Nithish Kumar Reddy,M Siddharth,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,6,H Klaasen,M Siddharth,Nithish Kumar Reddy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,1,Nithish Kumar Reddy,Prince Yadav,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,2,Nithish Kumar Reddy,Prince Yadav,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,3,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,4,Nithish Kumar Reddy,Prince Yadav,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,5,H Klaasen,Prince Yadav,Nithish Kumar Reddy,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,6,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,1,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,2,Nithish Kumar Reddy,DS Rathi,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,3,Nithish Kumar Reddy,DS Rathi,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,4,Nithish Kumar Reddy,DS Rathi,H Klaasen,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,5,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,6,H Klaasen,DS Rathi,Nithish Kumar Reddy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,1,Nithish Kumar Reddy,M Siddharth,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,2,Nithish Kumar Reddy,M Siddharth,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,3,H Klaasen,M Siddharth,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,4,Nithish Kumar Reddy,M Siddharth,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,5,H Klaasen,M Siddharth,Nithish Kumar Reddy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,6,H Klaasen,M Siddharth,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,1,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,2,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,3,H Klaasen,Avesh Khan,Nithish Kumar Reddy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,4,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,5,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,6,H Klaasen,Avesh Khan,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,1,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,2,Nithish Kumar Reddy,DS Rathi,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,3,Nithish Kumar Reddy,DS Rathi,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,4,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,4.wides,H Klaasen,DS Rathi,Nithish Kumar Reddy,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,5,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,6,Nithish Kumar Reddy,DS Rathi,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,16,1,H Klaasen,Prince Yadav,Nithish Kumar Reddy,6,0,6,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,2,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,3,Nithish Kumar Reddy,Prince Yadav,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,4,Nithish Kumar Reddy,Prince Yadav,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,5,H Klaasen,Prince Yadav,Nithish Kumar Reddy,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,6,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,1,H Klaasen,Avesh Khan,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,2,Nithish Kumar Reddy,Avesh Khan,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,3,H Klaasen,Avesh Khan,Nithish Kumar Reddy,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,4,H Klaasen,Avesh Khan,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,5,Nithish Kumar Reddy,Avesh Khan,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,6,Nithish Kumar Reddy,Avesh Khan,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,1,H Klaasen,M Siddharth,Nithish Kumar Reddy,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,2,H Klaasen,M Siddharth,Nithish Kumar Reddy,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,3,H Klaasen,M Siddharth,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,3.wides,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,4,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,0,0,0,0,0,True,caught,Nithish Kumar Reddy,Prince Yadav,death
+1,Sunrisers Hyderabad,18,5,Aniket Verma,M Siddharth,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,6,H Klaasen,M Siddharth,Aniket Verma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,1,H Klaasen,Avesh Khan,Aniket Verma,0,0,0,,0,0,0,0,0,True,caught,H Klaasen,RR Pant,death
+1,Sunrisers Hyderabad,19,2,Harsh Dubey,Avesh Khan,Aniket Verma,0,0,0,,0,0,0,0,0,True,bowled,Harsh Dubey,,death
+1,Sunrisers Hyderabad,19,3,Shivang Kumar,Avesh Khan,Aniket Verma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,4,Shivang Kumar,Avesh Khan,Aniket Verma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,5,Aniket Verma,Avesh Khan,Shivang Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,6,Aniket Verma,Avesh Khan,Shivang Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,1,Aniket Verma,Prince Yadav,Shivang Kumar,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Sunrisers Hyderabad,20,2,Shivang Kumar,Prince Yadav,Aniket Verma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,3,Shivang Kumar,Prince Yadav,Aniket Verma,0,0,0,,0,0,0,0,0,True,bowled,Shivang Kumar,,death
+1,Sunrisers Hyderabad,20,4,HV Patel,Prince Yadav,Aniket Verma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,5,HV Patel,Prince Yadav,Aniket Verma,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,6,Aniket Verma,Prince Yadav,HV Patel,0,0,0,,0,0,0,0,0,True,run out,HV Patel,RR Pant,death
+2,Lucknow Super Giants,1,1,AK Markram,Harsh Dubey,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,2,MR Marsh,Harsh Dubey,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,3,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,4,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,5,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,6,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,1,MR Marsh,Nithish Kumar Reddy,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,2,AK Markram,Nithish Kumar Reddy,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,3,AK Markram,Nithish Kumar Reddy,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,4,AK Markram,Nithish Kumar Reddy,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,5,AK Markram,Nithish Kumar Reddy,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,6,MR Marsh,Nithish Kumar Reddy,AK Markram,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,1,AK Markram,Harsh Dubey,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,2,MR Marsh,Harsh Dubey,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,3,AK Markram,Harsh Dubey,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,4,AK Markram,Harsh Dubey,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,5,MR Marsh,Harsh Dubey,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,6,MR Marsh,Harsh Dubey,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,1,MR Marsh,JD Unadkat,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,2,AK Markram,JD Unadkat,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,3,AK Markram,JD Unadkat,MR Marsh,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,4,AK Markram,JD Unadkat,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,5,AK Markram,JD Unadkat,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,6,MR Marsh,JD Unadkat,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,1,MR Marsh,E Malinga,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,2,MR Marsh,E Malinga,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,3,MR Marsh,E Malinga,AK Markram,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,4,MR Marsh,E Malinga,AK Markram,0,0,0,,0,0,0,0,0,True,caught,MR Marsh,Nithish Kumar Reddy,powerplay
+2,Lucknow Super Giants,5,5,RR Pant,E Malinga,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,6,RR Pant,E Malinga,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,1,RR Pant,JD Unadkat,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,2,AK Markram,JD Unadkat,RR Pant,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,3,AK Markram,JD Unadkat,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,4,AK Markram,JD Unadkat,RR Pant,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,5,AK Markram,JD Unadkat,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,6,AK Markram,JD Unadkat,RR Pant,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,7,1,RR Pant,HV Patel,AK Markram,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,2,RR Pant,HV Patel,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,3,AK Markram,HV Patel,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,4,RR Pant,HV Patel,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,5,AK Markram,HV Patel,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,6,RR Pant,HV Patel,AK Markram,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,1,AK Markram,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,2,RR Pant,Shivang Kumar,AK Markram,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,3,RR Pant,Shivang Kumar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,4,AK Markram,Shivang Kumar,RR Pant,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,5,AK Markram,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,6,RR Pant,Shivang Kumar,AK Markram,0,1,1,byes,0,0,1,0,0,False,,,,middle
+2,Lucknow Super Giants,9,1,RR Pant,E Malinga,AK Markram,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,2,RR Pant,E Malinga,AK Markram,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,3,RR Pant,E Malinga,AK Markram,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,4,RR Pant,E Malinga,AK Markram,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,5,RR Pant,E Malinga,AK Markram,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,6,RR Pant,E Malinga,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,1,RR Pant,Shivang Kumar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,2,AK Markram,Shivang Kumar,RR Pant,0,0,0,,0,0,0,0,0,True,caught,AK Markram,LS Livingstone,middle
+2,Lucknow Super Giants,10,3,A Badoni,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,4,RR Pant,Shivang Kumar,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,5,A Badoni,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,6,RR Pant,Shivang Kumar,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,1,RR Pant,HV Patel,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,2,A Badoni,HV Patel,RR Pant,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,3,A Badoni,HV Patel,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,4,RR Pant,HV Patel,A Badoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,5,RR Pant,HV Patel,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,6,A Badoni,HV Patel,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,1,A Badoni,Shivang Kumar,RR Pant,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,2,A Badoni,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,3,RR Pant,Shivang Kumar,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,4,A Badoni,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,5,RR Pant,Shivang Kumar,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,6,RR Pant,Shivang Kumar,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,1,A Badoni,Harsh Dubey,RR Pant,0,0,0,,0,0,0,0,0,True,stumped,A Badoni,Ishan Kishan,middle
+2,Lucknow Super Giants,13,2,N Pooran,Harsh Dubey,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,3,N Pooran,Harsh Dubey,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,4,RR Pant,Harsh Dubey,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,5,N Pooran,Harsh Dubey,RR Pant,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Lucknow Super Giants,13,6,RR Pant,Harsh Dubey,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,1,N Pooran,Shivang Kumar,RR Pant,0,0,0,,0,0,0,0,0,True,run out,N Pooran,Ishan Kishan,death
+2,Lucknow Super Giants,14,2,Abdul Samad,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,3,RR Pant,Shivang Kumar,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,4,RR Pant,Shivang Kumar,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,5,RR Pant,Shivang Kumar,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,6,Abdul Samad,Shivang Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,1,Abdul Samad,E Malinga,RR Pant,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,2,Abdul Samad,E Malinga,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,3,Abdul Samad,E Malinga,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,4,RR Pant,E Malinga,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,5,Abdul Samad,E Malinga,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,6,RR Pant,E Malinga,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,1,RR Pant,JD Unadkat,Abdul Samad,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,2,RR Pant,JD Unadkat,Abdul Samad,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,3,RR Pant,JD Unadkat,Abdul Samad,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,4,RR Pant,JD Unadkat,Abdul Samad,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,5,RR Pant,JD Unadkat,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,6,Abdul Samad,JD Unadkat,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,1,Abdul Samad,E Malinga,RR Pant,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,2,Abdul Samad,E Malinga,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,3,Abdul Samad,E Malinga,RR Pant,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,4,Abdul Samad,E Malinga,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,5,RR Pant,E Malinga,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,6,RR Pant,E Malinga,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,1,RR Pant,Harsh Dubey,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,2,RR Pant,Harsh Dubey,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,3,RR Pant,Harsh Dubey,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,4,Abdul Samad,Harsh Dubey,RR Pant,0,0,0,,0,0,0,0,0,True,caught,Abdul Samad,LS Livingstone,death
+2,Lucknow Super Giants,18,5,MD Choudhary,Harsh Dubey,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,6,RR Pant,Harsh Dubey,MD Choudhary,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,1,MD Choudhary,HV Patel,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,2,RR Pant,HV Patel,MD Choudhary,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,3,RR Pant,HV Patel,MD Choudhary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,4,MD Choudhary,HV Patel,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,5,MD Choudhary,HV Patel,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,6,MD Choudhary,HV Patel,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,1,RR Pant,JD Unadkat,MD Choudhary,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,2,RR Pant,JD Unadkat,MD Choudhary,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,3,RR Pant,JD Unadkat,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,4,RR Pant,JD Unadkat,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,5,RR Pant,JD Unadkat,MD Choudhary,4,0,4,,0,0,0,0,0,False,,,,death

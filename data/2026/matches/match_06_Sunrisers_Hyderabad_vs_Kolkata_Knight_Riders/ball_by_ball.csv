@@ -158,16 +158,16 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Kolkata Knight Riders,5,3,A Raghuvanshi,JD Unadkat,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Kolkata Knight Riders,5,4,A Raghuvanshi,JD Unadkat,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Kolkata Knight Riders,5,5,A Raghuvanshi,JD Unadkat,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,5,6,AM Rahane,JD Unadkat,A Raghuvanshi,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,E Malinga,powerplay
-2,Kolkata Knight Riders,6,0.wides,A Raghuvanshi,E Malinga,C Green,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,1,A Raghuvanshi,E Malinga,C Green,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,1.wides,C Green,E Malinga,A Raghuvanshi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,2,C Green,E Malinga,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,2.wides,A Raghuvanshi,E Malinga,C Green,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,3,A Raghuvanshi,E Malinga,C Green,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,4,A Raghuvanshi,E Malinga,C Green,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,5,C Green,E Malinga,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Kolkata Knight Riders,6,6,A Raghuvanshi,E Malinga,C Green,0,0,0,,0,0,0,0,0,True,run out,C Green,E Malinga,powerplay
+2,Kolkata Knight Riders,5,6,AM Rahane,JD Unadkat,A Raghuvanshi,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,E Malinga,middle
+2,Kolkata Knight Riders,6,0.wides,A Raghuvanshi,E Malinga,C Green,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,1,A Raghuvanshi,E Malinga,C Green,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,1.wides,C Green,E Malinga,A Raghuvanshi,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,2,C Green,E Malinga,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,2.wides,A Raghuvanshi,E Malinga,C Green,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,3,A Raghuvanshi,E Malinga,C Green,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,4,A Raghuvanshi,E Malinga,C Green,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5,C Green,E Malinga,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,A Raghuvanshi,E Malinga,C Green,0,0,0,,0,0,0,0,0,True,run out,C Green,E Malinga,middle
 2,Kolkata Knight Riders,7,1,RK Singh,Shivang Kumar,A Raghuvanshi,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,7,2,RK Singh,Shivang Kumar,A Raghuvanshi,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,7,3,RK Singh,Shivang Kumar,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -194,36 +194,36 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Kolkata Knight Riders,10,6,RK Singh,DA Payne,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,11,1,RK Singh,Shivang Kumar,A Raghuvanshi,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,11,2,RK Singh,Shivang Kumar,A Raghuvanshi,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,11,3,RK Singh,Shivang Kumar,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,11,4,A Raghuvanshi,Shivang Kumar,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,11,5,RK Singh,Shivang Kumar,A Raghuvanshi,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,11,6,RK Singh,Shivang Kumar,A Raghuvanshi,0,0,0,,0,0,0,0,0,True,run out,A Raghuvanshi,"Shivang Kumar, E Malinga",middle
-2,Kolkata Knight Riders,12,1,AS Roy,Nithish Kumar Reddy,RK Singh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,12,2,AS Roy,Nithish Kumar Reddy,RK Singh,0,0,0,,0,0,0,0,0,True,caught and bowled,AS Roy,,middle
-2,Kolkata Knight Riders,12,3,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,12,4,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,12,5,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,12,6,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,13,1,Ramandeep Singh,Shivang Kumar,RK Singh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,13,2,Ramandeep Singh,Shivang Kumar,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,13,3,RK Singh,Shivang Kumar,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,13,4,Ramandeep Singh,Shivang Kumar,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,13,5,RK Singh,Shivang Kumar,Ramandeep Singh,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,13,6,RK Singh,Shivang Kumar,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,14,1,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,14,2,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,14,3,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,14,4,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,0,0,0,,0,0,0,0,0,True,caught,RK Singh,JD Unadkat,middle
-2,Kolkata Knight Riders,14,5,SP Narine,Nithish Kumar Reddy,Ramandeep Singh,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,14,6,SP Narine,Nithish Kumar Reddy,Ramandeep Singh,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,15,1,Ramandeep Singh,E Malinga,SP Narine,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,15,1.wides,SP Narine,E Malinga,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,15,1.wides,SP Narine,E Malinga,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,15,2,SP Narine,E Malinga,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,15,3,SP Narine,E Malinga,Ramandeep Singh,0,0,0,,0,0,0,0,0,True,caught,SP Narine,Aniket Verma,middle
-2,Kolkata Knight Riders,15,4,Kartik Tyagi,E Malinga,Ramandeep Singh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,15,5,Kartik Tyagi,E Malinga,Ramandeep Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
-2,Kolkata Knight Riders,15,6,Ramandeep Singh,E Malinga,Kartik Tyagi,0,0,0,,0,0,0,0,0,True,caught,Ramandeep Singh,JD Unadkat,middle
+2,Kolkata Knight Riders,11,3,RK Singh,Shivang Kumar,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,4,A Raghuvanshi,Shivang Kumar,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,5,RK Singh,Shivang Kumar,A Raghuvanshi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,6,RK Singh,Shivang Kumar,A Raghuvanshi,0,0,0,,0,0,0,0,0,True,run out,A Raghuvanshi,"Shivang Kumar, E Malinga",death
+2,Kolkata Knight Riders,12,1,AS Roy,Nithish Kumar Reddy,RK Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,2,AS Roy,Nithish Kumar Reddy,RK Singh,0,0,0,,0,0,0,0,0,True,caught and bowled,AS Roy,,death
+2,Kolkata Knight Riders,12,3,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,4,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,5,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,6,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,1,Ramandeep Singh,Shivang Kumar,RK Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,2,Ramandeep Singh,Shivang Kumar,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,3,RK Singh,Shivang Kumar,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,Ramandeep Singh,Shivang Kumar,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,RK Singh,Shivang Kumar,Ramandeep Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,RK Singh,Shivang Kumar,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,Ramandeep Singh,Nithish Kumar Reddy,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4,RK Singh,Nithish Kumar Reddy,Ramandeep Singh,0,0,0,,0,0,0,0,0,True,caught,RK Singh,JD Unadkat,death
+2,Kolkata Knight Riders,14,5,SP Narine,Nithish Kumar Reddy,Ramandeep Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,SP Narine,Nithish Kumar Reddy,Ramandeep Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1,Ramandeep Singh,E Malinga,SP Narine,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1.wides,SP Narine,E Malinga,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1.wides,SP Narine,E Malinga,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,2,SP Narine,E Malinga,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,SP Narine,E Malinga,Ramandeep Singh,0,0,0,,0,0,0,0,0,True,caught,SP Narine,Aniket Verma,death
+2,Kolkata Knight Riders,15,4,Kartik Tyagi,E Malinga,Ramandeep Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,5,Kartik Tyagi,E Malinga,Ramandeep Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,15,6,Ramandeep Singh,E Malinga,Kartik Tyagi,0,0,0,,0,0,0,0,0,True,caught,Ramandeep Singh,JD Unadkat,death
 2,Kolkata Knight Riders,16,1,Kartik Tyagi,JD Unadkat,VG Arora,0,0,0,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,2,Kartik Tyagi,JD Unadkat,VG Arora,1,0,1,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,3,VG Arora,JD Unadkat,Kartik Tyagi,0,0,0,,0,0,0,0,0,False,,,,death
