@@ -123,4 +123,4 @@ jobs:
         run: |
           pip install rsconnect-python
           rsconnect add --account openipl --name openipl --token "${{ secrets.SHINYAPPS_TOKEN }}" --secret "${{ secrets.SHINYAPPS_SECRET }}"
-          rsconnect deploy shiny . --name openipl --title openipl
+          rsconnect deploy shiny . --name openipl --title openipl --app-id 17060950
