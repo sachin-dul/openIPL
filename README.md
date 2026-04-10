@@ -73,7 +73,7 @@ pip install -r requirements.txt
 shiny run app.py
 ```
 
-**Pages:** Overview (points table, recent results) · Batting (Orange Cap, strike rates, boundaries) · Bowling (Purple Cap, economy, dot balls) · Fielding & Partnerships · Team Analysis (NRR progression, phase comparison) · Match Centre (scorecards, worm chart, fall of wickets)
+**Pages:** Overview (points table, recent results, key stats) · Batting (Orange Cap, strike rates, boundaries, phase heatmaps) · Bowling (Purple Cap, economy, dot balls, phase heatmaps) · Fielding & Partnerships (stacked breakdown, best by wicket) · Team Analysis (standings bump chart, toss analysis, phase comparison, venue stats) · Match Centre (scorecards, worm chart, fall of wickets, partnerships, DRS reviews, substitutions)
 
 ## Quick Start
 

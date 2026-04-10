@@ -403,9 +403,9 @@ def parse_match(json_path, match_number_override=None):
                         # Fall of wickets
                         team_wickets += 1
                         if ball_counter == 6:
-                            over_ball = f"{over_num + 1}.0"
+                            over_ball = f"{over_num + 1}.6"
                         else:
-                            over_ball = f"{over_num}.{ball_counter}"
+                            over_ball = f"{over_num + 1}.{ball_counter}"
                         fow.append({
                             "innings": inn_num,
                             "team": batting_team,

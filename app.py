@@ -65,8 +65,8 @@ def _has_rain_shortened(matches_df):
     return (t.dropna() < 20).any()
 
 
-RAIN_AVG_FOOTNOTE = '<div style="font-size:11px;color:#888;margin-top:8px;padding-top:6px;border-top:1px solid #eee">* Includes rain-shortened match(es); these matches are excluded from the averages</div>'
-RAIN_PHASE_FOOTNOTE = '<div style="font-size:11px;color:#888;margin-top:8px;padding-top:6px;border-top:1px solid #eee">* Includes rain-shortened match(es) where each ball is assigned to a phase based on adjusted overs (PP = 30% of total balls, remaining 70% split equally between middle and death)</div>'
+RAIN_AVG_FOOTNOTE = '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded from averages</div>'
+RAIN_PHASE_FOOTNOTE = '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">* Includes rain-shortened match(es) where each ball is assigned to a phase based on adjusted overs (PP = 30% of total balls, remaining 70% split equally between middle and death)</div>'
 
 
 def empty_state(message="No data available"):
@@ -79,16 +79,19 @@ def empty_state(message="No data available"):
     )
 
 
-def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None):
+def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, player_col=None, player_teams=None):
     """Render a DataFrame as a styled HTML table.
 
     highlight_cols: list of column names to highlight with accent color
     bold_cols: list of column names to render bold
     align_right: list of column names to right-align (numeric cols)
+    player_col: column name containing player names (to prepend team logo)
+    player_teams: dict mapping player name -> team name
     """
     highlight_cols = highlight_cols or []
     bold_cols = bold_cols or []
     align_right = align_right or []
+    player_teams = player_teams or {}
 
     # Auto-detect numeric columns for right-alignment
     if not align_right:
@@ -98,23 +101,27 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None):
 
     header = "".join(
         f'<th style="padding:8px 12px;text-align:{"right" if c in align_right else "left"};'
-        f'border-bottom:2px solid #dee2e6;font-weight:700;font-size:13px;color:#555;'
-        f'text-transform:uppercase;letter-spacing:0.5px">{c}</th>'
+        f'border-bottom:2px solid #1a56db;font-weight:700;font-size:12px;color:#1a56db;'
+        f'text-transform:uppercase;letter-spacing:0.5px;background:#f8f9fc">{c}</th>'
         for c in df.columns
     )
     rows = ""
     for i, (_, row) in enumerate(df.iterrows()):
-        bg = "#f8f9fa" if i % 2 == 1 else "white"
+        bg = "#f9fafb" if i % 2 == 1 else "transparent"
         cells = ""
         for c in df.columns:
             val = row[c]
-            style = f'padding:8px 12px;text-align:{"right" if c in align_right else "left"};'
+            style = f'padding:8px 12px;text-align:{"right" if c in align_right else "left"};color:#1f2937;'
             if c in highlight_cols:
-                style += "color:#1a73e8;font-weight:700;"
+                style += "color:#1a56db;font-weight:700;"
             elif c in bold_cols:
                 style += "font-weight:700;"
+            if c == player_col and val in player_teams:
+                logo_url = team_logo(player_teams[val])
+                if logo_url:
+                    val = f'<img src="{logo_url}" style="height:18px;width:18px;object-fit:contain;vertical-align:middle;margin-right:6px" onerror="this.style.display=\'none\'">{val}'
             cells += f'<td style="{style}">{val}</td>'
-        rows += f'<tr style="background:{bg};border-bottom:1px solid #eef0f2">{cells}</tr>'
+        rows += f'<tr style="background:{bg};border-bottom:1px solid #e5e7eb">{cells}</tr>'
 
     return ui.HTML(
         f'<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:14px;font-family:Figtree,sans-serif">'
@@ -141,6 +148,7 @@ app_ui = ui.page_navbar(
         # Stats tabs — compact on mobile, full grid on desktop
         ui.navset_pill(
             ui.nav_panel("Key Stats",
+                ui.tags.div(style="margin-top:12px;"),
                 ui.layout_columns(
                     ui.value_box("Matches Played", ui.output_text("overview_matches"), theme="primary"),
                     ui.value_box("Highest Total", ui.output_text("overview_highest"), ui.output_text("overview_highest_team"), theme="success"),
@@ -150,13 +158,15 @@ app_ui = ui.page_navbar(
                 ),
             ),
             ui.nav_panel("Leaders",
+                ui.tags.div(style="margin-top:12px;"),
                 ui.layout_columns(
-                    ui.value_box("Leading Run Scorer", ui.output_text("top_scorer"), ui.output_text("top_scorer_runs"), theme="light"),
-                    ui.value_box("Leading Wicket Taker", ui.output_text("top_bowler"), ui.output_text("top_bowler_wkts"), theme="light"),
+                    ui.value_box("Leading Run Scorer", ui.output_ui("top_scorer"), ui.output_ui("top_scorer_runs"), theme="light"),
+                    ui.value_box("Leading Wicket Taker", ui.output_ui("top_bowler"), ui.output_ui("top_bowler_wkts"), theme="light"),
                     col_widths={"sm": [6, 6], "md": [6, 6]},
                 ),
             ),
             ui.nav_panel("Numbers",
+                ui.tags.div(style="margin-top:12px;"),
                 ui.layout_columns(
                     ui.value_box("Total Sixes", ui.output_text("total_sixes"), theme="light"),
                     ui.value_box("Total Fours", ui.output_text("total_fours"), theme="light"),
@@ -296,7 +306,11 @@ app_ui = ui.page_navbar(
     # Team Analysis
     ui.nav_panel("Team Analysis",
         ui.layout_columns(
-            ui.card(ui.card_header("NRR Progression"), ui.output_ui("nrr_chart")),
+            ui.card(
+                ui.card_header("Standings Progression"),
+                ui.div(ui.input_radio_buttons("bump_metric", None, choices={"position": "Position", "nrr": "NRR"}, inline=True), style="display:flex;justify-content:flex-end;gap:12px;margin-bottom:8px"),
+                ui.output_ui("bump_chart"),
+            ),
             col_widths=[12],
         ),
         ui.layout_columns(
@@ -362,78 +376,12 @@ app_ui = ui.page_navbar(
         ),
     ),
 
-    title=ui.tags.span("openIPL", style="font-weight:700;"),
+    title=ui.tags.span("openIPL", style="font-weight:900;"),
     id="nav",
     theme=ui.Theme("flatly"),
     header=ui.head_content(
         ui.tags.script(src="https://cdn.plot.ly/plotly-2.35.2.min.js", type="text/javascript"),
-        ui.tags.link(rel="preconnect", href="https://fonts.googleapis.com"),
-        ui.tags.link(rel="preconnect", href="https://fonts.gstatic.com", crossorigin=""),
-        ui.tags.link(href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap", rel="stylesheet"),
-        ui.tags.style("""
-            /* Typography */
-            body, .navbar, .nav-link, .card, .card-header,
-            h1, h2, h3, h4, h5, h6, th, td, label, select, input {
-                font-family: 'Figtree', sans-serif !important;
-            }
 
-            /* Value box styling */
-            .bslib-value-box .value-box-title {
-                text-decoration: underline !important;
-                text-underline-offset: 4px !important;
-                text-decoration-thickness: 2px !important;
-            }
-            .bslib-value-box .value-box-value {
-                font-weight: 500 !important;
-            }
-
-            /* Loading shimmer bar */
-            .shiny-busy .recalculating { opacity: 0.4; transition: opacity 0.3s; }
-            .shiny-busy .navbar::after {
-                content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 3px;
-                background: linear-gradient(90deg, #1a73e8, #45B7D1, #1a73e8);
-                background-size: 200% 100%; animation: shimmer 1.5s ease-in-out infinite;
-                z-index: 9999;
-            }
-            @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
-
-            /* Empty state */
-            .empty-state { text-align: center; padding: 40px 20px; color: #888; }
-            .empty-state .icon { font-size: 32px; margin-bottom: 8px; }
-            .empty-state .message { font-size: 14px; }
-
-            /* Pill tabs spacing */
-            .nav-pills { margin-bottom: 12px !important; }
-
-            /* Force 2-col grid for value-box rows on small screens */
-            @media (max-width: 575.98px) {
-                .tab-content bslib-layout-columns.bslib-grid {
-                    grid-template-columns: 1fr 1fr !important;
-                }
-                .tab-content .bslib-grid-item:has(> .bslib-value-box) {
-                    grid-column: span 1 !important;
-                }
-            }
-
-            /* Mobile */
-            @media (max-width: 768px) {
-                .bslib-value-box { min-height: 0 !important; }
-                .bslib-value-box .card-body { padding: 10px 12px !important; }
-                .bslib-value-box .value-box-area { padding: 0 !important; min-height: 0 !important; }
-                .bslib-value-box .value-box-title { font-size: 0.7rem !important; line-height: 1.2 !important; margin: 0 0 2px 0 !important; }
-                .bslib-value-box .value-box-value { font-size: 1.1rem !important; line-height: 1.3 !important; margin: 0 !important; }
-                .bslib-value-box .value-box-showcase { display: none !important; }
-                .card { margin-bottom: 8px !important; }
-                .bslib-mb-spacing { margin-bottom: 8px !important; }
-                .container-fluid { padding-left: 8px !important; padding-right: 8px !important; }
-                .nav-link { font-size: 12px !important; padding: 6px 8px !important; }
-                table { font-size: 12px !important; }
-                table th, table td { padding: 4px 6px !important; }
-            }
-            @media (max-width: 576px) {
-                .navbar-brand { font-size: 18px !important; font-weight: 800 !important; }
-            }
-        """),
         ui.tags.script("""
             // Close mobile hamburger nav after selecting a page
             document.addEventListener('click', function(e) {
@@ -489,6 +437,21 @@ def server(input, output, session):
         nr = nr_match_numbers()
         return phase[~phase["match_number"].isin(nr)] if nr and not phase.empty else phase
 
+    @reactive.calc
+    def player_teams():
+        """Map player name -> team for the current season (from scorecards)."""
+        mapping = {}
+        bat = load_batting_scorecards()
+        if not bat.empty and "team" in bat.columns and "batter" in bat.columns:
+            for _, r in bat[["batter", "team"]].drop_duplicates("batter").iterrows():
+                mapping[r["batter"]] = r["team"]
+        bowl = load_bowling_scorecards()
+        if not bowl.empty and "team" in bowl.columns and "bowler" in bowl.columns:
+            for _, r in bowl[["bowler", "team"]].drop_duplicates("bowler").iterrows():
+                if r["bowler"] not in mapping:
+                    mapping[r["bowler"]] = r["team"]
+        return mapping
+
     # Populate team filters for phase charts
     @reactive.effect
     def _populate_phase_teams():
@@ -513,6 +476,9 @@ def server(input, output, session):
     @reactive.calc
     def all_scores():
         matches = _stat_matches()
+        # Exclude rain-shortened matches from highest/lowest totals
+        if "target_overs" in matches.columns:
+            matches = matches[pd.to_numeric(matches["target_overs"], errors="coerce").fillna(20) >= 20]
         scores = []
         for _, row in matches.iterrows():
             for col, tcol in [("team_1_score", "team_1"), ("team_2_score", "team_2")]:
@@ -552,65 +518,87 @@ def server(input, output, session):
             logo = team_logo(r["team"])
             short = team_short(r["team"])
             nrr = f"{r['net_run_rate']:+.3f}"
-            rows_html += f"""<tr style="border-bottom:1px solid #f0f0f0">
-                <td style="text-align:center;padding:6px">{int(r['position'])}</td>
-                <td style="white-space:nowrap;padding:6px"><img src="{logo}" style="height:22px;width:22px;object-fit:contain;vertical-align:middle;margin-right:8px" onerror="this.style.display='none'"><strong>{short}</strong> <span style="color:#666;font-size:0.85em">{r['team']}</span></td>
-                <td style="text-align:center;padding:6px">{int(r['played'])}</td>
-                <td style="text-align:center;color:#28a745;font-weight:600;padding:6px">{int(r['won'])}</td>
-                <td style="text-align:center;color:#dc3545;padding:6px">{int(r['lost'])}</td>
-                <td style="text-align:center;padding:6px">{int(r['no_result'])}</td>
-                <td style="text-align:center;font-family:monospace;padding:6px">{nrr}</td>
-                <td style="text-align:center;padding:6px"><strong>{int(r['points'])}</strong></td>
+            rows_html += f"""<tr style="border-bottom:1px solid #e5e7eb">
+                <td style="text-align:center;padding:6px;color:#6b7280">{int(r['position'])}</td>
+                <td style="white-space:nowrap;padding:6px"><img src="{logo}" style="height:22px;width:22px;object-fit:contain;vertical-align:middle;margin-right:8px" onerror="this.style.display='none'"><strong style="color:#1f2937">{short}</strong> <span style="color:#6b7280;font-size:0.85em">{r['team']}</span></td>
+                <td style="text-align:center;padding:6px;color:#1f2937">{int(r['played'])}</td>
+                <td style="text-align:center;color:#16a34a;font-weight:600;padding:6px">{int(r['won'])}</td>
+                <td style="text-align:center;color:#dc2626;padding:6px">{int(r['lost'])}</td>
+                <td style="text-align:center;padding:6px;color:#6b7280">{int(r['no_result'])}</td>
+                <td style="text-align:center;font-family:monospace;padding:6px;color:#1f2937">{nrr}</td>
+                <td style="text-align:center;padding:6px;color:#1a56db"><strong>{int(r['points'])}</strong></td>
             </tr>"""
-        return ui.HTML(f"""<table style="width:100%;border-collapse:collapse;font-size:14px">
-            <thead><tr style="border-bottom:2px solid #dee2e6;text-align:center">
-                <th style="padding:8px">#</th><th style="padding:8px;text-align:left">Team</th>
-                <th style="padding:8px">P</th><th style="padding:8px">W</th><th style="padding:8px">L</th>
-                <th style="padding:8px">NR</th><th style="padding:8px">NRR</th><th style="padding:8px">Pts</th>
+        return ui.HTML(f"""<table style="width:100%;border-collapse:collapse;font-size:14px;color:#1f2937">
+            <thead><tr style="border-bottom:2px solid #1a56db;text-align:center">
+                <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">#</th><th style="padding:8px;text-align:left;color:#1a56db;font-size:12px;text-transform:uppercase">Team</th>
+                <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">P</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">W</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">L</th>
+                <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">NR</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">NRR</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">Pts</th>
             </tr></thead><tbody style="line-height:2.2">{rows_html}</tbody></table>""")
+
+    def _toss_matches():
+        """Matches for toss stats: exclude abandoned/no-result only."""
+        return _exclude_no_results(load_matches())
+
+    def _has_abandoned():
+        """Check if any matches were abandoned."""
+        m = load_matches()
+        return "result" in m.columns and (m["result"] == "no result").any()
 
     @render.ui
     def toss_win_pct():
-        m = load_matches()
-        m = m[pd.to_numeric(m.get("target_overs", 20), errors="coerce").fillna(20) >= 20]
+        m = _toss_matches()
         if m.empty:
             return ui.HTML("-")
         wins = (m["toss_winner"] == m["winner"]).sum()
         pct = round(wins / len(m) * 100)
-        return ui.HTML(f'{wins}/{len(m)} <span style="font-size:0.6em;color:#888;">({pct}%)</span>')
+        foot = '<div style="font-size:10px;color:#6b7280;margin-top:4px">Abandoned matches excluded</div>' if _has_abandoned() else ""
+        return ui.HTML(f'{wins}/{len(m)} <span style="font-size:0.6em;color:#6b7280;">({pct}%)</span>{foot}')
 
     @render.ui
     def field_first_pct():
-        m = load_matches()
-        m = m[pd.to_numeric(m.get("target_overs", 20), errors="coerce").fillna(20) >= 20]
+        m = _toss_matches()
         if m.empty:
             return ui.HTML("-")
         ff = (m["toss_decision"] == "field").sum()
         pct = round(ff / len(m) * 100)
-        return ui.HTML(f'{ff}/{len(m)} <span style="font-size:0.6em;color:#888;">({pct}%)</span>')
+        foot = '<div style="font-size:10px;color:#6b7280;margin-top:4px">Abandoned matches excluded</div>' if _has_abandoned() else ""
+        return ui.HTML(f'{ff}/{len(m)} <span style="font-size:0.6em;color:#6b7280;">({pct}%)</span>{foot}')
 
-    @render.text
+    def _player_with_logo(name):
+        """Return player name with team logo HTML inline."""
+        pt = player_teams()
+        if name in pt:
+            logo_url = team_logo(pt[name])
+            if logo_url:
+                return ui.HTML(
+                    f'<span style="display:inline-flex;align-items:center;gap:6px">'
+                    f'<img src="{logo_url}" style="height:0.85em;width:0.85em;object-fit:contain" onerror="this.style.display=\'none\'">'
+                    f'<span>{name}</span></span>'
+                )
+        return name
+
+    @render.ui
     def top_scorer():
         bat = _stat_bat()
         if bat.empty:
             return "-"
-        return bat.groupby("batter")["runs"].sum().idxmax()
+        return _player_with_logo(bat.groupby("batter")["runs"].sum().idxmax())
 
-    @render.text
+    @render.ui
     def top_scorer_runs():
         bat = _stat_bat()
         if bat.empty:
             return ""
         return f"{bat.groupby('batter')['runs'].sum().max()} runs"
 
-    @render.text
+    @render.ui
     def top_bowler():
         bowl = _stat_bowl()
         if bowl.empty:
             return "-"
-        return bowl.groupby("bowler")["wickets"].sum().idxmax()
+        return _player_with_logo(bowl.groupby("bowler")["wickets"].sum().idxmax())
 
-    @render.text
+    @render.ui
     def top_bowler_wkts():
         bowl = _stat_bowl()
         if bowl.empty:
@@ -629,8 +617,11 @@ def server(input, output, session):
 
     @render.ui
     def overview_pie():
-        m = load_matches()
-        m = m[pd.to_numeric(m.get("target_overs", 20), errors="coerce").fillna(20) >= 20]
+        m = _stat_matches()
+        has_rain = _has_rain_shortened(m)
+        # Exclude rain-shortened matches — no clear bat-first/chase distinction
+        if has_rain and "target_overs" in m.columns:
+            m = m[pd.to_numeric(m["target_overs"], errors="coerce").fillna(20) >= 20]
         if m.empty:
             return empty_state()
         bat_wins = len(m[m["win_by_runs"].astype(int) > 0])
@@ -639,15 +630,17 @@ def server(input, output, session):
             labels=["Bat First", "Chasing"],
             values=[bat_wins, chase_wins],
             hole=0.45,
-            marker=dict(colors=["#FF6B6B", "#4ECDC4"], line=dict(color="white", width=2)),
+            marker=dict(colors=["#dc2626", "#16a34a"], line=dict(color="#ffffff", width=2)),
             textinfo="label+percent",
             textfont=dict(size=13),
         ))
         fig.update_layout(height=300, showlegend=False,
                           margin=dict(l=10, r=10, t=10, b=10),
-                          paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                          paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(color="#1f2937"))
         chart = plotly_ui(fig)
-        return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#888;margin-top:8px;padding-top:6px;border-top:1px solid #eee">* Rain-affected matches omitted</div>'))
+        if has_rain:
+            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded</div>'))
+        return chart
 
     @render.ui
     def overview_avg_innings():
@@ -662,16 +655,15 @@ def server(input, output, session):
         m["_s2"] = m["team_2_score"].apply(lambda x: int(str(x).split("/")[0]) if "/" in str(x) else 0)
         avg1 = m["_s1"].mean()
         avg2 = m["_s2"].mean()
-        star = "*" if has_rain else ""
         fig = go.Figure(go.Bar(
             x=["1st Innings", "2nd Innings"], y=[avg1, avg2],
             marker=dict(color=["#1a73e8", "#45B7D1"], cornerradius=4),
-            text=[f"{avg1:.0f}{star}", f"{avg2:.0f}{star}"], textposition="outside",
-            textfont=dict(size=13, color="#333"), width=0.5,
+            text=[f"{avg1:.0f}", f"{avg2:.0f}"], textposition="outside",
+            textfont=dict(size=13, color="#374151"), width=0.5,
         ))
         fig.update_layout(height=300, yaxis_title="Avg Score",
                           margin=dict(l=40, r=10, t=50, b=10),
-                          paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                          paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(color="#1f2937"))
         fig.update_xaxes(gridcolor="rgba(0,0,0,0.05)", zeroline=False)
         fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False,
                          range=[0, max(avg1, avg2) * 1.15])
@@ -742,28 +734,28 @@ def server(input, output, session):
                 margin = f"{winner} won by {int(row['win_by_wickets'])} wickets" if int(row["win_by_wickets"]) > 0 else f"{winner} won by {int(row['win_by_runs'])} runs"
             cards_html += f"""
             <div class="rr-card" onclick="goToMatch('{mn}')">
-                <div style="font-size:11px;color:#888;margin-bottom:8px">Match {mn} &bull; {row['date']}</div>
+                <div style="font-size:11px;color:#6b7280;margin-bottom:8px">Match {mn} &bull; {row['date']}</div>
                 <div style="display:flex;align-items:center;margin-bottom:6px;{w1}">
                     <img src="{logo1}" style="height:24px;width:24px;object-fit:contain;flex-shrink:0" onerror="this.style.display='none'">
-                    <span style="margin-left:8px;white-space:nowrap;flex:1">{team_short(t1)}</span>
-                    <span style="font-family:monospace;font-size:13px;white-space:nowrap">{s1}</span>
+                    <span style="margin-left:8px;white-space:nowrap;flex:1;color:#1f2937">{team_short(t1)}</span>
+                    <span style="font-family:monospace;font-size:13px;white-space:nowrap;color:#1f2937">{s1}</span>
                 </div>
                 <div style="display:flex;align-items:center;{w2}">
                     <img src="{logo2}" style="height:24px;width:24px;object-fit:contain;flex-shrink:0" onerror="this.style.display='none'">
-                    <span style="margin-left:8px;white-space:nowrap;flex:1">{team_short(t2)}</span>
-                    <span style="font-family:monospace;font-size:13px;white-space:nowrap">{s2}</span>
+                    <span style="margin-left:8px;white-space:nowrap;flex:1;color:#1f2937">{team_short(t2)}</span>
+                    <span style="font-family:monospace;font-size:13px;white-space:nowrap;color:#1f2937">{s2}</span>
                 </div>
-                <div style="font-size:11px;color:#555;margin-top:8px;border-top:1px solid #eee;padding-top:4px;white-space:nowrap">{margin}</div>
-                {"" if is_no_result else f'<div style="font-size:11px;color:#888;margin-top:4px;white-space:nowrap">POM: <strong style="color:#333">{row["player_of_match"]}</strong></div>'}
+                <div style="font-size:11px;color:#6b7280;margin-top:8px;border-top:1px solid #e5e7eb;padding-top:4px;white-space:nowrap">{margin}</div>
+                {"" if is_no_result else f'<div style="font-size:11px;color:#6b7280;margin-top:4px;white-space:nowrap">POM: <strong style="color:#1a56db">{row["player_of_match"]}</strong></div>'}
             </div>"""
         return ui.HTML(f"""
         <style>
         .rr-scroll {{ display:flex; gap:12px; overflow-x:auto; padding:4px 0; scroll-behavior:smooth; -webkit-overflow-scrolling:touch; }}
         .rr-scroll::-webkit-scrollbar {{ height:6px; }}
-        .rr-scroll::-webkit-scrollbar-thumb {{ background:#ccc; border-radius:3px; }}
+        .rr-scroll::-webkit-scrollbar-thumb {{ background:#9ca3af; border-radius:3px; }}
         .rr-scroll::-webkit-scrollbar-track {{ background:transparent; }}
-        .rr-card {{ flex:0 0 220px; border:1px solid #e0e0e0; border-radius:10px; padding:14px; background:white; cursor:pointer; transition:border-color 0.2s, box-shadow 0.2s; }}
-        .rr-card:hover {{ border-color:#aaa; box-shadow:0 2px 8px rgba(0,0,0,0.08); }}
+        .rr-card {{ flex:0 0 220px; border:1px solid #e5e7eb; border-radius:10px; padding:14px; background:#ffffff; cursor:pointer; transition:border-color 0.2s, box-shadow 0.2s; }}
+        .rr-card:hover {{ border-color:#1a56db; box-shadow:0 2px 8px rgba(26,86,219,0.12); }}
         </style>
         <script>
         function goToMatch(mn) {{
@@ -781,21 +773,25 @@ def server(input, output, session):
         bat = _stat_bat()
         if bat.empty:
             return empty_state()
+        pt = player_teams()
         if view_value == "overall":
             top = bat.groupby("batter").agg(count=(stat, "sum"), innings=(stat, "count")).reset_index()
             top = top.nlargest(10, "count")
-            top["label"] = top["batter"] + " (" + top["innings"].astype(str) + " inn)"
+            top["team_code"] = top["batter"].map(lambda b: f" ({team_short(pt[b])})" if b in pt else "")
+            top["label"] = top["batter"] + top["team_code"] + " — " + top["innings"].astype(str) + " inn"
         else:
             matches = _stat_matches()
             top = bat.sort_values([stat, "strike_rate"], ascending=[False, False]).head(10)[["batter", stat, "runs", "balls", "team", "match_number"]].copy()
             top = top.merge(matches[["match_number", "team_1", "team_2"]], on="match_number", how="left")
             top["opponent"] = top.apply(lambda r: team_short(r["team_2"]) if r["team"] == r["team_1"] else team_short(r["team_1"]), axis=1)
-            top["label"] = top["batter"] + " (vs " + top["opponent"] + ", M" + top["match_number"].astype(str) + ")"
+            top["team_code"] = top["batter"].map(lambda b: f" ({team_short(pt[b])})" if b in pt else "")
+            top["label"] = top["batter"] + top["team_code"] + " vs " + top["opponent"] + ", M" + top["match_number"].astype(str)
             top["count"] = top[stat]
+        colors = [team_color(pt.get(b, "")) for b in top["batter"]]
         fig = go.Figure(go.Bar(
             x=top["count"], y=top["label"], orientation="h",
-            marker=dict(color=color, cornerradius=4),
-            text=top["count"], textposition="outside", textfont=dict(size=13, color="#333"),
+            marker=dict(color=colors, line=dict(width=0), cornerradius=4),
+            text=top["count"], textposition="outside", textfont=dict(size=13, color="#374151"),
         ))
         fig.update_layout(yaxis=dict(autorange="reversed"))
         fig.update_xaxes(dtick=1)
@@ -820,8 +816,8 @@ def server(input, output, session):
             runs=("runs", "sum"), innings=("runs", "count"),
             balls=("balls", "sum"), fours=("fours", "sum"), sixes=("sixes", "sum"),
         ).reset_index()
-        agg["avg"] = (agg["runs"] / agg["innings"]).round(2)
-        agg["sr"] = ((agg["runs"] / agg["balls"]) * 100).round(2).fillna(0)
+        agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["innings"], 2) if r["innings"] > 0 else 0, axis=1)
+        agg["sr"] = agg.apply(lambda r: round(r["runs"] / r["balls"] * 100, 2) if r["balls"] > 0 else 0, axis=1)
         return agg.sort_values(["runs", "sr", "innings"], ascending=[False, False, True])
 
     @render.ui
@@ -829,7 +825,7 @@ def server(input, output, session):
         agg = batting_agg()
         if agg.empty:
             return empty_state()
-        return plotly_ui(horizontal_bar(agg.head(10), x="runs", y="batter", title="", text="runs"))
+        return plotly_ui(horizontal_bar(agg.head(10), x="runs", y="batter", title="", text="runs", player_teams=player_teams()))
 
     @render.ui
     def batting_leaderboard():
@@ -839,7 +835,7 @@ def server(input, output, session):
         return styled_table(agg.rename(columns={
             "batter": "Batter", "runs": "Runs", "innings": "Inn",
             "balls": "Balls", "fours": "4s", "sixes": "6s", "avg": "Avg", "sr": "SR",
-        }), highlight_cols=["Runs"], bold_cols=["Batter"])
+        }), highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
 
     @render.ui
     def highest_scores():
@@ -848,7 +844,7 @@ def server(input, output, session):
             return empty_state()
         top = bat.nlargest(10, "runs")[["batter", "runs", "balls", "fours", "sixes", "strike_rate"]].copy()
         top.columns = ["Batter", "Runs", "Balls", "4s", "6s", "SR"]
-        return styled_table(top, highlight_cols=["Runs"], bold_cols=["Batter"])
+        return styled_table(top, highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
 
     @render.ui
     def best_sr():
@@ -857,7 +853,7 @@ def server(input, output, session):
             return empty_state()
         q = agg[agg["balls"] >= 30].nlargest(10, "sr")[["batter", "sr", "runs", "balls"]].copy()
         q.columns = ["Batter", "SR", "Runs", "Balls"]
-        return styled_table(q, highlight_cols=["SR"], bold_cols=["Batter"])
+        return styled_table(q, highlight_cols=["SR"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
 
     @render.ui
     def boundaries_chart():
@@ -867,19 +863,21 @@ def server(input, output, session):
         agg = agg.copy()
         agg["boundaries"] = agg["fours"] + agg["sixes"]
         top = agg.nlargest(10, "boundaries").reset_index(drop=True)
+        pt = player_teams()
+        labels = [f"{b} ({team_short(pt[b])})" if b in pt else b for b in top["batter"]]
         fig = go.Figure()
         fig.add_trace(go.Bar(
-            x=top["batter"], y=top["fours"], name="Fours",
+            x=labels, y=top["fours"], name="Fours",
             marker=dict(color="#1a73e8", cornerradius=4),
         ))
         fig.add_trace(go.Bar(
-            x=top["batter"], y=top["sixes"], name="Sixes",
+            x=labels, y=top["sixes"], name="Sixes",
             marker=dict(color="#FF6B6B", cornerradius=4),
         ))
         fig.update_layout(barmode="stack", showlegend=True,
                           legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                           margin=dict(l=10, r=10, t=40, b=10),
-                          paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+                          paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font=dict(color="#1f2937"))
         fig.update_xaxes(gridcolor="rgba(0,0,0,0.05)", zeroline=False)
         fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)
         return plotly_ui(fig)
@@ -899,9 +897,9 @@ def server(input, output, session):
         phase_bat["sixes"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 6).sum()).values
         phase_bat["fours"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 4).sum()).values
         phase_bat["dots"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 0).sum()).values
-        phase_bat["Run Rate"] = ((phase_bat["runs"] / phase_bat["balls"]) * 6).round(2)
-        phase_bat["Boundary %"] = (((phase_bat["sixes"] + phase_bat["fours"]) / phase_bat["balls"]) * 100).round(1)
-        phase_bat["Dot Ball %"] = ((phase_bat["dots"] / phase_bat["balls"]) * 100).round(1)
+        phase_bat["Run Rate"] = phase_bat.apply(lambda r: round(r["runs"] / r["balls"] * 6, 2) if r["balls"] > 0 else 0, axis=1)
+        phase_bat["Boundary %"] = phase_bat.apply(lambda r: round((r["sixes"] + r["fours"]) / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
+        phase_bat["Dot Ball %"] = phase_bat.apply(lambda r: round(r["dots"] / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
         labels = {"powerplay": "Powerplay (1-6)", "middle": "Middle (7-15)", "death": "Death (16-20)"}
         phase_bat["phase_label"] = phase_bat["phase"].map(labels)
         ordered = ["Powerplay (1-6)", "Middle (7-15)", "Death (16-20)"]
@@ -922,11 +920,11 @@ def server(input, output, session):
         text = [[f"{v}" for v in row] for row in z]
 
         # Choose text color based on normalized intensity
-        text_colors = [["white" if z_norm[r][c] > 0.45 else "#333" for c in range(len(metrics))] for r in range(len(y_labels))]
+        text_colors = [["white" if z_norm[r][c] > 0.55 else "#1f2937" for c in range(len(metrics))] for r in range(len(y_labels))]
         fig = go.Figure(go.Heatmap(
             z=z_norm, x=metrics, y=y_labels,
             text=text, texttemplate="%{text}", textfont=dict(size=16),
-            colorscale=[[0, "#e8f4f8"], [0.5, "#45B7D1"], [1, "#1a73e8"]],
+            colorscale=[[0, "#eff6ff"], [0.5, "#60a5fa"], [1, "#1a56db"]],
             showscale=False, xgap=3, ygap=3,
             hovertemplate="%{y}<br>%{x}: %{text}<extra></extra>",
         ))
@@ -960,7 +958,7 @@ def server(input, output, session):
             ui.div(plotly_ui(fig), style="max-width:500px;margin:0 auto;"),
             ui.HTML('<hr style="border:none;border-top:1px solid #eee;margin:24px 0;">'),
             ui.div(
-                ui.p("Runs by Phase", style="text-align:center;font-weight:600;font-size:13px;margin:0 0 -10px 0;color:#555;"),
+                ui.p("Runs by Phase", style="text-align:center;font-weight:600;font-size:13px;margin:0 0 -10px 0;color:#6b7280;"),
                 plotly_ui(donut),
                 style="max-width:280px;margin:0 auto;",
             ),
@@ -981,7 +979,7 @@ def server(input, output, session):
             overs=("overs", "sum"), runs=("runs", "sum"), maidens=("maidens", "sum"),
             dots=("dots", "sum"), wides=("wides", "sum"), noballs=("noballs", "sum"),
         ).reset_index()
-        agg["economy"] = (agg["runs"] / agg["overs"]).round(2)
+        agg["economy"] = agg.apply(lambda r: round(r["runs"] / r["overs"], 2) if r["overs"] > 0 else 0, axis=1)
         agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["wickets"], 2) if r["wickets"] > 0 else float("inf"), axis=1)
         return agg.sort_values(["wickets", "economy", "innings"], ascending=[False, True, True])
 
@@ -990,7 +988,7 @@ def server(input, output, session):
         agg = bowling_agg()
         if agg.empty:
             return empty_state()
-        return plotly_ui(horizontal_bar(agg.head(10), x="wickets", y="bowler", title="", text="wickets"))
+        return plotly_ui(horizontal_bar(agg.head(10), x="wickets", y="bowler", title="", text="wickets", player_teams=player_teams()))
 
     @render.ui
     def bowling_leaderboard():
@@ -1002,7 +1000,7 @@ def server(input, output, session):
             "bowler": "Bowler", "wickets": "Wkts", "innings": "Inn",
             "overs": "Overs", "runs": "Runs", "maidens": "Mdns",
             "dots": "Dots", "economy": "Econ", "avg": "Avg",
-        }), highlight_cols=["Wkts"], bold_cols=["Bowler"])
+        }), highlight_cols=["Wkts"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
     def best_figures():
@@ -1013,7 +1011,7 @@ def server(input, output, session):
         bowl["figures"] = bowl["wickets"].astype(str) + "/" + bowl["runs"].astype(str)
         best = bowl.sort_values(["wickets", "runs", "overs"], ascending=[False, True, True]).head(10)[["bowler", "figures", "overs", "economy", "dots"]].copy()
         best.columns = ["Bowler", "Figures", "Overs", "Econ", "Dots"]
-        return styled_table(best, highlight_cols=["Figures"], bold_cols=["Bowler"])
+        return styled_table(best, highlight_cols=["Figures"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
     def best_economy():
@@ -1022,7 +1020,7 @@ def server(input, output, session):
             return empty_state()
         q = agg[agg["overs"] >= 10].nsmallest(10, "economy")[["bowler", "economy", "overs", "wickets"]].copy()
         q.columns = ["Bowler", "Econ", "Overs", "Wkts"]
-        return styled_table(q, highlight_cols=["Econ"], bold_cols=["Bowler"])
+        return styled_table(q, highlight_cols=["Econ"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
     def dots_chart():
@@ -1030,11 +1028,11 @@ def server(input, output, session):
         if agg.empty:
             return empty_state()
         top = agg.sort_values(["dots", "economy"], ascending=[False, True]).head(10)[["bowler", "dots", "overs", "economy", "wickets"]].copy()
-        balls_total = top["overs"] * 6  # approximate
-        top["dot_%"] = ((top["dots"] / balls_total) * 100).round(1)
+        balls_total = top["overs"].apply(_overs_to_balls)
+        top["dot_%"] = top.apply(lambda r: round(r["dots"] / _overs_to_balls(r["overs"]) * 100, 1) if _overs_to_balls(r["overs"]) > 0 else 0, axis=1)
         top = top[["bowler", "dots", "dot_%", "overs", "economy", "wickets"]]
         top.columns = ["Bowler", "Dots", "Dot %", "Overs", "Econ", "Wkts"]
-        return styled_table(top, highlight_cols=["Dots"], bold_cols=["Bowler"])
+        return styled_table(top, highlight_cols=["Dots"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
     def bowling_phase_chart():
@@ -1057,11 +1055,11 @@ def server(input, output, session):
         ).reset_index()
         phase_bowl["wickets"] = bbb.groupby("phase")["is_wicket"].apply(lambda x: (x == True).sum()).values
         phase_bowl["dots"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 0).sum()).values
-        phase_bowl["Economy"] = ((phase_bowl["runs"] / phase_bowl["balls"]) * 6).round(2)
+        phase_bowl["Economy"] = phase_bowl.apply(lambda r: round(r["runs"] / r["balls"] * 6, 2) if r["balls"] > 0 else 0, axis=1)
         phase_bowl["Strike Rate"] = phase_bowl.apply(
             lambda r: round(r["balls"] / r["wickets"], 1) if r["wickets"] > 0 else float("inf"), axis=1
         )
-        phase_bowl["Dot Ball %"] = ((phase_bowl["dots"] / phase_bowl["balls"]) * 100).round(1)
+        phase_bowl["Dot Ball %"] = phase_bowl.apply(lambda r: round(r["dots"] / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
         labels = {"powerplay": "Powerplay (1-6)", "middle": "Middle (7-15)", "death": "Death (16-20)"}
         phase_bowl["phase_label"] = phase_bowl["phase"].map(labels)
         ordered = ["Powerplay (1-6)", "Middle (7-15)", "Death (16-20)"]
@@ -1086,11 +1084,11 @@ def server(input, output, session):
             z_norm[:, col] = (z_norm[:, col] - cmin) / (cmax - cmin) if cmax > cmin else 0.5
         text = [[("-" if pd.isna(z[r][c]) else f"{z[r][c]}") for c in range(len(metrics))] for r in range(len(y_labels))]
 
-        text_colors = [["white" if z_norm[r][c] > 0.45 else "#333" for c in range(len(metrics))] for r in range(len(y_labels))]
+        text_colors = [["white" if z_norm[r][c] > 0.55 else "#1f2937" for c in range(len(metrics))] for r in range(len(y_labels))]
         fig = go.Figure(go.Heatmap(
             z=z_norm, x=metrics, y=y_labels,
             text=text, texttemplate="", textfont=dict(size=16),
-            colorscale=[[0, "#fde8e8"], [0.5, "#FF6B6B"], [1, "#d63031"]],
+            colorscale=[[0, "#fef2f2"], [0.5, "#f87171"], [1, "#dc2626"]],
             showscale=False, xgap=3, ygap=3,
             hovertemplate="%{y}<br>%{x}: %{text}<extra></extra>",
         ))
@@ -1123,7 +1121,7 @@ def server(input, output, session):
             ui.div(plotly_ui(fig), style="max-width:500px;margin:0 auto;"),
             ui.HTML('<hr style="border:none;border-top:1px solid #eee;margin:24px 0;">'),
             ui.div(
-                ui.p("Wickets by Phase", style="text-align:center;font-weight:600;font-size:13px;margin:0 0 -10px 0;color:#555;"),
+                ui.p("Wickets by Phase", style="text-align:center;font-weight:600;font-size:13px;margin:0 0 -10px 0;color:#6b7280;"),
                 plotly_ui(donut),
                 style="max-width:280px;margin:0 auto;",
             ),
@@ -1151,18 +1149,20 @@ def server(input, output, session):
         if fagg.empty:
             return empty_state()
         top = fagg.head(10)
+        pt = player_teams()
+        labels = [f"{p} ({team_short(pt[p])})" if p in pt else p for p in top["player"]]
         fig = go.Figure()
-        fig.add_trace(go.Bar(x=top["catches"], y=top["player"], orientation="h", name="Catches", marker=dict(color="#1a73e8", cornerradius=4)))
-        fig.add_trace(go.Bar(x=top["run_outs"], y=top["player"], orientation="h", name="Run Outs", marker=dict(color="#FF6B6B", cornerradius=4)))
-        fig.add_trace(go.Bar(x=top["stumpings"], y=top["player"], orientation="h", name="Stumpings", marker=dict(color="#34A853", cornerradius=4)))
+        fig.add_trace(go.Bar(x=top["catches"], y=labels, orientation="h", name="Catches", marker=dict(color="#1a73e8", cornerradius=4)))
+        fig.add_trace(go.Bar(x=top["run_outs"], y=labels, orientation="h", name="Run Outs", marker=dict(color="#FF6B6B", cornerradius=4)))
+        fig.add_trace(go.Bar(x=top["stumpings"], y=labels, orientation="h", name="Stumpings", marker=dict(color="#34A853", cornerradius=4)))
         fig.update_layout(
             barmode="stack", yaxis=dict(autorange="reversed"),
             showlegend=True, legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5),
         )
         # Total labels outside the last segment
         for i, row in top.iterrows():
-            fig.add_annotation(x=row["total"], y=row["player"], text=str(row["total"]),
-                               xanchor="left", showarrow=False, font=dict(size=13, color="#333"), xshift=5)
+            fig.add_annotation(x=row["total"], y=labels[list(top.index).index(i)], text=str(row["total"]),
+                               xanchor="left", showarrow=False, font=dict(size=13, color="#374151"), xshift=5)
 
         return plotly_ui(_apply_style(fig, height=max(300, len(top) * 40)))
 
@@ -1173,7 +1173,7 @@ def server(input, output, session):
             return empty_state()
         top = fagg.head(15)[["player", "catches", "stumpings", "run_outs", "total"]].copy()
         top.columns = ["Player", "Catches", "Stumpings", "Run Outs", "Total"]
-        return styled_table(top, highlight_cols=["Total"], bold_cols=["Player"])
+        return styled_table(top, highlight_cols=["Total"], bold_cols=["Player"], player_col="Player", player_teams=player_teams())
 
     @render.ui
     def partnerships_chart():
@@ -1184,7 +1184,8 @@ def server(input, output, session):
         if p.empty:
             return empty_state()
         top = p.nlargest(10, "total_runs").copy()
-        top["pair"] = top["batter_1"] + " & " + top["batter_2"]
+        top["team_code"] = top["team"].map(lambda t: f" ({team_short(t)})" if t else "")
+        top["pair"] = top["batter_1"] + " & " + top["batter_2"] + top["team_code"]
         top = top.iloc[::-1]  # reverse for horizontal bar
         fig = go.Figure()
         fig.add_trace(go.Bar(
@@ -1205,7 +1206,7 @@ def server(input, output, session):
         fig.add_trace(go.Bar(
             x=[0]*len(top), y=top["pair"], orientation="h",
             text=top["total_runs"].astype(str) + " (" + top["total_balls"].astype(str) + "b)",
-            textposition="outside", textfont=dict(size=12, color="#333"),
+            textposition="outside", textfont=dict(size=12, color="#374151"),
             marker=dict(color="rgba(0,0,0,0)"), showlegend=False,
             hoverinfo="skip",
         ))
@@ -1255,7 +1256,7 @@ def server(input, output, session):
             fig.add_annotation(
                 x=row["batter_2_runs"] + 3, y=row["wicket_label"],
                 text=f"<b>{row['total_runs']}</b> ({row['total_balls']}b)",
-                showarrow=False, font=dict(size=11, color="#333"), xanchor="left",
+                showarrow=False, font=dict(size=11, color="#374151"), xanchor="left",
             )
         fig.update_layout(
             barmode="relative", showlegend=True,
@@ -1273,56 +1274,138 @@ def server(input, output, session):
     # ── Team Analysis ─────────────────────────
 
     @render.ui
-    def nrr_chart():
+    def bump_chart():
         matches = load_matches()
-        bbb = load_ball_by_ball()
-        if bbb.empty:
+        if matches.empty:
             return empty_state()
 
-        teams_nrr = []
-        team_running = {}
-        team_match_count = {}
+        metric = input.bump_metric()
+        bbb = load_ball_by_ball()
+        team_stats = {}
+        team_match_num = {}  # team -> count of matches played
+        snapshots = []
 
         for _, row in matches.sort_values("match_number").iterrows():
             mn = int(row["match_number"])
+            result = str(row.get("result", ""))
+            winner = row.get("winner", "")
+            match_teams = []
+
+            # Update both teams' stats first
             for team_col, score_col, opp_score_col in [
                 ("team_1", "team_1_score", "team_2_score"),
                 ("team_2", "team_2_score", "team_1_score"),
             ]:
                 team = row[team_col]
-                if team not in team_running:
-                    team_running[team] = {"rs": 0, "bf": 0, "rc": 0, "bb": 0}
-                    team_match_count[team] = 0
-                team_match_count[team] += 1
+                if team not in team_stats:
+                    team_stats[team] = {"points": 0, "rs": 0, "bf": 0, "rc": 0, "bb": 0}
+                    team_match_num[team] = 0
+                team_match_num[team] += 1
+                match_teams.append(team)
 
-                score_str = str(row[score_col])
-                opp_str = str(row[opp_score_col])
-                runs = int(score_str.split("/")[0]) if "/" in score_str else 0
-                wickets = int(score_str.split("/")[1]) if "/" in score_str else 0
-                opp_runs = int(opp_str.split("/")[0]) if "/" in opp_str else 0
-                opp_wickets = int(opp_str.split("/")[1]) if "/" in opp_str else 0
+                if result == "no result":
+                    team_stats[team]["points"] += 1
+                elif team == winner:
+                    team_stats[team]["points"] += 2
 
-                match_bbb = bbb[bbb["match_number"] == mn]
-                inn_df = match_bbb[match_bbb["team"] == team]
-                balls = 120 if wickets == 10 else len(inn_df[~inn_df["extra_type"].isin(["wides", "noballs"])])
+                if result != "no result" and not bbb.empty:
+                    score_str = str(row[score_col])
+                    opp_str = str(row[opp_score_col])
+                    s_parts = score_str.split("/") if "/" in score_str else []
+                    o_parts = opp_str.split("/") if "/" in opp_str else []
+                    runs = int(s_parts[0]) if len(s_parts) >= 1 else 0
+                    wickets = int(s_parts[1]) if len(s_parts) >= 2 else 0
+                    opp_runs = int(o_parts[0]) if len(o_parts) >= 1 else 0
+                    opp_wickets = int(o_parts[1]) if len(o_parts) >= 2 else 0
 
-                opp_team = row["team_2"] if team == row["team_1"] else row["team_1"]
-                opp_inn_df = match_bbb[match_bbb["team"] == opp_team]
-                opp_balls = 120 if opp_wickets == 10 else len(opp_inn_df[~opp_inn_df["extra_type"].isin(["wides", "noballs"])])
+                    match_bbb = bbb[bbb["match_number"] == mn]
+                    inn_df = match_bbb[match_bbb["team"] == team]
+                    balls = 120 if wickets == 10 else len(inn_df[~inn_df["extra_type"].isin(["wides", "noballs"])])
 
-                team_running[team]["rs"] += runs
-                team_running[team]["bf"] += balls
-                team_running[team]["rc"] += opp_runs
-                team_running[team]["bb"] += opp_balls
+                    opp_team = row["team_2"] if team == row["team_1"] else row["team_1"]
+                    opp_inn_df = match_bbb[match_bbb["team"] == opp_team]
+                    opp_balls = 120 if opp_wickets == 10 else len(opp_inn_df[~opp_inn_df["extra_type"].isin(["wides", "noballs"])])
 
-                tr = team_running[team]
-                nrr = round(tr["rs"] / (tr["bf"] / 6) - tr["rc"] / (tr["bb"] / 6), 3) if tr["bf"] > 0 and tr["bb"] > 0 else 0.0
-                teams_nrr.append({"match": team_match_count[team], "team": team, "nrr": nrr})
+                    team_stats[team]["rs"] += runs
+                    team_stats[team]["bf"] += balls
+                    team_stats[team]["rc"] += opp_runs
+                    team_stats[team]["bb"] += opp_balls
 
-        nrr_df = pd.DataFrame(teams_nrr)
-        fig = line_chart(nrr_df, x="match", y="nrr", color="team", title="")
-        fig.update_xaxes(dtick=1)
-        return plotly_ui(fig)
+            # Now rank ALL teams that have played so far
+            ranking = []
+            for t, s in team_stats.items():
+                nrr = round((s["rs"] / (s["bf"] / 6) - s["rc"] / (s["bb"] / 6)), 3) if s["bf"] > 0 and s["bb"] > 0 else 0.0
+                ranking.append({"team": t, "points": s["points"], "nrr": nrr})
+            ranking.sort(key=lambda x: (-x["points"], -x["nrr"]))
+            pos_map = {r["team"]: i + 1 for i, r in enumerate(ranking)}
+            nrr_map = {r["team"]: r["nrr"] for r in ranking}
+
+            # Only record snapshots for the two teams that played this match
+            for team in match_teams:
+                snapshots.append({
+                    "team_match": team_match_num[team],
+                    "match_number": mn,
+                    "team": team,
+                    "points": team_stats[team]["points"],
+                    "nrr": nrr_map[team],
+                    "position": pos_map[team],
+                })
+
+        snap_df = pd.DataFrame(snapshots)
+
+        y_col = "position" if metric == "position" else "nrr"
+        y_label = "Position" if metric == "position" else "Net Run Rate"
+
+        fig = go.Figure()
+        for team in snap_df["team"].unique():
+            tdf = snap_df[snap_df["team"] == team].sort_values("match_number")
+            fig.add_trace(go.Scatter(
+                x=tdf["match_number"], y=tdf[y_col],
+                mode="lines+markers",
+                name=team_short(team),
+                line=dict(color=team_color(team), width=3),
+                marker=dict(size=8, color=team_color(team), line=dict(width=1, color="white")),
+                hovertemplate=(
+                    f"<b>{team}</b><br>"
+                    "Match %{x}<br>"
+                    "Position: %{customdata[0]}<br>"
+                    "Pts: %{customdata[1]}, NRR: %{customdata[2]:+.3f}"
+                    "<extra></extra>"
+                ),
+                customdata=tdf[["position", "points", "nrr"]].values,
+            ))
+
+        # Team logos at each team's last data point
+        y_range = snap_df[y_col].max() - snap_df[y_col].min()
+        logo_sy = max(y_range * 0.07, 0.1)
+        logo_images = []
+        for team in snap_df["team"].unique():
+            tdf = snap_df[snap_df["team"] == team].sort_values("match_number")
+            last = tdf.iloc[-1]
+            logo_url = team_logo(team)
+            if logo_url:
+                logo_images.append(dict(
+                    source=logo_url,
+                    xref="x", yref="y",
+                    x=last["match_number"], y=last[y_col],
+                    sizex=1.0, sizey=logo_sy,
+                    xanchor="center", yanchor="middle",
+                    layer="above",
+                ))
+
+        fig.update_layout(
+            xaxis_title="Match Number", yaxis_title=y_label,
+            showlegend=False,
+            images=logo_images,
+            **LAYOUT_TEMPLATE,
+            margin=dict(l=40, r=40, t=20, b=50),
+        )
+        fig.update_xaxes(dtick=1, gridcolor="rgba(0,0,0,0.06)")
+        if metric == "position":
+            fig.update_yaxes(autorange="reversed", dtick=1, gridcolor="rgba(0,0,0,0.06)")
+        else:
+            fig.update_yaxes(zeroline=True, zerolinecolor="rgba(0,0,0,0.2)", gridcolor="rgba(0,0,0,0.06)")
+        return plotly_ui(_apply_style(fig, height=450))
 
     @render.ui
     def toss_decision_chart():
@@ -1331,18 +1414,23 @@ def server(input, output, session):
         td = m["toss_decision"].value_counts().reset_index()
         td.columns = ["Decision", "Count"]
         chart = plotly_ui(vertical_bar(td, x="Decision", y="Count", title="", text="Count"))
-        return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#888;margin-top:8px;padding-top:6px;border-top:1px solid #eee">* Rain-affected matches omitted</div>'))
+        if _has_rain_shortened(load_matches()):
+            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded</div>'))
+        return chart
 
     @render.ui
     def toss_match_chart():
         m = load_matches().copy()
+        has_rain = _has_rain_shortened(m)
         m = m[pd.to_numeric(m.get("target_overs", 20), errors="coerce").fillna(20) >= 20]
         m["toss_won_match"] = m["toss_winner"] == m["winner"]
         tw = m["toss_won_match"].value_counts().reset_index()
         tw.columns = ["Result", "Count"]
         tw["Result"] = tw["Result"].map({True: "Yes", False: "No"})
         chart = plotly_ui(vertical_bar(tw, x="Result", y="Count", title="", text="Count"))
-        return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#888;margin-top:8px;padding-top:6px;border-top:1px solid #eee">* Rain-affected matches omitted</div>'))
+        if has_rain:
+            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded</div>'))
+        return chart
 
     @render.ui
     def team_phase_chart():
@@ -1398,7 +1486,7 @@ def server(input, output, session):
             "avg_1st": "Avg 1st Inn", "avg_2nd": "Avg 2nd Inn",
         }), bold_cols=["Stadium"])
         if has_rain:
-            return ui.TagList(tbl, ui.HTML('<div style="font-size:11px;color:#888;margin-top:8px;padding-top:6px;border-top:1px solid #eee">* Rain-shortened matches excluded from score averages</div>'))
+            return ui.TagList(tbl, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">* Rain-shortened matches excluded from score averages</div>'))
         return tbl
 
     # ── Match Centre ──────────────────────────
@@ -1415,8 +1503,9 @@ def server(input, output, session):
         mbbb = bbb[bbb["match_number"] == mn]
         teams = {}
         for inn in mbbb["innings"].unique():
-            t = mbbb[mbbb["innings"] == inn]["team"].iloc[0]
-            teams[int(inn)] = t
+            inn_df = mbbb[mbbb["innings"] == inn]
+            if not inn_df.empty:
+                teams[int(inn)] = inn_df["team"].iloc[0]
         return teams
 
     @render.ui
@@ -1437,10 +1526,12 @@ def server(input, output, session):
         if is_no_result:
             summary = f"No Result | {row['venue']}"
         else:
-            if int(row["win_by_wickets"]) > 0:
-                margin = f"by {int(row['win_by_wickets'])} wickets"
-            elif int(row["win_by_runs"]) > 0:
-                margin = f"by {int(row['win_by_runs'])} runs"
+            wbw = pd.to_numeric(row.get("win_by_wickets", 0), errors="coerce") or 0
+            wbr = pd.to_numeric(row.get("win_by_runs", 0), errors="coerce") or 0
+            if wbw > 0:
+                margin = f"by {int(wbw)} wickets"
+            elif wbr > 0:
+                margin = f"by {int(wbr)} runs"
             else:
                 margin = result
             pom = str(row.get("player_of_match", ""))
@@ -1456,7 +1547,7 @@ def server(input, output, session):
                 <div style="font-weight:700; font-size:16px; margin-top:8px; white-space:nowrap;">{t1}</div>
                 <div style="font-size:28px; font-weight:800; color:{team_color(t1)};">{s1}</div>
             </div>
-            <div style="font-size:20px; font-weight:600; color:#888;">vs</div>
+            <div style="font-size:20px; font-weight:600; color:#6b7280;">vs</div>
             <div style="text-align:center;">
                 <div style="height:70px; display:flex; align-items:center; justify-content:center;">
                     <img src="{team_logo(t2)}" style="max-height:70px; max-width:70px; object-fit:contain;">
@@ -1530,7 +1621,7 @@ def server(input, output, session):
             return empty_state()
         df = df[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "dismissal"]].copy()
         df.columns = ["Batter", "Runs", "Balls", "4s", "6s", "SR", "Dismissal"]
-        return styled_table(df, highlight_cols=["Runs"], bold_cols=["Batter"])
+        return styled_table(df, highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
 
     def _bowling_scorecard(innings):
         bowling = load_bowling_scorecards()
@@ -1541,7 +1632,7 @@ def server(input, output, session):
             return empty_state()
         df = df[["bowler", "overs", "maidens", "runs", "wickets", "economy", "dots"]].copy()
         df.columns = ["Bowler", "Overs", "Mdns", "Runs", "Wkts", "Econ", "Dots"]
-        return styled_table(df, highlight_cols=["Wkts"], bold_cols=["Bowler"])
+        return styled_table(df, highlight_cols=["Wkts"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
     def scorecard_bat_1():
@@ -1625,7 +1716,7 @@ def server(input, output, session):
             fig.add_annotation(
                 x=row["total_runs"] + x_pad, y=wkt_label,
                 text=f"<b>{int(row['total_runs'])}</b> ({int(row['total_balls'])}b)",
-                showarrow=False, font=dict(size=10, color="#555"), xanchor="left",
+                showarrow=False, font=dict(size=10, color="#6b7280"), xanchor="left",
             )
 
         fig.update_layout(
@@ -1663,14 +1754,14 @@ def server(input, output, session):
             badge_text = "Upheld" if upheld else "Struck Down"
             cards.append(f"""
             <div style="display:flex;align-items:center;gap:12px;padding:10px 12px;border-left:4px solid {color};
-                        background:#fafafa;border-radius:0 8px 8px 0;margin-bottom:8px;">
+                        background:#f9fafb;border-radius:0 8px 8px 0;margin-bottom:8px;">
                 <div style="min-width:50px;text-align:center;">
-                    <div style="font-size:11px;color:#888;">Over</div>
+                    <div style="font-size:11px;color:#6b7280;">Over</div>
                     <div style="font-weight:700;font-size:16px;">{row['over']}.{row['ball']}</div>
                 </div>
                 <div style="flex:1;">
                     <div style="font-weight:600;font-size:13px;">{short} reviewed ({row['type']})</div>
-                    <div style="font-size:12px;color:#666;">{row['batter']} vs {row['bowler']} &middot; Umpire: {row['umpire']}</div>
+                    <div style="font-size:12px;color:#6b7280;">{row['batter']} vs {row['bowler']} &middot; Umpire: {row['umpire']}</div>
                 </div>
                 <div style="background:{badge_color};color:white;padding:3px 10px;border-radius:12px;
                             font-size:11px;font-weight:700;white-space:nowrap;">{badge_text}</div>
@@ -1692,18 +1783,18 @@ def server(input, output, session):
             reason = row["reason"].replace("_", " ").title()
             cards.append(f"""
             <div style="display:flex;align-items:center;gap:12px;padding:10px 12px;border-left:4px solid {color};
-                        background:#fafafa;border-radius:0 8px 8px 0;margin-bottom:8px;">
+                        background:#f9fafb;border-radius:0 8px 8px 0;margin-bottom:8px;">
                 <div style="min-width:50px;text-align:center;">
-                    <div style="font-size:11px;color:#888;">Over</div>
+                    <div style="font-size:11px;color:#6b7280;">Over</div>
                     <div style="font-weight:700;font-size:16px;">{row['over']}</div>
                 </div>
                 <div style="flex:1;">
                     <div style="font-size:13px;">
                         <span style="color:#27ae60;font-weight:700;">&#9650; {row['player_in']}</span>
-                        <span style="color:#888;margin:0 4px;">for</span>
+                        <span style="color:#6b7280;margin:0 4px;">for</span>
                         <span style="color:#d63031;font-weight:700;">&#9660; {row['player_out']}</span>
                     </div>
-                    <div style="font-size:12px;color:#666;">{short} &middot; {reason}</div>
+                    <div style="font-size:12px;color:#6b7280;">{short} &middot; {reason}</div>
                 </div>
             </div>""")
         return ui.HTML("".join(cards))
