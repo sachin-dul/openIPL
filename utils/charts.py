@@ -60,13 +60,13 @@ def team_short(team):
     return TEAM_SHORT.get(team, team)
 
 
-# Common layout template
+# Common layout template — clean light theme
 LAYOUT_TEMPLATE = dict(
-    font=dict(family="Figtree, sans-serif"),
+    font=dict(family="Figtree, sans-serif", color="#1f2937"),
     plot_bgcolor="rgba(0,0,0,0)",
     paper_bgcolor="rgba(0,0,0,0)",
-    hoverlabel=dict(bgcolor="white", font_size=13),
-    title_font=dict(size=18, color="#1a1a2e"),
+    hoverlabel=dict(bgcolor="#ffffff", font_size=13, font_color="#1f2937", bordercolor="#e5e7eb"),
+    title_font=dict(size=16, color="#1a56db"),
 )
 
 
@@ -78,20 +78,33 @@ def _apply_style(fig, height=None):
     )
     if height:
         fig.update_layout(height=height)
-    fig.update_xaxes(gridcolor="rgba(0,0,0,0.05)", zeroline=False)
-    fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)
+    fig.update_xaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False, tickfont=dict(color="#6b7280"))
+    fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False, tickfont=dict(color="#6b7280"))
     return fig
 
 
-def horizontal_bar(df, x, y, title, color=None, text=None, team_colored=False):
-    if team_colored and not color:
+def horizontal_bar(df, x, y, title, color=None, text=None, team_colored=False, player_teams=None):
+    """Horizontal bar chart. If player_teams dict is provided, bars are colored by team and labels get team short codes."""
+    df = df.copy()
+    if player_teams and not color:
+        colors = [team_color(player_teams.get(name, "")) for name in df[y]]
+        labels = [f"{name} ({team_short(player_teams[name])})" if name in player_teams else name for name in df[y]]
+        fig = go.Figure(go.Bar(
+            x=df[x], y=labels, orientation="h",
+            marker=dict(color=colors, line=dict(width=0), cornerradius=4),
+            text=df[text] if text else None,
+            textposition="outside",
+            textfont=dict(size=13, color="#1f2937"),
+        ))
+        fig.update_layout(title=title, yaxis=dict(autorange="reversed"))
+    elif team_colored and not color:
         colors = [team_color(name) if name in TEAM_COLORS else "#1a73e8" for name in df[y]]
         fig = go.Figure(go.Bar(
             x=df[x], y=df[y], orientation="h",
             marker=dict(color=colors, line=dict(width=0), cornerradius=4),
             text=df[text] if text else None,
             textposition="outside",
-            textfont=dict(size=13, color="#333"),
+            textfont=dict(size=13, color="#1f2937"),
         ))
         fig.update_layout(title=title, yaxis=dict(autorange="reversed"))
     else:
@@ -102,7 +115,7 @@ def horizontal_bar(df, x, y, title, color=None, text=None, team_colored=False):
         )
         fig.update_layout(yaxis=dict(autorange="reversed"), showlegend=False)
         if not color:
-            fig.update_traces(marker=dict(color="#1a73e8", cornerradius=4))
+            fig.update_traces(marker=dict(color="#3b82f6", cornerradius=4))
         if text:
             fig.update_traces(textposition="outside", textfont=dict(size=13))
 
@@ -117,9 +130,9 @@ def vertical_bar(df, x, y, title, color=None, text=None):
     )
     fig.update_layout(showlegend=bool(color))
     if not color:
-        fig.update_traces(marker=dict(color="#1a73e8", cornerradius=4))
+        fig.update_traces(marker=dict(color="#3b82f6", cornerradius=4))
     if text:
-        fig.update_traces(textposition="outside", textfont=dict(size=13, color="#333"))
+        fig.update_traces(textposition="outside", textfont=dict(size=13, color="#1f2937"))
     return _apply_style(fig)
 
 

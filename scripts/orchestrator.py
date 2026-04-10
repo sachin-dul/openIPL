@@ -61,19 +61,30 @@ def get_season_matches(json_dir, season):
     return matches
 
 
+def _overs_to_balls(overs):
+    """Convert cricket overs (e.g. 19.4 = 19 overs 4 balls) to total balls (118)."""
+    full = int(overs)
+    balls = round((overs - full) * 10)
+    return full * 6 + balls
+
+
 def compute_nrr(team_data):
     """Compute Net Run Rate for a team.
 
     NRR = (total runs scored / total overs faced) - (total runs conceded / total overs bowled)
+    Overs are stored as total balls to avoid cricket-notation accumulation errors.
     """
     runs_scored = team_data.get("runs_scored", 0)
-    overs_faced = team_data.get("overs_faced", 0.0)
+    balls_faced = team_data.get("balls_faced", 0)
     runs_conceded = team_data.get("runs_conceded", 0)
-    overs_bowled = team_data.get("overs_bowled", 0.0)
+    balls_bowled = team_data.get("balls_bowled", 0)
 
-    if overs_faced == 0 or overs_bowled == 0:
+    if balls_faced == 0 or balls_bowled == 0:
         return 0.0
 
+    # Convert balls to decimal overs for rate calculation
+    overs_faced = balls_faced / 6.0
+    overs_bowled = balls_bowled / 6.0
     scoring_rate = runs_scored / overs_faced
     conceding_rate = runs_conceded / overs_bowled
     return round(scoring_rate - conceding_rate, 3)
@@ -96,8 +107,8 @@ def build_points_table(all_match_data, season_dir):
             if team not in teams:
                 teams[team] = {
                     "played": 0, "won": 0, "lost": 0, "no_result": 0,
-                    "points": 0, "runs_scored": 0, "overs_faced": 0.0,
-                    "runs_conceded": 0, "overs_bowled": 0.0,
+                    "points": 0, "runs_scored": 0, "balls_faced": 0,
+                    "runs_conceded": 0, "balls_bowled": 0,
                 }
 
         for team in [team_1, team_2]:
@@ -113,25 +124,35 @@ def build_points_table(all_match_data, season_dir):
             teams[winner]["points"] += 2
             teams[loser]["lost"] += 1
 
-        # NRR data — per ICC rules, all-out teams are deemed to have faced 20 overs
+        # NRR data — per ICC rules, all-out teams are deemed to have faced full innings overs
         if result != "no result":
+            # Determine full innings length (target_overs for rain-shortened matches)
+            target_overs = parsed["match"].get("target_overs", 20)
+            try:
+                target_overs = float(target_overs)
+            except (TypeError, ValueError):
+                target_overs = 20.0
+            full_innings_balls = _overs_to_balls(target_overs)
+
             for team, opponent in [(team_1, team_2), (team_2, team_1)]:
                 score_str = team_scores.get(team, "0/0")
                 parts = score_str.split("/")
                 runs = int(parts[0])
                 wickets = int(parts[1]) if len(parts) > 1 else 0
-                overs = 20.0 if wickets == 10 else innings_overs.get(team, 0.0)
+                overs = innings_overs.get(team, 0.0)
+                balls = full_innings_balls if wickets == 10 else _overs_to_balls(overs)
 
                 opp_score_str = team_scores.get(opponent, "0/0")
                 opp_parts = opp_score_str.split("/")
                 opp_runs = int(opp_parts[0])
                 opp_wickets = int(opp_parts[1]) if len(opp_parts) > 1 else 0
-                opp_overs = 20.0 if opp_wickets == 10 else innings_overs.get(opponent, 0.0)
+                opp_overs = innings_overs.get(opponent, 0.0)
+                opp_balls = full_innings_balls if opp_wickets == 10 else _overs_to_balls(opp_overs)
 
                 teams[team]["runs_scored"] += runs
-                teams[team]["overs_faced"] += overs
+                teams[team]["balls_faced"] += balls
                 teams[team]["runs_conceded"] += opp_runs
-                teams[team]["overs_bowled"] += opp_overs
+                teams[team]["balls_bowled"] += opp_balls
 
     # Sort by points, then NRR
     table = []
@@ -231,8 +252,20 @@ def main():
         new_count += 1
         print(f"  Processed match {match_num}: {parsed['team_1']} vs {parsed['team_2']}")
 
-    # Write matches.csv
-    write_csv(os.path.join(season_dir, "matches.csv"), all_match_rows)
+    # Write matches.csv — merge with existing to avoid losing matches not in cache
+    matches_csv_path = os.path.join(season_dir, "matches.csv")
+    new_match_nums = {r["match_number"] for r in all_match_rows}
+    if os.path.exists(matches_csv_path):
+        import csv
+        with open(matches_csv_path, newline="") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                mn = int(row.get("match_number", 0))
+                if mn not in new_match_nums:
+                    all_match_rows.append(row)
+                    print(f"  Preserved existing match {mn} from matches.csv (not in cache)")
+    all_match_rows.sort(key=lambda r: int(r["match_number"]))
+    write_csv(matches_csv_path, all_match_rows)
     print(f"\nWrote matches.csv ({len(all_match_rows)} matches)")
 
     # Write player_registry.csv (deduplicated across all matches)

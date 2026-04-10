@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-10
+
+### Added
+
+- `.python-version` file (3.12) to fix ShinyApps Connect deployment version warning
+
+### Changed
+
+- Replaced NRR Progression with single bump chart using actual match numbers on x-axis
+
+### Fixed
+
+- NRR calculation in `orchestrator.py` now uses ball counts internally instead of accumulating cricket-notation overs, avoiding rounding errors
+- NRR all-out handling now respects `target_overs` for rain-shortened matches instead of always assuming 20 overs
+- `orchestrator.py` now preserves existing matches in `matches.csv` that aren't in cache, preventing data loss on partial reruns
+- Fall of wickets over notation in `parser.py`: now 1-indexed with `.6` for last ball of an over; reprocessed all 15 matches
+- Unsafe `.iloc[0]` in match innings team lookup — added empty check
+- Division-by-zero guards across batting, bowling, and phase calculations
+- Safe score and win margin parsing in bump chart (handles missing `/` separators)
+
+---
+
 ## 2026-04-08
 
 ### Added
