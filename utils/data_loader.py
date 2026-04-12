@@ -32,6 +32,7 @@ def load_players():
     return _safe_read_csv(DATA_DIR / "players.csv")
 
 
+@lru_cache(maxsize=None)
 def _concat_match_csvs(filename):
     """Concatenate a specific CSV across all match directories."""
     matches_dir = DATA_DIR / "matches"

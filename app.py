@@ -13,6 +13,10 @@ from utils.data_loader import (
 from utils.charts import (
     horizontal_bar, vertical_bar, line_chart, worm_chart,
     phase_comparison_chart, fow_timeline, _apply_style,
+    manhattan_chart, run_rate_chart,
+    team_dna_heatmap, team_radar_chart,
+    runs_per_over_innings_compare,
+    economy_vs_average_scatter,
     TEAM_COLORS, LAYOUT_TEMPLATE,
     team_color, team_logo, team_short,
 )
@@ -65,6 +69,19 @@ def _has_rain_shortened(matches_df):
     return (t.dropna() < 20).any()
 
 
+HOME_VENUES = {
+    "Chennai Super Kings": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "Mumbai Indians": "Wankhede Stadium, Mumbai",
+    "Royal Challengers Bengaluru": "M Chinnaswamy Stadium, Bengaluru",
+    "Kolkata Knight Riders": "Eden Gardens, Kolkata",
+    "Rajasthan Royals": "Barsapara Cricket Stadium, Guwahati",
+    "Sunrisers Hyderabad": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "Delhi Capitals": "Arun Jaitley Stadium, Delhi",
+    "Punjab Kings": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+    "Gujarat Titans": "Narendra Modi Stadium, Ahmedabad",
+    "Lucknow Super Giants": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+}
+
 RAIN_AVG_FOOTNOTE = '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded from averages</div>'
 RAIN_PHASE_FOOTNOTE = '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">* Includes rain-shortened match(es) where each ball is assigned to a phase based on adjusted overs (PP = 30% of total balls, remaining 70% split equally between middle and death)</div>'
 
@@ -93,10 +110,13 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
     align_right = align_right or []
     player_teams = player_teams or {}
 
-    # Auto-detect numeric columns for right-alignment
+    # Right-align all columns except player/name columns (first col, bold cols, player col)
     if not align_right:
+        text_cols = set(bold_cols or [])
+        if player_col:
+            text_cols.add(player_col)
         for col in df.columns:
-            if df[col].dtype in ("int64", "float64", "int32", "float32"):
+            if col not in text_cols:
                 align_right.append(col)
 
     header = "".join(
@@ -143,6 +163,7 @@ except Exception:
     match_choices = {"0": "No matches found"}
 
 app_ui = ui.page_navbar(
+    ui.nav_spacer(),
     # Overview
     ui.nav_panel("Overview",
         # Stats tabs — compact on mobile, full grid on desktop
@@ -150,28 +171,28 @@ app_ui = ui.page_navbar(
             ui.nav_panel("Key Stats",
                 ui.tags.div(style="margin-top:12px;"),
                 ui.layout_columns(
-                    ui.value_box("Matches Played", ui.output_text("overview_matches"), theme="primary"),
-                    ui.value_box("Highest Total", ui.output_text("overview_highest"), ui.output_text("overview_highest_team"), theme="success"),
-                    ui.value_box("Lowest Total", ui.output_text("overview_lowest"), ui.output_text("overview_lowest_team"), theme="warning"),
-                    ui.value_box("Closest Match", ui.output_text("closest_match"), ui.output_text("closest_match_detail"), theme="danger"),
+                    ui.value_box(ui.tags.span("Matches Played", style="text-decoration:underline;"), ui.tags.span(ui.output_text("overview_matches"), style="font-weight:700;"), theme="primary"),
+                    ui.value_box(ui.tags.span("Highest Total", style="text-decoration:underline;"), ui.tags.span(ui.output_text("overview_highest"), style="font-weight:700;"), ui.output_text("overview_highest_team"), theme="success"),
+                    ui.value_box(ui.tags.span("Lowest Total", style="text-decoration:underline;"), ui.tags.span(ui.output_text("overview_lowest"), style="font-weight:700;"), ui.output_text("overview_lowest_team"), theme="warning"),
+                    ui.value_box(ui.tags.span("Closest Match", style="text-decoration:underline;"), ui.tags.span(ui.output_text("closest_match"), style="font-weight:700;"), ui.output_text("closest_match_detail"), theme="danger"),
                     col_widths={"sm": [6, 6, 6, 6], "lg": [3, 3, 3, 3]},
                 ),
             ),
             ui.nav_panel("Leaders",
                 ui.tags.div(style="margin-top:12px;"),
                 ui.layout_columns(
-                    ui.value_box("Leading Run Scorer", ui.output_ui("top_scorer"), ui.output_ui("top_scorer_runs"), theme="light"),
-                    ui.value_box("Leading Wicket Taker", ui.output_ui("top_bowler"), ui.output_ui("top_bowler_wkts"), theme="light"),
+                    ui.value_box(ui.tags.span("Leading Run Scorer", style="text-decoration:underline;"), ui.tags.span(ui.output_ui("top_scorer"), style="font-weight:700;"), ui.output_ui("top_scorer_runs"), theme="light"),
+                    ui.value_box(ui.tags.span("Leading Wicket Taker", style="text-decoration:underline;"), ui.tags.span(ui.output_ui("top_bowler"), style="font-weight:700;"), ui.output_ui("top_bowler_wkts"), theme="light"),
                     col_widths={"sm": [6, 6], "md": [6, 6]},
                 ),
             ),
             ui.nav_panel("Numbers",
                 ui.tags.div(style="margin-top:12px;"),
                 ui.layout_columns(
-                    ui.value_box("Total Sixes", ui.output_text("total_sixes"), theme="light"),
-                    ui.value_box("Total Fours", ui.output_text("total_fours"), theme="light"),
-                    ui.value_box("Toss Winner Won", ui.output_ui("toss_win_pct"), theme="light"),
-                    ui.value_box("Chose to Field", ui.output_ui("field_first_pct"), theme="light"),
+                    ui.value_box(ui.tags.span("Total Sixes", style="text-decoration:underline;"), ui.tags.span(ui.output_text("total_sixes"), style="font-weight:700;"), theme="light"),
+                    ui.value_box(ui.tags.span("Total Fours", style="text-decoration:underline;"), ui.tags.span(ui.output_text("total_fours"), style="font-weight:700;"), theme="light"),
+                    ui.value_box(ui.tags.span("Toss Winner Won", style="text-decoration:underline;"), ui.tags.span(ui.output_ui("toss_win_pct"), style="font-weight:700;"), theme="light"),
+                    ui.value_box(ui.tags.span("Chose to Field", style="text-decoration:underline;"), ui.tags.span(ui.output_ui("field_first_pct"), style="font-weight:700;"), theme="light"),
                     col_widths={"sm": [6, 6, 6, 6], "lg": [3, 3, 3, 3]},
                 ),
             ),
@@ -285,10 +306,6 @@ app_ui = ui.page_navbar(
     ui.nav_panel("Fielding & Partnerships",
         ui.h4("Fielding", class_="mt-3 mb-2"),
         ui.layout_columns(
-            ui.card(ui.card_header("Top Fielders (Stacked Breakdown)"), ui.output_ui("fielding_stacked_chart")),
-            col_widths=[12],
-        ),
-        ui.layout_columns(
             ui.card(ui.card_header("Fielding Leaderboard"), ui.output_ui("fielding_table")),
             col_widths=[12],
         ),
@@ -304,13 +321,25 @@ app_ui = ui.page_navbar(
     ),
 
     # Team Analysis
-    ui.nav_panel("Team Analysis",
+    ui.nav_panel("Season Analysis",
         ui.layout_columns(
             ui.card(
                 ui.card_header("Standings Progression"),
-                ui.div(ui.input_radio_buttons("bump_metric", None, choices={"position": "Position", "nrr": "NRR"}, inline=True), style="display:flex;justify-content:flex-end;gap:12px;margin-bottom:8px"),
                 ui.output_ui("bump_chart"),
             ),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
+            ui.card(ui.card_header("Scoring Rhythm — Avg runs per over by team"), ui.output_ui("season_team_dna")),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
+            ui.card(ui.card_header("Team Fingerprint (batting + bowling by phase)"), ui.output_ui("season_radar")),
+            ui.card(ui.card_header("Runs per over — 1st vs 2nd innings"), ui.output_ui("season_runs_innings")),
+            col_widths=[6, 6],
+        ),
+        ui.layout_columns(
+            ui.card(ui.card_header("Economy vs Bowling Average (min 4 overs)"), ui.output_ui("season_econ_avg")),
             col_widths=[12],
         ),
         ui.layout_columns(
@@ -321,7 +350,7 @@ app_ui = ui.page_navbar(
         ui.layout_columns(
             ui.card(
                 ui.card_header("Team Phase Comparison"),
-                ui.input_select("phase_metric", "Metric", choices=["run_rate", "wickets", "boundaries", "dots"]),
+                ui.input_select("phase_metric", "Metric", choices={"run_rate": "Run Rate", "wickets": "Wickets", "boundaries": "Boundaries", "dots": "Dots"}),
                 ui.output_ui("team_phase_chart"),
             ),
             col_widths=[12],
@@ -329,6 +358,11 @@ app_ui = ui.page_navbar(
         ui.layout_columns(
             ui.card(ui.card_header("Venue Performance"), ui.output_ui("venue_table"), full_screen=True),
             col_widths=[12],
+        ),
+        ui.layout_columns(
+            ui.card(ui.card_header("Home vs Away — Overall"), ui.output_ui("home_away_overall")),
+            ui.card(ui.card_header("Home vs Away — By Team"), ui.output_ui("home_advantage_chart")),
+            col_widths=[4, 8],
         ),
     ),
 
@@ -342,7 +376,20 @@ app_ui = ui.page_navbar(
             col_widths=[12],
         ),
         ui.layout_columns(
+            ui.card(ui.card_header("Key Moments"), ui.output_ui("match_key_moments")),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
             ui.card(ui.card_header("Worm Chart"), ui.output_ui("match_worm")),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
+            ui.card(ui.output_ui("match_manhattan_1_header"), ui.output_ui("match_manhattan_1")),
+            ui.card(ui.output_ui("match_manhattan_2_header"), ui.output_ui("match_manhattan_2")),
+            col_widths=[6, 6],
+        ),
+        ui.layout_columns(
+            ui.card(ui.card_header("Run Rate — Current vs Required"), ui.output_ui("match_run_rate")),
             col_widths=[12],
         ),
         ui.layout_columns(
@@ -481,31 +528,43 @@ def server(input, output, session):
             matches = matches[pd.to_numeric(matches["target_overs"], errors="coerce").fillna(20) >= 20]
         scores = []
         for _, row in matches.iterrows():
-            for col, tcol in [("team_1_score", "team_1"), ("team_2_score", "team_2")]:
+            for col, tcol, opp_col in [("team_1_score", "team_1", "team_2"), ("team_2_score", "team_2", "team_1")]:
                 s = str(row[col])
                 if "/" in s:
-                    scores.append((int(s.split("/")[0]), s, row[tcol]))
+                    scores.append((int(s.split("/")[0]), s, row[tcol], row[opp_col], row["match_number"]))
         return scores
 
     @render.text
     def overview_highest():
         scores = all_scores()
-        return max(scores, key=lambda x: x[0])[1] if scores else "-"
+        if not scores:
+            return "-"
+        best = max(scores, key=lambda x: x[0])
+        return f"{best[1]}"
 
     @render.text
     def overview_highest_team():
         scores = all_scores()
-        return max(scores, key=lambda x: x[0])[2] if scores else ""
+        if not scores:
+            return ""
+        best = max(scores, key=lambda x: x[0])
+        return f"{team_short(best[2])} vs {team_short(best[3])}, M{best[4]}"
 
     @render.text
     def overview_lowest():
         scores = all_scores()
-        return min(scores, key=lambda x: x[0])[1] if scores else "-"
+        if not scores:
+            return "-"
+        worst = min(scores, key=lambda x: x[0])
+        return f"{worst[1]}"
 
     @render.text
     def overview_lowest_team():
         scores = all_scores()
-        return min(scores, key=lambda x: x[0])[2] if scores else ""
+        if not scores:
+            return ""
+        worst = min(scores, key=lambda x: x[0])
+        return f"{team_short(worst[2])} vs {team_short(worst[3])}, M{worst[4]}"
 
     @render.ui
     def overview_points_table():
@@ -525,7 +584,7 @@ def server(input, output, session):
                 <td style="text-align:center;color:#16a34a;font-weight:600;padding:6px">{int(r['won'])}</td>
                 <td style="text-align:center;color:#dc2626;padding:6px">{int(r['lost'])}</td>
                 <td style="text-align:center;padding:6px;color:#6b7280">{int(r['no_result'])}</td>
-                <td style="text-align:center;font-family:monospace;padding:6px;color:#1f2937">{nrr}</td>
+                <td style="text-align:center;padding:6px;color:#1f2937">{nrr}</td>
                 <td style="text-align:center;padding:6px;color:#1a56db"><strong>{int(r['points'])}</strong></td>
             </tr>"""
         return ui.HTML(f"""<table style="width:100%;border-collapse:collapse;font-size:14px;color:#1f2937">
@@ -703,7 +762,7 @@ def server(input, output, session):
             return ""
         row = data[2]
         loser = row["team_1"] if row["winner"] == row["team_2"] else row["team_2"]
-        return f"{team_short(row['winner'])} vs {team_short(loser)}"
+        return f"{team_short(row['winner'])} vs {team_short(loser)}, M{row['match_number']}"
 
     @render.ui
     def recent_results():
@@ -812,11 +871,16 @@ def server(input, output, session):
         bat = _stat_bat()
         if bat.empty:
             return pd.DataFrame()
+        bat["_dismissed"] = bat["dismissal"].apply(lambda d: 0 if str(d).strip().lower() == "not out" else 1)
+        bat["_fifty"] = bat["runs"].apply(lambda r: 1 if 50 <= r < 100 else 0)
+        bat["_hundred"] = bat["runs"].apply(lambda r: 1 if r >= 100 else 0)
         agg = bat.groupby("batter").agg(
             runs=("runs", "sum"), innings=("runs", "count"),
             balls=("balls", "sum"), fours=("fours", "sum"), sixes=("sixes", "sum"),
+            dismissals=("_dismissed", "sum"),
+            fifties=("_fifty", "sum"), hundreds=("_hundred", "sum"),
         ).reset_index()
-        agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["innings"], 2) if r["innings"] > 0 else 0, axis=1)
+        agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["dismissals"], 2) if r["dismissals"] > 0 else float("inf"), axis=1)
         agg["sr"] = agg.apply(lambda r: round(r["runs"] / r["balls"] * 100, 2) if r["balls"] > 0 else 0, axis=1)
         return agg.sort_values(["runs", "sr", "innings"], ascending=[False, False, True])
 
@@ -832,9 +896,11 @@ def server(input, output, session):
         agg = batting_agg().head(15)
         if agg.empty:
             return empty_state()
-        return styled_table(agg.rename(columns={
+        tbl = agg.copy()
+        tbl["avg"] = tbl["avg"].apply(lambda x: f"{x:.2f}" if x != float("inf") else "-")
+        return styled_table(tbl.drop(columns=["dismissals"]).rename(columns={
             "batter": "Batter", "runs": "Runs", "innings": "Inn",
-            "balls": "Balls", "fours": "4s", "sixes": "6s", "avg": "Avg", "sr": "SR",
+            "balls": "Balls", "fours": "4s", "sixes": "6s", "fifties": "50s", "hundreds": "100s", "avg": "Avg", "sr": "SR",
         }), highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
 
     @render.ui
@@ -842,8 +908,20 @@ def server(input, output, session):
         bat = _stat_bat()
         if bat.empty:
             return empty_state()
-        top = bat.nlargest(10, "runs")[["batter", "runs", "balls", "fours", "sixes", "strike_rate"]].copy()
-        top.columns = ["Batter", "Runs", "Balls", "4s", "6s", "SR"]
+        matches = load_matches()
+        top = bat.nlargest(10, "runs")[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "team", "match_number"]].copy()
+        # Add opponent and match info
+        def get_opponent(row):
+            m = matches[matches["match_number"] == row["match_number"]]
+            if m.empty:
+                return ""
+            m = m.iloc[0]
+            return m["team_2"] if row["team"] == m["team_1"] else m["team_1"]
+        top["opponent"] = top.apply(get_opponent, axis=1)
+        top["opponent"] = top["opponent"].apply(lambda t: team_short(t))
+        top["match"] = "M" + top["match_number"].astype(str)
+        top = top[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "opponent", "match"]]
+        top.columns = ["Batter", "Runs", "Balls", "4s", "6s", "SR", "vs", "Match"]
         return styled_table(top, highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
 
     @render.ui
@@ -981,6 +1059,15 @@ def server(input, output, session):
         ).reset_index()
         agg["economy"] = agg.apply(lambda r: round(r["runs"] / r["overs"], 2) if r["overs"] > 0 else 0, axis=1)
         agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["wickets"], 2) if r["wickets"] > 0 else float("inf"), axis=1)
+        # Strike rate: balls per wicket
+        agg["sr"] = agg.apply(lambda r: round(_overs_to_balls(r["overs"]) / r["wickets"], 1) if r["wickets"] > 0 else float("inf"), axis=1)
+        # Best bowling figures (best innings)
+        best = bowl.sort_values(["wickets", "runs"], ascending=[False, True]).drop_duplicates("bowler")[["bowler", "wickets", "runs"]].copy()
+        best["bbi"] = best["wickets"].astype(str) + "/" + best["runs"].astype(str)
+        agg = agg.merge(best[["bowler", "bbi"]], on="bowler", how="left")
+        # 4-wicket and 5-wicket hauls
+        agg["4w"] = bowl[bowl["wickets"] >= 4].groupby("bowler").size().reindex(agg["bowler"].values, fill_value=0).values
+        agg["5w"] = bowl[bowl["wickets"] >= 5].groupby("bowler").size().reindex(agg["bowler"].values, fill_value=0).values
         return agg.sort_values(["wickets", "economy", "innings"], ascending=[False, True, True])
 
     @render.ui
@@ -996,10 +1083,13 @@ def server(input, output, session):
         if agg.empty:
             return empty_state()
         agg["avg"] = agg["avg"].apply(lambda x: f"{x:.2f}" if x != float("inf") else "-")
-        return styled_table(agg.rename(columns={
+        agg["sr"] = agg["sr"].apply(lambda x: f"{x:.1f}" if x != float("inf") else "-")
+        display = agg[["bowler", "innings", "overs", "runs", "wickets", "bbi", "avg", "economy", "sr", "4w", "5w"]].copy()
+        return styled_table(display.rename(columns={
             "bowler": "Bowler", "wickets": "Wkts", "innings": "Inn",
-            "overs": "Overs", "runs": "Runs", "maidens": "Mdns",
-            "dots": "Dots", "economy": "Econ", "avg": "Avg",
+            "overs": "Overs", "runs": "Runs", "bbi": "BBI",
+            "economy": "Econ", "avg": "Avg", "sr": "SR",
+            "4w": "4W", "5w": "5W",
         }), highlight_cols=["Wkts"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
@@ -1009,8 +1099,18 @@ def server(input, output, session):
             return empty_state()
         bowl = bowl.copy()
         bowl["figures"] = bowl["wickets"].astype(str) + "/" + bowl["runs"].astype(str)
-        best = bowl.sort_values(["wickets", "runs", "overs"], ascending=[False, True, True]).head(10)[["bowler", "figures", "overs", "economy", "dots"]].copy()
-        best.columns = ["Bowler", "Figures", "Overs", "Econ", "Dots"]
+        matches = _stat_matches()
+        best = bowl.sort_values(["wickets", "runs", "overs"], ascending=[False, True, True]).head(10)[["bowler", "figures", "overs", "economy", "dots", "team", "match_number"]].copy()
+        def get_opponent(row):
+            m = matches[matches["match_number"] == row["match_number"]]
+            if m.empty:
+                return ""
+            m = m.iloc[0]
+            return m["team_2"] if row["team"] == m["team_1"] else m["team_1"]
+        best["vs"] = best.apply(get_opponent, axis=1).apply(lambda t: team_short(t))
+        best["match"] = "M" + best["match_number"].astype(str)
+        best = best[["bowler", "figures", "overs", "economy", "dots", "vs", "match"]]
+        best.columns = ["Bowler", "Figures", "Overs", "Econ", "Dots", "vs", "Match"]
         return styled_table(best, highlight_cols=["Figures"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
@@ -1144,29 +1244,6 @@ def server(input, output, session):
         return fagg.sort_values("total", ascending=False)
 
     @render.ui
-    def fielding_stacked_chart():
-        fagg = fielding_agg()
-        if fagg.empty:
-            return empty_state()
-        top = fagg.head(10)
-        pt = player_teams()
-        labels = [f"{p} ({team_short(pt[p])})" if p in pt else p for p in top["player"]]
-        fig = go.Figure()
-        fig.add_trace(go.Bar(x=top["catches"], y=labels, orientation="h", name="Catches", marker=dict(color="#1a73e8", cornerradius=4)))
-        fig.add_trace(go.Bar(x=top["run_outs"], y=labels, orientation="h", name="Run Outs", marker=dict(color="#FF6B6B", cornerradius=4)))
-        fig.add_trace(go.Bar(x=top["stumpings"], y=labels, orientation="h", name="Stumpings", marker=dict(color="#34A853", cornerradius=4)))
-        fig.update_layout(
-            barmode="stack", yaxis=dict(autorange="reversed"),
-            showlegend=True, legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5),
-        )
-        # Total labels outside the last segment
-        for i, row in top.iterrows():
-            fig.add_annotation(x=row["total"], y=labels[list(top.index).index(i)], text=str(row["total"]),
-                               xanchor="left", showarrow=False, font=dict(size=13, color="#374151"), xshift=5)
-
-        return plotly_ui(_apply_style(fig, height=max(300, len(top) * 40)))
-
-    @render.ui
     def fielding_table():
         fagg = fielding_agg()
         if fagg.empty:
@@ -1184,36 +1261,57 @@ def server(input, output, session):
         if p.empty:
             return empty_state()
         top = p.nlargest(10, "total_runs").copy()
-        top["team_code"] = top["team"].map(lambda t: f" ({team_short(t)})" if t else "")
-        top["pair"] = top["batter_1"] + " & " + top["batter_2"] + top["team_code"]
-        top = top.iloc[::-1]  # reverse for horizontal bar
+        matches = _stat_matches()
+        def get_opponent(row):
+            m = matches[matches["match_number"] == row["match_number"]]
+            if m.empty:
+                return ""
+            m = m.iloc[0]
+            return m["team_2"] if row["team"] == m["team_1"] else m["team_1"]
+        top["opponent"] = top.apply(get_opponent, axis=1).apply(lambda t: team_short(t))
+        top["pair"] = top["batter_1"] + " & " + top["batter_2"] + " (" + top["team"].map(team_short) + " vs " + top["opponent"] + ", M" + top["match_number"].astype(str) + ")"
+        top = top.iloc[::-1]  # reverse so highest is at top
         fig = go.Figure()
-        fig.add_trace(go.Bar(
-            x=top["batter_1_runs"], y=top["pair"], orientation="h",
-            name=None, marker=dict(color="#1a73e8", cornerradius=4),
-            text=top["batter_1"] + ": " + top["batter_1_runs"].astype(str),
-            textposition="inside", textfont=dict(color="white", size=11),
-            hovertemplate="%{text}<extra></extra>",
+        # Connecting lines
+        for _, row in top.iterrows():
+            fig.add_trace(go.Scatter(
+                x=[row["batter_1_runs"], row["batter_2_runs"]],
+                y=[row["pair"], row["pair"]],
+                mode="lines",
+                line=dict(color="#d1d5db", width=6),
+                showlegend=False, hoverinfo="skip",
+            ))
+        # Batter 1 dots
+        fig.add_trace(go.Scatter(
+            x=top["batter_1_runs"], y=top["pair"],
+            mode="markers+text", name="Batter 1",
+            marker=dict(color="#1a73e8", size=14, line=dict(width=2, color="white")),
+            text=top["batter_1_runs"].astype(str),
+            textposition="bottom center", textfont=dict(size=10, color="#1a73e8"),
+            hovertemplate=top["batter_1"] + ": %{x} runs<extra></extra>",
         ))
-        fig.add_trace(go.Bar(
-            x=top["batter_2_runs"], y=top["pair"], orientation="h",
-            name=None, marker=dict(color="#34A853", cornerradius=4),
-            text=top["batter_2"] + ": " + top["batter_2_runs"].astype(str),
-            textposition="inside", textfont=dict(color="white", size=11),
-            hovertemplate="%{text}<extra></extra>",
+        # Batter 2 dots
+        fig.add_trace(go.Scatter(
+            x=top["batter_2_runs"], y=top["pair"],
+            mode="markers+text", name="Batter 2",
+            marker=dict(color="#34A853", size=14, line=dict(width=2, color="white")),
+            text=top["batter_2_runs"].astype(str),
+            textposition="bottom center", textfont=dict(size=10, color="#34A853"),
+            hovertemplate=top["batter_2"] + ": %{x} runs<extra></extra>",
         ))
-        # Add total label outside
-        fig.add_trace(go.Bar(
-            x=[0]*len(top), y=top["pair"], orientation="h",
-            text=top["total_runs"].astype(str) + " (" + top["total_balls"].astype(str) + "b)",
-            textposition="outside", textfont=dict(size=12, color="#374151"),
-            marker=dict(color="rgba(0,0,0,0)"), showlegend=False,
-            hoverinfo="skip",
-        ))
+        # Total annotation at the midpoint
+        for _, row in top.iterrows():
+            mid = (row["batter_1_runs"] + row["batter_2_runs"]) / 2
+            fig.add_annotation(
+                x=max(row["batter_1_runs"], row["batter_2_runs"]) + 3,
+                y=row["pair"],
+                text=f"<b>{row['total_runs']}</b> ({row['total_balls']}b)",
+                showarrow=False, font=dict(size=11, color="#374151"), xanchor="left",
+            )
         fig.update_layout(
-            barmode="stack", showlegend=False,
-            **LAYOUT_TEMPLATE, margin=dict(l=10, r=60, t=20, b=10, autoexpand=True),
-            height=max(300, len(top) * 45),
+            showlegend=False,
+            **LAYOUT_TEMPLATE, margin=dict(l=10, r=80, t=20, b=10, autoexpand=True),
+            height=max(300, len(top) * 50),
         )
         fig.update_xaxes(gridcolor="rgba(0,0,0,0.05)", zeroline=False, title_text="Runs")
         fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)
@@ -1231,7 +1329,15 @@ def server(input, output, session):
         best = best.sort_values("wicket_number", ascending=False)
         def ordinal(n):
             return str(n) + ("th" if 4 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th"))
-        best["wicket_label"] = best["wicket_number"].apply(lambda n: ordinal(n) + " wkt")
+        matches = _stat_matches()
+        def get_opponent(row):
+            m = matches[matches["match_number"] == row["match_number"]]
+            if m.empty:
+                return ""
+            m = m.iloc[0]
+            return m["team_2"] if row["team"] == m["team_1"] else m["team_1"]
+        best["opponent"] = best.apply(get_opponent, axis=1).apply(lambda t: team_short(t))
+        best["wicket_label"] = best["wicket_number"].apply(lambda n: ordinal(n) + " wkt") + " (" + best["team"].map(team_short) + " vs " + best["opponent"] + ", M" + best["match_number"].astype(str) + ")"
 
         colors = [team_color(t) for t in best["team"]]
         fig = go.Figure()
@@ -1271,7 +1377,36 @@ def server(input, output, session):
         fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)
         return plotly_ui(fig)
 
-    # ── Team Analysis ─────────────────────────
+    # ── Season Analysis ─────────────────────────
+
+    @render.ui
+    def season_team_dna():
+        bbb = load_ball_by_ball()
+        if bbb.empty:
+            return empty_state()
+        return plotly_ui(team_dna_heatmap(bbb))
+
+    @render.ui
+    def season_radar():
+        bbb = load_ball_by_ball()
+        matches = load_matches()
+        if bbb.empty or matches.empty:
+            return empty_state()
+        return plotly_ui(team_radar_chart(bbb, matches))
+
+    @render.ui
+    def season_runs_innings():
+        bbb = load_ball_by_ball()
+        if bbb.empty:
+            return empty_state()
+        return plotly_ui(runs_per_over_innings_compare(bbb))
+
+    @render.ui
+    def season_econ_avg():
+        bowl = load_bowling_scorecards()
+        if bowl.empty:
+            return empty_state()
+        return plotly_ui(economy_vs_average_scatter(bowl))
 
     @render.ui
     def bump_chart():
@@ -1279,7 +1414,6 @@ def server(input, output, session):
         if matches.empty:
             return empty_state()
 
-        metric = input.bump_metric()
         bbb = load_ball_by_ball()
         team_stats = {}
         team_match_num = {}  # team -> count of matches played
@@ -1331,43 +1465,71 @@ def server(input, output, session):
                     team_stats[team]["rc"] += opp_runs
                     team_stats[team]["bb"] += opp_balls
 
-            # Now rank ALL teams that have played so far
+            # Check if a round just completed (all 10 teams have played the same number)
+            all_teams_active = len(team_match_num) == 10
+            min_played = min(team_match_num.values()) if team_match_num else 0
+            recorded_rounds = {s["round"] for s in snapshots}
+            if all_teams_active and min_played > 0 and min_played not in recorded_rounds:
+                # All teams have now played at least min_played matches — record standings
+                ranking = []
+                for t, s in team_stats.items():
+                    nrr = round((s["rs"] / (s["bf"] / 6) - s["rc"] / (s["bb"] / 6)), 3) if s["bf"] > 0 and s["bb"] > 0 else 0.0
+                    ranking.append({"team": t, "points": s["points"], "nrr": nrr})
+                ranking.sort(key=lambda x: (-x["points"], -x["nrr"]))
+
+                for i, r in enumerate(ranking):
+                    snapshots.append({
+                        "round": min_played,
+                        "team": r["team"],
+                        "points": r["points"],
+                        "nrr": r["nrr"],
+                        "position": i + 1,
+                    })
+
+        # Also add current standings as final point if last round isn't complete
+        snap_df = pd.DataFrame(snapshots) if snapshots else pd.DataFrame()
+        last_round = int(snap_df["round"].max()) if not snap_df.empty else 0
+        current_min = min(team_match_num.values()) if team_match_num else 0
+        current_max = max(team_match_num.values()) if team_match_num else 0
+        if current_max > last_round:
             ranking = []
             for t, s in team_stats.items():
                 nrr = round((s["rs"] / (s["bf"] / 6) - s["rc"] / (s["bb"] / 6)), 3) if s["bf"] > 0 and s["bb"] > 0 else 0.0
                 ranking.append({"team": t, "points": s["points"], "nrr": nrr})
             ranking.sort(key=lambda x: (-x["points"], -x["nrr"]))
-            pos_map = {r["team"]: i + 1 for i, r in enumerate(ranking)}
-            nrr_map = {r["team"]: r["nrr"] for r in ranking}
-
-            # Only record snapshots for the two teams that played this match
-            for team in match_teams:
+            next_round = last_round + 1
+            for i, r in enumerate(ranking):
                 snapshots.append({
-                    "team_match": team_match_num[team],
-                    "match_number": mn,
-                    "team": team,
-                    "points": team_stats[team]["points"],
-                    "nrr": nrr_map[team],
-                    "position": pos_map[team],
+                    "round": next_round,
+                    "team": r["team"],
+                    "points": r["points"],
+                    "nrr": r["nrr"],
+                    "position": i + 1,
                 })
+            snap_df = pd.DataFrame(snapshots)
 
-        snap_df = pd.DataFrame(snapshots)
+        if snap_df.empty:
+            return empty_state()
 
-        y_col = "position" if metric == "position" else "nrr"
-        y_label = "Position" if metric == "position" else "Net Run Rate"
+        y_col = "position"
+
+        max_round = int(snap_df["round"].max())
+        num_teams = snap_df["team"].nunique()
 
         fig = go.Figure()
         for team in snap_df["team"].unique():
-            tdf = snap_df[snap_df["team"] == team].sort_values("match_number")
+            tdf = snap_df[snap_df["team"] == team].sort_values("round")
+            color = team_color(team)
+            short = team_short(team)
+
             fig.add_trace(go.Scatter(
-                x=tdf["match_number"], y=tdf[y_col],
-                mode="lines+markers",
-                name=team_short(team),
-                line=dict(color=team_color(team), width=3),
-                marker=dict(size=8, color=team_color(team), line=dict(width=1, color="white")),
+                x=tdf["round"], y=tdf[y_col],
+                mode="lines",
+                name=short,
+                line=dict(color=color, width=4, shape="spline", smoothing=0.8),
                 hovertemplate=(
                     f"<b>{team}</b><br>"
-                    "Match %{x}<br>"
+                    "Round %{x}<br>"
                     "Position: %{customdata[0]}<br>"
                     "Pts: %{customdata[1]}, NRR: %{customdata[2]:+.3f}"
                     "<extra></extra>"
@@ -1375,37 +1537,75 @@ def server(input, output, session):
                 customdata=tdf[["position", "points", "nrr"]].values,
             ))
 
-        # Team logos at each team's last data point
-        y_range = snap_df[y_col].max() - snap_df[y_col].min()
-        logo_sy = max(y_range * 0.07, 0.1)
-        logo_images = []
+        # Build right-edge labels at a fixed x, offsetting collisions
+        label_x = max_round + 0.15
+        end_points = []
         for team in snap_df["team"].unique():
-            tdf = snap_df[snap_df["team"] == team].sort_values("match_number")
+            tdf = snap_df[snap_df["team"] == team].sort_values("round")
             last = tdf.iloc[-1]
-            logo_url = team_logo(team)
+            end_points.append({"team": team, "y": last[y_col]})
+        # Sort by y position and nudge overlapping ones
+        end_points.sort(key=lambda p: p["y"])
+        min_gap = 0.55
+        for i in range(1, len(end_points)):
+            if end_points[i]["y"] - end_points[i - 1]["y"] < min_gap:
+                end_points[i]["y"] = end_points[i - 1]["y"] + min_gap
+
+        for ep in end_points:
+            logo_url = team_logo(ep["team"])
             if logo_url:
-                logo_images.append(dict(
+                fig.add_layout_image(dict(
                     source=logo_url,
                     xref="x", yref="y",
-                    x=last["match_number"], y=last[y_col],
-                    sizex=1.0, sizey=logo_sy,
-                    xanchor="center", yanchor="middle",
+                    x=label_x, y=ep["y"],
+                    sizex=0.5, sizey=0.5,
+                    xanchor="left", yanchor="middle",
                     layer="above",
                 ))
 
         fig.update_layout(
-            xaxis_title="Match Number", yaxis_title=y_label,
+            xaxis_title="Round",
+            yaxis_title="",
             showlegend=False,
-            images=logo_images,
             **LAYOUT_TEMPLATE,
-            margin=dict(l=40, r=40, t=20, b=50),
+            margin=dict(l=40, r=100, t=20, b=50),
         )
-        fig.update_xaxes(dtick=1, gridcolor="rgba(0,0,0,0.06)")
-        if metric == "position":
-            fig.update_yaxes(autorange="reversed", dtick=1, gridcolor="rgba(0,0,0,0.06)")
-        else:
-            fig.update_yaxes(zeroline=True, zerolinecolor="rgba(0,0,0,0.2)", gridcolor="rgba(0,0,0,0.06)")
-        return plotly_ui(_apply_style(fig, height=450))
+        fig.update_xaxes(
+            dtick=1, gridcolor="rgba(0,0,0,0.06)",
+            range=[0.5, max_round + 1.8],
+        )
+        fig.update_yaxes(
+            autorange="reversed", dtick=1,
+            gridcolor="rgba(0,0,0,0.04)",
+            range=[0.5, num_teams + 0.5],
+            showticklabels=True,
+            tickfont=dict(size=12, color="#9ca3af"),
+        )
+        for pos in range(1, num_teams + 1):
+            fig.add_shape(
+                type="line", x0=0.5, x1=max_round + 1.8,
+                y0=pos, y1=pos,
+                line=dict(color="rgba(0,0,0,0.06)", width=1),
+                layer="below",
+            )
+        if num_teams > 4:
+            fig.add_shape(
+                type="line", x0=0.5, x1=max_round + 1.8,
+                y0=4.5, y1=4.5,
+                line=dict(color="#dc2626", width=1.5, dash="dash"),
+                layer="below",
+            )
+            fig.add_annotation(
+                x=max_round + 1.8, y=4.5,
+                text="Playoff cutoff",
+                xanchor="right", yanchor="bottom",
+                showarrow=False,
+                font=dict(size=10, color="#dc2626"),
+            )
+
+        chart = plotly_ui(_apply_style(fig, height=500))
+        footnote = ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Standings are shown per round — a round completes when all teams have played the same number of matches. Some teams may have played additional matches not yet reflected here.</div>')
+        return ui.TagList(chart, footnote)
 
     @render.ui
     def toss_decision_chart():
@@ -1489,6 +1689,102 @@ def server(input, output, session):
             return ui.TagList(tbl, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">* Rain-shortened matches excluded from score averages</div>'))
         return tbl
 
+    @render.ui
+    def home_away_overall():
+        matches = _stat_matches()
+        if matches.empty:
+            return empty_state()
+
+        home_wins = 0
+        away_wins = 0
+        for _, row in matches.iterrows():
+            if str(row.get("result", "")) == "no result" or not row.get("winner"):
+                continue
+            winner = row["winner"]
+            venue = row["venue"]
+            if HOME_VENUES.get(winner, "") == venue:
+                home_wins += 1
+            else:
+                away_wins += 1
+
+        total = home_wins + away_wins
+        if total == 0:
+            return empty_state()
+
+        fig = go.Figure(go.Pie(
+            labels=["Home Wins", "Away Wins"],
+            values=[home_wins, away_wins],
+            marker=dict(colors=["#16a34a", "#3b82f6"], line=dict(color="#ffffff", width=2)),
+            textinfo="label+value+percent",
+            textfont=dict(size=13, color="#1f2937"),
+            hovertemplate="<b>%{label}</b><br>%{value} wins (%{percent})<extra></extra>",
+            hole=0.45,
+        ))
+        fig.update_layout(
+            showlegend=False,
+            annotations=[dict(text=f"{total}", x=0.5, y=0.5, font_size=20, font_color="#1f2937", showarrow=False)],
+        )
+        return plotly_ui(_apply_style(fig, height=350))
+
+    @render.ui
+    def home_advantage_chart():
+        matches = _stat_matches()
+        if matches.empty:
+            return empty_state()
+
+        rows = []
+        for _, row in matches.iterrows():
+            venue = row["venue"]
+            winner = row.get("winner", "")
+            result = str(row.get("result", ""))
+            if result == "no result":
+                continue
+            for team_col in ["team_1", "team_2"]:
+                team = row[team_col]
+                is_home = HOME_VENUES.get(team, "") == venue
+                loc = "Home" if is_home else "Away"
+                won = 1 if team == winner else 0
+                rows.append({"team": team, "location": loc, "won": won})
+
+        if not rows:
+            return empty_state()
+
+        df = pd.DataFrame(rows)
+        agg = df.groupby(["team", "location"]).agg(played=("won", "count"), wins=("won", "sum")).reset_index()
+        agg["win_pct"] = (agg["wins"] / agg["played"] * 100).round(1)
+
+        teams_sorted = sorted(agg["team"].unique())
+        fig = go.Figure()
+        for loc in ["Home", "Away"]:
+            ldf = agg[agg["location"] == loc].set_index("team").reindex(teams_sorted).reset_index()
+            colors = [team_color(t) for t in ldf["team"]]
+            # Away bars get 50% opacity
+            if loc == "Away":
+                def _fade(hex_c):
+                    r, g, b = int(hex_c[1:3], 16), int(hex_c[3:5], 16), int(hex_c[5:7], 16)
+                    return f"rgba({r},{g},{b},0.45)"
+                colors = [_fade(c) for c in colors]
+            fig.add_trace(go.Bar(
+                x=[team_short(t) for t in ldf["team"]],
+                y=ldf["win_pct"].fillna(0),
+                name=loc,
+                marker=dict(color=colors, cornerradius=4),
+                text=[f"{int(w)}/{int(p)}" if pd.notna(w) else "" for w, p in zip(ldf["wins"], ldf["played"])],
+                textposition="outside",
+                textfont=dict(size=11, color="#1f2937"),
+                hovertemplate="<b>%{x}</b> " + loc + "<br>Win%%: %{y:.1f}%%<br>Record: %{text}<extra></extra>",
+            ))
+
+        fig.update_layout(
+            barmode="group",
+            title="Home vs Away Win %",
+            xaxis_title="",
+            yaxis_title="Win %",
+            yaxis=dict(range=[0, 110]),
+            legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5),
+        )
+        return plotly_ui(_apply_style(fig))
+
     # ── Match Centre ──────────────────────────
 
     @reactive.calc
@@ -1567,6 +1863,121 @@ def server(input, output, session):
         if bbb.empty:
             return empty_state()
         return plotly_ui(worm_chart(bbb, selected_match_num()))
+
+    @render.ui
+    def match_key_moments():
+        mn = selected_match_num()
+        bat = load_batting_scorecards()
+        bowl = load_bowling_scorecards()
+        part = load_partnerships()
+        bbb = load_ball_by_ball()
+
+        tiles = []
+
+        # Top batter
+        bdf = bat[bat["match_number"] == mn] if not bat.empty else pd.DataFrame()
+        if not bdf.empty:
+            tb = bdf.sort_values("runs", ascending=False).iloc[0]
+            tiles.append((
+                "Top Batter",
+                tb["batter"],
+                f"{int(tb['runs'])} ({int(tb['balls'])}b)",
+                f"SR {float(tb['strike_rate']):.1f} · {int(tb['fours'])}×4 · {int(tb['sixes'])}×6",
+                team_color(tb["team"]) if "team" in tb else "#1a56db",
+            ))
+
+        # Top bowler (by wickets, then economy)
+        wdf = bowl[bowl["match_number"] == mn] if not bowl.empty else pd.DataFrame()
+        if not wdf.empty:
+            wdf_sorted = wdf.sort_values(["wickets", "economy"], ascending=[False, True])
+            tw = wdf_sorted.iloc[0]
+            tiles.append((
+                "Top Bowler",
+                tw["bowler"],
+                f"{int(tw['wickets'])}/{int(tw['runs'])}",
+                f"{float(tw['overs']):.1f} ov · ER {float(tw['economy']):.2f}",
+                team_color(tw["team"]) if "team" in tw else "#1a56db",
+            ))
+
+        # Highest partnership
+        pdf = part[part["match_number"] == mn] if not part.empty else pd.DataFrame()
+        if not pdf.empty:
+            hp = pdf.sort_values("total_runs", ascending=False).iloc[0]
+            tiles.append((
+                "Best Partnership",
+                f"{hp['batter_1']} & {hp['batter_2']}",
+                f"{int(hp['total_runs'])} ({int(hp['total_balls'])}b)",
+                f"{team_short(hp['team'])} · wkt #{int(hp['wicket_number'])}",
+                team_color(hp["team"]),
+            ))
+
+        # Biggest over
+        obb = bbb[bbb["match_number"] == mn] if not bbb.empty else pd.DataFrame()
+        if not obb.empty:
+            ov = obb.groupby(["innings", "team", "over"])["total_runs"].sum().reset_index()
+            if not ov.empty:
+                big = ov.sort_values("total_runs", ascending=False).iloc[0]
+                tiles.append((
+                    "Biggest Over",
+                    f"Over {int(big['over'])}",
+                    f"{int(big['total_runs'])} runs",
+                    team_short(big["team"]),
+                    team_color(big["team"]),
+                ))
+
+        if not tiles:
+            return empty_state()
+
+        tile_html = "".join(
+            f"""
+            <div style="flex:1;min-width:180px;border:1px solid #e5e7eb;border-left:4px solid {accent};
+                        border-radius:8px;padding:12px 14px;background:#ffffff;">
+                <div style="font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:0.04em;">{label}</div>
+                <div style="font-size:16px;font-weight:700;color:#111827;margin-top:4px;">{name}</div>
+                <div style="font-size:20px;font-weight:800;color:{accent};margin-top:2px;">{main}</div>
+                <div style="font-size:12px;color:#6b7280;margin-top:2px;">{sub}</div>
+            </div>
+            """
+            for (label, name, main, sub, accent) in tiles
+        )
+        return ui.HTML(
+            f'<div style="display:flex;flex-wrap:wrap;gap:12px;padding:4px 0;">{tile_html}</div>'
+        )
+
+    @render.ui
+    def match_manhattan_1_header():
+        return _team_header(1, "Manhattan")
+
+    @render.ui
+    def match_manhattan_2_header():
+        return _team_header(2, "Manhattan")
+
+    def _match_manhattan(innings):
+        bbb = load_ball_by_ball()
+        if bbb.empty:
+            return empty_state()
+        mbbb = bbb[(bbb["match_number"] == selected_match_num()) & (bbb["innings"] == innings)]
+        if mbbb.empty:
+            return empty_state()
+        return plotly_ui(manhattan_chart(bbb, selected_match_num(), innings))
+
+    @render.ui
+    def match_manhattan_1():
+        return _match_manhattan(1)
+
+    @render.ui
+    def match_manhattan_2():
+        return _match_manhattan(2)
+
+    @render.ui
+    def match_run_rate():
+        bbb = load_ball_by_ball()
+        if bbb.empty:
+            return empty_state()
+        mbbb = bbb[bbb["match_number"] == selected_match_num()]
+        if mbbb.empty:
+            return empty_state()
+        return plotly_ui(run_rate_chart(bbb, selected_match_num()))
 
     def _team_header(innings, label):
         teams = match_innings_teams()
