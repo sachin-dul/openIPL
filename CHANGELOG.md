@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-12
+
+### Added
+
+- Season Analysis page (renamed from Team Analysis) with four new charts:
+  - Scoring Rhythm heatmap — avg runs per over by team, with sample size in hover
+  - Team Fingerprint radar — batting run-rate and inverted bowling economy across phases
+  - Runs per over — 1st vs 2nd innings overlay histogram with mean info box
+  - Economy vs Bowling Average scatter (min 4 overs) with median crosshairs
+
+### Changed
+
+- Unified chart titling convention: card headers own titles, figures are untitled
+- Legends on Manhattan, Worm, and Run Rate charts moved below plot with bottom margin to prevent collision with x-axis title
+
+### Removed
+
+- Match Centre bowling economy chart (redundant with bowling scorecard table)
+- Match Centre ball-outcome share by phase chart (overlapped Manhattan + scorecards)
+
+---
+
 ## 2026-04-10
 
 ### Added
