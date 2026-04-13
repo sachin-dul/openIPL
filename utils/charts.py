@@ -264,7 +264,7 @@ def manhattan_chart(bbb_df, match_number, innings):
 
     fig.update_layout(
         barmode="stack",
-        xaxis=dict(title="Over", tickmode="linear", dtick=1),
+        xaxis=dict(title="Over", tickmode="linear", dtick=1, range=[0.5, 20.5]),
         yaxis_title="Runs",
         legend=dict(orientation="h", yanchor="top", y=-0.25, xanchor="center", x=0.5),
         margin=dict(b=90),
@@ -294,12 +294,10 @@ def run_rate_chart(bbb_df, match_number):
         if curve.empty:
             continue
         curve["current_rr"] = curve["score"] / (curve["balls"] / 6)
-        # Cricket notation matching worm chart: over + ball/10 (e.g. 10.3 = over 10, ball 3)
-        curve["x"] = (
-            pd.to_numeric(curve["over"], errors="coerce").fillna(0)
-            + pd.to_numeric(curve["ball"], errors="coerce").fillna(0) / 10
-        )
-
+        # Cricket notation: 0.1 = 1st legal ball, 1.0 = end of over 1, 20.0 = last ball.
+        complete = curve["balls"] // 6
+        ball_in_over = curve["balls"] % 6
+        curve["x"] = complete + ball_in_over / 10
         fig.add_trace(go.Scatter(
             x=curve["x"], y=curve["current_rr"],
             mode="lines", name=f"{team_short(team)} RR",
@@ -310,11 +308,13 @@ def run_rate_chart(bbb_df, match_number):
         if inn == 1:
             target = int(idf["total_runs"].sum()) + 1
         elif inn == 2 and target is not None:
-            curve["balls_remaining"] = (120 - curve["balls"]).clip(lower=1)
+            curve["balls_remaining"] = 120 - curve["balls"]
             curve["runs_needed"] = (target - curve["score"]).clip(lower=0)
-            curve["required_rr"] = curve["runs_needed"] / (curve["balls_remaining"] / 6)
+            # RRR is only meaningful while balls remain AND chase isn't already decided.
+            rrr_curve = curve[(curve["balls_remaining"] > 0) & (curve["runs_needed"] > 0)].copy()
+            rrr_curve["required_rr"] = rrr_curve["runs_needed"] / (rrr_curve["balls_remaining"] / 6)
             fig.add_trace(go.Scatter(
-                x=curve["x"], y=curve["required_rr"],
+                x=rrr_curve["x"], y=rrr_curve["required_rr"],
                 mode="lines", name=f"{team_short(team)} RRR",
                 line=dict(color=team_color(team), width=2, dash="dash"),
                 hovertemplate=f"<b>Required RR</b><br>RRR: %{{y:.2f}}<extra></extra>",
@@ -322,11 +322,11 @@ def run_rate_chart(bbb_df, match_number):
 
     fig.update_layout(
         xaxis=dict(
-            title="Over", range=[1, 21],
-            tickmode="array", tickvals=list(range(1, 22, 2)),
+            title="Over", range=[0, 20],
+            tickmode="array", tickvals=list(range(0, 21, 2)),
             hoverformat=".1f",
         ),
-        yaxis=dict(title="Runs / over", rangemode="tozero"),
+        yaxis=dict(title="Runs / over", rangemode="tozero", range=[0, 36]),
         legend=dict(orientation="h", yanchor="top", y=-0.25, xanchor="center", x=0.5),
         margin=dict(b=90),
         hovermode="x unified",
@@ -498,14 +498,23 @@ def team_radar_chart(bbb_df, matches_df):
             hovertemplate=f"<b>{team_short(team)}</b><br>%{{theta}}: %{{r:.2f}}<extra></extra>",
         ))
 
+    fig.add_annotation(
+        x=0.5, y=1.08, xref="paper", yref="paper",
+        text=(
+            "Further from centre = better · batting axes show run rate · "
+            "bowling axes are inverted (lower economy → further out)"
+        ),
+        showarrow=False, xanchor="center", yanchor="bottom",
+        font=dict(size=10, color="#6b7280"),
+    )
     fig.update_layout(
         polar=dict(
             radialaxis=dict(visible=True, range=[0, max_rr], showticklabels=True),
         ),
         legend=dict(orientation="h", yanchor="top", y=-0.08, xanchor="center", x=0.5),
-        margin=dict(b=70),
+        margin=dict(t=60, b=70),
     )
-    return _apply_style(fig, height=520)
+    return _apply_style(fig, height=560)
 
 
 def runs_per_over_innings_compare(bbb_df):
@@ -561,7 +570,7 @@ def runs_per_over_innings_compare(bbb_df):
         legend=dict(orientation="h", yanchor="top", y=-0.18, xanchor="center", x=0.5),
         margin=dict(l=60, r=40, b=70, t=40),
     )
-    return _apply_style(fig, height=380)
+    return _apply_style(fig, height=560)
 
 
 def economy_vs_average_scatter(bowling_df, min_overs=4):
@@ -584,53 +593,509 @@ def economy_vs_average_scatter(bowling_df, min_overs=4):
     agg["average"] = agg.apply(
         lambda r: r["runs"] / r["wickets"] if r["wickets"] > 0 else None, axis=1
     )
-    # For bowlers with 0 wickets, plot at top of axis with different marker
     wicketed = agg[agg["wickets"] > 0].copy()
+    wicketless = agg[agg["wickets"] == 0].copy()
     if wicketed.empty:
         return go.Figure()
 
+    # Wicketless bowlers get mixed into the plot with a diamond marker at the top of the avg range.
+    max_avg = float(wicketed["average"].max())
+    wicketless_y = max_avg
+
+    # Merge wicketed + wicketless per team — one trace per team so legend filters both.
+    agg["plot_y"] = agg["average"].fillna(wicketless_y)
+    agg["symbol"] = agg["wickets"].apply(lambda w: "circle" if w > 0 else "diamond")
+    agg["size"] = agg.apply(
+        lambda r: r["wickets"] * 4 + 8 if r["wickets"] > 0 else r["overs"] * 1.5 + 8, axis=1
+    )
+    agg["hover_line"] = agg.apply(
+        lambda r: (
+            f"Avg: {r['average']:.1f}<br>{int(r['wickets'])} wkts in {r['overs']:.1f} overs ({int(r['runs'])} runs)"
+            if r["wickets"] > 0
+            else f"No wickets yet<br>0 wkts in {r['overs']:.1f} overs ({int(r['runs'])} runs)"
+        ),
+        axis=1,
+    )
+
     fig = go.Figure()
-    for team in sorted(wicketed["team"].unique()):
-        tdf = wicketed[wicketed["team"] == team]
+    for team in sorted(agg["team"].unique()):
+        tdf = agg[agg["team"] == team]
         color = team_color(team)
         fig.add_trace(go.Scatter(
             x=tdf["economy"],
-            y=tdf["average"],
+            y=tdf["plot_y"],
             mode="markers+text",
             name=team_short(team),
             marker=dict(
                 color=color,
-                size=tdf["wickets"] * 4 + 8,
+                symbol=tdf["symbol"],
+                size=tdf["size"],
                 line=dict(width=1, color="white"),
                 opacity=0.85,
             ),
             text=tdf["bowler"],
             textposition="top center",
             textfont=dict(size=9, color="#1f2937"),
-            customdata=tdf[["wickets", "overs", "runs"]].values,
-            hovertemplate=(
-                "<b>%{text}</b><br>"
-                "Econ: %{x:.2f}<br>Avg: %{y:.1f}<br>"
-                "%{customdata[0]} wkts in %{customdata[1]:.1f} overs "
-                "(%{customdata[2]} runs)<extra></extra>"
-            ),
+            customdata=tdf["hover_line"].values,
+            hovertemplate="<b>%{text}</b><br>Econ: %{x:.2f}<br>%{customdata}<extra></extra>",
         ))
 
     med_econ = float(wicketed["economy"].median())
     med_avg = float(wicketed["average"].median())
     fig.add_vline(x=med_econ, line_dash="dot", line_color="#9ca3af", opacity=0.7)
     fig.add_hline(y=med_avg, line_dash="dot", line_color="#9ca3af", opacity=0.7)
+    # Quadrant labels (lower is better on both axes, so bottom-left is elite).
+    quadrants = [
+        (0.01, 0.02, "left",  "bottom", "#16a34a", "Elite<br><span style='font-size:9px'>cheap · strikes</span>"),
+        (0.99, 0.02, "right", "bottom", "#0284c7", "Strike bowler<br><span style='font-size:9px'>wickets but leaks runs</span>"),
+        (0.01, 0.98, "left",  "top",    "#ca8a04", "Stingy<br><span style='font-size:9px'>economical · few wickets</span>"),
+        (0.99, 0.98, "right", "top",    "#dc2626", "Struggles<br><span style='font-size:9px'>expensive · few wickets</span>"),
+    ]
+    for x, y, xa, ya, color, text in quadrants:
+        fig.add_annotation(
+            x=x, y=y, xref="paper", yref="paper",
+            text=text, showarrow=False,
+            xanchor=xa, yanchor=ya,
+            font=dict(size=11, color=color),
+            bgcolor="rgba(255,255,255,0.75)",
+            borderpad=3,
+        )
+
     fig.add_annotation(
-        x=med_econ, y=wicketed["average"].min(),
-        text="← elite (cheap + strikes)", showarrow=False,
-        xanchor="right", yanchor="bottom",
+        x=0.5, y=-0.22, xref="paper", yref="paper",
+        text="● circle = has wickets (size ∝ wickets) &nbsp;·&nbsp; ◆ diamond = no wickets yet (size ∝ overs bowled)",
+        showarrow=False, xanchor="center", yanchor="top",
+        font=dict(size=10, color="#6b7280"),
+    )
+    fig.update_layout(
+        xaxis=dict(title="Economy (runs/over)"),
+        yaxis=dict(title="Bowling average (runs/wicket)"),
+        legend=dict(orientation="h", yanchor="top", y=-0.28, xanchor="center", x=0.5),
+        margin=dict(b=110),
+    )
+    return _apply_style(fig, height=520)
+
+
+def drs_combined(reviews_df, bbb_df, min_umpire_reviews=2):
+    """Single chart toggling Team view (stacked by role + outcome) and Umpire view.
+
+    Team view: diverging stacked bar. Left = unsuccessful reviews, right = successful.
+    Each side split into Batting (dark shade) vs Fielding (light shade).
+    Umpire view: simple diverging bar (overturned left / upheld right).
+    """
+    if reviews_df.empty:
+        return go.Figure()
+    df = reviews_df.copy()
+    df["decision_norm"] = df["decision"].astype(str).str.lower()
+
+    # Attach batting team per (match_number, innings) from ball_by_ball
+    if not bbb_df.empty and "match_number" in df.columns:
+        bat_map = (
+            bbb_df.drop_duplicates(["match_number", "innings"])[
+                ["match_number", "innings", "team"]
+            ].rename(columns={"team": "batting_team"})
+        )
+        df = df.merge(bat_map, on=["match_number", "innings"], how="left")
+        df["role"] = df.apply(
+            lambda r: "Batting" if r["team"] == r.get("batting_team") else "Fielding",
+            axis=1,
+        )
+    else:
+        df["role"] = "Unknown"
+
+    # --- Team view data: 4 buckets per team ---
+    pivot = df.pivot_table(
+        index="team", columns=["role", "decision_norm"],
+        aggfunc="size", fill_value=0,
+    )
+
+    def _get(team, role, dec):
+        try:
+            return int(pivot.loc[team, (role, dec)])
+        except (KeyError, TypeError):
+            return 0
+
+    teams_all = pivot.index.tolist()
+    # Total reviews per team → sort ascending so top = most active
+    totals = {t: sum(_get(t, r, d) for r in ["Batting", "Fielding"] for d in ["struck down", "upheld"]) for t in teams_all}
+    teams = sorted(teams_all, key=lambda t: totals[t])
+    team_labels = [team_short(t) for t in teams]
+
+    bat_succ = [_get(t, "Batting", "struck down") for t in teams]
+    bat_fail = [_get(t, "Batting", "upheld") for t in teams]
+    fld_succ = [_get(t, "Fielding", "struck down") for t in teams]
+    fld_fail = [_get(t, "Fielding", "upheld") for t in teams]
+    team_succ_total = [bat_succ[i] + fld_succ[i] for i in range(len(teams))]
+    team_fail_total = [bat_fail[i] + fld_fail[i] for i in range(len(teams))]
+    team_total = [team_succ_total[i] + team_fail_total[i] for i in range(len(teams))]
+    team_rate = [round(team_succ_total[i] / team_total[i] * 100) if team_total[i] else 0 for i in range(len(teams))]
+
+    # --- Umpire view data (split by role) ---
+    ump_pivot = df.pivot_table(
+        index="umpire", columns=["role", "decision_norm"],
+        aggfunc="size", fill_value=0,
+    )
+
+    def _uget(ump, role, dec):
+        try:
+            return int(ump_pivot.loc[ump, (role, dec)])
+        except (KeyError, TypeError):
+            return 0
+
+    ump_all = ump_pivot.index.tolist()
+    ump_totals = {u: sum(_uget(u, r, d) for r in ["Batting", "Fielding"] for d in ["struck down", "upheld"]) for u in ump_all}
+    ump_all = [u for u in ump_all if ump_totals[u] >= min_umpire_reviews]
+    # Rate = upheld / total (umpire accuracy). Sort ascending so least accurate at top.
+    ump_rates = {
+        u: round(
+            (_uget(u, "Batting", "upheld") + _uget(u, "Fielding", "upheld"))
+            / ump_totals[u] * 100
+        ) if ump_totals[u] else 0
+        for u in ump_all
+    }
+    ump_labels = sorted(ump_all, key=lambda u: ump_rates[u])
+    ump_bat_up = [_uget(u, "Batting", "upheld") for u in ump_labels]
+    ump_fld_up = [_uget(u, "Fielding", "upheld") for u in ump_labels]
+    ump_bat_ov = [_uget(u, "Batting", "struck down") for u in ump_labels]
+    ump_fld_ov = [_uget(u, "Fielding", "struck down") for u in ump_labels]
+    ump_up_total = [ump_bat_up[i] + ump_fld_up[i] for i in range(len(ump_labels))]
+    ump_rate = [ump_rates[u] for u in ump_labels]
+
+    C_BAT_SUCC = "#15803d"  # dark green
+    C_FLD_SUCC = "#86efac"  # light green
+    C_BAT_FAIL = "#b91c1c"  # dark red
+    C_FLD_FAIL = "#fca5a5"  # light red
+
+    fig = go.Figure()
+    # Successful side (left, negative): batting + fielding stacked
+    fig.add_trace(go.Bar(
+        y=team_labels, x=[-v for v in bat_succ], name="Batting — Successful",
+        orientation="h", marker=dict(color=C_BAT_SUCC),
+        text=bat_succ, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Batting successful: %{text}<extra></extra>",
+        visible=True,
+    ))
+    fig.add_trace(go.Bar(
+        y=team_labels, x=[-v for v in fld_succ], name="Fielding — Successful",
+        orientation="h", marker=dict(color=C_FLD_SUCC),
+        text=fld_succ, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Fielding successful: %{text}<extra></extra>",
+        visible=True,
+    ))
+    # Unsuccessful side (right, positive)
+    fig.add_trace(go.Bar(
+        y=team_labels, x=bat_fail, name="Batting — Unsuccessful",
+        orientation="h", marker=dict(color=C_BAT_FAIL),
+        text=bat_fail, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Batting unsuccessful: %{text}<extra></extra>",
+        visible=True,
+    ))
+    fig.add_trace(go.Bar(
+        y=team_labels, x=fld_fail, name="Fielding — Unsuccessful",
+        orientation="h", marker=dict(color=C_FLD_FAIL),
+        text=fld_fail, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Fielding unsuccessful: %{text}<extra></extra>",
+        visible=True,
+    ))
+    # Umpire traces (hidden initially) — stacked by role
+    # Right side: Upheld (correct) split batting/fielding
+    fig.add_trace(go.Bar(
+        y=ump_labels, x=ump_bat_up, name="Batting review — Upheld",
+        orientation="h", marker=dict(color=C_BAT_SUCC),
+        text=ump_bat_up, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Batting review upheld: %{text}<extra></extra>",
+        visible=False,
+    ))
+    fig.add_trace(go.Bar(
+        y=ump_labels, x=ump_fld_up, name="Fielding review — Upheld",
+        orientation="h", marker=dict(color=C_FLD_SUCC),
+        text=ump_fld_up, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Fielding review upheld: %{text}<extra></extra>",
+        visible=False,
+    ))
+    # Left side: Overturned (incorrect) split batting/fielding
+    fig.add_trace(go.Bar(
+        y=ump_labels, x=[-v for v in ump_bat_ov], name="Batting review — Overturned",
+        orientation="h", marker=dict(color=C_BAT_FAIL),
+        text=ump_bat_ov, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Batting review overturned: %{text}<extra></extra>",
+        visible=False,
+    ))
+    fig.add_trace(go.Bar(
+        y=ump_labels, x=[-v for v in ump_fld_ov], name="Fielding review — Overturned",
+        orientation="h", marker=dict(color=C_FLD_FAIL),
+        text=ump_fld_ov, textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Fielding review overturned: %{text}<extra></extra>",
+        visible=False,
+    ))
+
+    team_annotations = [
+        dict(x=team_fail_total[i], y=team_labels[i], xanchor="left", yanchor="middle",
+             text=f"  {team_rate[i]}% success",
+             showarrow=False, font=dict(size=11, color="#6b7280"))
+        for i in range(len(team_labels))
+    ]
+    ump_annotations = [
+        dict(x=ump_up_total[i], y=ump_labels[i], xanchor="left", yanchor="middle",
+             text=f"  {int(ump_rate[i])}% upheld",
+             showarrow=False, font=dict(size=11, color="#6b7280"))
+        for i in range(len(ump_labels))
+    ]
+
+    team_xtitle = "← Successful    Unsuccessful →"
+    ump_xtitle = "← Overturned    Upheld →"
+
+    fig.update_layout(
+        barmode="relative",
+        xaxis=dict(title=team_xtitle, zeroline=True, zerolinecolor="#374151", zerolinewidth=1),
+        yaxis=dict(title=""),
+        legend=dict(orientation="h", yanchor="top", y=-0.2, xanchor="center", x=0.5),
+        margin=dict(l=140, r=130, t=60, b=80),
+        annotations=team_annotations,
+        updatemenus=[dict(
+            type="buttons", direction="right",
+            x=0.5, xanchor="center", y=1.14, yanchor="top",
+            showactive=True,
+            buttons=[
+                dict(label="By Team", method="update", args=[
+                    {"visible": [True, True, True, True, False, False, False, False]},
+                    {"xaxis.title.text": team_xtitle, "annotations": team_annotations},
+                ]),
+                dict(label="By Umpire", method="update", args=[
+                    {"visible": [False, False, False, False, True, True, True, True]},
+                    {"xaxis.title.text": ump_xtitle, "annotations": ump_annotations},
+                ]),
+            ],
+        )],
+    )
+    height = max(380, max(len(team_labels), len(ump_labels)) * 34 + 180)
+    return _apply_style(fig, height=height)
+
+
+def drs_reviews_by_team(reviews_df):
+    """Stacked horizontal bar: reviews taken per team, split by outcome.
+
+    'struck down' = successful (on-field decision reversed).
+    'upheld' = unsuccessful (on-field decision stood).
+    """
+    if reviews_df.empty:
+        return go.Figure()
+    df = reviews_df.copy()
+    df["outcome"] = df["decision"].map(
+        lambda d: "Successful" if str(d).lower() == "struck down" else "Unsuccessful"
+    )
+    grp = df.groupby(["team", "outcome"]).size().unstack(fill_value=0)
+    for col in ["Successful", "Unsuccessful"]:
+        if col not in grp.columns:
+            grp[col] = 0
+    grp["total"] = grp["Successful"] + grp["Unsuccessful"]
+    grp["success_rate"] = (grp["Successful"] / grp["total"] * 100).round(0)
+    grp = grp.sort_values("total", ascending=True)
+    teams = grp.index.tolist()
+    short = [team_short(t) for t in teams]
+
+    fig = go.Figure()
+    fig.add_trace(go.Bar(
+        y=short, x=grp["Successful"], name="Successful",
+        orientation="h", marker=dict(color="#16a34a"),
+        text=grp["Successful"], textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Successful: %{x}<extra></extra>",
+    ))
+    fig.add_trace(go.Bar(
+        y=short, x=grp["Unsuccessful"], name="Unsuccessful",
+        orientation="h", marker=dict(color="#dc2626"),
+        text=grp["Unsuccessful"], textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Unsuccessful: %{x}<extra></extra>",
+    ))
+    # Annotate success rate on the right of each bar
+    for i, t in enumerate(teams):
+        total = int(grp.loc[t, "total"])
+        rate = int(grp.loc[t, "success_rate"]) if total > 0 else 0
+        fig.add_annotation(
+            x=total, y=short[i], xanchor="left", yanchor="middle",
+            text=f"  {rate}% success",
+            showarrow=False, font=dict(size=11, color="#6b7280"),
+        )
+    fig.update_layout(
+        barmode="stack",
+        xaxis=dict(title="Reviews taken"),
+        yaxis=dict(title=""),
+        legend=dict(orientation="h", yanchor="top", y=-0.15, xanchor="center", x=0.5),
+        margin=dict(l=60, r=90, t=30, b=60),
+    )
+    return _apply_style(fig, height=max(320, len(teams) * 38 + 120))
+
+
+def impact_player_subs_by_team(subs_df, players_df):
+    """Per-team arrow strip: each sub is an arrow glyph on an over-timeline.
+
+    - Direction: ↑ = strengthening batting (bowler/AR → batter/AR), ↓ = strengthening bowling,
+      ◆ = like-for-like (same role).
+    - Color: 1st innings (blue) vs 2nd innings (orange).
+    """
+    if subs_df.empty or players_df.empty:
+        return go.Figure()
+    df = subs_df[subs_df["reason"] == "impact_player"].copy()
+    if df.empty:
+        return go.Figure()
+
+    role_map = dict(zip(players_df["player"], players_df["role"].str.lower()))
+
+    def _classify(row):
+        ro = role_map.get(row["player_out"], "")
+        ri = role_map.get(row["player_in"], "")
+        bat_roles = {"batter", "wicketkeeper", "wicket-keeper"}
+        bowl_roles = {"bowler"}
+        # strengthening batting: was bowler, now batter/AR
+        if ro in bowl_roles and ri not in bowl_roles:
+            return "bat"
+        if ri in bat_roles and ro not in bat_roles:
+            return "bat"
+        # strengthening bowling: was batter/AR, now bowler
+        if ri in bowl_roles and ro not in bowl_roles:
+            return "bowl"
+        if ro in bat_roles and ri not in bat_roles and ri not in bat_roles:
+            return "bowl"
+        return "same"
+
+    df["swap"] = df.apply(_classify, axis=1)
+    df["x"] = df["over"] + df["ball"] / 10
+
+    # Order teams by total subs (most active at top)
+    order = df.groupby("team").size().sort_values(ascending=True).index.tolist()
+    short_order = [team_short(t) for t in order]
+    df["team_s"] = df["team"].map(team_short)
+
+    symbol_map = {"bat": "triangle-up", "bowl": "triangle-down", "same": "diamond"}
+    innings_color = {1: "#2563eb", 2: "#f59e0b"}
+
+    fig = go.Figure()
+    # Separator guide lines between team rows
+    for y in short_order:
+        fig.add_shape(
+            type="line", x0=0, x1=20, y0=y, y1=y,
+            line=dict(color="#e5e7eb", width=1, dash="dot"),
+            layer="below",
+        )
+
+    # Four traces: (innings × swap) for a clean legend. Group like-for-like under one entry.
+    legend_config = [
+        (1, "bat", "1st innings · strengthen batting"),
+        (1, "bowl", "1st innings · strengthen bowling"),
+        (2, "bat", "2nd innings · strengthen batting"),
+        (2, "bowl", "2nd innings · strengthen bowling"),
+    ]
+    for inn, swap, name in legend_config:
+        sub = df[(df["innings"] == inn) & (df["swap"] == swap)]
+        if sub.empty:
+            continue
+        fig.add_trace(go.Scatter(
+            x=sub["x"], y=sub["team_s"],
+            mode="markers", name=name,
+            marker=dict(
+                symbol=symbol_map[swap], size=16,
+                color=innings_color[inn],
+                line=dict(color="#ffffff", width=1.5),
+            ),
+            customdata=list(zip(sub["player_in"], sub["player_out"], sub["innings"], sub["swap"])),
+            hovertemplate=(
+                "<b>%{y}</b> · over %{x:.1f} · innings %{customdata[2]}<br>"
+                "In: %{customdata[0]}<br>Out: %{customdata[1]}<br>"
+                "Move: %{customdata[3]}<extra></extra>"
+            ),
+        ))
+    # Like-for-like as a single grey trace
+    same = df[df["swap"] == "same"]
+    if not same.empty:
+        fig.add_trace(go.Scatter(
+            x=same["x"], y=same["team_s"],
+            mode="markers", name="Like-for-like",
+            marker=dict(symbol="diamond", size=14, color="#9ca3af",
+                        line=dict(color="#ffffff", width=1.5)),
+            customdata=list(zip(same["player_in"], same["player_out"], same["innings"])),
+            hovertemplate=(
+                "<b>%{y}</b> · over %{x:.1f} · innings %{customdata[2]}<br>"
+                "In: %{customdata[0]}<br>Out: %{customdata[1]}<br>"
+                "Move: like-for-like<extra></extra>"
+            ),
+        ))
+
+    # Phase band shading
+    fig.add_vrect(x0=0, x1=6, fillcolor="#93c5fd", opacity=0.08, line_width=0, layer="below")
+    fig.add_vrect(x0=6, x1=15, fillcolor="#fde68a", opacity=0.08, line_width=0, layer="below")
+    fig.add_vrect(x0=15, x1=20, fillcolor="#fca5a5", opacity=0.08, line_width=0, layer="below")
+    for x_pos, label in [(3, "Powerplay"), (10.5, "Middle"), (17.5, "Death")]:
+        fig.add_annotation(
+            x=x_pos, y=1.02, xref="x", yref="paper",
+            text=label, showarrow=False,
+            font=dict(size=10, color="#6b7280"),
+            xanchor="center", yanchor="bottom",
+        )
+
+    # Footnote explaining glyphs
+    fig.add_annotation(
+        x=0.5, y=-0.22, xref="paper", yref="paper",
+        text="▲ strengthen batting · ▼ strengthen bowling · ◆ like-for-like &nbsp;·&nbsp; colors: 1st innings (blue) / 2nd innings (orange)",
+        showarrow=False, xanchor="center", yanchor="top",
         font=dict(size=10, color="#6b7280"),
     )
 
     fig.update_layout(
-        xaxis=dict(title="Economy (runs/over)"),
-        yaxis=dict(title="Bowling average (runs/wicket)"),
-        legend=dict(orientation="h", yanchor="top", y=-0.12, xanchor="center", x=0.5),
-        margin=dict(b=80),
+        xaxis=dict(title="Over introduced", range=[0, 20], dtick=2),
+        yaxis=dict(title="", categoryorder="array", categoryarray=short_order),
+        legend=dict(orientation="h", yanchor="top", y=-0.3, xanchor="center", x=0.5),
+        margin=dict(l=60, r=40, t=50, b=110),
     )
-    return _apply_style(fig, height=520)
+    return _apply_style(fig, height=max(360, len(order) * 42 + 140))
+
+
+def drs_umpire_performance(reviews_df, min_reviews=2):
+    """Diverging bar: per umpire, green = decisions upheld (correct), red = struck down (incorrect).
+
+    An umpire whose calls are mostly upheld is more accurate under DRS.
+    """
+    if reviews_df.empty:
+        return go.Figure()
+    df = reviews_df.copy()
+    df["decision_norm"] = df["decision"].astype(str).str.lower()
+    grp = df.groupby("umpire")["decision_norm"].value_counts().unstack(fill_value=0)
+    for col in ["struck down", "upheld"]:
+        if col not in grp.columns:
+            grp[col] = 0
+    grp["total"] = grp["struck down"] + grp["upheld"]
+    grp = grp[grp["total"] >= min_reviews]
+    if grp.empty:
+        return go.Figure()
+    grp["accuracy"] = (grp["upheld"] / grp["total"] * 100).round(0)
+    grp = grp.sort_values("accuracy", ascending=True)
+    umpires = grp.index.tolist()
+
+    fig = go.Figure()
+    fig.add_trace(go.Bar(
+        y=umpires, x=-grp["struck down"], name="Overturned",
+        orientation="h", marker=dict(color="#dc2626"),
+        text=grp["struck down"], textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Overturned: %{text}<extra></extra>",
+    ))
+    fig.add_trace(go.Bar(
+        y=umpires, x=grp["upheld"], name="Upheld",
+        orientation="h", marker=dict(color="#16a34a"),
+        text=grp["upheld"], textposition="inside",
+        hovertemplate="<b>%{y}</b><br>Upheld: %{text}<extra></extra>",
+    ))
+    # Accuracy annotation on the right
+    max_right = max(grp["upheld"].max(), 1)
+    for u in umpires:
+        fig.add_annotation(
+            x=max_right, y=u, xanchor="left", yanchor="middle",
+            text=f"  {int(grp.loc[u, 'accuracy'])}% upheld",
+            showarrow=False, font=dict(size=11, color="#6b7280"),
+        )
+    fig.update_layout(
+        barmode="relative",
+        xaxis=dict(title="← Overturned    Upheld →", zeroline=True, zerolinecolor="#374151", zerolinewidth=1),
+        yaxis=dict(title=""),
+        legend=dict(orientation="h", yanchor="top", y=-0.15, xanchor="center", x=0.5),
+        margin=dict(l=140, r=130, t=30, b=60),
+    )
+    return _apply_style(fig, height=max(320, len(umpires) * 34 + 120))

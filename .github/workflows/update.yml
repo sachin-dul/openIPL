@@ -1,5 +1,5 @@
 name: Update IPL Data
-run-name: "Update IPL ${{ inputs.season || 'current' }} season data (${{ inputs.fetch_mode || 'auto' }})"
+run-name: "Update IPL ${{ inputs.season || 'current' }} season data (${{ inputs.fetch_mode || 'incremental' }})"
 
 on:
   workflow_dispatch:
@@ -9,9 +9,9 @@ on:
         required: false
         default: '2026'
       fetch_mode:
-        description: 'Fetch mode (auto/full/incremental)'
+        description: 'Fetch mode (incremental/full/auto)'
         required: false
-        default: 'auto'
+        default: 'incremental'
       reprocess:
         description: 'Reprocess already processed matches'
         required: false
@@ -51,8 +51,16 @@ jobs:
           if [ -n "${{ github.event.inputs.fetch_mode }}" ]; then
             echo "mode=${{ github.event.inputs.fetch_mode }}" >> $GITHUB_OUTPUT
           else
-            echo "mode=auto" >> $GITHUB_OUTPUT
+            echo "mode=incremental" >> $GITHUB_OUTPUT
           fi
+
+      - name: Restore Cricsheet JSON cache
+        uses: actions/cache@v4
+        with:
+          path: .cricsheet_cache
+          key: cricsheet-${{ steps.season.outputs.year }}-${{ github.run_id }}
+          restore-keys: |
+            cricsheet-${{ steps.season.outputs.year }}-
 
       - name: Fetch and process IPL data
         id: process

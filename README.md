@@ -81,7 +81,7 @@ shiny run app.py
 | **Batting** | Orange Cap, strike rates, boundaries, phase heatmaps |
 | **Bowling** | Purple Cap, economy, dot balls, phase heatmaps |
 | **Fielding & Partnerships** | Stacked fielding breakdown, best partnerships by wicket |
-| **Season Analysis** | Scoring rhythm heatmap, team fingerprint radar, runs-per-over innings compare, economy vs average scatter, standings bump chart, toss analysis, phase comparison, venue stats |
+| **Season Analysis** | Scoring rhythm heatmap, team fingerprint radar, runs-per-over innings compare, economy vs average scatter, standings bump chart, toss analysis, phase comparison, venue stats, DRS reviews (team/umpire toggle with batting vs fielding split), impact player introductions timeline |
 | **Match Centre** | Scorecards, worm chart, fall of wickets, partnerships, DRS reviews, substitutions |
 
 ## Quick Start
