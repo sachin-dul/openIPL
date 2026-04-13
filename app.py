@@ -8,7 +8,7 @@ from utils.data_loader import (
     load_matches, load_ball_by_ball, load_batting_scorecards,
     load_bowling_scorecards, load_partnerships, load_fall_of_wickets,
     load_phase_summaries, load_points_table, load_reviews,
-    load_substitutions, load_all_fielding,
+    load_substitutions, load_all_fielding, load_players,
 )
 from utils.charts import (
     horizontal_bar, vertical_bar, line_chart, worm_chart,
@@ -17,6 +17,7 @@ from utils.charts import (
     team_dna_heatmap, team_radar_chart,
     runs_per_over_innings_compare,
     economy_vs_average_scatter,
+    drs_combined, impact_player_subs_by_team,
     TEAM_COLORS, LAYOUT_TEMPLATE,
     team_color, team_logo, team_short,
 )
@@ -155,7 +156,7 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
 try:
     matches_df = load_matches()
     match_choices = {
-        str(int(row["match_number"])): f"Match {int(row['match_number'])}: {row['team_1']} vs {row['team_2']} ({row['date']})"
+        str(int(row["match_number"])): f"Match {int(row['match_number'])}: {team_short(row['team_1'])} vs {team_short(row['team_2'])} ({row['date']})"
         for _, row in matches_df.sort_values("match_number").iterrows()
     }
 except Exception:
@@ -348,6 +349,14 @@ app_ui = ui.page_navbar(
             col_widths=[6, 6],
         ),
         ui.layout_columns(
+            ui.card(ui.card_header("DRS Reviews — toggle Team / Umpire view"), ui.output_ui("season_drs_chart")),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
+            ui.card(ui.card_header("Impact Player Introductions — by over"), ui.output_ui("season_subs_chart")),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
             ui.card(
                 ui.card_header("Team Phase Comparison"),
                 ui.input_select("phase_metric", "Metric", choices={"run_rate": "Run Rate", "wickets": "Wickets", "boundaries": "Boundaries", "dots": "Dots"}),
@@ -376,7 +385,7 @@ app_ui = ui.page_navbar(
             col_widths=[12],
         ),
         ui.layout_columns(
-            ui.card(ui.card_header("Key Moments"), ui.output_ui("match_key_moments")),
+            ui.card(ui.card_header("Key Stats"), ui.output_ui("match_key_moments")),
             col_widths=[12],
         ),
         ui.layout_columns(
@@ -595,7 +604,7 @@ def server(input, output, session):
             </tr></thead><tbody style="line-height:2.2">{rows_html}</tbody></table>""")
 
     def _toss_matches():
-        """Matches for toss stats: exclude abandoned/no-result only."""
+        """Matches for toss stats: exclude no-result only (rain-shortened games still have a toss outcome)."""
         return _exclude_no_results(load_matches())
 
     def _has_abandoned():
@@ -1409,6 +1418,20 @@ def server(input, output, session):
         return plotly_ui(economy_vs_average_scatter(bowl))
 
     @render.ui
+    def season_drs_chart():
+        r = load_reviews()
+        if r.empty:
+            return empty_state("No DRS reviews yet")
+        return plotly_ui(drs_combined(r, load_ball_by_ball()))
+
+    @render.ui
+    def season_subs_chart():
+        s = load_substitutions()
+        if s.empty:
+            return empty_state("No impact player subs yet")
+        return plotly_ui(impact_player_subs_by_team(s, load_players()))
+
+    @render.ui
     def bump_chart():
         matches = load_matches()
         if matches.empty:
@@ -1609,27 +1632,24 @@ def server(input, output, session):
 
     @render.ui
     def toss_decision_chart():
-        m = load_matches()
-        m = m[pd.to_numeric(m.get("target_overs", 20), errors="coerce").fillna(20) >= 20]
+        m = _toss_matches()
         td = m["toss_decision"].value_counts().reset_index()
         td.columns = ["Decision", "Count"]
         chart = plotly_ui(vertical_bar(td, x="Decision", y="Count", title="", text="Count"))
-        if _has_rain_shortened(load_matches()):
-            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded</div>'))
+        if _has_abandoned():
+            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Abandoned matches excluded</div>'))
         return chart
 
     @render.ui
     def toss_match_chart():
-        m = load_matches().copy()
-        has_rain = _has_rain_shortened(m)
-        m = m[pd.to_numeric(m.get("target_overs", 20), errors="coerce").fillna(20) >= 20]
+        m = _toss_matches().copy()
         m["toss_won_match"] = m["toss_winner"] == m["winner"]
         tw = m["toss_won_match"].value_counts().reset_index()
         tw.columns = ["Result", "Count"]
         tw["Result"] = tw["Result"].map({True: "Yes", False: "No"})
         chart = plotly_ui(vertical_bar(tw, x="Result", y="Count", title="", text="Count"))
-        if has_rain:
-            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded</div>'))
+        if _has_abandoned():
+            return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Abandoned matches excluded</div>'))
         return chart
 
     @render.ui
@@ -1819,8 +1839,18 @@ def server(input, output, session):
         s1 = str(row["team_1_score"]) if str(row["team_1_score"]) != "nan" else "-"
         s2 = str(row["team_2_score"]) if str(row["team_2_score"]) != "nan" else "-"
 
+        toss_winner = str(row.get("toss_winner", ""))
+        toss_decision = str(row.get("toss_decision", ""))
+        toss_line = ""
+        if toss_winner and toss_winner != "nan":
+            toss_line = (
+                f'<strong style="color:{team_color(toss_winner)};">{team_short(toss_winner)}</strong>'
+                f' won the toss, chose to <strong style="color:#111827;">{toss_decision}</strong>'
+            )
+
         if is_no_result:
-            summary = f"No Result | {row['venue']}"
+            result_line = '<span style="color:#6b7280;">No Result</span>'
+            pom = ""
         else:
             wbw = pd.to_numeric(row.get("win_by_wickets", 0), errors="coerce") or 0
             wbr = pd.to_numeric(row.get("win_by_runs", 0), errors="coerce") or 0
@@ -1830,12 +1860,29 @@ def server(input, output, session):
                 margin = f"by {int(wbr)} runs"
             else:
                 margin = result
+            result_line = f'<span style="color:{team_color(winner)}; font-weight:700;">{winner}</span> won {margin}'
             pom = str(row.get("player_of_match", ""))
-            pom_text = f" | POM: {pom}" if pom and pom != "nan" else ""
-            summary = f"<b>{winner}</b> won {margin} | {row['venue']}{pom_text}"
+            if pom == "nan":
+                pom = ""
+
+        # Three-column meta grid under the teams
+        meta_cells = []
+        if toss_line:
+            meta_cells.append(("TOSS", toss_line, "#374151"))
+        meta_cells.append(("VENUE", str(row["venue"]), "#374151"))
+        if pom:
+            meta_cells.append(("PLAYER OF THE MATCH", pom, "#1a56db"))
+
+        meta_html = "".join(
+            f'<div style="flex:1; min-width:140px; text-align:center; padding:0 12px;">'
+            f'<div style="font-size:10px; font-weight:600; letter-spacing:0.08em; color:#9ca3af; margin-bottom:4px;">{label}</div>'
+            f'<div style="font-size:13px; color:{color}; font-weight:500;">{value}</div>'
+            f'</div>'
+            for label, value, color in meta_cells
+        )
 
         return ui.HTML(f"""
-        <div style="display:flex; align-items:center; justify-content:center; gap:30px; padding:20px 0;">
+        <div style="display:flex; align-items:center; justify-content:center; gap:30px; padding:20px 0 10px;">
             <div style="text-align:center;">
                 <div style="height:70px; display:flex; align-items:center; justify-content:center;">
                     <img src="{team_logo(t1)}" style="max-height:70px; max-width:70px; object-fit:contain;">
@@ -1852,8 +1899,9 @@ def server(input, output, session):
                 <div style="font-size:28px; font-weight:800; color:{team_color(t2)};">{s2}</div>
             </div>
         </div>
-        <div style="text-align:center; padding-bottom:10px;">
-            {summary}
+        <div style="text-align:center; font-size:16px; padding-bottom:16px;">{result_line}</div>
+        <div style="display:flex; justify-content:center; flex-wrap:wrap; border-top:1px solid #e5e7eb; padding:14px 0 16px;">
+            {meta_html}
         </div>
         """)
 

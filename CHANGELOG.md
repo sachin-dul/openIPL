@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-13
+
+### Added
+
+- DRS Reviews chart in Season Analysis with toggle between **By Team** and **By Umpire** views; stacked diverging bars split each side by role (batting-side vs fielding-side reviews)
+- Impact Player Introductions per-team arrow strip: glyphs encode role swap (▲ strengthen batting, ▼ strengthen bowling, ◆ like-for-like), colored by innings, plotted over a 0–20 over timeline with phase bands
+- GitHub Actions cache for `.cricsheet_cache/` so `incremental` mode works correctly in CI (old JSONs persist across runs → `points_table.csv` and `player_registry.csv` rebuild from the full set)
+
+### Changed
+
+- Match Centre header: result, toss (with team color), venue, and POM now laid out as a three-column meta strip instead of a pipe-delimited single line
+- Season Analysis histogram height bumped to match the Team Fingerprint radar in the same row
+- Workflow default fetch mode switched from `auto` → `incremental` (daily runs only fetch Cricsheet's last-7-days zip)
+
+---
+
 ## 2026-04-12
 
 ### Added
