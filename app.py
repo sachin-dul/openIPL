@@ -157,7 +157,7 @@ try:
     matches_df = load_matches()
     match_choices = {
         str(int(row["match_number"])): f"Match {int(row['match_number'])}: {team_short(row['team_1'])} vs {team_short(row['team_2'])} ({row['date']})"
-        for _, row in matches_df.sort_values("match_number").iterrows()
+        for _, row in matches_df.sort_values("match_number", ascending=False).iterrows()
     }
 except Exception:
     matches_df = pd.DataFrame()
