@@ -4,7 +4,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,1,3,RD Gaikwad,Auqib Nabi,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,1,4,SV Samson,Auqib Nabi,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,1,5,SV Samson,Auqib Nabi,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Chennai Super Kings,1,5.wides,SV Samson,Auqib Nabi,RD Gaikwad,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6.wides,SV Samson,Auqib Nabi,RD Gaikwad,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,1,6,SV Samson,Auqib Nabi,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,1,SV Samson,Mukesh Kumar,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,2,RD Gaikwad,Mukesh Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -65,7 +65,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,11,3,SV Samson,T Natarajan,A Mhatre,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,11,4,SV Samson,T Natarajan,A Mhatre,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,11,5,A Mhatre,T Natarajan,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Chennai Super Kings,11,5.wides,SV Samson,T Natarajan,A Mhatre,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6.wides,SV Samson,T Natarajan,A Mhatre,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,11,6,SV Samson,T Natarajan,A Mhatre,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,12,1,SV Samson,Kuldeep Yadav,A Mhatre,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,12,2,A Mhatre,Kuldeep Yadav,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
@@ -96,7 +96,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,16,3,SV Samson,Mukesh Kumar,A Mhatre,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,16,4,A Mhatre,Mukesh Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,16,5,A Mhatre,Mukesh Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
-1,Chennai Super Kings,16,5.wides,SV Samson,Mukesh Kumar,A Mhatre,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6.wides,SV Samson,Mukesh Kumar,A Mhatre,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Chennai Super Kings,16,6,SV Samson,Mukesh Kumar,A Mhatre,4,0,4,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,17,1,A Mhatre,L Ngidi,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,17,2,SV Samson,L Ngidi,A Mhatre,1,0,1,,0,0,0,0,0,False,,,,death
@@ -122,11 +122,11 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,20,4,S Dube,Mukesh Kumar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,20,5,S Dube,Mukesh Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,20,6,SV Samson,Mukesh Kumar,S Dube,2,0,2,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,1,0.noballs,P Nissanka,AJ Hosein,KL Rahul,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,1.noballs,P Nissanka,AJ Hosein,KL Rahul,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,1,P Nissanka,AJ Hosein,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,2,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,3,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,1,3.noballs,P Nissanka,AJ Hosein,KL Rahul,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,4.noballs,P Nissanka,AJ Hosein,KL Rahul,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,4,KL Rahul,AJ Hosein,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,5,KL Rahul,AJ Hosein,P Nissanka,1,0,1,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,6,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -161,7 +161,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,6,5,Sameer Rizvi,A Kamboj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,6,6,Sameer Rizvi,A Kamboj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,7,1,AR Patel,Gurjapneet Singh,Sameer Rizvi,0,0,0,,0,0,0,0,0,True,caught,AR Patel,SN Khan,middle
-2,Delhi Capitals,7,1.wides,DA Miller,Gurjapneet Singh,Sameer Rizvi,0,5,5,wides,5,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,2.wides,DA Miller,Gurjapneet Singh,Sameer Rizvi,0,5,5,wides,5,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,2,DA Miller,Gurjapneet Singh,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,3,Sameer Rizvi,Gurjapneet Singh,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,4,DA Miller,Gurjapneet Singh,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,middle
@@ -170,7 +170,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,8,1,Sameer Rizvi,J Overton,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,2,Sameer Rizvi,J Overton,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,3,Sameer Rizvi,J Overton,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,8,3.wides,DA Miller,J Overton,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,4.wides,DA Miller,J Overton,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,4,DA Miller,J Overton,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,5,Sameer Rizvi,J Overton,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,6,Sameer Rizvi,J Overton,DA Miller,0,0,0,,0,0,0,0,0,True,caught,Sameer Rizvi,D Brevis,middle
@@ -189,12 +189,12 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,11,1,T Stubbs,Noor Ahmad,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,11,2,T Stubbs,Noor Ahmad,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,11,3,T Stubbs,Noor Ahmad,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,11,3.wides,DA Miller,Noor Ahmad,T Stubbs,0,2,2,wides,2,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,4.wides,DA Miller,Noor Ahmad,T Stubbs,0,2,2,wides,2,0,0,0,0,False,,,,middle
 2,Delhi Capitals,11,4,T Stubbs,Noor Ahmad,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,11,5,DA Miller,Noor Ahmad,T Stubbs,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,11,5.wides,DA Miller,Noor Ahmad,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,6.wides,DA Miller,Noor Ahmad,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Delhi Capitals,11,6,DA Miller,Noor Ahmad,T Stubbs,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,12,0.wides,T Stubbs,KK Ahmed,DA Miller,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,1.wides,T Stubbs,KK Ahmed,DA Miller,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Delhi Capitals,12,1,T Stubbs,KK Ahmed,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,12,2,DA Miller,KK Ahmed,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,12,3,T Stubbs,KK Ahmed,DA Miller,2,0,2,,0,0,0,0,0,False,,,,middle
@@ -238,7 +238,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,18,5,Kuldeep Yadav,A Kamboj,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,18,6,T Stubbs,A Kamboj,Kuldeep Yadav,4,0,4,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,19,1,Kuldeep Yadav,J Overton,T Stubbs,0,1,1,legbyes,0,0,0,1,0,False,,,,death
-2,Delhi Capitals,19,1.wides,T Stubbs,J Overton,Kuldeep Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,2.wides,T Stubbs,J Overton,Kuldeep Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Delhi Capitals,19,2,T Stubbs,J Overton,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,19,3,T Stubbs,J Overton,Kuldeep Yadav,0,0,0,,0,0,0,0,0,True,caught,T Stubbs,Noor Ahmad,death
 2,Delhi Capitals,19,4,L Ngidi,J Overton,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
@@ -247,7 +247,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,20,1,Kuldeep Yadav,A Kamboj,L Ngidi,0,0,0,,0,0,0,0,0,True,caught,Kuldeep Yadav,D Brevis,death
 2,Delhi Capitals,20,2,T Natarajan,A Kamboj,L Ngidi,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,20,3,T Natarajan,A Kamboj,L Ngidi,1,0,1,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,20,3.noballs,L Ngidi,A Kamboj,T Natarajan,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Delhi Capitals,20,4.noballs,L Ngidi,A Kamboj,T Natarajan,0,1,1,noballs,0,1,0,0,0,False,,,,death
 2,Delhi Capitals,20,4,L Ngidi,A Kamboj,T Natarajan,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,20,5,L Ngidi,A Kamboj,T Natarajan,2,0,2,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,20,6,L Ngidi,A Kamboj,T Natarajan,0,0,0,,0,0,0,0,0,True,caught,L Ngidi,Gurjapneet Singh,death

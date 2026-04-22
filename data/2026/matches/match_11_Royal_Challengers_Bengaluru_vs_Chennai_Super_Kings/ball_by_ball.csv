@@ -36,7 +36,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,6,5,D Padikkal,KK Ahmed,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,6,6,PD Salt,KK Ahmed,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,7,1,D Padikkal,A Kamboj,PD Salt,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,7,1.wides,PD Salt,A Kamboj,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,2.wides,PD Salt,A Kamboj,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,7,2,PD Salt,A Kamboj,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,7,3,PD Salt,A Kamboj,D Padikkal,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,7,4,PD Salt,A Kamboj,D Padikkal,2,0,2,,0,0,0,0,0,False,,,,middle
@@ -72,7 +72,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,12,4,D Padikkal,Noor Ahmad,RM Patidar,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
 1,Royal Challengers Bengaluru,12,5,RM Patidar,Noor Ahmad,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,12,6,D Padikkal,Noor Ahmad,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,0.wides,D Padikkal,S Dube,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,1.wides,D Padikkal,S Dube,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,1,D Padikkal,S Dube,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,2,RM Patidar,S Dube,D Padikkal,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,3,RM Patidar,S Dube,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -93,7 +93,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,15,6,RM Patidar,J Overton,TH David,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
 1,Royal Challengers Bengaluru,16,1,RM Patidar,KK Ahmed,TH David,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,2,TH David,KK Ahmed,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,2.wides,RM Patidar,KK Ahmed,TH David,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,3.wides,RM Patidar,KK Ahmed,TH David,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,3,RM Patidar,KK Ahmed,TH David,6,0,6,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,4,RM Patidar,KK Ahmed,TH David,0,0,0,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,5,RM Patidar,KK Ahmed,TH David,4,0,4,,0,0,0,0,0,False,,,,death
@@ -108,7 +108,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,18,2,TH David,A Kamboj,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,3,TH David,A Kamboj,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,4,TH David,A Kamboj,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,4.noballs,TH David,A Kamboj,RM Patidar,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,5.noballs,TH David,A Kamboj,RM Patidar,0,1,1,noballs,0,1,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,5,TH David,A Kamboj,RM Patidar,6,0,6,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,6,TH David,A Kamboj,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,19,1,TH David,J Overton,RM Patidar,6,0,6,,0,0,0,0,0,False,,,,death
@@ -149,10 +149,10 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Chennai Super Kings,4,6,SN Khan,B Kumar,Kartik Sharma,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
 2,Chennai Super Kings,5,1,SN Khan,JA Duffy,Kartik Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Chennai Super Kings,5,2,SN Khan,JA Duffy,Kartik Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Chennai Super Kings,5,2.wides,SN Khan,JA Duffy,Kartik Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3.wides,SN Khan,JA Duffy,Kartik Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Chennai Super Kings,5,3,SN Khan,JA Duffy,Kartik Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Chennai Super Kings,5,4,SN Khan,JA Duffy,Kartik Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Chennai Super Kings,5,4.noballs,SN Khan,JA Duffy,Kartik Sharma,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,5.noballs,SN Khan,JA Duffy,Kartik Sharma,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
 2,Chennai Super Kings,5,5,SN Khan,JA Duffy,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
 2,Chennai Super Kings,5,6,Kartik Sharma,JA Duffy,SN Khan,6,0,6,,0,0,0,0,0,False,,,,powerplay
 2,Chennai Super Kings,6,1,SN Khan,Abhinandan Singh,Kartik Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -218,7 +218,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Chennai Super Kings,16,1,PR Veer,B Kumar,J Overton,0,0,0,,0,0,0,0,0,True,caught,PR Veer,RM Patidar,death
 2,Chennai Super Kings,16,2,A Kamboj,B Kumar,J Overton,1,0,1,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,16,3,J Overton,B Kumar,A Kamboj,4,0,4,,0,0,0,0,0,False,,,,death
-2,Chennai Super Kings,16,3.noballs,J Overton,B Kumar,A Kamboj,4,1,5,noballs,0,1,0,0,0,False,,,,death
+2,Chennai Super Kings,16,4.noballs,J Overton,B Kumar,A Kamboj,4,1,5,noballs,0,1,0,0,0,False,,,,death
 2,Chennai Super Kings,16,4,J Overton,B Kumar,A Kamboj,1,0,1,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,16,5,A Kamboj,B Kumar,J Overton,1,0,1,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,16,6,J Overton,B Kumar,A Kamboj,1,0,1,,0,0,0,0,0,False,,,,death
@@ -233,9 +233,9 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Chennai Super Kings,18,3,Noor Ahmad,B Kumar,A Kamboj,6,0,6,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,18,4,Noor Ahmad,B Kumar,A Kamboj,1,0,1,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,18,5,A Kamboj,B Kumar,Noor Ahmad,1,0,1,,0,0,0,0,0,False,,,,death
-2,Chennai Super Kings,18,5.wides,Noor Ahmad,B Kumar,A Kamboj,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,6.wides,Noor Ahmad,B Kumar,A Kamboj,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Chennai Super Kings,18,6,Noor Ahmad,B Kumar,A Kamboj,0,0,0,,0,0,0,0,0,True,caught,Noor Ahmad,V Kohli,death
-2,Chennai Super Kings,19,0.wides,A Kamboj,JA Duffy,MJ Henry,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1.wides,A Kamboj,JA Duffy,MJ Henry,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Chennai Super Kings,19,1,A Kamboj,JA Duffy,MJ Henry,4,0,4,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,19,2,A Kamboj,JA Duffy,MJ Henry,0,0,0,,0,0,0,0,0,False,,,,death
 2,Chennai Super Kings,19,3,A Kamboj,JA Duffy,MJ Henry,1,0,1,,0,0,0,0,0,False,,,,death

@@ -28,7 +28,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,5,3,AK Markram,Mohammed Siraj,A Badoni,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,4,AK Markram,Mohammed Siraj,A Badoni,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,5,A Badoni,Mohammed Siraj,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Lucknow Super Giants,5,5.wides,A Badoni,Mohammed Siraj,AK Markram,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,6.wides,A Badoni,Mohammed Siraj,AK Markram,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,6,A Badoni,Mohammed Siraj,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,6,1,AK Markram,Ashok Sharma,A Badoni,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,6,2,AK Markram,Ashok Sharma,A Badoni,6,0,6,,0,0,0,0,0,False,,,,powerplay
@@ -119,7 +119,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,20,3,GF Linde,Ashok Sharma,Mohammed Shami,4,0,4,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,20,4,GF Linde,Ashok Sharma,Mohammed Shami,0,0,0,,0,0,0,0,0,True,caught,GF Linde,M Shahrukh Khan,death
 1,Lucknow Super Giants,20,5,Avesh Khan,Ashok Sharma,Mohammed Shami,4,0,4,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,20,5.wides,Avesh Khan,Ashok Sharma,Mohammed Shami,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,6.wides,Avesh Khan,Ashok Sharma,Mohammed Shami,0,2,2,wides,2,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,20,6,Mohammed Shami,Ashok Sharma,Avesh Khan,0,1,1,byes,0,0,1,0,0,False,,,,death
 2,Gujarat Titans,1,1,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,1,2,B Sai Sudharsan,Mohammed Shami,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
@@ -176,7 +176,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Gujarat Titans,9,5,JC Buttler,GF Linde,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,9,6,JC Buttler,GF Linde,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,10,1,Shubman Gill,Avesh Khan,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Gujarat Titans,10,1.wides,Shubman Gill,Avesh Khan,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,2.wides,Shubman Gill,Avesh Khan,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Gujarat Titans,10,2,Shubman Gill,Avesh Khan,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,10,3,Shubman Gill,Avesh Khan,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,10,4,Shubman Gill,Avesh Khan,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -196,7 +196,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Gujarat Titans,12,6,JC Buttler,Avesh Khan,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,13,1,Shubman Gill,DS Rathi,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,13,2,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
-2,Gujarat Titans,13,2.wides,JC Buttler,DS Rathi,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,13,3.wides,JC Buttler,DS Rathi,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Gujarat Titans,13,3,JC Buttler,DS Rathi,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,13,4,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,13,5,Shubman Gill,DS Rathi,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,death
@@ -227,7 +227,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Gujarat Titans,17,6,Washington Sundar,AK Markram,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,18,1,R Tewatia,Prince Yadav,Washington Sundar,1,0,1,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,18,2,Washington Sundar,Prince Yadav,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
-2,Gujarat Titans,18,2.wides,R Tewatia,Prince Yadav,Washington Sundar,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,3.wides,R Tewatia,Prince Yadav,Washington Sundar,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Gujarat Titans,18,3,R Tewatia,Prince Yadav,Washington Sundar,1,0,1,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,18,4,Washington Sundar,Prince Yadav,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,18,5,Washington Sundar,Prince Yadav,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death

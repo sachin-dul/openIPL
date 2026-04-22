@@ -5,14 +5,14 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,1,4,SV Samson,VG Arora,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,1,5,RD Gaikwad,VG Arora,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,1,6,SV Samson,VG Arora,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Chennai Super Kings,2,0.wides,RD Gaikwad,C Green,SV Samson,0,2,2,wides,2,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1.wides,RD Gaikwad,C Green,SV Samson,0,2,2,wides,2,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,1,SV Samson,C Green,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,2,RD Gaikwad,C Green,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,3,RD Gaikwad,C Green,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,4,SV Samson,C Green,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,2,5,SV Samson,C Green,RD Gaikwad,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
 1,Chennai Super Kings,2,6,RD Gaikwad,C Green,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Chennai Super Kings,3,0.wides,RD Gaikwad,AS Roy,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1.wides,RD Gaikwad,AS Roy,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,3,1,RD Gaikwad,AS Roy,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Chennai Super Kings,3,2,RD Gaikwad,AS Roy,SV Samson,0,0,0,,0,0,0,0,0,True,caught,RD Gaikwad,R Powell,powerplay
 1,Chennai Super Kings,3,3,A Mhatre,AS Roy,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
@@ -85,12 +85,12 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,14,4,D Brevis,CV Varun,SN Khan,4,0,4,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,14,5,D Brevis,CV Varun,SN Khan,4,0,4,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,14,6,D Brevis,CV Varun,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Chennai Super Kings,15,0.wides,SN Khan,AS Roy,D Brevis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1.wides,SN Khan,AS Roy,D Brevis,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,15,1,SN Khan,AS Roy,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,15,2,D Brevis,AS Roy,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Chennai Super Kings,15,2.wides,D Brevis,AS Roy,SN Khan,0,1,1,wides,1,0,0,0,0,False,,,,middle
-1,Chennai Super Kings,15,3,D Brevis,AS Roy,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,15,3.wides,D Brevis,AS Roy,SN Khan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,D Brevis,AS Roy,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4.wides,D Brevis,AS Roy,SN Khan,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,15,4,D Brevis,AS Roy,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,15,5,SN Khan,AS Roy,D Brevis,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Chennai Super Kings,15,6,SN Khan,AS Roy,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -99,7 +99,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,16,3,D Brevis,VG Arora,SN Khan,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,16,4,SN Khan,VG Arora,D Brevis,6,0,6,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,16,5,SN Khan,VG Arora,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
-1,Chennai Super Kings,16,5.wides,D Brevis,VG Arora,SN Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6.wides,D Brevis,VG Arora,SN Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Chennai Super Kings,16,6,D Brevis,VG Arora,SN Khan,4,0,4,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,17,1,SN Khan,SP Narine,D Brevis,0,0,0,,0,0,0,0,0,True,bowled,SN Khan,,death
 1,Chennai Super Kings,17,2,S Dube,SP Narine,D Brevis,0,2,2,legbyes,0,0,0,2,0,False,,,,death
@@ -109,18 +109,18 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Chennai Super Kings,17,6,D Brevis,SP Narine,S Dube,0,0,0,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,18,1,S Dube,Kartik Tyagi,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,18,2,D Brevis,Kartik Tyagi,S Dube,0,0,0,,0,0,0,0,0,False,,,,death
-1,Chennai Super Kings,18,2.wides,D Brevis,Kartik Tyagi,S Dube,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3.wides,D Brevis,Kartik Tyagi,S Dube,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Chennai Super Kings,18,3,D Brevis,Kartik Tyagi,S Dube,0,0,0,,0,0,0,0,0,True,caught,D Brevis,VG Arora,death
 1,Chennai Super Kings,18,4,J Overton,Kartik Tyagi,S Dube,0,0,0,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,18,5,J Overton,Kartik Tyagi,S Dube,4,0,4,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,18,6,J Overton,Kartik Tyagi,S Dube,0,0,0,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,19,1,S Dube,VG Arora,J Overton,0,0,0,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,19,2,S Dube,VG Arora,J Overton,0,0,0,,0,0,0,0,0,False,,,,death
-1,Chennai Super Kings,19,2.wides,S Dube,VG Arora,J Overton,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3.wides,S Dube,VG Arora,J Overton,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Chennai Super Kings,19,3,S Dube,VG Arora,J Overton,4,0,4,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,19,4,S Dube,VG Arora,J Overton,0,0,0,,0,0,0,0,0,False,,,,death
-1,Chennai Super Kings,19,4.wides,S Dube,VG Arora,J Overton,0,1,1,wides,1,0,0,0,0,False,,,,death
-1,Chennai Super Kings,19,4.wides,S Dube,VG Arora,J Overton,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5.wides,S Dube,VG Arora,J Overton,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5.wides,S Dube,VG Arora,J Overton,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Chennai Super Kings,19,5,S Dube,VG Arora,J Overton,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,19,6,J Overton,VG Arora,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
 1,Chennai Super Kings,20,1,J Overton,Kartik Tyagi,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
@@ -177,7 +177,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Kolkata Knight Riders,8,4,A Raghuvanshi,AJ Hosein,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,8,5,A Raghuvanshi,AJ Hosein,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,8,6,AM Rahane,AJ Hosein,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Kolkata Knight Riders,9,0.wides,AM Rahane,Gurjapneet Singh,A Raghuvanshi,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1.wides,AM Rahane,Gurjapneet Singh,A Raghuvanshi,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,9,1,AM Rahane,Gurjapneet Singh,A Raghuvanshi,6,0,6,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,9,2,AM Rahane,Gurjapneet Singh,A Raghuvanshi,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Kolkata Knight Riders,9,3,AM Rahane,Gurjapneet Singh,A Raghuvanshi,6,0,6,,0,0,0,0,0,False,,,,middle
@@ -223,7 +223,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Kolkata Knight Riders,16,1,Ramandeep Singh,J Overton,R Powell,0,0,0,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,2,Ramandeep Singh,J Overton,R Powell,4,0,4,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,3,Ramandeep Singh,J Overton,R Powell,6,0,6,,0,0,0,0,0,False,,,,death
-2,Kolkata Knight Riders,16,3.wides,Ramandeep Singh,J Overton,R Powell,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4.wides,Ramandeep Singh,J Overton,R Powell,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,4,Ramandeep Singh,J Overton,R Powell,0,0,0,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,5,Ramandeep Singh,J Overton,R Powell,1,0,1,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,16,6,R Powell,J Overton,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
@@ -233,7 +233,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Kolkata Knight Riders,17,4,R Powell,KK Ahmed,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,17,5,R Powell,KK Ahmed,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,17,6,Ramandeep Singh,Gurjapneet Singh,R Powell,4,0,4,,0,0,0,0,0,False,,,,death
-2,Kolkata Knight Riders,18,0.wides,R Powell,A Kamboj,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1.wides,R Powell,A Kamboj,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,18,1,R Powell,A Kamboj,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,18,2,Ramandeep Singh,A Kamboj,R Powell,1,0,1,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,18,3,R Powell,A Kamboj,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
@@ -245,10 +245,10 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Kolkata Knight Riders,19,3,Ramandeep Singh,J Overton,R Powell,1,0,1,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,19,4,R Powell,J Overton,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,19,5,R Powell,J Overton,Ramandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
-2,Kolkata Knight Riders,19,5.wides,R Powell,J Overton,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,6.wides,R Powell,J Overton,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,19,6,R Powell,J Overton,Ramandeep Singh,2,0,2,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,20,1,Ramandeep Singh,A Kamboj,R Powell,4,0,4,,0,0,0,0,0,False,,,,death
-2,Kolkata Knight Riders,20,1.wides,Ramandeep Singh,A Kamboj,R Powell,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,2.wides,Ramandeep Singh,A Kamboj,R Powell,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,20,2,Ramandeep Singh,A Kamboj,R Powell,0,0,0,,0,0,0,0,0,False,,,,death
 2,Kolkata Knight Riders,20,3,Ramandeep Singh,A Kamboj,R Powell,0,0,0,,0,0,0,0,0,True,caught,Ramandeep Singh,SN Khan,death
 2,Kolkata Knight Riders,20,4,AS Roy,A Kamboj,R Powell,1,0,1,,0,0,0,0,0,False,,,,death

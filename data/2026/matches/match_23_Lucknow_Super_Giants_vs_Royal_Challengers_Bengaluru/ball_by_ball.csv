@@ -44,9 +44,9 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,8,1,A Badoni,KH Pandya,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,8,2,MR Marsh,KH Pandya,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,8,3,A Badoni,KH Pandya,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Lucknow Super Giants,8,3.wides,MR Marsh,KH Pandya,A Badoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
-1,Lucknow Super Giants,8,4,MR Marsh,KH Pandya,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,8,4.wides,MR Marsh,KH Pandya,A Badoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,4,MR Marsh,KH Pandya,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,5.wides,MR Marsh,KH Pandya,A Badoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,8,5,MR Marsh,KH Pandya,A Badoni,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,8,6,MR Marsh,KH Pandya,A Badoni,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,9,1,A Badoni,Suyash Sharma,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -100,11 +100,11 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,17,1,MD Choudhary,B Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,17,2,RR Pant,B Kumar,MD Choudhary,1,0,1,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,17,3,MD Choudhary,B Kumar,RR Pant,2,0,2,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,17,3.wides,MD Choudhary,B Kumar,RR Pant,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,4.wides,MD Choudhary,B Kumar,RR Pant,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,17,4,MD Choudhary,B Kumar,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,17,5,RR Pant,B Kumar,MD Choudhary,0,0,0,,0,0,0,0,0,True,caught,RR Pant,PD Salt,death
 1,Lucknow Super Giants,17,6,GF Linde,B Kumar,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,18,0.wides,MD Choudhary,JR Hazlewood,GF Linde,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,18,1.wides,MD Choudhary,JR Hazlewood,GF Linde,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,18,1,MD Choudhary,JR Hazlewood,GF Linde,2,0,2,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,18,2,MD Choudhary,JR Hazlewood,GF Linde,1,0,1,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,18,3,GF Linde,JR Hazlewood,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
@@ -146,7 +146,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,4,3,V Kohli,Prince Yadav,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,4,4,V Kohli,Prince Yadav,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,4,5,V Kohli,Prince Yadav,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Royal Challengers Bengaluru,4,5.wides,V Kohli,Prince Yadav,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,6.wides,V Kohli,Prince Yadav,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,4,6,V Kohli,Prince Yadav,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,5,1,D Padikkal,DS Rathi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,5,2,V Kohli,DS Rathi,D Padikkal,6,0,6,,0,0,0,0,0,False,,,,powerplay

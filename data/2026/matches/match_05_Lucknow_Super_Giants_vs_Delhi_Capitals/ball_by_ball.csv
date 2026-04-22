@@ -3,7 +3,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,1,2,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,1,3,RR Pant,Mukesh Kumar,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,1,4,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Lucknow Super Giants,1,4.wides,RR Pant,Mukesh Kumar,MR Marsh,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,1,5.wides,RR Pant,Mukesh Kumar,MR Marsh,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,1,5,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,1,6,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,2,1,MR Marsh,L Ngidi,RR Pant,4,0,4,,0,0,0,0,0,False,,,,powerplay
@@ -26,7 +26,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,4,6,AK Markram,AR Patel,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,1,MR Marsh,Mukesh Kumar,AK Markram,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
 1,Lucknow Super Giants,5,2,MR Marsh,Mukesh Kumar,AK Markram,6,0,6,,0,0,0,0,0,False,,,,powerplay
-1,Lucknow Super Giants,5,2.wides,MR Marsh,Mukesh Kumar,AK Markram,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,3.wides,MR Marsh,Mukesh Kumar,AK Markram,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,3,MR Marsh,Mukesh Kumar,AK Markram,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,4,MR Marsh,Mukesh Kumar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,5,5,AK Markram,Mukesh Kumar,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -114,8 +114,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,19,3,A Nortje,L Ngidi,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,True,caught,A Nortje,T Stubbs,death
 1,Lucknow Super Giants,19,4,Mohsin Khan,L Ngidi,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,True,caught,Mohsin Khan,Mukesh Kumar,death
 2,Delhi Capitals,1,1,KL Rahul,Mohammed Shami,P Nissanka,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,Mohsin Khan,powerplay
-2,Delhi Capitals,1,1.wides,N Rana,Mohammed Shami,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,1,1.wides,N Rana,Mohammed Shami,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,2.wides,N Rana,Mohammed Shami,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,2.wides,N Rana,Mohammed Shami,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,2,N Rana,Mohammed Shami,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,3,N Rana,Mohammed Shami,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,1,4,N Rana,Mohammed Shami,P Nissanka,4,0,4,,0,0,0,0,0,False,,,,powerplay
@@ -126,9 +126,9 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,2,3,N Rana,Prince Yadav,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,2,4,N Rana,Prince Yadav,P Nissanka,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,2,5,N Rana,Prince Yadav,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,2,5.wides,N Rana,Prince Yadav,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,6.wides,N Rana,Prince Yadav,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,2,6,N Rana,Prince Yadav,P Nissanka,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,3,0.wides,N Rana,Mohammed Shami,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,1.wides,N Rana,Mohammed Shami,P Nissanka,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,3,1,N Rana,Mohammed Shami,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,3,2,N Rana,Mohammed Shami,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,3,3,N Rana,Mohammed Shami,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -141,11 +141,11 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,4,4,Sameer Rizvi,Mohsin Khan,P Nissanka,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
 2,Delhi Capitals,4,5,Sameer Rizvi,Mohsin Khan,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,4,6,Sameer Rizvi,Mohsin Khan,P Nissanka,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,5,0.wides,P Nissanka,Prince Yadav,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,5,1,P Nissanka,Prince Yadav,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,5,1.wides,P Nissanka,Prince Yadav,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,1,P Nissanka,Prince Yadav,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,2.wides,P Nissanka,Prince Yadav,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,5,2,P Nissanka,Prince Yadav,Sameer Rizvi,0,0,0,,0,0,0,0,0,True,caught,P Nissanka,RR Pant,powerplay
-2,Delhi Capitals,5,2.wides,AR Patel,Prince Yadav,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,3.wides,AR Patel,Prince Yadav,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,5,3,AR Patel,Prince Yadav,Sameer Rizvi,0,0,0,,0,0,0,0,0,True,bowled,AR Patel,,powerplay
 2,Delhi Capitals,5,4,T Stubbs,Prince Yadav,Sameer Rizvi,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,5,5,T Stubbs,Prince Yadav,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -161,15 +161,15 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,7,3,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,4,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,5,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,7,5.wides,Sameer Rizvi,Mohammed Shami,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,6.wides,Sameer Rizvi,Mohammed Shami,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,6,Sameer Rizvi,Mohammed Shami,T Stubbs,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,1,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,2,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,8,2.wides,Sameer Rizvi,A Nortje,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,3.wides,Sameer Rizvi,A Nortje,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,3,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,4,T Stubbs,A Nortje,Sameer Rizvi,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,5,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,8,5.wides,Sameer Rizvi,A Nortje,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,6.wides,Sameer Rizvi,A Nortje,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Delhi Capitals,8,6,Sameer Rizvi,A Nortje,T Stubbs,6,0,6,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,9,1,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,9,2,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -192,7 +192,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,12,1,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,12,2,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,12,3,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,12,3.wides,T Stubbs,Mohsin Khan,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,12,4.wides,T Stubbs,Mohsin Khan,Sameer Rizvi,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Delhi Capitals,12,4,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,12,5,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,12,6,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
@@ -223,7 +223,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,17,1,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,17,2,T Stubbs,A Nortje,Sameer Rizvi,6,0,6,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,17,3,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,17,3.wides,Sameer Rizvi,A Nortje,T Stubbs,0,5,5,wides,5,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,4.wides,Sameer Rizvi,A Nortje,T Stubbs,0,5,5,wides,5,0,0,0,0,False,,,,death
 2,Delhi Capitals,17,4,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,17,5,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,17,6,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,,0,0,0,0,0,False,,,,death

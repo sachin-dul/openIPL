@@ -1,4 +1,4 @@
-innings,over,ball,team,batter,bowler,umpire,type,decision
-1,14,4,Punjab Kings,Kartik Sharma,M Jansen,Abhijit Bhattacharya,wicket,upheld
-1,18,4,Punjab Kings,PR Veer,M Jansen,Abhijit Bhattacharya,wicket,struck down
-2,5,5,Chennai Super Kings,P Simran Singh,MJ Henry,Abhijit Bhattacharya,wicket,struck down
+innings,over,ball,team,batter,bowler,umpire,type,decision,umpires_call
+1,14,4,Punjab Kings,Kartik Sharma,M Jansen,Abhijit Bhattacharya,wicket,upheld,False
+1,18,4,Punjab Kings,PR Veer,M Jansen,Abhijit Bhattacharya,wicket,struck down,False
+2,5,5,Chennai Super Kings,P Simran Singh,MJ Henry,Abhijit Bhattacharya,wicket,struck down,True

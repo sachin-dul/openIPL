@@ -8,12 +8,12 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Sunrisers Hyderabad,2,1,TM Head,B Kumar,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Sunrisers Hyderabad,2,2,Abhishek Sharma,B Kumar,TM Head,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Sunrisers Hyderabad,2,3,TM Head,B Kumar,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Sunrisers Hyderabad,2,3.wides,Abhishek Sharma,B Kumar,TM Head,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-1,Sunrisers Hyderabad,2,4,Abhishek Sharma,B Kumar,TM Head,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Sunrisers Hyderabad,2,4.wides,Abhishek Sharma,B Kumar,TM Head,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4,Abhishek Sharma,B Kumar,TM Head,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,5.wides,Abhishek Sharma,B Kumar,TM Head,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Sunrisers Hyderabad,2,5,Abhishek Sharma,B Kumar,TM Head,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
 1,Sunrisers Hyderabad,2,6,TM Head,B Kumar,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Sunrisers Hyderabad,3,0.wides,Abhishek Sharma,JA Duffy,TM Head,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,1.wides,Abhishek Sharma,JA Duffy,TM Head,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Sunrisers Hyderabad,3,1,Abhishek Sharma,JA Duffy,TM Head,0,0,0,,0,0,0,0,0,True,caught,Abhishek Sharma,JM Sharma,powerplay
 1,Sunrisers Hyderabad,3,2,Ishan Kishan,JA Duffy,TM Head,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Sunrisers Hyderabad,3,3,TM Head,JA Duffy,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -102,7 +102,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Sunrisers Hyderabad,17,2,Aniket Verma,R Shepherd,Harsh Dubey,1,0,1,,0,0,0,0,0,False,,,,death
 1,Sunrisers Hyderabad,17,3,Harsh Dubey,R Shepherd,Aniket Verma,1,0,1,,0,0,0,0,0,False,,,,death
 1,Sunrisers Hyderabad,17,4,Aniket Verma,R Shepherd,Harsh Dubey,1,0,1,,0,0,0,0,0,False,,,,death
-1,Sunrisers Hyderabad,17,4.wides,Harsh Dubey,R Shepherd,Aniket Verma,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,5.wides,Harsh Dubey,R Shepherd,Aniket Verma,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Sunrisers Hyderabad,17,5,Harsh Dubey,R Shepherd,Aniket Verma,2,0,2,,0,0,0,0,0,False,,,,death
 1,Sunrisers Hyderabad,17,6,Harsh Dubey,R Shepherd,Aniket Verma,0,0,0,,0,0,0,0,0,True,caught,Harsh Dubey,D Padikkal,death
 1,Sunrisers Hyderabad,18,1,Aniket Verma,B Kumar,HV Patel,2,0,2,,0,0,0,0,0,False,,,,death
@@ -182,7 +182,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,10,3,V Kohli,HV Patel,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,10,4,RM Patidar,HV Patel,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,10,5,RM Patidar,HV Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,10,5.wides,V Kohli,HV Patel,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,6.wides,V Kohli,HV Patel,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,10,6,V Kohli,HV Patel,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,11,1,V Kohli,Harsh Dubey,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,11,2,RM Patidar,Harsh Dubey,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
@@ -191,14 +191,14 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,11,5,V Kohli,Harsh Dubey,RM Patidar,6,0,6,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,11,6,V Kohli,Harsh Dubey,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,12,1,RM Patidar,E Malinga,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,12,1.wides,RM Patidar,E Malinga,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,12,2,RM Patidar,E Malinga,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,12,2.wides,RM Patidar,E Malinga,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,12,3,RM Patidar,E Malinga,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,12,2,RM Patidar,E Malinga,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,12,3.wides,RM Patidar,E Malinga,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,12,3,RM Patidar,E Malinga,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,12,4.wides,RM Patidar,E Malinga,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,12,4,RM Patidar,E Malinga,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,12,5,RM Patidar,E Malinga,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,12,5.wides,V Kohli,E Malinga,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,12,6.wides,V Kohli,E Malinga,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,12,6,V Kohli,E Malinga,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,13,1,V Kohli,DA Payne,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,13,2,RM Patidar,DA Payne,V Kohli,0,0,0,,0,0,0,0,0,True,caught,RM Patidar,Harsh Dubey,death
@@ -211,12 +211,12 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,14,3,TH David,JD Unadkat,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,14,4,V Kohli,JD Unadkat,TH David,0,0,0,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,14,5,V Kohli,JD Unadkat,TH David,1,0,1,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,5.wides,TH David,JD Unadkat,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,6.wides,TH David,JD Unadkat,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,14,6,TH David,JD Unadkat,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,15,1,TH David,DA Payne,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,15,2,V Kohli,DA Payne,TH David,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,15,3,TH David,DA Payne,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,3.wides,TH David,DA Payne,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,15,4.wides,TH David,DA Payne,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,15,4,TH David,DA Payne,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,15,5,TH David,DA Payne,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,15,6,V Kohli,DA Payne,TH David,1,0,1,,0,0,0,0,0,False,,,,death

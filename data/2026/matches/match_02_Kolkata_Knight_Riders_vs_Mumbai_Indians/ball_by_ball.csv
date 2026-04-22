@@ -1,8 +1,8 @@
 innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
-1,Kolkata Knight Riders,1,0.wides,AM Rahane,TA Boult,FH Allen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,1.wides,AM Rahane,TA Boult,FH Allen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,1,1,AM Rahane,TA Boult,FH Allen,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,1,2,AM Rahane,TA Boult,FH Allen,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Kolkata Knight Riders,1,2.wides,AM Rahane,TA Boult,FH Allen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3.wides,AM Rahane,TA Boult,FH Allen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,1,3,AM Rahane,TA Boult,FH Allen,6,0,6,,0,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,1,4,AM Rahane,TA Boult,FH Allen,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,1,5,AM Rahane,TA Boult,FH Allen,2,0,2,,0,0,0,0,0,False,,,,powerplay
@@ -23,7 +23,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Kolkata Knight Riders,4,2,AM Rahane,HH Pandya,FH Allen,6,0,6,,0,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,4,3,AM Rahane,HH Pandya,FH Allen,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
 1,Kolkata Knight Riders,4,4,FH Allen,HH Pandya,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Kolkata Knight Riders,4,4.wides,FH Allen,HH Pandya,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5.wides,FH Allen,HH Pandya,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,4,5,FH Allen,HH Pandya,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,4,6,FH Allen,HH Pandya,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Kolkata Knight Riders,5,1,AM Rahane,JJ Bumrah,FH Allen,4,0,4,,0,0,0,0,0,False,,,,powerplay
@@ -48,7 +48,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Kolkata Knight Riders,8,2,C Green,AM Ghazanfar,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Kolkata Knight Riders,8,3,AM Rahane,AM Ghazanfar,C Green,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Kolkata Knight Riders,8,4,C Green,AM Ghazanfar,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Kolkata Knight Riders,8,4.wides,AM Rahane,AM Ghazanfar,C Green,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5.wides,AM Rahane,AM Ghazanfar,C Green,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Kolkata Knight Riders,8,5,AM Rahane,AM Ghazanfar,C Green,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Kolkata Knight Riders,8,6,C Green,AM Ghazanfar,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Kolkata Knight Riders,9,1,C Green,SN Thakur,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
@@ -97,7 +97,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Kolkata Knight Riders,16,2,RK Singh,TA Boult,A Raghuvanshi,0,0,0,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,16,3,RK Singh,TA Boult,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,16,4,A Raghuvanshi,TA Boult,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
-1,Kolkata Knight Riders,16,4.wides,RK Singh,TA Boult,A Raghuvanshi,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,5.wides,RK Singh,TA Boult,A Raghuvanshi,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,16,5,RK Singh,TA Boult,A Raghuvanshi,2,0,2,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,16,6,RK Singh,TA Boult,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,17,1,RK Singh,SN Thakur,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,death
@@ -113,14 +113,14 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Kolkata Knight Riders,18,5,A Raghuvanshi,JJ Bumrah,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,18,6,RK Singh,JJ Bumrah,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,19,1,RK Singh,HH Pandya,A Raghuvanshi,1,0,1,,0,0,0,0,0,False,,,,death
-1,Kolkata Knight Riders,19,1.wides,A Raghuvanshi,HH Pandya,RK Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2.wides,A Raghuvanshi,HH Pandya,RK Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,19,2,A Raghuvanshi,HH Pandya,RK Singh,4,0,4,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,19,3,A Raghuvanshi,HH Pandya,RK Singh,0,0,0,,0,0,0,0,0,True,caught,A Raghuvanshi,Tilak Varma,death
 1,Kolkata Knight Riders,19,4,Ramandeep Singh,HH Pandya,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,19,5,RK Singh,HH Pandya,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,19,6,Ramandeep Singh,HH Pandya,RK Singh,2,0,2,,0,0,0,0,0,False,,,,death
-1,Kolkata Knight Riders,20,0.noballs,RK Singh,JJ Bumrah,Ramandeep Singh,0,1,1,noballs,0,1,0,0,0,False,,,,death
-1,Kolkata Knight Riders,20,0.wides,RK Singh,JJ Bumrah,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1.noballs,RK Singh,JJ Bumrah,Ramandeep Singh,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1.wides,RK Singh,JJ Bumrah,Ramandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,20,1,RK Singh,JJ Bumrah,Ramandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,20,2,Ramandeep Singh,JJ Bumrah,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
 1,Kolkata Knight Riders,20,3,RK Singh,JJ Bumrah,Ramandeep Singh,4,0,4,,0,0,0,0,0,False,,,,death
@@ -181,7 +181,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,9,4,RD Rickelton,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,9,5,RG Sharma,SP Narine,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,9,6,RD Rickelton,SP Narine,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Mumbai Indians,10,0.noballs,RG Sharma,Kartik Tyagi,RD Rickelton,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1.noballs,RG Sharma,Kartik Tyagi,RD Rickelton,1,1,2,noballs,0,1,0,0,0,False,,,,middle
 2,Mumbai Indians,10,1,RD Rickelton,Kartik Tyagi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,10,2,RD Rickelton,Kartik Tyagi,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,10,3,RD Rickelton,Kartik Tyagi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -198,21 +198,21 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,12,2,RG Sharma,VG Arora,RD Rickelton,6,0,6,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,12,3,RG Sharma,VG Arora,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,12,4,RD Rickelton,VG Arora,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Mumbai Indians,12,4.wides,RG Sharma,VG Arora,RD Rickelton,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,5.wides,RG Sharma,VG Arora,RD Rickelton,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Mumbai Indians,12,5,RG Sharma,VG Arora,RD Rickelton,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,AS Roy,middle
 2,Mumbai Indians,12,6,SA Yadav,VG Arora,RD Rickelton,4,0,4,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,13,1,RD Rickelton,AS Roy,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,13,2,RD Rickelton,AS Roy,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,13,3,SA Yadav,AS Roy,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,13,4,RD Rickelton,AS Roy,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,13,4.wides,SA Yadav,AS Roy,RD Rickelton,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,5.wides,SA Yadav,AS Roy,RD Rickelton,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,13,5,SA Yadav,AS Roy,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,13,6,RD Rickelton,AS Roy,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,14,1,SA Yadav,CV Varun,RD Rickelton,4,0,4,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,14,2,SA Yadav,CV Varun,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,14,3,RD Rickelton,CV Varun,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,14,4,SA Yadav,CV Varun,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,14,4.wides,RD Rickelton,CV Varun,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,5.wides,RD Rickelton,CV Varun,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,14,5,RD Rickelton,CV Varun,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,14,6,RD Rickelton,CV Varun,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,15,1,SA Yadav,Kartik Tyagi,RD Rickelton,4,0,4,,0,0,0,0,0,False,,,,death

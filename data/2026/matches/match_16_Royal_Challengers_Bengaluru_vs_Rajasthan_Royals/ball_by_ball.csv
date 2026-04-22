@@ -9,7 +9,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,2,2,D Padikkal,N Burger,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,3,V Kohli,N Burger,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,4,V Kohli,N Burger,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,4.wides,V Kohli,N Burger,D Padikkal,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,5.wides,V Kohli,N Burger,D Padikkal,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,5,V Kohli,N Burger,D Padikkal,0,4,4,byes,0,0,4,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,6,V Kohli,N Burger,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,3,1,V Kohli,JC Archer,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
@@ -103,7 +103,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,17,5,VR Iyer,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,17,6,VR Iyer,Ravi Bishnoi,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,1,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,0,0,0,0,0,True,caught,RM Patidar,D Ferreira,death
-1,Royal Challengers Bengaluru,18,1.wides,B Kumar,Sandeep Sharma,VR Iyer,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,2.wides,B Kumar,Sandeep Sharma,VR Iyer,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,2,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,3,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,4,B Kumar,Sandeep Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
@@ -119,7 +119,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,20,2,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,20,3,VR Iyer,Sandeep Sharma,B Kumar,0,0,0,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,20,4,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,4.wides,VR Iyer,Sandeep Sharma,B Kumar,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,5.wides,VR Iyer,Sandeep Sharma,B Kumar,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,20,5,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,20,6,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,1,1,YBK Jaiswal,B Kumar,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -208,10 +208,10 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Rajasthan Royals,14,6,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,15,1,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,15,2,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,2.wides,Dhruv Jurel,Abhinandan Singh,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3.wides,Dhruv Jurel,Abhinandan Singh,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Rajasthan Royals,15,3,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,15,4,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,4.wides,RA Jadeja,Abhinandan Singh,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5.wides,RA Jadeja,Abhinandan Singh,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Rajasthan Royals,15,5,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,15,6,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,16,1,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death

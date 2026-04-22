@@ -8,7 +8,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,2,1,PD Salt,HH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,2,PD Salt,HH Pandya,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,3,PD Salt,HH Pandya,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,3.wides,PD Salt,HH Pandya,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,4.wides,PD Salt,HH Pandya,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,4,PD Salt,HH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,5,V Kohli,HH Pandya,PD Salt,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,2,6,V Kohli,HH Pandya,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
@@ -34,7 +34,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,6,2,V Kohli,JJ Bumrah,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,6,3,PD Salt,JJ Bumrah,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,6,4,PD Salt,JJ Bumrah,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,4.wides,PD Salt,JJ Bumrah,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,5.wides,PD Salt,JJ Bumrah,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,6,5,PD Salt,JJ Bumrah,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,6,6,V Kohli,JJ Bumrah,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Royal Challengers Bengaluru,7,1,V Kohli,MJ Santner,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
@@ -61,9 +61,9 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,10,4,PD Salt,HH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,10,5,V Kohli,HH Pandya,PD Salt,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,10,6,PD Salt,HH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,0.wides,V Kohli,SN Thakur,PD Salt,0,1,1,wides,1,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,1,V Kohli,SN Thakur,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,11,1.wides,V Kohli,SN Thakur,PD Salt,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,1,V Kohli,SN Thakur,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,2.wides,V Kohli,SN Thakur,PD Salt,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,11,2,V Kohli,SN Thakur,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,11,3,V Kohli,SN Thakur,PD Salt,2,0,2,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,11,4,V Kohli,SN Thakur,PD Salt,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -75,23 +75,23 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,12,4,RM Patidar,M Markande,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,12,5,RM Patidar,M Markande,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,12,6,RM Patidar,M Markande,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,0.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,1.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,1,RM Patidar,SN Thakur,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,1.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,1.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,2,RM Patidar,SN Thakur,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,2.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,2.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,2,RM Patidar,SN Thakur,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,3.wides,RM Patidar,SN Thakur,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,3,RM Patidar,SN Thakur,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,4,V Kohli,SN Thakur,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,5,V Kohli,SN Thakur,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,13,6,V Kohli,SN Thakur,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,14,1,RM Patidar,TA Boult,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,1.wides,RM Patidar,TA Boult,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,2.wides,RM Patidar,TA Boult,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,14,2,RM Patidar,TA Boult,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,14,3,RM Patidar,TA Boult,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,14,4,V Kohli,TA Boult,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,14,5,RM Patidar,TA Boult,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,5.wides,V Kohli,TA Boult,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,6.wides,V Kohli,TA Boult,RM Patidar,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,14,6,V Kohli,TA Boult,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,15,1,V Kohli,HH Pandya,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Royal Challengers Bengaluru,15,2,V Kohli,HH Pandya,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -103,7 +103,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,16,2,TH David,MJ Santner,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,3,RM Patidar,MJ Santner,TH David,4,0,4,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,4,RM Patidar,MJ Santner,TH David,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,4.wides,RM Patidar,MJ Santner,TH David,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,5.wides,RM Patidar,MJ Santner,TH David,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,5,RM Patidar,MJ Santner,TH David,0,0,0,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,16,6,RM Patidar,MJ Santner,TH David,0,0,0,,0,0,0,0,0,True,caught,RM Patidar,Tilak Varma,death
 1,Royal Challengers Bengaluru,17,1,TH David,JJ Bumrah,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
@@ -113,7 +113,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Royal Challengers Bengaluru,17,5,JM Sharma,JJ Bumrah,TH David,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,17,6,TH David,JJ Bumrah,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,1,TH David,HH Pandya,JM Sharma,4,0,4,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,1.noballs,TH David,HH Pandya,JM Sharma,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,2.noballs,TH David,HH Pandya,JM Sharma,0,1,1,noballs,0,1,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,2,TH David,HH Pandya,JM Sharma,6,0,6,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,3,TH David,HH Pandya,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
 1,Royal Challengers Bengaluru,18,4,JM Sharma,HH Pandya,TH David,2,0,2,,0,0,0,0,0,False,,,,death
@@ -137,7 +137,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,1,4,RD Rickelton,JA Duffy,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Mumbai Indians,1,5,RD Rickelton,JA Duffy,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Mumbai Indians,1,6,RD Rickelton,JA Duffy,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Mumbai Indians,2,0.wides,RG Sharma,B Kumar,RD Rickelton,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,1.wides,RG Sharma,B Kumar,RD Rickelton,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Mumbai Indians,2,1,RG Sharma,B Kumar,RD Rickelton,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Mumbai Indians,2,2,RG Sharma,B Kumar,RD Rickelton,1,0,1,,0,0,0,0,0,False,,,,powerplay
 2,Mumbai Indians,2,3,RD Rickelton,B Kumar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
@@ -204,7 +204,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,12,4,SA Yadav,Suyash Sharma,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,12,5,SA Yadav,Suyash Sharma,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,12,6,SA Yadav,Suyash Sharma,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Mumbai Indians,13,0.wides,HH Pandya,KH Pandya,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1.wides,HH Pandya,KH Pandya,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Mumbai Indians,13,1,HH Pandya,KH Pandya,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,13,2,SA Yadav,KH Pandya,HH Pandya,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,Rasikh Salam,middle
 2,Mumbai Indians,13,3,SE Rutherford,KH Pandya,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -217,7 +217,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,14,4,SE Rutherford,Suyash Sharma,HH Pandya,6,0,6,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,14,5,SE Rutherford,Suyash Sharma,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,14,6,HH Pandya,Suyash Sharma,SE Rutherford,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Mumbai Indians,15,0.wides,HH Pandya,JA Duffy,SE Rutherford,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,1.wides,HH Pandya,JA Duffy,SE Rutherford,0,1,1,wides,1,0,0,0,0,False,,,,middle
 2,Mumbai Indians,15,1,HH Pandya,JA Duffy,SE Rutherford,2,0,2,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,15,2,HH Pandya,JA Duffy,SE Rutherford,4,0,4,,0,0,0,0,0,False,,,,middle
 2,Mumbai Indians,15,3,HH Pandya,JA Duffy,SE Rutherford,0,0,0,,0,0,0,0,0,False,,,,middle
@@ -229,7 +229,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,16,3,Naman Dhir,Rasikh Salam,SE Rutherford,0,0,0,,0,0,0,0,0,True,caught,Naman Dhir,RM Patidar,death
 2,Mumbai Indians,16,4,MJ Santner,Rasikh Salam,SE Rutherford,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,16,5,SE Rutherford,Rasikh Salam,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,16,5.noballs,SE Rutherford,R Shepherd,MJ Santner,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Mumbai Indians,16,6.noballs,SE Rutherford,R Shepherd,MJ Santner,0,1,1,noballs,0,1,0,0,0,False,,,,death
 2,Mumbai Indians,16,6,SE Rutherford,R Shepherd,MJ Santner,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,17,1,SE Rutherford,B Kumar,MJ Santner,2,0,2,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,17,2,SE Rutherford,B Kumar,MJ Santner,1,0,1,,0,0,0,0,0,False,,,,death
@@ -237,16 +237,16 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,17,4,MJ Santner,B Kumar,SE Rutherford,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,17,5,SE Rutherford,B Kumar,MJ Santner,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,17,6,MJ Santner,B Kumar,SE Rutherford,0,0,0,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,18,0.wides,SE Rutherford,JA Duffy,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,1.wides,SE Rutherford,JA Duffy,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,18,1,SE Rutherford,JA Duffy,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,18,2,SE Rutherford,JA Duffy,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,18,3,SE Rutherford,JA Duffy,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,18,4,SE Rutherford,JA Duffy,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,18,4.wides,SE Rutherford,JA Duffy,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Mumbai Indians,18,5,SE Rutherford,JA Duffy,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,18,5.wides,SE Rutherford,JA Duffy,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,SE Rutherford,JA Duffy,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6.wides,SE Rutherford,JA Duffy,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,18,6,SE Rutherford,JA Duffy,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,19,0.wides,MJ Santner,B Kumar,SE Rutherford,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1.wides,MJ Santner,B Kumar,SE Rutherford,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,19,1,MJ Santner,B Kumar,SE Rutherford,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,19,2,SE Rutherford,B Kumar,MJ Santner,4,0,4,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,19,3,SE Rutherford,B Kumar,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
@@ -254,10 +254,10 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Mumbai Indians,19,5,MJ Santner,B Kumar,SE Rutherford,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,19,6,SE Rutherford,B Kumar,MJ Santner,1,0,1,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,20,1,SE Rutherford,R Shepherd,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,20,1.wides,SE Rutherford,R Shepherd,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,2.wides,SE Rutherford,R Shepherd,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,20,2,SE Rutherford,R Shepherd,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,20,3,SE Rutherford,R Shepherd,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,20,4,SE Rutherford,R Shepherd,MJ Santner,0,0,0,,0,0,0,0,0,False,,,,death
-2,Mumbai Indians,20,4.wides,SE Rutherford,R Shepherd,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,5.wides,SE Rutherford,R Shepherd,MJ Santner,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Mumbai Indians,20,5,SE Rutherford,R Shepherd,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death
 2,Mumbai Indians,20,6,SE Rutherford,R Shepherd,MJ Santner,6,0,6,,0,0,0,0,0,False,,,,death

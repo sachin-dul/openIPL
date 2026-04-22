@@ -8,19 +8,19 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Rajasthan Royals,2,1,V Suryavanshi,K Rabada,YBK Jaiswal,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,2,2,YBK Jaiswal,K Rabada,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,2,3,V Suryavanshi,K Rabada,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,3.wides,V Suryavanshi,K Rabada,YBK Jaiswal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,4.wides,V Suryavanshi,K Rabada,YBK Jaiswal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,2,4,V Suryavanshi,K Rabada,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,2,5,V Suryavanshi,K Rabada,YBK Jaiswal,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,2,6,V Suryavanshi,K Rabada,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,3,1,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,6,0,6,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,3,2,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,3,2.wides,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,3.wides,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,3,3,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,3,4,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,3,5,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,3,6,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,4,1,V Suryavanshi,K Rabada,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,4,1.wides,V Suryavanshi,K Rabada,YBK Jaiswal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,2.wides,V Suryavanshi,K Rabada,YBK Jaiswal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,4,2,V Suryavanshi,K Rabada,YBK Jaiswal,4,0,4,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,4,3,V Suryavanshi,K Rabada,YBK Jaiswal,1,0,1,,0,0,0,0,0,False,,,,powerplay
 1,Rajasthan Royals,4,4,YBK Jaiswal,K Rabada,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -52,7 +52,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Rajasthan Royals,8,6,YBK Jaiswal,M Prasidh Krishna,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,9,1,Dhruv Jurel,Rashid Khan,YBK Jaiswal,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,9,2,YBK Jaiswal,Rashid Khan,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,2.wides,Dhruv Jurel,Rashid Khan,YBK Jaiswal,0,5,5,wides,5,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,3.wides,Dhruv Jurel,Rashid Khan,YBK Jaiswal,0,5,5,wides,5,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,9,3,Dhruv Jurel,Rashid Khan,YBK Jaiswal,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,9,4,YBK Jaiswal,Rashid Khan,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,9,5,Dhruv Jurel,Rashid Khan,YBK Jaiswal,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -84,11 +84,11 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Rajasthan Royals,14,1,Dhruv Jurel,M Prasidh Krishna,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,14,2,R Parag,M Prasidh Krishna,Dhruv Jurel,0,0,0,,0,0,0,0,0,True,caught,R Parag,Kumar Kushagra,middle
 1,Rajasthan Royals,14,3,SO Hetmyer,M Prasidh Krishna,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,3.wides,SO Hetmyer,M Prasidh Krishna,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,4.wides,SO Hetmyer,M Prasidh Krishna,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,14,4,SO Hetmyer,M Prasidh Krishna,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,14,5,SO Hetmyer,M Prasidh Krishna,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,14,6,SO Hetmyer,M Prasidh Krishna,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,0.wides,Dhruv Jurel,Rashid Khan,SO Hetmyer,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,1.wides,Dhruv Jurel,Rashid Khan,SO Hetmyer,0,1,1,wides,1,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,15,1,Dhruv Jurel,Rashid Khan,SO Hetmyer,6,0,6,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,15,2,Dhruv Jurel,Rashid Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
 1,Rajasthan Royals,15,3,SO Hetmyer,Rashid Khan,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
@@ -104,17 +104,17 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Rajasthan Royals,17,1,D Ferreira,K Rabada,Dhruv Jurel,0,0,0,,0,0,0,0,0,True,caught,D Ferreira,GD Phillips,death
 1,Rajasthan Royals,17,2,RA Jadeja,K Rabada,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,17,3,Dhruv Jurel,K Rabada,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,3.wides,Dhruv Jurel,K Rabada,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,4.wides,Dhruv Jurel,K Rabada,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Rajasthan Royals,17,4,Dhruv Jurel,K Rabada,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,17,5,Dhruv Jurel,K Rabada,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,17,6,RA Jadeja,K Rabada,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,18,1,Dhruv Jurel,Ashok Sharma,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,18,2,Dhruv Jurel,Ashok Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,18,3,RA Jadeja,Ashok Sharma,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,3.wides,Dhruv Jurel,Ashok Sharma,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,4.wides,Dhruv Jurel,Ashok Sharma,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Rajasthan Royals,18,4,Dhruv Jurel,Ashok Sharma,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,18,5,Dhruv Jurel,Ashok Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,5.wides,RA Jadeja,Ashok Sharma,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,6.wides,RA Jadeja,Ashok Sharma,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,death
 1,Rajasthan Royals,18,6,RA Jadeja,Ashok Sharma,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,19,1,Dhruv Jurel,M Prasidh Krishna,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,19,2,Dhruv Jurel,M Prasidh Krishna,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
@@ -128,7 +128,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Rajasthan Royals,20,4,JC Archer,Mohammed Siraj,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,20,5,JC Archer,Mohammed Siraj,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
 1,Rajasthan Royals,20,6,RA Jadeja,Mohammed Siraj,JC Archer,4,0,4,,0,0,0,0,0,False,,,,death
-2,Gujarat Titans,1,0.wides,B Sai Sudharsan,JC Archer,Kumar Kushagra,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,1.wides,B Sai Sudharsan,JC Archer,Kumar Kushagra,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,1,1,B Sai Sudharsan,JC Archer,Kumar Kushagra,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,1,2,B Sai Sudharsan,JC Archer,Kumar Kushagra,6,0,6,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,1,3,B Sai Sudharsan,JC Archer,Kumar Kushagra,0,0,0,,0,0,0,0,0,False,,,,powerplay
@@ -136,7 +136,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Gujarat Titans,1,5,B Sai Sudharsan,JC Archer,Kumar Kushagra,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,1,6,B Sai Sudharsan,JC Archer,Kumar Kushagra,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,2,1,Kumar Kushagra,N Burger,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Gujarat Titans,2,1.wides,B Sai Sudharsan,N Burger,Kumar Kushagra,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,2.wides,B Sai Sudharsan,N Burger,Kumar Kushagra,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,2,2,B Sai Sudharsan,N Burger,Kumar Kushagra,4,0,4,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,2,3,B Sai Sudharsan,N Burger,Kumar Kushagra,0,0,0,,0,0,0,0,0,False,,,,powerplay
 2,Gujarat Titans,2,4,B Sai Sudharsan,N Burger,Kumar Kushagra,1,0,1,,0,0,0,0,0,False,,,,powerplay
@@ -191,7 +191,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Gujarat Titans,10,5,JC Buttler,N Burger,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,10,6,B Sai Sudharsan,N Burger,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,11,1,JC Buttler,Ravi Bishnoi,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Gujarat Titans,11,1.noballs,B Sai Sudharsan,Ravi Bishnoi,JC Buttler,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+2,Gujarat Titans,11,2.noballs,B Sai Sudharsan,Ravi Bishnoi,JC Buttler,1,1,2,noballs,0,1,0,0,0,False,,,,middle
 2,Gujarat Titans,11,2,JC Buttler,Ravi Bishnoi,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,11,3,B Sai Sudharsan,Ravi Bishnoi,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
 2,Gujarat Titans,11,4,B Sai Sudharsan,Ravi Bishnoi,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,B Sai Sudharsan,TU Deshpande,middle
@@ -245,7 +245,7 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Gujarat Titans,19,4,Rashid Khan,JC Archer,K Rabada,1,0,1,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,19,5,K Rabada,JC Archer,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,19,6,K Rabada,JC Archer,Rashid Khan,0,1,1,byes,0,0,1,0,0,False,,,,death
-2,Gujarat Titans,20,0.wides,K Rabada,TU Deshpande,Rashid Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,1.wides,K Rabada,TU Deshpande,Rashid Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
 2,Gujarat Titans,20,1,K Rabada,TU Deshpande,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,20,2,Rashid Khan,TU Deshpande,K Rabada,1,0,1,,0,0,0,0,0,False,,,,death
 2,Gujarat Titans,20,3,K Rabada,TU Deshpande,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
