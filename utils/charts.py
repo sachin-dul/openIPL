@@ -22,16 +22,16 @@ TEAM_COLORS = {
 
 
 TEAM_LOGOS = {
-    "Chennai Super Kings": "/logos/CSK.png",
-    "Mumbai Indians": "/logos/MI.png",
-    "Royal Challengers Bengaluru": "/logos/RCB.png",
-    "Kolkata Knight Riders": "/logos/KKR.png",
-    "Rajasthan Royals": "/logos/RR.png",
-    "Sunrisers Hyderabad": "/logos/SRH.png",
-    "Delhi Capitals": "/logos/DC.png",
-    "Punjab Kings": "/logos/PBKS.png",
-    "Gujarat Titans": "/logos/GT.png",
-    "Lucknow Super Giants": "/logos/LSG.png",
+    "Chennai Super Kings": "logos/CSK.png",
+    "Mumbai Indians": "logos/MI.png",
+    "Royal Challengers Bengaluru": "logos/RCB.png",
+    "Kolkata Knight Riders": "logos/KKR.png",
+    "Rajasthan Royals": "logos/RR.png",
+    "Sunrisers Hyderabad": "logos/SRH.png",
+    "Delhi Capitals": "logos/DC.png",
+    "Punjab Kings": "logos/PBKS.png",
+    "Gujarat Titans": "logos/GT.png",
+    "Lucknow Super Giants": "logos/LSG.png",
 }
 
 # Short names for compact display
