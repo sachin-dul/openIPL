@@ -85,7 +85,7 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | innings | int | 1 or 2 |
 | team | string | Batting team |
 | over | int | Over number (1-indexed) |
-| ball | int | Ball number within the over (1-6+) |
+| ball | int / string | Legal-ball counter within the over (`1`, `2`, …, `6`). Illegal deliveries (wides, no-balls) carry a suffix naming the extra type and the number of the **upcoming** legal ball: a wide before legal ball 2 records as `2.wides`; a wide as the over's first delivery records as `1.wides`. So the sequence `1, 2.wides, 2, 3.wides, 3, 4` means: legal 1 → wide → legal 2 → wide → legal 3 → legal 4 |
 | batter | string | Striker name |
 | bowler | string | Bowler name |
 | non_striker | string | Non-striker name |
@@ -188,7 +188,8 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | bowler | string | Bowler |
 | umpire | string | Umpire whose decision was reviewed |
 | type | string | Review type (e.g., "wicket") |
-| decision | string | upheld / overturned |
+| decision | string | `upheld` (review accepted → on-field call overturned → reviewer wins) or `struck down` (review rejected → on-field call stands → reviewer loses) |
+| umpires_call | bool | `True` when ball-tracking was inconclusive and the on-field call stood under the umpire's-call rule (always paired with `decision = struck down`). `False` otherwise |
 
 ### `super_over.csv` *(only present when a super over was played)*
 

@@ -1,5 +1,7 @@
 """openIPL Dashboard — IPL Analytics (Shiny for Python)."""
 
+from pathlib import Path
+
 from shiny import App, reactive, render, ui
 import pandas as pd
 import plotly.graph_objects as go
@@ -336,7 +338,16 @@ app_ui = ui.page_navbar(
         ),
         ui.layout_columns(
             ui.card(ui.card_header("Team Fingerprint (batting + bowling by phase)"), ui.output_ui("season_radar")),
-            ui.card(ui.card_header("Runs per over — 1st vs 2nd innings"), ui.output_ui("season_runs_innings")),
+            ui.card(
+                ui.card_header(
+                    ui.tags.div(
+                        ui.tags.span("Runs per over — 1st vs 2nd innings", style="font-weight:600;"),
+                        ui.input_select("runs_innings_team", None, {"All Teams": "All Teams"}, width="150px"),
+                        style="display:flex;align-items:center;justify-content:space-between;width:100%;",
+                    ),
+                ),
+                ui.output_ui("season_runs_innings"),
+            ),
             col_widths=[6, 6],
         ),
         ui.layout_columns(
@@ -349,7 +360,7 @@ app_ui = ui.page_navbar(
             col_widths=[6, 6],
         ),
         ui.layout_columns(
-            ui.card(ui.card_header("DRS Reviews — toggle Team / Umpire view"), ui.output_ui("season_drs_chart")),
+            ui.card(ui.card_header("DRS Reviews"), ui.output_ui("season_drs_chart")),
             col_widths=[12],
         ),
         ui.layout_columns(
@@ -519,6 +530,7 @@ def server(input, output, session):
         choices.update({t: t for t in teams})
         ui.update_select("batting_phase_team", choices=choices)
         ui.update_select("bowling_phase_team", choices=choices)
+        ui.update_select("runs_innings_team", choices=choices)
 
     # ── Overview ──────────────────────────────
 
@@ -575,17 +587,64 @@ def server(input, output, session):
         worst = min(scores, key=lambda x: x[0])
         return f"{team_short(worst[2])} vs {team_short(worst[3])}, M{worst[4]}"
 
+    def _recent_form_map(matches_df, n=5):
+        """Map team → list of last n results in chronological order ('W'/'L'/'NR')."""
+        out = {}
+        if matches_df.empty:
+            return out
+        m = matches_df.sort_values("match_number")
+        teams = set(m["team_1"].dropna()) | set(m["team_2"].dropna())
+        for team in teams:
+            played = m[(m["team_1"] == team) | (m["team_2"] == team)].tail(n)
+            results = []
+            for _, row in played.iterrows():
+                if str(row.get("result", "")).lower() == "no result":
+                    results.append("NR")
+                elif row.get("winner") == team:
+                    results.append("W")
+                else:
+                    results.append("L")
+            out[team] = results
+        return out
+
+    def _form_badges_html(results):
+        """Render W/L/NR results as colored badges; most recent one underlined."""
+        if not results:
+            return '<span style="color:#9ca3af;font-size:12px">–</span>'
+        colors = {"W": "#16a34a", "L": "#dc2626", "NR": "#9ca3af"}
+        badges = []
+        last_idx = len(results) - 1
+        for i, r in enumerate(results):
+            wrapper_style = (
+                "display:inline-block;padding-bottom:3px;"
+                + ("border-bottom:2px solid #374151;" if i == last_idx else "")
+                + "margin:0 2px;"
+            )
+            badge_style = (
+                "display:inline-block;width:22px;height:22px;line-height:22px;"
+                f"text-align:center;border-radius:5px;background:{colors[r]};"
+                "color:white;font-weight:700;font-size:11px;"
+            )
+            badges.append(
+                f'<span style="{wrapper_style}"><span style="{badge_style}">{r}</span></span>'
+            )
+        return "".join(badges)
+
     @render.ui
     def overview_points_table():
         pt = load_points_table()
         if pt.empty:
             return empty_state("Points table not available")
         pt = pt.copy()
+        matches_df = load_matches()
+        form_by_team = _recent_form_map(matches_df, n=5)
+
         rows_html = ""
         for _, r in pt.iterrows():
             logo = team_logo(r["team"])
             short = team_short(r["team"])
             nrr = f"{r['net_run_rate']:+.3f}"
+            form_html = _form_badges_html(form_by_team.get(r["team"], []))
             rows_html += f"""<tr style="border-bottom:1px solid #e5e7eb">
                 <td style="text-align:center;padding:6px;color:#6b7280">{int(r['position'])}</td>
                 <td style="white-space:nowrap;padding:6px"><img src="{logo}" style="height:22px;width:22px;object-fit:contain;vertical-align:middle;margin-right:8px" onerror="this.style.display='none'"><strong style="color:#1f2937">{short}</strong> <span style="color:#6b7280;font-size:0.85em">{r['team']}</span></td>
@@ -595,12 +654,14 @@ def server(input, output, session):
                 <td style="text-align:center;padding:6px;color:#6b7280">{int(r['no_result'])}</td>
                 <td style="text-align:center;padding:6px;color:#1f2937">{nrr}</td>
                 <td style="text-align:center;padding:6px;color:#1a56db"><strong>{int(r['points'])}</strong></td>
+                <td style="text-align:center;padding:6px;white-space:nowrap">{form_html}</td>
             </tr>"""
         return ui.HTML(f"""<table style="width:100%;border-collapse:collapse;font-size:14px;color:#1f2937">
             <thead><tr style="border-bottom:2px solid #1a56db;text-align:center">
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">#</th><th style="padding:8px;text-align:left;color:#1a56db;font-size:12px;text-transform:uppercase">Team</th>
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">P</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">W</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">L</th>
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">NR</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">NRR</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">Pts</th>
+                <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">Form</th>
             </tr></thead><tbody style="line-height:2.2">{rows_html}</tbody></table>""")
 
     def _toss_matches():
@@ -647,31 +708,31 @@ def server(input, output, session):
 
     @render.ui
     def top_scorer():
-        bat = _stat_bat()
-        if bat.empty:
+        agg = batting_agg()
+        if agg.empty:
             return "-"
-        return _player_with_logo(bat.groupby("batter")["runs"].sum().idxmax())
+        return _player_with_logo(agg.iloc[0]["batter"])
 
     @render.ui
     def top_scorer_runs():
-        bat = _stat_bat()
-        if bat.empty:
+        agg = batting_agg()
+        if agg.empty:
             return ""
-        return f"{bat.groupby('batter')['runs'].sum().max()} runs"
+        return f"{int(agg.iloc[0]['runs'])} runs"
 
     @render.ui
     def top_bowler():
-        bowl = _stat_bowl()
-        if bowl.empty:
+        agg = bowling_agg()
+        if agg.empty:
             return "-"
-        return _player_with_logo(bowl.groupby("bowler")["wickets"].sum().idxmax())
+        return _player_with_logo(agg.iloc[0]["bowler"])
 
     @render.ui
     def top_bowler_wkts():
-        bowl = _stat_bowl()
-        if bowl.empty:
+        agg = bowling_agg()
+        if agg.empty:
             return ""
-        return f"{bowl.groupby('bowler')['wickets'].sum().max()} wickets"
+        return f"{int(agg.iloc[0]['wickets'])} wickets"
 
     @render.text
     def total_sixes():
@@ -1408,7 +1469,14 @@ def server(input, output, session):
         bbb = load_ball_by_ball()
         if bbb.empty:
             return empty_state()
-        return plotly_ui(runs_per_over_innings_compare(bbb))
+        team = input.runs_innings_team()
+        team_label = None
+        if team and team != "All Teams":
+            bbb = bbb[bbb["team"] == team]
+            if bbb.empty:
+                return empty_state(f"No data for {team}")
+            team_label = team
+        return plotly_ui(runs_per_over_innings_compare(bbb, team_label=team_label))
 
     @render.ui
     def season_econ_avg():
@@ -1429,7 +1497,9 @@ def server(input, output, session):
         s = load_substitutions()
         if s.empty:
             return empty_state("No impact player subs yet")
-        return plotly_ui(impact_player_subs_by_team(s, load_players()))
+        return plotly_ui(impact_player_subs_by_team(
+            s, load_players(), load_ball_by_ball(), load_matches()
+        ))
 
     @render.ui
     def bump_chart():
@@ -2209,7 +2279,8 @@ def server(input, output, session):
             color = team_color(row["team"])
             short = team_short(row["team"])
             upheld = row["decision"].strip().lower() == "upheld"
-            badge_color = "#d63031" if upheld else "#27ae60"
+            # upheld = review accepted (reviewer won); struck down = review rejected (reviewer lost)
+            badge_color = "#27ae60" if upheld else "#d63031"
             badge_text = "Upheld" if upheld else "Struck Down"
             cards.append(f"""
             <div style="display:flex;align-items:center;gap:12px;padding:10px 12px;border-left:4px solid {color};
@@ -2259,4 +2330,4 @@ def server(input, output, session):
         return ui.HTML("".join(cards))
 
 
-app = App(app_ui, server)
+app = App(app_ui, server, static_assets={"/logos": Path(__file__).parent / "logos"})

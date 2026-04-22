@@ -4,6 +4,29 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-22
+
+### Added
+
+- `umpires_call` column in `reviews.csv`, captured from Cricsheet JSON (parser now persists the umpire's-call flag; always paired with `decision = struck down`)
+- DRS Reviews chart rebuilt with a 3-way outcome split — **Overturned** (reviewer won) / **Umpire's Call** / **On-field Stood** — plus a success-rate line overlaid on a secondary axis. Team view sorts worst → best success %; Umpire view sorts worst → best accuracy (`struck down + umpire's call` / total)
+- Impact Player Introductions chart redesigned as small-multiples — one mini-timeline per team with team-colored border, logo + team name above each panel, Bat/Bowl lanes that encode the innings context, dots colored by tactical intent, deterministic x-jitter for same-over stacks, and `Match N · vs OPP` in hover
+- Team filter on the **Runs per over — 1st vs 2nd innings** card; when a team has no data for one innings (e.g. PBKS / DC have only chased, SRH has only batted first this season), a top-right notice explains which innings is missing and the team's toss/chase pattern
+- Form column in the Points Table on Overview — each team's last 5 results rendered as W/L/NR badges (green / red / grey), most-recent match underlined
+- Team logos served locally under `logos/` and mounted by Shiny at `/logos/<SHORT>.png` (replaces external Wikimedia hotlinks that were occasionally throttled)
+
+### Changed
+
+- DRS decision terminology corrected across the dashboard and data dictionary: `upheld` means the review was upheld (reviewer wins); `struck down` means the review was rejected (reviewer loses). Badge colors in Match Centre reviews flipped accordingly
+- Parser `ball_by_ball.csv` ball-numbering convention for extras: the suffix now names the **upcoming** legal ball, not the preceding one. A wide before legal ball 2 records as `2.wides` (was previously `1.wides`); a leading extra before ball 1 records as `1.wides` (was previously `0.wides`). Mid-over extras shift by +1 under the new convention. All 24 matches reprocessed
+- Data dictionary now documents the full `N.extra_type` convention for the `ball` column
+
+### Fixed
+
+- Impact player strip: previously-overlapping dots (e.g. SRH's 4 innings-break subs at over 1.1) are now individually visible in the new small-multiples layout
+
+---
+
 ## 2026-04-13
 
 ### Added

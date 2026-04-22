@@ -227,6 +227,7 @@ def parse_match(json_path, match_number_override=None):
                         "umpire": rev.get("umpire", ""),
                         "type": rev.get("type", ""),
                         "decision": rev.get("decision", ""),
+                        "umpires_call": bool(rev.get("umpires_call", False)),
                     })
 
                 # --- Substitutions (impact player, concussion, etc.) ---
@@ -441,7 +442,7 @@ def parse_match(json_path, match_number_override=None):
                     "innings": inn_num,
                     "team": batting_team,
                     "over": over_num + 1,
-                    "ball": ball_counter if is_legal else f"{ball_counter}.{extra_type}",
+                    "ball": ball_counter if is_legal else f"{ball_counter + 1}.{extra_type}",
                     "batter": batter,
                     "bowler": bowler,
                     "non_striker": non_striker,
