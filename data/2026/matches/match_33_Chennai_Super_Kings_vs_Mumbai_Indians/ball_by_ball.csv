@@ -1,0 +1,248 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,SV Samson,JJ Bumrah,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,SV Samson,JJ Bumrah,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,RD Gaikwad,JJ Bumrah,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,RD Gaikwad,JJ Bumrah,SV Samson,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,SV Samson,JJ Bumrah,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6.noballs,SV Samson,JJ Bumrah,RD Gaikwad,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,SV Samson,JJ Bumrah,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,RD Gaikwad,HH Pandya,SV Samson,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,RD Gaikwad,HH Pandya,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3.noballs,RD Gaikwad,HH Pandya,SV Samson,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3.wides,RD Gaikwad,HH Pandya,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,RD Gaikwad,HH Pandya,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,RD Gaikwad,HH Pandya,SV Samson,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,RD Gaikwad,HH Pandya,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,RD Gaikwad,HH Pandya,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,RD Gaikwad,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,RD Gaikwad,AM Ghazanfar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,RD Gaikwad,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,SV Samson,AM Ghazanfar,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,RD Gaikwad,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,RD Gaikwad,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,True,caught,RD Gaikwad,Tilak Varma,powerplay
+1,Chennai Super Kings,4,1,SV Samson,HH Pandya,SN Khan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,SV Samson,HH Pandya,SN Khan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,SV Samson,HH Pandya,SN Khan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,SV Samson,HH Pandya,SN Khan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,SV Samson,HH Pandya,SN Khan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6.wides,SV Samson,HH Pandya,SN Khan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,SV Samson,HH Pandya,SN Khan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,SN Khan,JJ Bumrah,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,SN Khan,JJ Bumrah,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,SV Samson,JJ Bumrah,SN Khan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,SV Samson,JJ Bumrah,SN Khan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,SN Khan,JJ Bumrah,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,SN Khan,JJ Bumrah,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,SN Khan,MJ Santner,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,SN Khan,MJ Santner,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,SN Khan,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,SN Khan,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,True,bowled,SN Khan,,powerplay
+1,Chennai Super Kings,6,5,S Dube,MJ Santner,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,SV Samson,MJ Santner,S Dube,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,S Dube,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,S Dube,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,SV Samson,AM Ghazanfar,S Dube,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,SV Samson,AM Ghazanfar,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,S Dube,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,SV Samson,AM Ghazanfar,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,SV Samson,Ashwani Kumar,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,S Dube,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,S Dube,Ashwani Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,SV Samson,Ashwani Kumar,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,SV Samson,Ashwani Kumar,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,S Dube,Ashwani Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,S Dube,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,True,bowled,S Dube,,middle
+1,Chennai Super Kings,9,2,D Brevis,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,SV Samson,AM Ghazanfar,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,D Brevis,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,SV Samson,AM Ghazanfar,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,D Brevis,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,D Brevis,MJ Santner,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2.wides,D Brevis,MJ Santner,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,D Brevis,MJ Santner,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,SV Samson,MJ Santner,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,D Brevis,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,D Brevis,MJ Santner,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,D Brevis,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,SV Samson,Ashwani Kumar,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,D Brevis,Ashwani Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,SV Samson,Ashwani Kumar,D Brevis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,SV Samson,Ashwani Kumar,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,D Brevis,Ashwani Kumar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,D Brevis,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,True,caught,D Brevis,JJ Bumrah,middle
+1,Chennai Super Kings,12,1,SV Samson,MJ Santner,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,Kartik Sharma,MJ Santner,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,SV Samson,MJ Santner,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4.wides,Kartik Sharma,MJ Santner,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,Kartik Sharma,MJ Santner,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,SV Samson,MJ Santner,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,Kartik Sharma,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,SV Samson,Ashwani Kumar,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,Kartik Sharma,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,Kartik Sharma,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,Kartik Sharma,Ashwani Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,SV Samson,Ashwani Kumar,Kartik Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,SV Samson,Ashwani Kumar,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,SV Samson,MJ Santner,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,Kartik Sharma,MJ Santner,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,Kartik Sharma,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,Kartik Sharma,MJ Santner,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,Kartik Sharma,MJ Santner,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,Kartik Sharma,MJ Santner,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,Kartik Sharma,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,SV Samson,AM Ghazanfar,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,Kartik Sharma,AM Ghazanfar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,SV Samson,AM Ghazanfar,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,Kartik Sharma,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,Kartik Sharma,AM Ghazanfar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,SV Samson,Krish Bhagat,Kartik Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,SV Samson,Krish Bhagat,Kartik Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,SV Samson,Krish Bhagat,Kartik Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,SV Samson,Krish Bhagat,Kartik Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,SV Samson,Krish Bhagat,Kartik Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,SV Samson,Krish Bhagat,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,SV Samson,JJ Bumrah,Kartik Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,Kartik Sharma,JJ Bumrah,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,Kartik Sharma,JJ Bumrah,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,Kartik Sharma,JJ Bumrah,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,Kartik Sharma,JJ Bumrah,SV Samson,0,0,0,,0,0,0,0,0,True,caught,Kartik Sharma,MJ Santner,death
+1,Chennai Super Kings,17,6,J Overton,JJ Bumrah,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,J Overton,Ashwani Kumar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2.wides,J Overton,Ashwani Kumar,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,J Overton,Ashwani Kumar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,J Overton,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,J Overton,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,J Overton,Ashwani Kumar,SV Samson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,J Overton,Ashwani Kumar,SV Samson,0,0,0,,0,0,0,0,0,True,caught,J Overton,Naman Dhir,death
+1,Chennai Super Kings,19,1,SV Samson,JJ Bumrah,AJ Hosein,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,AJ Hosein,JJ Bumrah,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,SV Samson,JJ Bumrah,AJ Hosein,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,AJ Hosein,JJ Bumrah,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5.noballs,SV Samson,JJ Bumrah,AJ Hosein,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,SV Samson,JJ Bumrah,AJ Hosein,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,SV Samson,JJ Bumrah,AJ Hosein,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,SV Samson,Krish Bhagat,AJ Hosein,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,SV Samson,Krish Bhagat,AJ Hosein,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,SV Samson,Krish Bhagat,AJ Hosein,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,SV Samson,Krish Bhagat,AJ Hosein,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,SV Samson,Krish Bhagat,AJ Hosein,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,SV Samson,Krish Bhagat,AJ Hosein,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,1,1,Q de Kock,AJ Hosein,DV Malewar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,Q de Kock,AJ Hosein,DV Malewar,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,Q de Kock,AJ Hosein,DV Malewar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4,Q de Kock,AJ Hosein,DV Malewar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,Q de Kock,AJ Hosein,DV Malewar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,DV Malewar,AJ Hosein,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,DV Malewar,SV Samson,powerplay
+2,Mumbai Indians,2,1,Q de Kock,Mukesh Choudhary,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,2,Q de Kock,Mukesh Choudhary,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,Q de Kock,Mukesh Choudhary,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,Q de Kock,Mukesh Choudhary,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,Q de Kock,Mukesh Choudhary,Naman Dhir,0,0,0,,0,0,0,0,0,True,bowled,Q de Kock,,powerplay
+2,Mumbai Indians,2,6,SA Yadav,Mukesh Choudhary,Naman Dhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,Naman Dhir,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,Naman Dhir,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,Naman Dhir,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,True,bowled,Naman Dhir,,powerplay
+2,Mumbai Indians,3,4,Tilak Varma,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,5,Tilak Varma,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,Tilak Varma,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,SA Yadav,Mukesh Choudhary,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,2,Tilak Varma,Mukesh Choudhary,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,Tilak Varma,Mukesh Choudhary,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,4,SA Yadav,Mukesh Choudhary,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,5,SA Yadav,Mukesh Choudhary,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6,SA Yadav,Mukesh Choudhary,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,1,Tilak Varma,A Kamboj,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,2,SA Yadav,A Kamboj,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,3,Tilak Varma,A Kamboj,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4,Tilak Varma,A Kamboj,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,SA Yadav,A Kamboj,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,SA Yadav,A Kamboj,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,Tilak Varma,Mukesh Choudhary,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,2,SA Yadav,Mukesh Choudhary,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,SA Yadav,Mukesh Choudhary,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,4,Tilak Varma,Mukesh Choudhary,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,5,Tilak Varma,Mukesh Choudhary,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,6,6.wides,Tilak Varma,Mukesh Choudhary,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,6,6.wides,Tilak Varma,Mukesh Choudhary,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,6,6,Tilak Varma,Mukesh Choudhary,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,1,Tilak Varma,A Kamboj,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,Tilak Varma,A Kamboj,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,SA Yadav,A Kamboj,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,SA Yadav,A Kamboj,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,SA Yadav,A Kamboj,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,SA Yadav,A Kamboj,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,1,Tilak Varma,Mukesh Choudhary,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,Tilak Varma,Mukesh Choudhary,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,SA Yadav,Mukesh Choudhary,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,4,SA Yadav,Mukesh Choudhary,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5.wides,SA Yadav,Mukesh Choudhary,Tilak Varma,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5,SA Yadav,Mukesh Choudhary,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,Tilak Varma,Mukesh Choudhary,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1.wides,Tilak Varma,Noor Ahmad,SA Yadav,0,2,2,wides,2,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1,SA Yadav,Noor Ahmad,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,SA Yadav,Noor Ahmad,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,Tilak Varma,Noor Ahmad,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,SA Yadav,Noor Ahmad,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,5,Tilak Varma,Noor Ahmad,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,SA Yadav,Noor Ahmad,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,Tilak Varma,J Overton,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,Tilak Varma,J Overton,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,Tilak Varma,J Overton,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,4,Tilak Varma,J Overton,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,5,SA Yadav,J Overton,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6,Tilak Varma,J Overton,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,Tilak Varma,Noor Ahmad,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,SA Yadav,Noor Ahmad,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,SA Yadav,Noor Ahmad,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,Tilak Varma,Noor Ahmad,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,Tilak Varma,Noor Ahmad,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,6,SA Yadav,Noor Ahmad,Tilak Varma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,Tilak Varma,AJ Hosein,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,SA Yadav,AJ Hosein,Tilak Varma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,3,SA Yadav,AJ Hosein,Tilak Varma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,SA Yadav,AJ Hosein,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,5,Tilak Varma,AJ Hosein,SA Yadav,0,0,0,,0,0,0,0,0,True,bowled,Tilak Varma,,middle
+2,Mumbai Indians,12,6,HH Pandya,AJ Hosein,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1,HH Pandya,Noor Ahmad,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,Mukesh Choudhary,middle
+2,Mumbai Indians,13,2,SE Rutherford,Noor Ahmad,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,SE Rutherford,A Kamboj,middle
+2,Mumbai Indians,13,3,SN Thakur,Noor Ahmad,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,4,SN Thakur,Noor Ahmad,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,5,SN Thakur,Noor Ahmad,SA Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Mumbai Indians,13,6,SA Yadav,Noor Ahmad,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,1,SA Yadav,AJ Hosein,SN Thakur,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,SN Khan,death
+2,Mumbai Indians,14,2,Krish Bhagat,AJ Hosein,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,3,Krish Bhagat,AJ Hosein,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,4,SN Thakur,AJ Hosein,Krish Bhagat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,5,Krish Bhagat,AJ Hosein,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,6,Krish Bhagat,AJ Hosein,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,1,Krish Bhagat,Noor Ahmad,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,2,SN Thakur,Noor Ahmad,Krish Bhagat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,3,Krish Bhagat,Noor Ahmad,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,4,Krish Bhagat,Noor Ahmad,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,5,SN Thakur,Noor Ahmad,Krish Bhagat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,6,Krish Bhagat,Noor Ahmad,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,1,SN Thakur,Gurjapneet Singh,Krish Bhagat,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,SN Thakur,Gurjapneet Singh,Krish Bhagat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,Krish Bhagat,Gurjapneet Singh,SN Thakur,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,4,Krish Bhagat,Gurjapneet Singh,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,SN Thakur,Gurjapneet Singh,Krish Bhagat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,Krish Bhagat,Gurjapneet Singh,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,1,SN Thakur,J Overton,Krish Bhagat,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,SN Thakur,J Overton,Krish Bhagat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,3,Krish Bhagat,J Overton,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,Krish Bhagat,J Overton,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,Krish Bhagat,J Overton,SN Thakur,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,6,Krish Bhagat,J Overton,SN Thakur,0,0,0,,0,0,0,0,0,True,caught,Krish Bhagat,Gurjapneet Singh,death
+2,Mumbai Indians,18,1,SN Thakur,A Kamboj,Ashwani Kumar,0,0,0,,0,0,0,0,0,True,caught,SN Thakur,D Brevis,death
+2,Mumbai Indians,18,2.wides,JJ Bumrah,A Kamboj,Ashwani Kumar,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,JJ Bumrah,A Kamboj,Ashwani Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,Ashwani Kumar,A Kamboj,JJ Bumrah,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,Ashwani Kumar,A Kamboj,JJ Bumrah,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,Ashwani Kumar,A Kamboj,JJ Bumrah,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,Ashwani Kumar,A Kamboj,JJ Bumrah,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,JJ Bumrah,Gurjapneet Singh,Ashwani Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,2,JJ Bumrah,Gurjapneet Singh,Ashwani Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,3,Ashwani Kumar,Gurjapneet Singh,JJ Bumrah,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,Ashwani Kumar,Gurjapneet Singh,JJ Bumrah,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,5,JJ Bumrah,Gurjapneet Singh,Ashwani Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,6,JJ Bumrah,Gurjapneet Singh,Ashwani Kumar,0,0,0,,0,0,0,0,0,True,caught,JJ Bumrah,SV Samson,death
