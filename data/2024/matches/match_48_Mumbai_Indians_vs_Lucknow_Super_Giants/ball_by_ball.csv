@@ -1,0 +1,249 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,Ishan Kishan,MP Stoinis,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2.wides,Ishan Kishan,MP Stoinis,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,Ishan Kishan,MP Stoinis,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,Ishan Kishan,MP Stoinis,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,RG Sharma,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,RG Sharma,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,RG Sharma,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,Ishan Kishan,Mohsin Khan,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,RG Sharma,Mohsin Khan,Ishan Kishan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,RG Sharma,Mohsin Khan,Ishan Kishan,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,MP Stoinis,powerplay
+1,Mumbai Indians,2,4,SA Yadav,Mohsin Khan,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,SA Yadav,Mohsin Khan,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,SA Yadav,Mohsin Khan,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,SA Yadav,MP Stoinis,Ishan Kishan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,SA Yadav,MP Stoinis,Ishan Kishan,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,Ishan Kishan,MP Stoinis,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,SA Yadav,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,KL Rahul,powerplay
+1,Mumbai Indians,3,5,Tilak Varma,MP Stoinis,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,Ishan Kishan,MP Stoinis,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,Ishan Kishan,Mohsin Khan,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,Tilak Varma,Mohsin Khan,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,Tilak Varma,Mohsin Khan,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,Tilak Varma,Mohsin Khan,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,Tilak Varma,Mohsin Khan,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,Ishan Kishan,Mohsin Khan,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,Tilak Varma,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,Tilak Varma,MP Stoinis,Ishan Kishan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,Tilak Varma,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,Tilak Varma,MP Stoinis,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,Tilak Varma,MP Stoinis,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,Ishan Kishan,MP Stoinis,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,Tilak Varma,Naveen-ul-Haq,Ishan Kishan,0,0,0,,0,0,0,0,0,True,run out,Tilak Varma,Ravi Bishnoi,powerplay
+1,Mumbai Indians,6,2,HH Pandya,Naveen-ul-Haq,Ishan Kishan,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,KL Rahul,powerplay
+1,Mumbai Indians,6,3,N Wadhera,Naveen-ul-Haq,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,N Wadhera,Naveen-ul-Haq,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,N Wadhera,Naveen-ul-Haq,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,Ishan Kishan,Naveen-ul-Haq,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,N Wadhera,MP Yadav,Ishan Kishan,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,7,2,Ishan Kishan,MP Yadav,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3.noballs,Ishan Kishan,MP Yadav,N Wadhera,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3.wides,N Wadhera,MP Yadav,Ishan Kishan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,N Wadhera,MP Yadav,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,N Wadhera,MP Yadav,Ishan Kishan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,N Wadhera,MP Yadav,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,N Wadhera,MP Yadav,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,Ishan Kishan,Naveen-ul-Haq,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,N Wadhera,Naveen-ul-Haq,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,Ishan Kishan,Naveen-ul-Haq,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,N Wadhera,Naveen-ul-Haq,Ishan Kishan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,N Wadhera,Naveen-ul-Haq,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,N Wadhera,Naveen-ul-Haq,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,Ishan Kishan,MP Yadav,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2.wides,N Wadhera,MP Yadav,Ishan Kishan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,N Wadhera,MP Yadav,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,Ishan Kishan,MP Yadav,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,Ishan Kishan,MP Yadav,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,Ishan Kishan,MP Yadav,N Wadhera,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,Ishan Kishan,MP Yadav,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,Ishan Kishan,Ravi Bishnoi,N Wadhera,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3.wides,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,Ishan Kishan,Ravi Bishnoi,N Wadhera,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,Ishan Kishan,Ravi Bishnoi,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,N Wadhera,Ravi Bishnoi,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,N Wadhera,Ravi Bishnoi,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,Ishan Kishan,DJ Hooda,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,N Wadhera,DJ Hooda,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,Ishan Kishan,DJ Hooda,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,N Wadhera,DJ Hooda,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,N Wadhera,DJ Hooda,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,Ishan Kishan,DJ Hooda,N Wadhera,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,N Wadhera,Ravi Bishnoi,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,Ishan Kishan,Ravi Bishnoi,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,N Wadhera,Ravi Bishnoi,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,N Wadhera,DJ Hooda,Ishan Kishan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,N Wadhera,DJ Hooda,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,Ishan Kishan,DJ Hooda,N Wadhera,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,Ishan Kishan,DJ Hooda,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,Ishan Kishan,DJ Hooda,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,N Wadhera,DJ Hooda,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,N Wadhera,Ravi Bishnoi,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,Ishan Kishan,Ravi Bishnoi,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,N Wadhera,Ravi Bishnoi,Ishan Kishan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,N Wadhera,Ravi Bishnoi,Ishan Kishan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,Ishan Kishan,Ravi Bishnoi,N Wadhera,0,0,0,,0,0,0,0,0,True,caught,Ishan Kishan,MP Yadav,middle
+1,Mumbai Indians,15,1,N Wadhera,MP Yadav,TH David,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,N Wadhera,MP Yadav,TH David,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,N Wadhera,MP Yadav,TH David,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,N Wadhera,MP Yadav,TH David,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,N Wadhera,MP Yadav,TH David,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,N Wadhera,MP Yadav,TH David,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,TH David,Ravi Bishnoi,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,N Wadhera,Ravi Bishnoi,TH David,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,N Wadhera,Ravi Bishnoi,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,TH David,Ravi Bishnoi,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,N Wadhera,Ravi Bishnoi,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,TH David,Ravi Bishnoi,N Wadhera,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,N Wadhera,Naveen-ul-Haq,TH David,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,N Wadhera,Naveen-ul-Haq,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,TH David,Naveen-ul-Haq,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,N Wadhera,Naveen-ul-Haq,TH David,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,N Wadhera,Naveen-ul-Haq,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6.noballs,TH David,Naveen-ul-Haq,N Wadhera,1,1,2,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,N Wadhera,Naveen-ul-Haq,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,N Wadhera,Mohsin Khan,TH David,0,0,0,,0,0,0,0,0,True,bowled,N Wadhera,,death
+1,Mumbai Indians,18,2,Mohammad Nabi,Mohsin Khan,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,TH David,Mohsin Khan,Mohammad Nabi,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,TH David,Mohsin Khan,Mohammad Nabi,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,TH David,Mohsin Khan,Mohammad Nabi,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,TH David,Mohsin Khan,Mohammad Nabi,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,Mohammad Nabi,MP Yadav,TH David,0,0,0,,0,0,0,0,0,True,bowled,Mohammad Nabi,,death
+1,Mumbai Indians,19,2,G Coetzee,Naveen-ul-Haq,TH David,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,TH David,Naveen-ul-Haq,G Coetzee,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,TH David,Naveen-ul-Haq,G Coetzee,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,G Coetzee,Naveen-ul-Haq,TH David,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,19,6,TH David,Naveen-ul-Haq,G Coetzee,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,TH David,Mohsin Khan,G Coetzee,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,TH David,Mohsin Khan,G Coetzee,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,TH David,Mohsin Khan,G Coetzee,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,TH David,Mohsin Khan,G Coetzee,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,TH David,Mohsin Khan,G Coetzee,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,TH David,Mohsin Khan,G Coetzee,3,0,3,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,1,1,KL Rahul,N Thushara,AA Kulkarni,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,2,KL Rahul,N Thushara,AA Kulkarni,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,3,KL Rahul,N Thushara,AA Kulkarni,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,4,AA Kulkarni,N Thushara,KL Rahul,0,0,0,,0,0,0,0,0,True,lbw,AA Kulkarni,,powerplay
+2,Lucknow Super Giants,1,5,MP Stoinis,N Thushara,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,6,MP Stoinis,N Thushara,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,1,KL Rahul,JJ Bumrah,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,2,KL Rahul,JJ Bumrah,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,3,KL Rahul,JJ Bumrah,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,4,KL Rahul,JJ Bumrah,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,5,KL Rahul,JJ Bumrah,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,6,MP Stoinis,JJ Bumrah,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,1.wides,KL Rahul,N Thushara,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,1,KL Rahul,N Thushara,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,2,KL Rahul,N Thushara,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,3,KL Rahul,N Thushara,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,4,KL Rahul,N Thushara,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,5,KL Rahul,N Thushara,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,6,MP Stoinis,N Thushara,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,1,MP Stoinis,G Coetzee,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,2.wides,KL Rahul,G Coetzee,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,2,KL Rahul,G Coetzee,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,3,MP Stoinis,G Coetzee,KL Rahul,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,4,MP Stoinis,G Coetzee,KL Rahul,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,5,MP Stoinis,G Coetzee,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,6,MP Stoinis,G Coetzee,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,1,KL Rahul,N Thushara,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,2,KL Rahul,N Thushara,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,3,MP Stoinis,N Thushara,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,4,KL Rahul,N Thushara,MP Stoinis,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,5,KL Rahul,N Thushara,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,6,KL Rahul,N Thushara,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,1,MP Stoinis,JJ Bumrah,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,2,MP Stoinis,JJ Bumrah,KL Rahul,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,3,MP Stoinis,JJ Bumrah,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,4,MP Stoinis,JJ Bumrah,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,5,MP Stoinis,JJ Bumrah,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,6,MP Stoinis,JJ Bumrah,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,1,KL Rahul,PP Chawla,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,2,MP Stoinis,PP Chawla,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,3,MP Stoinis,PP Chawla,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,4,MP Stoinis,PP Chawla,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,5,MP Stoinis,PP Chawla,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,6,MP Stoinis,PP Chawla,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,1,KL Rahul,HH Pandya,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,2,KL Rahul,HH Pandya,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,Mohammad Nabi,middle
+2,Lucknow Super Giants,8,3,DJ Hooda,HH Pandya,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,4,MP Stoinis,HH Pandya,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,5,MP Stoinis,HH Pandya,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,6,DJ Hooda,HH Pandya,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,1,MP Stoinis,PP Chawla,DJ Hooda,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,2,MP Stoinis,PP Chawla,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,3,DJ Hooda,PP Chawla,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,4,MP Stoinis,PP Chawla,DJ Hooda,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,5,MP Stoinis,PP Chawla,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,6,DJ Hooda,PP Chawla,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,1,DJ Hooda,HH Pandya,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,2,DJ Hooda,HH Pandya,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,3,DJ Hooda,HH Pandya,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,4,DJ Hooda,HH Pandya,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,5,DJ Hooda,HH Pandya,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,6,MP Stoinis,HH Pandya,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,1.wides,MP Stoinis,G Coetzee,DJ Hooda,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,1,MP Stoinis,G Coetzee,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,2,DJ Hooda,G Coetzee,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,3,DJ Hooda,G Coetzee,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,4,MP Stoinis,G Coetzee,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,5,MP Stoinis,G Coetzee,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,6.wides,DJ Hooda,G Coetzee,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,6,DJ Hooda,G Coetzee,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,1,MP Stoinis,JJ Bumrah,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,2,DJ Hooda,JJ Bumrah,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,3,DJ Hooda,JJ Bumrah,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,4,MP Stoinis,JJ Bumrah,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,5,MP Stoinis,JJ Bumrah,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,6,MP Stoinis,JJ Bumrah,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,1,MP Stoinis,PP Chawla,DJ Hooda,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,2,MP Stoinis,PP Chawla,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,3,DJ Hooda,PP Chawla,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,4,MP Stoinis,PP Chawla,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,5,DJ Hooda,PP Chawla,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,6,DJ Hooda,PP Chawla,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,1,DJ Hooda,HH Pandya,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,DJ Hooda,JJ Bumrah,death
+2,Lucknow Super Giants,14,2,N Pooran,HH Pandya,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,3,MP Stoinis,HH Pandya,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,4,N Pooran,HH Pandya,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,5,MP Stoinis,HH Pandya,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,6,MP Stoinis,HH Pandya,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,1,MP Stoinis,Mohammad Nabi,N Pooran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,2,MP Stoinis,Mohammad Nabi,N Pooran,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,3,MP Stoinis,Mohammad Nabi,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,4,N Pooran,Mohammad Nabi,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,5,MP Stoinis,Mohammad Nabi,N Pooran,0,0,0,,0,0,0,0,0,True,caught,MP Stoinis,Tilak Varma,death
+2,Lucknow Super Giants,15,6,AJ Turner,Mohammad Nabi,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,1,AJ Turner,N Thushara,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,2,AJ Turner,N Thushara,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,3,N Pooran,N Thushara,AJ Turner,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,4,AJ Turner,N Thushara,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,5,N Pooran,N Thushara,AJ Turner,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,6.wides,N Pooran,N Thushara,AJ Turner,0,2,2,wides,2,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,6,AJ Turner,N Thushara,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,1,AJ Turner,JJ Bumrah,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,2,AJ Turner,JJ Bumrah,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,3,AJ Turner,JJ Bumrah,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,4,N Pooran,JJ Bumrah,AJ Turner,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,5,N Pooran,JJ Bumrah,AJ Turner,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,6,N Pooran,JJ Bumrah,AJ Turner,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,1,AJ Turner,G Coetzee,N Pooran,0,0,0,,0,0,0,0,0,True,bowled,AJ Turner,,death
+2,Lucknow Super Giants,18,2,A Badoni,G Coetzee,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,3,A Badoni,G Coetzee,N Pooran,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+2,Lucknow Super Giants,18,4,A Badoni,G Coetzee,N Pooran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,5,A Badoni,G Coetzee,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,6,A Badoni,G Coetzee,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,1,A Badoni,HH Pandya,N Pooran,1,0,1,,0,0,0,0,0,True,run out,A Badoni,"Naman Dhir, Ishan Kishan",death
+2,Lucknow Super Giants,19,2,KH Pandya,HH Pandya,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,3,N Pooran,HH Pandya,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,4.wides,N Pooran,HH Pandya,KH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,4,N Pooran,HH Pandya,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,5,N Pooran,HH Pandya,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,6,N Pooran,HH Pandya,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,1,N Pooran,Mohammad Nabi,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,2,N Pooran,Mohammad Nabi,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death

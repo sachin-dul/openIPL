@@ -28,7 +28,15 @@ from fetcher import fetch
 
 
 def get_season_matches(json_dir, season):
-    """Find all IPL match files for a given season."""
+    """Find all IPL match files for a given season.
+
+    Matches a JSON if either:
+      - Cricsheet's `season` field equals `season` (e.g. "2022")
+      - The calendar year of the match's first date equals `season`
+        (handles slashed Cricsheet seasons like "2007/08", "2009/10", "2020/21",
+        where the season-of-play is the second or first year depending on when
+        the event was held).
+    """
     matches = []
     season_str = str(season)
     for fname in sorted(os.listdir(json_dir)):
@@ -39,11 +47,15 @@ def get_season_matches(json_dir, season):
             with open(fpath) as f:
                 data = json.load(f)
             info = data["info"]
-            if str(info.get("season", "")) == season_str:
-                event = info.get("event", {})
-                if "Indian Premier League" in event.get("name", ""):
-                    match_num = event.get("match_number", 0)
-                    matches.append((match_num, fname, fpath))
+            event = info.get("event", {})
+            if "Indian Premier League" not in event.get("name", ""):
+                continue
+            cricsheet_season = str(info.get("season", ""))
+            dates = info.get("dates") or [""]
+            match_year = dates[0][:4] if dates else ""
+            if cricsheet_season == season_str or match_year == season_str:
+                match_num = event.get("match_number", 0)
+                matches.append((match_num, fname, fpath))
         except (json.JSONDecodeError, KeyError):
             continue
     matches.sort(key=lambda m: (m[0] == 0, m[0]))

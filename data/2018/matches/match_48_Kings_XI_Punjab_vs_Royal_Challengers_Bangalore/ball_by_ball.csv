@@ -1,0 +1,146 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,KL Rahul,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,KL Rahul,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,KL Rahul,UT Yadav,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,CH Gayle,UT Yadav,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,CH Gayle,UT Yadav,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,CH Gayle,UT Yadav,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,KL Rahul,TG Southee,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,KL Rahul,TG Southee,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,KL Rahul,TG Southee,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,KL Rahul,TG Southee,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,KL Rahul,TG Southee,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,KL Rahul,TG Southee,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,CH Gayle,UT Yadav,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,CH Gayle,UT Yadav,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,CH Gayle,UT Yadav,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,CH Gayle,UT Yadav,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,KL Rahul,UT Yadav,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,KL Rahul,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,CH Gayle,TG Southee,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,CH Gayle,TG Southee,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,CH Gayle,TG Southee,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,KL Rahul,TG Southee,CH Gayle,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,CH Gayle,TG Southee,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,CH Gayle,TG Southee,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,KL Rahul,UT Yadav,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,KL Rahul,UT Yadav,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,KL Rahul,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,C de Grandhomme,powerplay
+1,Kings XI Punjab,5,4,KK Nair,UT Yadav,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,5,5,CH Gayle,UT Yadav,KK Nair,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,5,6,CH Gayle,UT Yadav,KK Nair,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,Mohammed Siraj,middle
+1,Kings XI Punjab,6,1,KK Nair,Mohammed Siraj,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,2,KK Nair,Mohammed Siraj,AJ Finch,0,0,0,,0,0,0,0,0,True,caught,KK Nair,V Kohli,middle
+1,Kings XI Punjab,6,3,MP Stoinis,Mohammed Siraj,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,4,AJ Finch,Mohammed Siraj,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,5,AJ Finch,Mohammed Siraj,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,6,AJ Finch,Mohammed Siraj,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,1,AJ Finch,YS Chahal,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,MP Stoinis,YS Chahal,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,AJ Finch,YS Chahal,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,AJ Finch,YS Chahal,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,MP Stoinis,YS Chahal,AJ Finch,0,0,0,,0,0,0,0,0,True,bowled,MP Stoinis,,middle
+1,Kings XI Punjab,7,6,MA Agarwal,YS Chahal,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,AJ Finch,Mohammed Siraj,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,AJ Finch,Mohammed Siraj,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,AJ Finch,Mohammed Siraj,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,MA Agarwal,Mohammed Siraj,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,AJ Finch,Mohammed Siraj,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,AJ Finch,Mohammed Siraj,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,MA Agarwal,C de Grandhomme,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,MA Agarwal,C de Grandhomme,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3.wides,AJ Finch,C de Grandhomme,MA Agarwal,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,AJ Finch,C de Grandhomme,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,MA Agarwal,C de Grandhomme,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,MA Agarwal,C de Grandhomme,AJ Finch,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,PA Patel,middle
+1,Kings XI Punjab,9,6,AR Patel,C de Grandhomme,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,AJ Finch,YS Chahal,AR Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,AJ Finch,YS Chahal,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,AR Patel,YS Chahal,AJ Finch,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,10,4,AJ Finch,YS Chahal,AR Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,AJ Finch,YS Chahal,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,AR Patel,YS Chahal,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,1,AR Patel,C de Grandhomme,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,2.wides,AJ Finch,C de Grandhomme,AR Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,2,AJ Finch,C de Grandhomme,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,3,AR Patel,C de Grandhomme,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,4,AJ Finch,C de Grandhomme,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,5,AJ Finch,C de Grandhomme,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,11,6,AR Patel,C de Grandhomme,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,12,1,AJ Finch,MM Ali,AR Patel,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,12,2,AJ Finch,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,12,3,AJ Finch,MM Ali,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,12,4,AR Patel,MM Ali,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,12,5,AJ Finch,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,True,caught,AJ Finch,V Kohli,death
+1,Kings XI Punjab,12,6,R Ashwin,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,True,run out,R Ashwin,,death
+1,Kings XI Punjab,13,1,AR Patel,UT Yadav,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,13,2,AJ Tye,UT Yadav,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,13,3,AJ Tye,UT Yadav,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,13,4,AJ Tye,UT Yadav,AR Patel,0,0,0,,0,0,0,0,0,True,caught,AJ Tye,PA Patel,death
+1,Kings XI Punjab,13,5,MM Sharma,UT Yadav,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,13,6,AR Patel,UT Yadav,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,1,MM Sharma,MM Ali,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,2,AR Patel,MM Ali,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,3,MM Sharma,MM Ali,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,4,AR Patel,MM Ali,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,5,MM Sharma,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,6,MM Sharma,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,True,run out,MM Sharma,,death
+1,Kings XI Punjab,15,1,AS Rajpoot,Mohammed Siraj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,2,AS Rajpoot,Mohammed Siraj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,3,AS Rajpoot,Mohammed Siraj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,4,AS Rajpoot,Mohammed Siraj,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,5.wides,AR Patel,Mohammed Siraj,AS Rajpoot,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,5,AR Patel,Mohammed Siraj,AS Rajpoot,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,6,AS Rajpoot,Mohammed Siraj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,1,AR Patel,MM Ali,AS Rajpoot,1,0,1,,0,0,0,0,0,True,run out,AS Rajpoot,,death
+2,Royal Challengers Bangalore,1,1,V Kohli,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,PA Patel,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,V Kohli,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,PA Patel,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,V Kohli,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,PA Patel,R Ashwin,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,V Kohli,AJ Tye,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,V Kohli,AJ Tye,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,V Kohli,AJ Tye,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,PA Patel,AJ Tye,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,PA Patel,AJ Tye,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,PA Patel,AJ Tye,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,V Kohli,AS Rajpoot,PA Patel,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,V Kohli,AS Rajpoot,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,V Kohli,AS Rajpoot,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4.wides,V Kohli,AS Rajpoot,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,V Kohli,AS Rajpoot,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,3,5,V Kohli,AS Rajpoot,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,3,6,PA Patel,AS Rajpoot,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,1,V Kohli,AJ Tye,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,2,PA Patel,AJ Tye,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,3,PA Patel,AJ Tye,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,4,V Kohli,AJ Tye,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,5,V Kohli,AJ Tye,PA Patel,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,4,6,PA Patel,AJ Tye,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,1,V Kohli,MM Sharma,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,2,PA Patel,MM Sharma,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,3,PA Patel,MM Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,4,V Kohli,MM Sharma,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,5,PA Patel,MM Sharma,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,6,PA Patel,MM Sharma,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,1,V Kohli,AJ Tye,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,2,V Kohli,AJ Tye,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,3,PA Patel,AJ Tye,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,6,4,V Kohli,AJ Tye,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,6,5,V Kohli,AJ Tye,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,6,6,V Kohli,AJ Tye,PA Patel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,1,PA Patel,MP Stoinis,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,2,V Kohli,MP Stoinis,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,3,V Kohli,MP Stoinis,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,4,PA Patel,MP Stoinis,V Kohli,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,5,PA Patel,MP Stoinis,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,7,6,V Kohli,MP Stoinis,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,1,PA Patel,AJ Tye,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,2,V Kohli,AJ Tye,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,3,PA Patel,AJ Tye,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,4,PA Patel,AJ Tye,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,5,PA Patel,AJ Tye,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,6,V Kohli,AJ Tye,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,1.noballs,V Kohli,AS Rajpoot,PA Patel,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,1,V Kohli,AS Rajpoot,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death

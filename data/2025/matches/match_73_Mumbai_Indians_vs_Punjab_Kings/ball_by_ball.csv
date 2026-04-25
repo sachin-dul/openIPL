@@ -1,0 +1,245 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,RG Sharma,Arshdeep Singh,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,RG Sharma,Arshdeep Singh,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,JM Bairstow,Arshdeep Singh,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,JM Bairstow,Arshdeep Singh,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5.wides,JM Bairstow,Arshdeep Singh,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,JM Bairstow,Arshdeep Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,RG Sharma,Arshdeep Singh,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,RG Sharma,KA Jamieson,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,JM Bairstow,KA Jamieson,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,JM Bairstow,KA Jamieson,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,JM Bairstow,KA Jamieson,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,RG Sharma,KA Jamieson,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,JM Bairstow,KA Jamieson,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,RG Sharma,MP Stoinis,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,RG Sharma,MP Stoinis,JM Bairstow,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,Vijaykumar Vyshak,powerplay
+1,Mumbai Indians,3,3,Tilak Varma,MP Stoinis,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4.noballs,Tilak Varma,MP Stoinis,JM Bairstow,6,1,7,noballs,0,1,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,Tilak Varma,MP Stoinis,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,JM Bairstow,MP Stoinis,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,JM Bairstow,MP Stoinis,Tilak Varma,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Mumbai Indians,4,1,JM Bairstow,Arshdeep Singh,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2.wides,Tilak Varma,Arshdeep Singh,JM Bairstow,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,Tilak Varma,Arshdeep Singh,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,JM Bairstow,Arshdeep Singh,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,JM Bairstow,Arshdeep Singh,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,Tilak Varma,Arshdeep Singh,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,JM Bairstow,Arshdeep Singh,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,Tilak Varma,KA Jamieson,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,JM Bairstow,KA Jamieson,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,JM Bairstow,KA Jamieson,Tilak Varma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,JM Bairstow,KA Jamieson,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,Tilak Varma,KA Jamieson,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6.wides,JM Bairstow,KA Jamieson,Tilak Varma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,JM Bairstow,KA Jamieson,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,JM Bairstow,Azmatullah Omarzai,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,JM Bairstow,Azmatullah Omarzai,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,Tilak Varma,Azmatullah Omarzai,JM Bairstow,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Mumbai Indians,6,4,JM Bairstow,Azmatullah Omarzai,Tilak Varma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5.wides,JM Bairstow,Azmatullah Omarzai,Tilak Varma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,JM Bairstow,Azmatullah Omarzai,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,Tilak Varma,Azmatullah Omarzai,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,Tilak Varma,Vijaykumar Vyshak,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,Tilak Varma,Vijaykumar Vyshak,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,Tilak Varma,Vijaykumar Vyshak,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,JM Bairstow,Vijaykumar Vyshak,Tilak Varma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,JM Bairstow,Vijaykumar Vyshak,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,JM Bairstow,Vijaykumar Vyshak,Tilak Varma,0,0,0,,0,0,0,0,0,True,caught,JM Bairstow,JP Inglis,middle
+1,Mumbai Indians,8,1,Tilak Varma,YS Chahal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,SA Yadav,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,SA Yadav,YS Chahal,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,Tilak Varma,YS Chahal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,SA Yadav,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,SA Yadav,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,Tilak Varma,Vijaykumar Vyshak,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,Tilak Varma,Vijaykumar Vyshak,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,SA Yadav,Vijaykumar Vyshak,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4.noballs,Tilak Varma,Vijaykumar Vyshak,SA Yadav,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,SA Yadav,Vijaykumar Vyshak,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,Tilak Varma,Vijaykumar Vyshak,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,Tilak Varma,Vijaykumar Vyshak,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,SA Yadav,YS Chahal,Tilak Varma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,SA Yadav,YS Chahal,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,Tilak Varma,YS Chahal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,SA Yadav,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,SA Yadav,YS Chahal,Tilak Varma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,SA Yadav,YS Chahal,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,Tilak Varma,Azmatullah Omarzai,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,Tilak Varma,Azmatullah Omarzai,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,Tilak Varma,Azmatullah Omarzai,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,Tilak Varma,Azmatullah Omarzai,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,SA Yadav,Azmatullah Omarzai,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,Tilak Varma,Azmatullah Omarzai,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,SA Yadav,YS Chahal,Tilak Varma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,SA Yadav,YS Chahal,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,Tilak Varma,YS Chahal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,SA Yadav,YS Chahal,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,Tilak Varma,YS Chahal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,SA Yadav,YS Chahal,Tilak Varma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,SA Yadav,KA Jamieson,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,SA Yadav,KA Jamieson,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,SA Yadav,KA Jamieson,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,SA Yadav,KA Jamieson,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,SA Yadav,KA Jamieson,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,SA Yadav,KA Jamieson,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,Tilak Varma,YS Chahal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,SA Yadav,YS Chahal,Tilak Varma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,SA Yadav,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,SA Yadav,YS Chahal,Tilak Varma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,SA Yadav,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,N Wadhera,middle
+1,Mumbai Indians,14,6,HH Pandya,YS Chahal,Tilak Varma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,Tilak Varma,KA Jamieson,HH Pandya,0,0,0,,0,0,0,0,0,True,caught,Tilak Varma,Priyansh Arya,middle
+1,Mumbai Indians,15,2,Naman Dhir,KA Jamieson,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,HH Pandya,KA Jamieson,Naman Dhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,Naman Dhir,KA Jamieson,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,HH Pandya,KA Jamieson,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,HH Pandya,KA Jamieson,Naman Dhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,HH Pandya,Vijaykumar Vyshak,Naman Dhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,Naman Dhir,Vijaykumar Vyshak,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,Naman Dhir,Vijaykumar Vyshak,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,HH Pandya,Vijaykumar Vyshak,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,HH Pandya,Vijaykumar Vyshak,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,HH Pandya,Vijaykumar Vyshak,Naman Dhir,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,Naman Dhir,Arshdeep Singh,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,Naman Dhir,Arshdeep Singh,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,Naman Dhir,Arshdeep Singh,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,HH Pandya,Arshdeep Singh,Naman Dhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,Naman Dhir,Arshdeep Singh,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,Naman Dhir,Arshdeep Singh,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,HH Pandya,Azmatullah Omarzai,Naman Dhir,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,HH Pandya,Azmatullah Omarzai,Naman Dhir,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,HH Pandya,Azmatullah Omarzai,Naman Dhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,Naman Dhir,Azmatullah Omarzai,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,Naman Dhir,Azmatullah Omarzai,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,HH Pandya,Azmatullah Omarzai,Naman Dhir,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,JP Inglis,death
+1,Mumbai Indians,19,1,Naman Dhir,Arshdeep Singh,RA Bawa,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,Naman Dhir,Arshdeep Singh,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,RA Bawa,Arshdeep Singh,Naman Dhir,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,RA Bawa,Arshdeep Singh,Naman Dhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,Naman Dhir,Arshdeep Singh,RA Bawa,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,Naman Dhir,Arshdeep Singh,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,Naman Dhir,Azmatullah Omarzai,RA Bawa,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,Naman Dhir,Azmatullah Omarzai,RA Bawa,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,Naman Dhir,Azmatullah Omarzai,RA Bawa,0,0,0,,0,0,0,0,0,True,caught,Naman Dhir,MP Stoinis,death
+1,Mumbai Indians,20,4,MJ Santner,Azmatullah Omarzai,RA Bawa,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,20,5,RA Bawa,Azmatullah Omarzai,MJ Santner,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,RA Bawa,Azmatullah Omarzai,MJ Santner,3,0,3,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,1,1,Priyansh Arya,TA Boult,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,2,P Simran Singh,TA Boult,Priyansh Arya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,3,P Simran Singh,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,4,P Simran Singh,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,5,P Simran Singh,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,6,P Simran Singh,TA Boult,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,1,P Simran Singh,RJW Topley,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,2,P Simran Singh,RJW Topley,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,3,P Simran Singh,RJW Topley,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,4,Priyansh Arya,RJW Topley,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,5,Priyansh Arya,RJW Topley,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,6,Priyansh Arya,RJW Topley,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,1,P Simran Singh,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,True,caught,P Simran Singh,RJW Topley,powerplay
+2,Punjab Kings,3,2,JP Inglis,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,3,JP Inglis,TA Boult,Priyansh Arya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,4,JP Inglis,TA Boult,Priyansh Arya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,5,JP Inglis,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,6,JP Inglis,TA Boult,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,1,Priyansh Arya,RJW Topley,JP Inglis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,2,Priyansh Arya,RJW Topley,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,3,Priyansh Arya,RJW Topley,JP Inglis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,4,Priyansh Arya,RJW Topley,JP Inglis,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,5,Priyansh Arya,RJW Topley,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,6,JP Inglis,RJW Topley,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,1,JP Inglis,JJ Bumrah,Priyansh Arya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,2,JP Inglis,JJ Bumrah,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,3,JP Inglis,JJ Bumrah,Priyansh Arya,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,4,JP Inglis,JJ Bumrah,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,5,JP Inglis,JJ Bumrah,Priyansh Arya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,6,JP Inglis,JJ Bumrah,Priyansh Arya,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,1,Priyansh Arya,Ashwani Kumar,JP Inglis,0,0,0,,0,0,0,0,0,True,caught,Priyansh Arya,HH Pandya,powerplay
+2,Punjab Kings,6,2,SS Iyer,Ashwani Kumar,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,3,SS Iyer,Ashwani Kumar,JP Inglis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,4,SS Iyer,Ashwani Kumar,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,5,SS Iyer,Ashwani Kumar,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,6,6,JP Inglis,Ashwani Kumar,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,1,SS Iyer,MJ Santner,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,2,JP Inglis,MJ Santner,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,3,SS Iyer,MJ Santner,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,4,JP Inglis,MJ Santner,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,5,JP Inglis,MJ Santner,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,6,JP Inglis,MJ Santner,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,1,JP Inglis,HH Pandya,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,2,JP Inglis,HH Pandya,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,3,JP Inglis,HH Pandya,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,4,SS Iyer,HH Pandya,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,5,JP Inglis,HH Pandya,SS Iyer,0,0,0,,0,0,0,0,0,True,caught,JP Inglis,JM Bairstow,middle
+2,Punjab Kings,8,6,N Wadhera,HH Pandya,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,1,SS Iyer,MJ Santner,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,2,N Wadhera,MJ Santner,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,3,SS Iyer,MJ Santner,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,4,N Wadhera,MJ Santner,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,5,SS Iyer,MJ Santner,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,6,N Wadhera,MJ Santner,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,1,SS Iyer,HH Pandya,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,2,N Wadhera,HH Pandya,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,3,N Wadhera,HH Pandya,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,4,SS Iyer,HH Pandya,N Wadhera,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,5,SS Iyer,HH Pandya,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,6,N Wadhera,HH Pandya,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,1,SS Iyer,Ashwani Kumar,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,2,N Wadhera,Ashwani Kumar,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,3,N Wadhera,Ashwani Kumar,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,4,N Wadhera,Ashwani Kumar,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,5,N Wadhera,Ashwani Kumar,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,6,N Wadhera,Ashwani Kumar,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,1,N Wadhera,JJ Bumrah,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,2,N Wadhera,JJ Bumrah,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,3,N Wadhera,JJ Bumrah,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,4,N Wadhera,JJ Bumrah,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,5,SS Iyer,JJ Bumrah,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,6,N Wadhera,JJ Bumrah,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,1,N Wadhera,RJW Topley,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,2,SS Iyer,RJW Topley,N Wadhera,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,3,SS Iyer,RJW Topley,N Wadhera,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,13,4,SS Iyer,RJW Topley,N Wadhera,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,13,5,SS Iyer,RJW Topley,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,13,6,SS Iyer,RJW Topley,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,14,1,N Wadhera,TA Boult,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,14,2,SS Iyer,TA Boult,N Wadhera,2,0,2,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,14,3,SS Iyer,TA Boult,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,14,4,N Wadhera,TA Boult,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,14,5,N Wadhera,TA Boult,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,14,6.wides,N Wadhera,TA Boult,SS Iyer,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Punjab Kings,14,6,N Wadhera,TA Boult,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,15,1,N Wadhera,JJ Bumrah,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,15,2,N Wadhera,JJ Bumrah,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,15,3,N Wadhera,JJ Bumrah,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,15,4,SS Iyer,JJ Bumrah,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,15,5,SS Iyer,JJ Bumrah,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,15,6,N Wadhera,JJ Bumrah,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,1,N Wadhera,Ashwani Kumar,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,2.wides,N Wadhera,Ashwani Kumar,SS Iyer,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Punjab Kings,16,2,N Wadhera,Ashwani Kumar,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,3,SS Iyer,Ashwani Kumar,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,4,N Wadhera,Ashwani Kumar,SS Iyer,0,0,0,,0,0,0,0,0,True,caught,N Wadhera,MJ Santner,death
+2,Punjab Kings,16,5,Shashank Singh,Ashwani Kumar,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,6,SS Iyer,Ashwani Kumar,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,1,Shashank Singh,TA Boult,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,2,SS Iyer,TA Boult,Shashank Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,3,SS Iyer,TA Boult,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,4,Shashank Singh,TA Boult,SS Iyer,0,0,0,,0,0,0,0,0,True,run out,Shashank Singh,HH Pandya,death
+2,Punjab Kings,17,5,SS Iyer,TA Boult,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,6,SS Iyer,TA Boult,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,1,MP Stoinis,JJ Bumrah,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,2,SS Iyer,JJ Bumrah,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,3,SS Iyer,JJ Bumrah,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,4,SS Iyer,JJ Bumrah,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,5,MP Stoinis,JJ Bumrah,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,6,SS Iyer,JJ Bumrah,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,1,SS Iyer,Ashwani Kumar,MP Stoinis,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,2.noballs,SS Iyer,Ashwani Kumar,MP Stoinis,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Punjab Kings,19,2,SS Iyer,Ashwani Kumar,MP Stoinis,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,3,SS Iyer,Ashwani Kumar,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,4,SS Iyer,Ashwani Kumar,MP Stoinis,6,0,6,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,5,SS Iyer,Ashwani Kumar,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,6.wides,SS Iyer,Ashwani Kumar,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Punjab Kings,19,6,SS Iyer,Ashwani Kumar,MP Stoinis,6,0,6,,0,0,0,0,0,False,,,,death

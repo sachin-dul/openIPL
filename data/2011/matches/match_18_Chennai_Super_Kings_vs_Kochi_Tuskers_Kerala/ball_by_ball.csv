@@ -1,0 +1,197 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,MEK Hussey,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,MEK Hussey,RP Singh,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,MEK Hussey,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,MEK Hussey,RP Singh,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,MEK Hussey,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,MEK Hussey,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,M Vijay,R Vinay Kumar,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,M Vijay,R Vinay Kumar,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,M Vijay,R Vinay Kumar,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,MEK Hussey,R Vinay Kumar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,MEK Hussey,R Vinay Kumar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,MEK Hussey,R Vinay Kumar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1.wides,M Vijay,RP Singh,MEK Hussey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,M Vijay,RP Singh,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,MEK Hussey,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,True,caught,MEK Hussey,PA Patel,powerplay
+1,Chennai Super Kings,3,3,SK Raina,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,SK Raina,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,SK Raina,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,SK Raina,RP Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,M Vijay,R Vinay Kumar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,SK Raina,R Vinay Kumar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,SK Raina,R Vinay Kumar,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,M Vijay,R Vinay Kumar,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,M Vijay,R Vinay Kumar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,SK Raina,R Vinay Kumar,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,SK Raina,RP Singh,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,SK Raina,RP Singh,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,M Vijay,RP Singh,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,M Vijay,RP Singh,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,M Vijay,RP Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,M Vijay,RP Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1.wides,SK Raina,NLTC Perera,M Vijay,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,SK Raina,NLTC Perera,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,SK Raina,NLTC Perera,M Vijay,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,6,3,SK Raina,NLTC Perera,M Vijay,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,6,4,M Vijay,NLTC Perera,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,6,5,M Vijay,NLTC Perera,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,6,6,M Vijay,NLTC Perera,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,1,SK Raina,RR Powar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,SK Raina,RR Powar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,SK Raina,RR Powar,M Vijay,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,M Vijay,RR Powar,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,M Vijay,RR Powar,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,M Vijay,RR Powar,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,SK Raina,NLTC Perera,M Vijay,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,M Vijay,NLTC Perera,SK Raina,0,0,0,,0,0,0,0,0,True,lbw,M Vijay,,middle
+1,Chennai Super Kings,8,3,S Badrinath,NLTC Perera,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,S Badrinath,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,SK Raina,NLTC Perera,S Badrinath,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,SK Raina,NLTC Perera,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,SK Raina,RR Powar,S Badrinath,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,SK Raina,RR Powar,S Badrinath,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,SK Raina,RR Powar,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,S Badrinath,RR Powar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,SK Raina,RR Powar,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,S Badrinath,RR Powar,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,SK Raina,RV Gomez,S Badrinath,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,SK Raina,RV Gomez,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,S Badrinath,RV Gomez,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,S Badrinath,RV Gomez,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,SK Raina,RV Gomez,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,SK Raina,RV Gomez,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,SK Raina,R Vinay Kumar,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,SK Raina,R Vinay Kumar,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,S Badrinath,R Vinay Kumar,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,S Badrinath,R Vinay Kumar,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,S Badrinath,R Vinay Kumar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,SK Raina,R Vinay Kumar,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,SK Raina,RR Powar,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,12,2,S Badrinath,RR Powar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,12,3,SK Raina,RR Powar,S Badrinath,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,12,4,SK Raina,RR Powar,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,12,5,S Badrinath,RR Powar,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,12,6,S Badrinath,RR Powar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,13,1,S Badrinath,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,13,2,SK Raina,NLTC Perera,S Badrinath,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,13,3,SK Raina,NLTC Perera,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,13,4,S Badrinath,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,13,5,SK Raina,NLTC Perera,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,13,6,S Badrinath,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,14,1,S Badrinath,RV Gomez,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,14,2,S Badrinath,RV Gomez,SK Raina,0,0,0,,0,0,0,0,0,True,lbw,S Badrinath,,death
+1,Chennai Super Kings,14,3,MS Dhoni,RV Gomez,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,14,4,SK Raina,RV Gomez,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,14,5,SK Raina,RV Gomez,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,14,6,SK Raina,RV Gomez,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,15,1,MS Dhoni,RP Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,15,2,MS Dhoni,RP Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,15,3,MS Dhoni,RP Singh,SK Raina,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Chennai Super Kings,15,4,SK Raina,RP Singh,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,15,5,MS Dhoni,RP Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,15,6,MS Dhoni,RP Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,1,SK Raina,NLTC Perera,MS Dhoni,0,0,0,,0,0,0,0,0,True,run out,SK Raina,NLTC Perera,death
+1,Chennai Super Kings,16,2,JA Morkel,NLTC Perera,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,MS Dhoni,NLTC Perera,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,MS Dhoni,NLTC Perera,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,JA Morkel,NLTC Perera,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,MS Dhoni,NLTC Perera,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,MS Dhoni,RA Jadeja,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,MS Dhoni,RA Jadeja,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,MS Dhoni,RA Jadeja,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,JA Morkel,RA Jadeja,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,JA Morkel,RA Jadeja,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,RA Jadeja,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,1,1,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,2,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,3,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,4,BB McCullum,JA Morkel,DPMD Jayawardene,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,5,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,6,BB McCullum,JA Morkel,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,1,BB McCullum,DE Bollinger,DPMD Jayawardene,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,2,DPMD Jayawardene,DE Bollinger,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,3,DPMD Jayawardene,DE Bollinger,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,4,DPMD Jayawardene,DE Bollinger,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,5,BB McCullum,DE Bollinger,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,6,DPMD Jayawardene,DE Bollinger,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,1,BB McCullum,JA Morkel,DPMD Jayawardene,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,2,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,3,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,4,BB McCullum,JA Morkel,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,5,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,6,BB McCullum,JA Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,1,DPMD Jayawardene,DE Bollinger,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,2,DPMD Jayawardene,DE Bollinger,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,3,DPMD Jayawardene,DE Bollinger,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,4,DPMD Jayawardene,DE Bollinger,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,5,BB McCullum,DE Bollinger,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,6,BB McCullum,DE Bollinger,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,1,DPMD Jayawardene,R Ashwin,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,2,DPMD Jayawardene,R Ashwin,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,3,DPMD Jayawardene,R Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,True,caught,DPMD Jayawardene,S Anirudha,powerplay
+2,Kochi Tuskers Kerala,5,4,BB McCullum,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,5,PA Patel,R Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,6,PA Patel,R Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,1,BB McCullum,TG Southee,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,2,PA Patel,TG Southee,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,3,PA Patel,TG Southee,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,4,PA Patel,TG Southee,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,5,PA Patel,TG Southee,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,6,PA Patel,TG Southee,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,1,BB McCullum,R Ashwin,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,2,BB McCullum,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,3,PA Patel,R Ashwin,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,4,BB McCullum,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,5,PA Patel,R Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,6,PA Patel,R Ashwin,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,1,BB McCullum,SB Jakati,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,2,PA Patel,SB Jakati,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,3,BB McCullum,SB Jakati,PA Patel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,4,BB McCullum,SB Jakati,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,5,PA Patel,SB Jakati,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,6,PA Patel,SB Jakati,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,1.wides,PA Patel,TG Southee,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,1,PA Patel,TG Southee,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,2,PA Patel,TG Southee,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,3,PA Patel,TG Southee,BB McCullum,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,4,BB McCullum,TG Southee,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,5,BB McCullum,TG Southee,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,6,BB McCullum,TG Southee,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,1,BB McCullum,SB Jakati,PA Patel,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,2,BB McCullum,SB Jakati,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,3,PA Patel,SB Jakati,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,4,BB McCullum,SB Jakati,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,5,PA Patel,SB Jakati,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,10,6,PA Patel,SB Jakati,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,11,1,BB McCullum,R Ashwin,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,11,2,BB McCullum,R Ashwin,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,11,3,BB McCullum,R Ashwin,PA Patel,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,JA Morkel,death
+2,Kochi Tuskers Kerala,11,4,PA Patel,R Ashwin,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,11,5,BJ Hodge,R Ashwin,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,11,6,BJ Hodge,R Ashwin,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,1,BJ Hodge,SB Jakati,PA Patel,3,0,3,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,2,PA Patel,SB Jakati,BJ Hodge,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,3,PA Patel,SB Jakati,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,4,BJ Hodge,SB Jakati,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,5,BJ Hodge,SB Jakati,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,6,PA Patel,SB Jakati,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,1,BJ Hodge,DE Bollinger,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,2,BJ Hodge,DE Bollinger,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,3,PA Patel,DE Bollinger,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,4,PA Patel,DE Bollinger,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,5,BJ Hodge,DE Bollinger,PA Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,6,PA Patel,DE Bollinger,BJ Hodge,0,0,0,,0,0,0,0,0,True,caught,PA Patel,S Anirudha,death
+2,Kochi Tuskers Kerala,14,1,BJ Hodge,TG Southee,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,2,BJ Hodge,TG Southee,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,3,BJ Hodge,TG Southee,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,4.wides,RA Jadeja,TG Southee,BJ Hodge,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,4,RA Jadeja,TG Southee,BJ Hodge,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,5,RA Jadeja,TG Southee,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,6,BJ Hodge,TG Southee,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,1,BJ Hodge,R Ashwin,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,2,RA Jadeja,R Ashwin,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,3,BJ Hodge,R Ashwin,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,4,RA Jadeja,R Ashwin,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,5,RA Jadeja,R Ashwin,BJ Hodge,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,6,RA Jadeja,R Ashwin,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,death

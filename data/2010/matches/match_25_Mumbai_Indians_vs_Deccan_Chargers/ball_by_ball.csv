@@ -1,0 +1,240 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3.wides,S Dhawan,KAJ Roach,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,S Dhawan,KAJ Roach,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,SR Tendulkar,Jaskaran Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,SR Tendulkar,Jaskaran Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,SR Tendulkar,Jaskaran Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,SR Tendulkar,Jaskaran Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,SR Tendulkar,Jaskaran Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,SR Tendulkar,Jaskaran Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,SR Tendulkar,KAJ Roach,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,S Dhawan,KAJ Roach,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,S Dhawan,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,SR Tendulkar,Jaskaran Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,SR Tendulkar,Jaskaran Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,S Dhawan,Jaskaran Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,True,lbw,S Dhawan,,powerplay
+1,Mumbai Indians,4,4,DJ Bravo,Jaskaran Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5.noballs,SR Tendulkar,Jaskaran Singh,DJ Bravo,2,1,3,noballs,0,1,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5.noballs,SR Tendulkar,Jaskaran Singh,DJ Bravo,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5.wides,SR Tendulkar,Jaskaran Singh,DJ Bravo,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,SR Tendulkar,Jaskaran Singh,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,SR Tendulkar,Jaskaran Singh,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,DJ Bravo,PP Ojha,SR Tendulkar,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,DJ Bravo,PP Ojha,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,DJ Bravo,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,DJ Bravo,PP Ojha,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,DJ Bravo,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,DJ Bravo,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,SR Tendulkar,RP Singh,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,DJ Bravo,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,DJ Bravo,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,DJ Bravo,RP Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,SR Tendulkar,RP Singh,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,SR Tendulkar,RP Singh,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,DJ Bravo,A Symonds,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,DJ Bravo,A Symonds,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3.wides,SR Tendulkar,A Symonds,DJ Bravo,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,SR Tendulkar,A Symonds,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,SR Tendulkar,A Symonds,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,DJ Bravo,A Symonds,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,DJ Bravo,A Symonds,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,SR Tendulkar,RP Singh,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,DJ Bravo,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,DJ Bravo,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,DJ Bravo,A Symonds,middle
+1,Mumbai Indians,8,4,SS Tiwary,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,SS Tiwary,RP Singh,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,SS Tiwary,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,SS Tiwary,AC Gilchrist,middle
+1,Mumbai Indians,9,1,SR Tendulkar,PP Ojha,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,SR Tendulkar,PP Ojha,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,AT Rayudu,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,SR Tendulkar,PP Ojha,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,SR Tendulkar,PP Ojha,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,AT Rayudu,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,AT Rayudu,RP Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,SR Tendulkar,RP Singh,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,AT Rayudu,RP Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,SR Tendulkar,RP Singh,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,SR Tendulkar,RP Singh,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6.wides,AT Rayudu,RP Singh,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,AT Rayudu,RP Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,AT Rayudu,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,SR Tendulkar,PP Ojha,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,SR Tendulkar,PP Ojha,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,AT Rayudu,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,True,stumped,AT Rayudu,AC Gilchrist,middle
+1,Mumbai Indians,11,5,R Sathish,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,SR Tendulkar,PP Ojha,R Sathish,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,R Sathish,A Symonds,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,SR Tendulkar,A Symonds,R Sathish,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,SR Tendulkar,A Symonds,R Sathish,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,SR Tendulkar,A Symonds,R Sathish,0,1,1,byes,0,0,1,0,0,False,,,,middle
+1,Mumbai Indians,12,5,R Sathish,A Symonds,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,R Sathish,A Symonds,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,R Sathish,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,R Sathish,TL Suman,middle
+1,Mumbai Indians,13,2,KA Pollard,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,KA Pollard,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,KA Pollard,PP Ojha,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,KA Pollard,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,SR Tendulkar,PP Ojha,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,KA Pollard,Jaskaran Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,TL Suman,middle
+1,Mumbai Indians,14,2,SR Tendulkar,Jaskaran Singh,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,R McLaren,Jaskaran Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,R McLaren,Jaskaran Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,SR Tendulkar,Jaskaran Singh,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,R McLaren,Jaskaran Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,R McLaren,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,R McLaren,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3.wides,R McLaren,KAJ Roach,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,R McLaren,KAJ Roach,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,R McLaren,KAJ Roach,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,SR Tendulkar,KAJ Roach,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,SR Tendulkar,KAJ Roach,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,SR Tendulkar,A Symonds,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,SR Tendulkar,A Symonds,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,R McLaren,A Symonds,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,R McLaren,A Symonds,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,SR Tendulkar,A Symonds,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,SR Tendulkar,A Symonds,R McLaren,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,R McLaren,RP Singh,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,R McLaren,RP Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,SR Tendulkar,RP Singh,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,SR Tendulkar,RP Singh,R McLaren,0,0,0,,0,0,0,0,0,True,caught,SR Tendulkar,AC Gilchrist,death
+1,Mumbai Indians,17,5,Harbhajan Singh,RP Singh,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,R McLaren,RP Singh,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,Harbhajan Singh,A Symonds,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,R McLaren,A Symonds,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,R McLaren,A Symonds,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,Harbhajan Singh,A Symonds,R McLaren,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,Harbhajan Singh,A Symonds,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,Harbhajan Singh,A Symonds,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,Harbhajan Singh,KAJ Roach,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,Harbhajan Singh,KAJ Roach,R McLaren,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,Harbhajan Singh,KAJ Roach,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,Harbhajan Singh,KAJ Roach,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,Harbhajan Singh,KAJ Roach,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,Harbhajan Singh,KAJ Roach,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1.noballs,Harbhajan Singh,Jaskaran Singh,R McLaren,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,20,1.noballs,Harbhajan Singh,Jaskaran Singh,R McLaren,4,1,5,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,Harbhajan Singh,RG Sharma,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,Harbhajan Singh,RG Sharma,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,Harbhajan Singh,RG Sharma,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,Harbhajan Singh,RG Sharma,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,R McLaren,RG Sharma,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,Harbhajan Singh,RG Sharma,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,1,1,AC Gilchrist,Harbhajan Singh,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,AC Gilchrist,Harbhajan Singh,MD Mishra,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,SR Tendulkar,powerplay
+2,Deccan Chargers,1,3,HH Gibbs,Harbhajan Singh,MD Mishra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,HH Gibbs,Harbhajan Singh,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,HH Gibbs,Harbhajan Singh,MD Mishra,0,2,2,byes,0,0,2,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,HH Gibbs,Harbhajan Singh,MD Mishra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1,MD Mishra,R McLaren,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,MD Mishra,R McLaren,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,3,HH Gibbs,R McLaren,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,HH Gibbs,R McLaren,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,MD Mishra,R McLaren,HH Gibbs,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Deccan Chargers,2,6,MD Mishra,R McLaren,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,HH Gibbs,Z Khan,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,2,MD Mishra,Z Khan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,MD Mishra,Z Khan,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,4,HH Gibbs,Z Khan,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,5,HH Gibbs,Z Khan,MD Mishra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,HH Gibbs,Z Khan,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,MD Mishra,R McLaren,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,MD Mishra,R McLaren,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,3,MD Mishra,R McLaren,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,HH Gibbs,R McLaren,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,MD Mishra,R McLaren,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6.wides,MD Mishra,R McLaren,HH Gibbs,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,MD Mishra,R McLaren,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,HH Gibbs,Z Khan,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,HH Gibbs,Z Khan,MD Mishra,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,3,HH Gibbs,Z Khan,MD Mishra,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,4,HH Gibbs,Z Khan,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,HH Gibbs,Z Khan,MD Mishra,0,0,0,,0,0,0,0,0,True,caught,HH Gibbs,KA Pollard,powerplay
+2,Deccan Chargers,5,6,A Symonds,Z Khan,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,A Symonds,SL Malinga,MD Mishra,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Deccan Chargers,6,2,MD Mishra,SL Malinga,A Symonds,0,0,0,,0,0,0,0,0,True,caught,MD Mishra,R McLaren,powerplay
+2,Deccan Chargers,6,3,A Symonds,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,4,A Symonds,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,5,A Symonds,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,6.wides,A Symonds,SL Malinga,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,6,A Symonds,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,A Symonds,DJ Bravo,middle
+2,Deccan Chargers,7,1,RG Sharma,DJ Bravo,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2,RG Sharma,DJ Bravo,TL Suman,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,RG Sharma,DJ Bravo,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,RG Sharma,DJ Bravo,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,TL Suman,DJ Bravo,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,TL Suman,DJ Bravo,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,RG Sharma,SL Malinga,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,2,TL Suman,SL Malinga,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,TL Suman,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,TL Suman,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,TL Suman,SL Malinga,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,6,TL Suman,SL Malinga,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,1,TL Suman,Harbhajan Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2.wides,RG Sharma,Harbhajan Singh,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,RG Sharma,Harbhajan Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3,TL Suman,Harbhajan Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,4,RG Sharma,Harbhajan Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,TL Suman,Harbhajan Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6.wides,RG Sharma,Harbhajan Singh,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,RG Sharma,Harbhajan Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,1,RG Sharma,DJ Bravo,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,2,TL Suman,DJ Bravo,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,TL Suman,DJ Bravo,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,TL Suman,DJ Bravo,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,TL Suman,DJ Bravo,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,6,TL Suman,DJ Bravo,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,1,RG Sharma,Harbhajan Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,TL Suman,Harbhajan Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,RG Sharma,Harbhajan Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,TL Suman,Harbhajan Singh,RG Sharma,0,0,0,,0,0,0,0,0,True,caught and bowled,TL Suman,,middle
+2,Deccan Chargers,11,5,Y Venugopal Rao,Harbhajan Singh,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,Y Venugopal Rao,Harbhajan Singh,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,RG Sharma,KA Pollard,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,RG Sharma,KA Pollard,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,RG Sharma,KA Pollard,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,Y Venugopal Rao,KA Pollard,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,12,5,RG Sharma,KA Pollard,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,12,6,Y Venugopal Rao,KA Pollard,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,1,Y Venugopal Rao,R McLaren,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,2,Y Venugopal Rao,R McLaren,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,3,Y Venugopal Rao,R McLaren,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,4,Y Venugopal Rao,R McLaren,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,5,RG Sharma,R McLaren,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,6,RG Sharma,R McLaren,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,1,Y Venugopal Rao,KA Pollard,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,Y Venugopal Rao,R McLaren,death
+2,Deccan Chargers,14,2,RG Sharma,KA Pollard,Jaskaran Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,3,RG Sharma,KA Pollard,Jaskaran Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,4,RG Sharma,KA Pollard,Jaskaran Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,5,RG Sharma,KA Pollard,Jaskaran Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,6,RG Sharma,KA Pollard,Jaskaran Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,1,Jaskaran Singh,Harbhajan Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,2,RG Sharma,Harbhajan Singh,Jaskaran Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,3,Jaskaran Singh,Harbhajan Singh,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,Jaskaran Singh,JP Duminy,death
+2,Deccan Chargers,15,4,RG Sharma,Harbhajan Singh,KAJ Roach,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,5,KAJ Roach,Harbhajan Singh,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,6,KAJ Roach,Harbhajan Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,1,KAJ Roach,SL Malinga,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,KAJ Roach,SL Malinga,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,RG Sharma,SL Malinga,KAJ Roach,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,4,KAJ Roach,SL Malinga,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,RG Sharma,SL Malinga,KAJ Roach,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,RG Sharma,SL Malinga,KAJ Roach,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,1,KAJ Roach,Z Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,KAJ Roach,Z Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3,KAJ Roach,Z Khan,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,RG Sharma,Z Khan,KAJ Roach,0,0,0,,0,0,0,0,0,True,bowled,RG Sharma,,death
+2,Deccan Chargers,17,5,RP Singh,Z Khan,KAJ Roach,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,KAJ Roach,Z Khan,RP Singh,0,0,0,,0,0,0,0,0,True,bowled,KAJ Roach,,death
+2,Deccan Chargers,18,1,RP Singh,SL Malinga,PP Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,2,RP Singh,SL Malinga,PP Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,RP Singh,SL Malinga,PP Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,4,RP Singh,SL Malinga,PP Ojha,0,0,0,,0,0,0,0,0,True,bowled,RP Singh,,death

@@ -1,0 +1,252 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,DA Warner,Z Khan,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,DA Warner,Z Khan,V Sehwag,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,V Sehwag,Z Khan,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,V Sehwag,Z Khan,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,V Sehwag,Z Khan,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,DA Warner,Z Khan,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,V Sehwag,S Aravind,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,V Sehwag,S Aravind,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,V Sehwag,S Aravind,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,V Sehwag,S Aravind,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,V Sehwag,S Aravind,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,V Sehwag,S Aravind,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1.wides,DA Warner,Z Khan,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,DA Warner,Z Khan,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,V Sehwag,Z Khan,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,V Sehwag,Z Khan,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,V Sehwag,Z Khan,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,V Sehwag,Z Khan,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,DA Warner,Z Khan,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,DA Warner,S Aravind,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,DA Warner,S Aravind,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,V Sehwag,S Aravind,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,V Sehwag,S Aravind,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,DA Warner,S Aravind,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,DA Warner,S Aravind,V Sehwag,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,DA Warner,Z Khan,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,DA Warner,Z Khan,V Sehwag,0,0,0,,0,0,0,0,0,True,bowled,DA Warner,,powerplay
+1,Delhi Daredevils,5,3,JR Hopes,Z Khan,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,JR Hopes,Z Khan,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,JR Hopes,Z Khan,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,V Sehwag,Z Khan,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,JR Hopes,S Aravind,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,JR Hopes,S Aravind,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,JR Hopes,S Aravind,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,JR Hopes,S Aravind,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,JR Hopes,S Aravind,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,V Sehwag,S Aravind,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,V Sehwag,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,JR Hopes,DL Vettori,V Sehwag,0,0,0,,0,0,0,0,0,True,run out,V Sehwag,"A Mithun, AB de Villiers",middle
+1,Delhi Daredevils,7,3,MS Wade,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,JR Hopes,DL Vettori,MS Wade,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,MS Wade,DL Vettori,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,MS Wade,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,MS Wade,CH Gayle,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,JR Hopes,CH Gayle,MS Wade,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,JR Hopes,CH Gayle,MS Wade,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,JR Hopes,CH Gayle,MS Wade,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,JR Hopes,CH Gayle,MS Wade,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,JR Hopes,CH Gayle,MS Wade,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,MS Wade,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,JR Hopes,DL Vettori,MS Wade,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,JR Hopes,DL Vettori,MS Wade,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,MS Wade,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,JR Hopes,DL Vettori,MS Wade,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,JR Hopes,DL Vettori,MS Wade,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,MS Wade,A Mithun,JR Hopes,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,MS Wade,A Mithun,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,JR Hopes,A Mithun,MS Wade,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,MS Wade,A Mithun,JR Hopes,0,0,0,,0,0,0,0,0,True,bowled,MS Wade,,middle
+1,Delhi Daredevils,10,5,Y Venugopal Rao,A Mithun,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,Y Venugopal Rao,A Mithun,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,JR Hopes,J Syed Mohammad,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,JR Hopes,J Syed Mohammad,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,JR Hopes,J Syed Mohammad,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1.noballs,Y Venugopal Rao,A Mithun,JR Hopes,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,Y Venugopal Rao,A Mithun,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,Y Venugopal Rao,A Mithun,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,Y Venugopal Rao,A Mithun,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,JR Hopes,A Mithun,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,Y Venugopal Rao,A Mithun,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,Y Venugopal Rao,A Mithun,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,JR Hopes,J Syed Mohammad,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,Y Venugopal Rao,J Syed Mohammad,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,Y Venugopal Rao,J Syed Mohammad,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,JR Hopes,J Syed Mohammad,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,JR Hopes,J Syed Mohammad,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,JR Hopes,J Syed Mohammad,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,Y Venugopal Rao,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2.wides,JR Hopes,DL Vettori,Y Venugopal Rao,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,JR Hopes,DL Vettori,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,JR Hopes,DL Vettori,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,Y Venugopal Rao,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,JR Hopes,DL Vettori,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,Y Venugopal Rao,DL Vettori,JR Hopes,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Delhi Daredevils,15,1,Y Venugopal Rao,A Mithun,JR Hopes,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,Y Venugopal Rao,A Mithun,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,JR Hopes,A Mithun,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4.noballs,JR Hopes,A Mithun,Y Venugopal Rao,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,JR Hopes,A Mithun,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,Y Venugopal Rao,A Mithun,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,Y Venugopal Rao,A Mithun,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,Y Venugopal Rao,DL Vettori,JR Hopes,0,0,0,,0,0,0,0,0,True,bowled,Y Venugopal Rao,,death
+1,Delhi Daredevils,16,2,NV Ojha,DL Vettori,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,NV Ojha,DL Vettori,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,NV Ojha,DL Vettori,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,NV Ojha,DL Vettori,JR Hopes,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,NV Ojha,DL Vettori,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,NV Ojha,Z Khan,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2.wides,JR Hopes,Z Khan,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,JR Hopes,Z Khan,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,JR Hopes,Z Khan,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,JR Hopes,Z Khan,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,NV Ojha,Z Khan,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,NV Ojha,Z Khan,JR Hopes,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,JR Hopes,CH Gayle,NV Ojha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,JR Hopes,CH Gayle,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,NV Ojha,CH Gayle,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,JR Hopes,CH Gayle,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,NV Ojha,CH Gayle,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,JR Hopes,CH Gayle,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,JR Hopes,A Mithun,NV Ojha,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,JR Hopes,A Mithun,NV Ojha,0,0,0,,0,0,0,0,0,True,caught,JR Hopes,AB de Villiers,death
+1,Delhi Daredevils,19,3.wides,IK Pathan,A Mithun,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3.wides,IK Pathan,A Mithun,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,IK Pathan,A Mithun,NV Ojha,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,IK Pathan,A Mithun,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5.wides,IK Pathan,A Mithun,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,IK Pathan,A Mithun,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,IK Pathan,A Mithun,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,NV Ojha,S Aravind,IK Pathan,0,0,0,,0,0,0,0,0,True,caught,NV Ojha,Z Khan,death
+1,Delhi Daredevils,20,2,IK Pathan,S Aravind,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,IK Pathan,S Aravind,Y Nagar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,4,IK Pathan,S Aravind,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5.wides,Y Nagar,S Aravind,IK Pathan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,Y Nagar,S Aravind,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,Y Nagar,S Aravind,IK Pathan,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,1,1,CH Gayle,AB Dinda,TM Dilshan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,TM Dilshan,AB Dinda,CH Gayle,0,0,0,,0,0,0,0,0,True,caught,TM Dilshan,NV Ojha,powerplay
+2,Royal Challengers Bangalore,1,3,V Kohli,AB Dinda,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,V Kohli,AB Dinda,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,V Kohli,AB Dinda,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,V Kohli,AB Dinda,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,V Kohli,IK Pathan,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,V Kohli,IK Pathan,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,V Kohli,IK Pathan,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,V Kohli,IK Pathan,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,V Kohli,IK Pathan,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,V Kohli,IK Pathan,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,CH Gayle,AB Dinda,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,CH Gayle,AB Dinda,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3.wides,V Kohli,AB Dinda,CH Gayle,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,V Kohli,AB Dinda,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4.wides,V Kohli,AB Dinda,CH Gayle,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,V Kohli,AB Dinda,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,V Kohli,AB Dinda,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,V Kohli,AB Dinda,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,CH Gayle,M Morkel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,V Kohli,M Morkel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,3,V Kohli,M Morkel,CH Gayle,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,4,CH Gayle,M Morkel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,CH Gayle,M Morkel,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,CH Gayle,M Morkel,V Kohli,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,V Kohli,AB Dinda,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,2,CH Gayle,AB Dinda,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3,CH Gayle,AB Dinda,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,4,V Kohli,AB Dinda,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,5,V Kohli,AB Dinda,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,6,CH Gayle,AB Dinda,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,1,V Kohli,M Morkel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,2,V Kohli,M Morkel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,3,V Kohli,M Morkel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,4,V Kohli,M Morkel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,5,CH Gayle,M Morkel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,6,V Kohli,M Morkel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,V Kohli,UT Yadav,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,CH Gayle,UT Yadav,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,V Kohli,UT Yadav,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,V Kohli,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,5,V Kohli,UT Yadav,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,V Kohli,UT Yadav,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,V Kohli,JR Hopes,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,2,CH Gayle,JR Hopes,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,CH Gayle,JR Hopes,V Kohli,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,Y Venugopal Rao,middle
+2,Royal Challengers Bangalore,8,4,V Kohli,JR Hopes,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,V Kohli,JR Hopes,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,V Kohli,JR Hopes,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,V Kohli,UT Yadav,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,AB de Villiers,UT Yadav,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,AB de Villiers,UT Yadav,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,V Kohli,UT Yadav,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,V Kohli,UT Yadav,AB de Villiers,1,0,1,,0,0,0,0,0,True,run out,AB de Villiers,DA Warner,middle
+2,Royal Challengers Bangalore,9,6,V Kohli,UT Yadav,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,1,V Kohli,M Morkel,SS Tiwary,0,0,0,,0,0,0,0,0,True,bowled,V Kohli,,middle
+2,Royal Challengers Bangalore,10,2,CA Pujara,M Morkel,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,3,CA Pujara,M Morkel,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,4,CA Pujara,M Morkel,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,5,CA Pujara,M Morkel,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,6,SS Tiwary,M Morkel,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,1,CA Pujara,JR Hopes,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,2,SS Tiwary,JR Hopes,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,3,CA Pujara,JR Hopes,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,4,CA Pujara,JR Hopes,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,5,SS Tiwary,JR Hopes,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,6,CA Pujara,JR Hopes,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,1,CA Pujara,IK Pathan,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,2,SS Tiwary,IK Pathan,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,3,SS Tiwary,IK Pathan,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,4,CA Pujara,IK Pathan,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,5,SS Tiwary,IK Pathan,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,6,SS Tiwary,IK Pathan,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,1,CA Pujara,Y Nagar,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,2,SS Tiwary,Y Nagar,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,3,CA Pujara,Y Nagar,SS Tiwary,0,0,0,,0,0,0,0,0,True,caught,CA Pujara,DA Warner,middle
+2,Royal Challengers Bangalore,13,4,SS Tiwary,Y Nagar,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,5,DL Vettori,Y Nagar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,6,DL Vettori,Y Nagar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,1,SS Tiwary,JR Hopes,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,2,SS Tiwary,JR Hopes,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,3,SS Tiwary,JR Hopes,DL Vettori,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,14,4,DL Vettori,JR Hopes,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,5,DL Vettori,JR Hopes,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,6,DL Vettori,JR Hopes,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,1,DL Vettori,UT Yadav,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,2,DL Vettori,UT Yadav,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,3,SS Tiwary,UT Yadav,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,4,DL Vettori,UT Yadav,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,5,SS Tiwary,UT Yadav,DL Vettori,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,6,SS Tiwary,UT Yadav,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,1,DL Vettori,IK Pathan,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,2,DL Vettori,IK Pathan,SS Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,3,DL Vettori,IK Pathan,SS Tiwary,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,4,SS Tiwary,IK Pathan,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,5,DL Vettori,IK Pathan,SS Tiwary,0,4,4,byes,0,0,4,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,6,DL Vettori,IK Pathan,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,1,SS Tiwary,M Morkel,DL Vettori,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,2.noballs,SS Tiwary,M Morkel,DL Vettori,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,2,SS Tiwary,M Morkel,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,3.wides,DL Vettori,M Morkel,SS Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,3,DL Vettori,M Morkel,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,4,SS Tiwary,M Morkel,DL Vettori,0,0,0,,0,0,0,0,0,True,caught,SS Tiwary,NV Ojha,death
+2,Royal Challengers Bangalore,17,5,A Mithun,M Morkel,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,6,A Mithun,M Morkel,DL Vettori,0,0,0,,0,0,0,0,0,True,caught,A Mithun,UT Yadav,death
+2,Royal Challengers Bangalore,18,1,J Syed Mohammad,UT Yadav,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,2,J Syed Mohammad,UT Yadav,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,3,J Syed Mohammad,UT Yadav,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,4,DL Vettori,UT Yadav,J Syed Mohammad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,5,J Syed Mohammad,UT Yadav,DL Vettori,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,6,J Syed Mohammad,UT Yadav,DL Vettori,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,1.wides,DL Vettori,JR Hopes,J Syed Mohammad,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,1,DL Vettori,JR Hopes,J Syed Mohammad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,2,J Syed Mohammad,JR Hopes,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,3,DL Vettori,JR Hopes,J Syed Mohammad,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,4,DL Vettori,JR Hopes,J Syed Mohammad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,5,J Syed Mohammad,JR Hopes,DL Vettori,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,6,J Syed Mohammad,JR Hopes,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,1,J Syed Mohammad,AB Dinda,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,2,DL Vettori,AB Dinda,J Syed Mohammad,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,3,J Syed Mohammad,AB Dinda,DL Vettori,1,0,1,,0,0,0,0,0,False,,,,death

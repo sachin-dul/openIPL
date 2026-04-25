@@ -1,0 +1,233 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,DR Smith,Shakib Al Hasan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,DR Smith,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,DR Smith,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,DR Smith,Shakib Al Hasan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,BB McCullum,Shakib Al Hasan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,BB McCullum,Shakib Al Hasan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,DR Smith,PJ Cummins,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,DR Smith,PJ Cummins,BB McCullum,0,0,0,,0,0,0,0,0,True,bowled,DR Smith,,powerplay
+1,Chennai Super Kings,2,3,SK Raina,PJ Cummins,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,SK Raina,PJ Cummins,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,SK Raina,PJ Cummins,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,SK Raina,PJ Cummins,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1.wides,BB McCullum,UT Yadav,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,BB McCullum,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,SK Raina,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,SK Raina,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,SK Raina,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,SK Raina,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,SK Raina,UT Yadav,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,BB McCullum,PJ Cummins,SK Raina,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,BB McCullum,PJ Cummins,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,BB McCullum,PJ Cummins,SK Raina,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,BB McCullum,PJ Cummins,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,BB McCullum,PJ Cummins,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,BB McCullum,PJ Cummins,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,SK Raina,SP Narine,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,SK Raina,SP Narine,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,SK Raina,SP Narine,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,SK Raina,SP Narine,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,SK Raina,SP Narine,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,SK Raina,SP Narine,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,BB McCullum,Shakib Al Hasan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,BB McCullum,Shakib Al Hasan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,SK Raina,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,SK Raina,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,SK Raina,Shakib Al Hasan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,BB McCullum,Shakib Al Hasan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,SK Raina,UT Yadav,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,BB McCullum,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,SK Raina,UT Yadav,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,SK Raina,UT Yadav,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,BB McCullum,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,SK Raina,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,BB McCullum,Shakib Al Hasan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,SK Raina,Shakib Al Hasan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,BB McCullum,Shakib Al Hasan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,SK Raina,Shakib Al Hasan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,SK Raina,Shakib Al Hasan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,BB McCullum,Shakib Al Hasan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,BB McCullum,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,SK Raina,UT Yadav,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,BB McCullum,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,SK Raina,UT Yadav,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,BB McCullum,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,SK Raina,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,BB McCullum,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,SK Raina,PP Chawla,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,SK Raina,PP Chawla,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,SK Raina,PP Chawla,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,BB McCullum,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,SK Raina,PP Chawla,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,SK Raina,SP Narine,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,BB McCullum,SP Narine,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,BB McCullum,SP Narine,SK Raina,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,SA Yadav,middle
+1,Chennai Super Kings,11,4,SK Raina,SP Narine,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,F du Plessis,SP Narine,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,SK Raina,SP Narine,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,F du Plessis,PP Chawla,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,F du Plessis,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,SK Raina,PP Chawla,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,SK Raina,PP Chawla,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,F du Plessis,PP Chawla,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,F du Plessis,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,F du Plessis,PJ Cummins,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,F du Plessis,PJ Cummins,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,SK Raina,PJ Cummins,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,SK Raina,PJ Cummins,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,F du Plessis,PJ Cummins,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,F du Plessis,PJ Cummins,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,F du Plessis,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,SK Raina,PP Chawla,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,F du Plessis,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,SK Raina,PP Chawla,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,SK Raina,PP Chawla,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,SK Raina,PP Chawla,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,F du Plessis,SP Narine,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,SK Raina,SP Narine,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,SK Raina,SP Narine,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,F du Plessis,SP Narine,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,SK Raina,SP Narine,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,F du Plessis,SP Narine,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,F du Plessis,Shakib Al Hasan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,F du Plessis,Shakib Al Hasan,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,F du Plessis,Shakib Al Hasan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,SK Raina,Shakib Al Hasan,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,F du Plessis,Shakib Al Hasan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6.wides,SK Raina,Shakib Al Hasan,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,SK Raina,Shakib Al Hasan,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,F du Plessis,PJ Cummins,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,SK Raina,PJ Cummins,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,F du Plessis,PJ Cummins,SK Raina,0,0,0,,0,0,0,0,0,True,run out,F du Plessis,PP Chawla,death
+1,Chennai Super Kings,17,4,SK Raina,PJ Cummins,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,SK Raina,PJ Cummins,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,PJ Cummins,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,MS Dhoni,PP Chawla,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,MS Dhoni,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,SK Raina,PP Chawla,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,SK Raina,RN ten Doeschate,death
+1,Chennai Super Kings,18,4,MS Dhoni,PP Chawla,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,MS Dhoni,PP Chawla,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,MS Dhoni,PP Chawla,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,MS Dhoni,SP Narine,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,MS Dhoni,SP Narine,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,RA Jadeja,SP Narine,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,RA Jadeja,SP Narine,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,MS Dhoni,SP Narine,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,MS Dhoni,SP Narine,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,RA Jadeja,UT Yadav,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,MS Dhoni,UT Yadav,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,MS Dhoni,UT Yadav,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,MS Dhoni,UT Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5.noballs,MS Dhoni,UT Yadav,RA Jadeja,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,RA Jadeja,UT Yadav,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,MS Dhoni,UT Yadav,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,1,1,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,RV Uthappa,BW Hilfenhaus,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5.wides,RV Uthappa,BW Hilfenhaus,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,RV Uthappa,BW Hilfenhaus,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,RV Uthappa,IC Pandey,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,RV Uthappa,IC Pandey,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,RV Uthappa,IC Pandey,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,G Gambhir,IC Pandey,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,G Gambhir,IC Pandey,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,G Gambhir,IC Pandey,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,RV Uthappa,MM Sharma,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,RV Uthappa,MM Sharma,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,RV Uthappa,MM Sharma,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,G Gambhir,MM Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,G Gambhir,MM Sharma,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,G Gambhir,MM Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,RV Uthappa,IC Pandey,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,RV Uthappa,IC Pandey,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,RV Uthappa,IC Pandey,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,RV Uthappa,IC Pandey,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,G Gambhir,IC Pandey,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,G Gambhir,IC Pandey,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,G Gambhir,BW Hilfenhaus,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,G Gambhir,BW Hilfenhaus,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,G Gambhir,BW Hilfenhaus,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,RV Uthappa,BW Hilfenhaus,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,RV Uthappa,BW Hilfenhaus,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,RV Uthappa,BW Hilfenhaus,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,G Gambhir,R Ashwin,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,RV Uthappa,R Ashwin,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,RV Uthappa,R Ashwin,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,4,G Gambhir,R Ashwin,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5,G Gambhir,R Ashwin,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,G Gambhir,R Ashwin,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,G Gambhir,IC Pandey,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,G Gambhir,IC Pandey,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,G Gambhir,IC Pandey,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,G Gambhir,IC Pandey,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,RV Uthappa,IC Pandey,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,G Gambhir,IC Pandey,RV Uthappa,0,0,0,,0,0,0,0,0,True,bowled,G Gambhir,,middle
+2,Kolkata Knight Riders,8,1,RV Uthappa,MM Sharma,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,MK Pandey,MM Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,MK Pandey,MM Sharma,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,RV Uthappa,MM Sharma,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,RV Uthappa,MM Sharma,MK Pandey,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,MK Pandey,MM Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,RV Uthappa,RA Jadeja,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,RV Uthappa,RA Jadeja,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,RV Uthappa,RA Jadeja,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,MK Pandey,RA Jadeja,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,RV Uthappa,RA Jadeja,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,RV Uthappa,RA Jadeja,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,RV Uthappa,R Ashwin,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,RV Uthappa,R Ashwin,MK Pandey,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,MK Pandey,R Ashwin,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,RV Uthappa,R Ashwin,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,MK Pandey,R Ashwin,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,RV Uthappa,R Ashwin,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,MK Pandey,IC Pandey,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,MK Pandey,IC Pandey,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,RV Uthappa,IC Pandey,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,RV Uthappa,IC Pandey,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,MK Pandey,IC Pandey,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,RV Uthappa,IC Pandey,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,1,RV Uthappa,RA Jadeja,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,MK Pandey,RA Jadeja,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,MK Pandey,RA Jadeja,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,RV Uthappa,RA Jadeja,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,F du Plessis,middle
+2,Kolkata Knight Riders,12,5,Shakib Al Hasan,RA Jadeja,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,6,Shakib Al Hasan,RA Jadeja,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,1,Shakib Al Hasan,R Ashwin,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,2,Shakib Al Hasan,R Ashwin,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,3,Shakib Al Hasan,R Ashwin,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,MK Pandey,R Ashwin,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,MK Pandey,R Ashwin,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,Shakib Al Hasan,R Ashwin,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,MK Pandey,RA Jadeja,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,MK Pandey,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,Shakib Al Hasan,RA Jadeja,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4,Shakib Al Hasan,RA Jadeja,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5,Shakib Al Hasan,RA Jadeja,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,MK Pandey,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1,MK Pandey,R Ashwin,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,2,MK Pandey,R Ashwin,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,Shakib Al Hasan,R Ashwin,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,4,Shakib Al Hasan,R Ashwin,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,5,MK Pandey,R Ashwin,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,6,MK Pandey,R Ashwin,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,1,MK Pandey,SK Raina,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,Shakib Al Hasan,SK Raina,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,Shakib Al Hasan,SK Raina,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,MK Pandey,SK Raina,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,Shakib Al Hasan,SK Raina,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,6,MK Pandey,SK Raina,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,MK Pandey,BW Hilfenhaus,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,2,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,MK Pandey,BW Hilfenhaus,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,4,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,Shakib Al Hasan,BW Hilfenhaus,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1,MK Pandey,MM Sharma,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2,MK Pandey,MM Sharma,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,3,Shakib Al Hasan,MM Sharma,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,4,Shakib Al Hasan,MM Sharma,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,5,MK Pandey,MM Sharma,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,Shakib Al Hasan,MM Sharma,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death

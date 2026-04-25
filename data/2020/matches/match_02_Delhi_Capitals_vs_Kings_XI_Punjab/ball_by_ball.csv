@@ -1,0 +1,251 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Capitals,1,1,PP Shaw,SS Cottrell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,2,PP Shaw,SS Cottrell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,3,PP Shaw,SS Cottrell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,4,PP Shaw,SS Cottrell,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,5,PP Shaw,SS Cottrell,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,6,S Dhawan,SS Cottrell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,1,PP Shaw,Mohammed Shami,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,2,PP Shaw,Mohammed Shami,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,3,PP Shaw,Mohammed Shami,S Dhawan,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+1,Delhi Capitals,2,4,S Dhawan,Mohammed Shami,PP Shaw,0,0,0,,0,0,0,0,0,True,run out,S Dhawan,,powerplay
+1,Delhi Capitals,2,5,SO Hetmyer,Mohammed Shami,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,6,SO Hetmyer,Mohammed Shami,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,1,SO Hetmyer,SS Cottrell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,2,SO Hetmyer,SS Cottrell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,3,SO Hetmyer,SS Cottrell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,4,SO Hetmyer,SS Cottrell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,5,SO Hetmyer,SS Cottrell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,6,SO Hetmyer,SS Cottrell,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,1,SO Hetmyer,Mohammed Shami,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,2,SO Hetmyer,Mohammed Shami,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,3,PP Shaw,Mohammed Shami,SO Hetmyer,0,0,0,,0,0,0,0,0,True,caught,PP Shaw,CJ Jordan,powerplay
+1,Delhi Capitals,4,4,SO Hetmyer,Mohammed Shami,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,5,SO Hetmyer,Mohammed Shami,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,6,SO Hetmyer,Mohammed Shami,SS Iyer,0,0,0,,0,0,0,0,0,True,caught,SO Hetmyer,MA Agarwal,powerplay
+1,Delhi Capitals,5,1,SS Iyer,CJ Jordan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,2,SS Iyer,CJ Jordan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,3,SS Iyer,CJ Jordan,RR Pant,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,4.wides,RR Pant,CJ Jordan,SS Iyer,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,4,RR Pant,CJ Jordan,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,5,RR Pant,CJ Jordan,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,6,RR Pant,CJ Jordan,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,1,SS Iyer,Mohammed Shami,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,2,SS Iyer,Mohammed Shami,RR Pant,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,3,RR Pant,Mohammed Shami,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,4,RR Pant,Mohammed Shami,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,5,SS Iyer,Mohammed Shami,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,6,SS Iyer,Mohammed Shami,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,7,1,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,2,SS Iyer,K Gowtham,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,3,SS Iyer,K Gowtham,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,4,SS Iyer,K Gowtham,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,5,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,6,SS Iyer,K Gowtham,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,1,SS Iyer,CJ Jordan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,2.wides,RR Pant,CJ Jordan,SS Iyer,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,2,RR Pant,CJ Jordan,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,3,RR Pant,CJ Jordan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,4,SS Iyer,CJ Jordan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,5,SS Iyer,CJ Jordan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,6,RR Pant,CJ Jordan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,1,RR Pant,K Gowtham,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,2,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,3,SS Iyer,K Gowtham,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,4,SS Iyer,K Gowtham,RR Pant,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,5,SS Iyer,K Gowtham,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,6,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,1.wides,RR Pant,Ravi Bishnoi,SS Iyer,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,1,RR Pant,Ravi Bishnoi,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,2,RR Pant,Ravi Bishnoi,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,3,RR Pant,Ravi Bishnoi,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,4,SS Iyer,Ravi Bishnoi,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,5,SS Iyer,Ravi Bishnoi,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,6,RR Pant,Ravi Bishnoi,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,1,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,2,SS Iyer,K Gowtham,RR Pant,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,3,SS Iyer,K Gowtham,RR Pant,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,4,SS Iyer,K Gowtham,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,5,SS Iyer,K Gowtham,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,6,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,1,RR Pant,Ravi Bishnoi,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,2,RR Pant,Ravi Bishnoi,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,3,RR Pant,Ravi Bishnoi,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,4,SS Iyer,Ravi Bishnoi,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,5,RR Pant,Ravi Bishnoi,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,6,SS Iyer,Ravi Bishnoi,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,1,SS Iyer,K Gowtham,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,2,RR Pant,K Gowtham,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,3,RR Pant,K Gowtham,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,4,SS Iyer,K Gowtham,RR Pant,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,5,SS Iyer,K Gowtham,RR Pant,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,6,SS Iyer,K Gowtham,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,1,SS Iyer,Ravi Bishnoi,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,2,RR Pant,Ravi Bishnoi,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,3,SS Iyer,Ravi Bishnoi,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,4,RR Pant,Ravi Bishnoi,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,5,RR Pant,Ravi Bishnoi,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,6,RR Pant,Ravi Bishnoi,SS Iyer,0,0,0,,0,0,0,0,0,True,bowled,RR Pant,,middle
+1,Delhi Capitals,15,1.wides,SS Iyer,Mohammed Shami,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,1,SS Iyer,Mohammed Shami,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,SS Iyer,CJ Jordan,middle
+1,Delhi Capitals,15,2,AR Patel,Mohammed Shami,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,3.noballs,AR Patel,Mohammed Shami,MP Stoinis,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Delhi Capitals,15,3,AR Patel,Mohammed Shami,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,4,AR Patel,Mohammed Shami,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,5,MP Stoinis,Mohammed Shami,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,6,AR Patel,Mohammed Shami,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,16,1,AR Patel,Ravi Bishnoi,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,2,AR Patel,Ravi Bishnoi,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,3,MP Stoinis,Ravi Bishnoi,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,4,MP Stoinis,Ravi Bishnoi,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,5,AR Patel,Ravi Bishnoi,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,6,MP Stoinis,Ravi Bishnoi,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,1,AR Patel,SS Cottrell,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,AR Patel,KL Rahul,death
+1,Delhi Capitals,17,2,R Ashwin,SS Cottrell,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,3,MP Stoinis,SS Cottrell,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,4,R Ashwin,SS Cottrell,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,5,MP Stoinis,SS Cottrell,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,6,MP Stoinis,SS Cottrell,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,1,MP Stoinis,CJ Jordan,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,2,MP Stoinis,CJ Jordan,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,3,MP Stoinis,CJ Jordan,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,4,R Ashwin,CJ Jordan,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,5,R Ashwin,CJ Jordan,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,6,R Ashwin,CJ Jordan,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,1,MP Stoinis,SS Cottrell,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,2,MP Stoinis,SS Cottrell,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,3.wides,MP Stoinis,SS Cottrell,R Ashwin,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,3,MP Stoinis,SS Cottrell,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,4,MP Stoinis,SS Cottrell,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,5,MP Stoinis,SS Cottrell,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,6,R Ashwin,SS Cottrell,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,R Ashwin,Mohammed Shami,death
+1,Delhi Capitals,20,1,MP Stoinis,CJ Jordan,K Rabada,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,2.wides,MP Stoinis,CJ Jordan,K Rabada,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,2,MP Stoinis,CJ Jordan,K Rabada,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,3,MP Stoinis,CJ Jordan,K Rabada,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,4,MP Stoinis,CJ Jordan,K Rabada,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,5,MP Stoinis,CJ Jordan,K Rabada,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,6.noballs,MP Stoinis,CJ Jordan,K Rabada,1,1,2,noballs,0,1,0,0,0,True,run out,MP Stoinis,,death
+1,Delhi Capitals,20,6,A Nortje,CJ Jordan,K Rabada,3,0,3,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,1,1,KL Rahul,A Nortje,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,2,KL Rahul,A Nortje,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,3,KL Rahul,A Nortje,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,4,MA Agarwal,A Nortje,KL Rahul,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Kings XI Punjab,1,5,MA Agarwal,A Nortje,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,6,MA Agarwal,A Nortje,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,1,KL Rahul,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,2,KL Rahul,MM Sharma,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,3.noballs,KL Rahul,MM Sharma,MA Agarwal,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,3,KL Rahul,MM Sharma,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,4,KL Rahul,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,5,KL Rahul,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,6,KL Rahul,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1.wides,MA Agarwal,K Rabada,KL Rahul,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1,MA Agarwal,K Rabada,KL Rahul,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kings XI Punjab,3,2,KL Rahul,K Rabada,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,3,MA Agarwal,K Rabada,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,4,MA Agarwal,K Rabada,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,5,KL Rahul,K Rabada,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,6,MA Agarwal,K Rabada,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,1,KL Rahul,A Nortje,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,2,KL Rahul,A Nortje,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,3,KL Rahul,A Nortje,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,4,KL Rahul,A Nortje,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,5,KL Rahul,A Nortje,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,6,MA Agarwal,A Nortje,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,1,KL Rahul,MM Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,2,MA Agarwal,MM Sharma,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,3,KL Rahul,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,True,bowled,KL Rahul,,powerplay
+2,Kings XI Punjab,5,4,KK Nair,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,5,KK Nair,MM Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6,MA Agarwal,MM Sharma,KK Nair,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,1,KK Nair,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,KK Nair,PP Shaw,powerplay
+2,Kings XI Punjab,6,2,MA Agarwal,R Ashwin,N Pooran,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,3,N Pooran,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,4,N Pooran,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,5,N Pooran,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,True,bowled,N Pooran,,powerplay
+2,Kings XI Punjab,6,6,GJ Maxwell,R Ashwin,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,7,1,GJ Maxwell,K Rabada,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,2,GJ Maxwell,K Rabada,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,3,GJ Maxwell,K Rabada,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,SS Iyer,middle
+2,Kings XI Punjab,7,4,MA Agarwal,K Rabada,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,5,SN Khan,K Rabada,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,6,SN Khan,K Rabada,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,1,MA Agarwal,AR Patel,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,2,SN Khan,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,3,SN Khan,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,4,SN Khan,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,5,SN Khan,AR Patel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,6,MA Agarwal,AR Patel,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,1,MA Agarwal,MP Stoinis,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,2,SN Khan,MP Stoinis,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,3,MA Agarwal,MP Stoinis,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,4,SN Khan,MP Stoinis,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,5,MA Agarwal,MP Stoinis,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,6,SN Khan,MP Stoinis,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,1,MA Agarwal,AR Patel,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,2,MA Agarwal,AR Patel,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,3,SN Khan,AR Patel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,4,MA Agarwal,AR Patel,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,5,SN Khan,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,6,SN Khan,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,SN Khan,PP Shaw,middle
+2,Kings XI Punjab,11,1,MA Agarwal,MP Stoinis,K Gowtham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,2,MA Agarwal,MP Stoinis,K Gowtham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,3,MA Agarwal,MP Stoinis,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,4,K Gowtham,MP Stoinis,MA Agarwal,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kings XI Punjab,11,5,MA Agarwal,MP Stoinis,K Gowtham,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,6,MA Agarwal,MP Stoinis,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1,MA Agarwal,AR Patel,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,2,K Gowtham,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,3,K Gowtham,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,4,K Gowtham,AR Patel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,5,K Gowtham,AR Patel,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,6,K Gowtham,AR Patel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,1,K Gowtham,A Nortje,MA Agarwal,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,2,MA Agarwal,A Nortje,K Gowtham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,3,MA Agarwal,A Nortje,K Gowtham,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,4,MA Agarwal,A Nortje,K Gowtham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,5,MA Agarwal,A Nortje,K Gowtham,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,6,MA Agarwal,A Nortje,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,1,MA Agarwal,AR Patel,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,2,K Gowtham,AR Patel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,3,MA Agarwal,AR Patel,K Gowtham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,4,MA Agarwal,AR Patel,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,5,K Gowtham,AR Patel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,6,MA Agarwal,AR Patel,K Gowtham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,1,K Gowtham,MM Sharma,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,2,K Gowtham,MM Sharma,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,3,K Gowtham,MM Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,4,MA Agarwal,MM Sharma,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,5,K Gowtham,MM Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,6,MA Agarwal,MM Sharma,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,16,1,MA Agarwal,K Rabada,K Gowtham,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,2,MA Agarwal,K Rabada,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,3,K Gowtham,K Rabada,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,K Gowtham,RR Pant,death
+2,Kings XI Punjab,16,4,CJ Jordan,K Rabada,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,5,CJ Jordan,K Rabada,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,6,CJ Jordan,K Rabada,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,1,MA Agarwal,A Nortje,CJ Jordan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,2,MA Agarwal,A Nortje,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,3,MA Agarwal,A Nortje,CJ Jordan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,4,MA Agarwal,A Nortje,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,5,CJ Jordan,A Nortje,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,6,MA Agarwal,A Nortje,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,1,MA Agarwal,MM Sharma,CJ Jordan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,2,MA Agarwal,MM Sharma,CJ Jordan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,3,MA Agarwal,MM Sharma,CJ Jordan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,4,MA Agarwal,MM Sharma,CJ Jordan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,5,MA Agarwal,MM Sharma,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,6,CJ Jordan,MM Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,1,MA Agarwal,K Rabada,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,2,MA Agarwal,K Rabada,CJ Jordan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,3,MA Agarwal,K Rabada,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,4,MA Agarwal,K Rabada,CJ Jordan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,5,MA Agarwal,K Rabada,CJ Jordan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,6,MA Agarwal,K Rabada,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,1,MA Agarwal,MP Stoinis,CJ Jordan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,2,MA Agarwal,MP Stoinis,CJ Jordan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,3,MA Agarwal,MP Stoinis,CJ Jordan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,4,MA Agarwal,MP Stoinis,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,5,MA Agarwal,MP Stoinis,CJ Jordan,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,SO Hetmyer,death
+2,Kings XI Punjab,20,6,CJ Jordan,MP Stoinis,Mohammed Shami,0,0,0,,0,0,0,0,0,True,caught,CJ Jordan,K Rabada,death

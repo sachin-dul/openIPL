@@ -1,0 +1,226 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Pune Warriors,1,1,JD Ryder,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,1,2,JD Ryder,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,1,3,JD Ryder,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,1,4,JD Ryder,P Kumar,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,1,5,SC Ganguly,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,1,6,SC Ganguly,P Kumar,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,2,1,JD Ryder,P Awana,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,2,2,JD Ryder,P Awana,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,2,3,JD Ryder,P Awana,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,2,4,JD Ryder,P Awana,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,2,5,SC Ganguly,P Awana,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,2,6,JD Ryder,P Awana,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,3,1,JD Ryder,P Kumar,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,3,2.wides,JD Ryder,P Kumar,SC Ganguly,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,3,2,JD Ryder,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,True,run out,JD Ryder,"DJ Hussey, AC Gilchrist",powerplay
+1,Pune Warriors,3,3,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,3,4,MN Samuels,P Kumar,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,3,5,SC Ganguly,P Kumar,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,3,6,SC Ganguly,P Kumar,MN Samuels,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,4,1,MN Samuels,P Awana,SC Ganguly,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Pune Warriors,4,2,SC Ganguly,P Awana,MN Samuels,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,4,3,SC Ganguly,P Awana,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,4,4,MN Samuels,P Awana,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,4,5,MN Samuels,P Awana,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,4,6,SC Ganguly,P Awana,MN Samuels,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,1,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,2,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,3,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,4.wides,MN Samuels,P Kumar,SC Ganguly,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,4,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,5,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,5,6,MN Samuels,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,6,1,SC Ganguly,AD Mascarenhas,MN Samuels,0,0,0,,0,0,0,0,0,True,caught,SC Ganguly,SE Marsh,powerplay
+1,Pune Warriors,6,2,RV Uthappa,AD Mascarenhas,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,6,3,RV Uthappa,AD Mascarenhas,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Pune Warriors,6,4,MN Samuels,AD Mascarenhas,RV Uthappa,0,0,0,,0,0,0,0,0,True,bowled,MN Samuels,,powerplay
+1,Pune Warriors,6,5,AD Mathews,AD Mascarenhas,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,6,6,AD Mathews,AD Mascarenhas,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,1,RV Uthappa,P Kumar,AD Mathews,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,2,RV Uthappa,P Kumar,AD Mathews,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,3,RV Uthappa,P Kumar,AD Mathews,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,4,AD Mathews,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,5,AD Mathews,P Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,6.wides,RV Uthappa,P Kumar,AD Mathews,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Pune Warriors,7,6,RV Uthappa,P Kumar,AD Mathews,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,8,1,AD Mathews,AD Mascarenhas,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,8,2,AD Mathews,AD Mascarenhas,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,8,3,RV Uthappa,AD Mascarenhas,AD Mathews,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,8,4,AD Mathews,AD Mascarenhas,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,8,5,AD Mathews,AD Mascarenhas,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,8,6,RV Uthappa,AD Mascarenhas,AD Mathews,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,9,1,RV Uthappa,Harmeet Singh,AD Mathews,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,9,2,RV Uthappa,Harmeet Singh,AD Mathews,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,9,3,AD Mathews,Harmeet Singh,RV Uthappa,0,0,0,,0,0,0,0,0,True,lbw,AD Mathews,,middle
+1,Pune Warriors,9,4,M Manhas,Harmeet Singh,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,9,5,M Manhas,Harmeet Singh,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,9,6,M Manhas,Harmeet Singh,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,10,1,RV Uthappa,PP Chawla,M Manhas,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,10,2,RV Uthappa,PP Chawla,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,10,3,M Manhas,PP Chawla,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,10,4,RV Uthappa,PP Chawla,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,10,5,M Manhas,PP Chawla,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,10,6,M Manhas,PP Chawla,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,1,RV Uthappa,Harmeet Singh,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,2,M Manhas,Harmeet Singh,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,3,M Manhas,Harmeet Singh,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,4,M Manhas,Harmeet Singh,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,5.wides,M Manhas,Harmeet Singh,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,5,M Manhas,Harmeet Singh,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,11,6,M Manhas,Harmeet Singh,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,12,1,M Manhas,PP Chawla,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,12,2,RV Uthappa,PP Chawla,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,12,3,M Manhas,PP Chawla,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,12,4,M Manhas,PP Chawla,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,12,5,M Manhas,PP Chawla,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,12,6,M Manhas,PP Chawla,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,13,1,RV Uthappa,AD Mascarenhas,M Manhas,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,Bipul Sharma,middle
+1,Pune Warriors,13,2,M Manhas,AD Mascarenhas,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Pune Warriors,13,3,SPD Smith,AD Mascarenhas,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,13,4,SPD Smith,AD Mascarenhas,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,13,5,M Manhas,AD Mascarenhas,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,13,6,M Manhas,AD Mascarenhas,SPD Smith,0,4,4,byes,0,0,4,0,0,False,,,,death
+1,Pune Warriors,14,1,SPD Smith,PP Chawla,M Manhas,2,0,2,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,14,2,SPD Smith,PP Chawla,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,14,3,M Manhas,PP Chawla,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,14,4,SPD Smith,PP Chawla,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,14,5,M Manhas,PP Chawla,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,14,6,SPD Smith,PP Chawla,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,15,1,SPD Smith,P Awana,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,15,2,SPD Smith,P Awana,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,15,3,M Manhas,P Awana,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,15,4,M Manhas,P Awana,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,15,5,SPD Smith,P Awana,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,15,6,SPD Smith,P Awana,M Manhas,4,0,4,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,16,1,M Manhas,PP Chawla,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,16,2,SPD Smith,PP Chawla,M Manhas,2,0,2,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,16,3,SPD Smith,PP Chawla,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,16,4,SPD Smith,PP Chawla,M Manhas,0,0,0,,0,0,0,0,0,True,bowled,SPD Smith,,death
+1,Pune Warriors,16,5,MK Pandey,PP Chawla,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,16,6,MK Pandey,PP Chawla,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,17,1,M Manhas,Harmeet Singh,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,17,2,M Manhas,Harmeet Singh,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,17,3,MK Pandey,Harmeet Singh,M Manhas,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,DJ Hussey,death
+1,Pune Warriors,17,4,R Sharma,Harmeet Singh,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,17,5,R Sharma,Harmeet Singh,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,17,6,R Sharma,Harmeet Singh,M Manhas,2,0,2,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,18,1,M Manhas,AD Mascarenhas,R Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,18,2,M Manhas,AD Mascarenhas,R Sharma,0,0,0,,0,0,0,0,0,True,bowled,M Manhas,,death
+1,Pune Warriors,18,3.wides,A Nehra,AD Mascarenhas,R Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Pune Warriors,18,3,A Nehra,AD Mascarenhas,R Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,18,4,R Sharma,AD Mascarenhas,A Nehra,0,0,0,,0,0,0,0,0,True,caught,R Sharma,Mandeep Singh,death
+1,Pune Warriors,18,5,A Nehra,AD Mascarenhas,AB Dinda,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,18,6,AB Dinda,AD Mascarenhas,A Nehra,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,19,1,AB Dinda,P Awana,A Nehra,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,19,2,AB Dinda,P Awana,A Nehra,1,0,1,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,19,3,A Nehra,P Awana,AB Dinda,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Pune Warriors,19,4,AB Dinda,P Awana,A Nehra,0,0,0,,0,0,0,0,0,False,,,,death
+1,Pune Warriors,19,5,AB Dinda,P Awana,A Nehra,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Pune Warriors,19,6,A Nehra,P Awana,AB Dinda,0,0,0,,0,0,0,0,0,True,run out,AB Dinda,P Awana,death
+2,Kings XI Punjab,1,1,PC Valthaty,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,True,bowled,PC Valthaty,,powerplay
+2,Kings XI Punjab,1,2,SE Marsh,AB Dinda,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,3,AC Gilchrist,AB Dinda,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,4,SE Marsh,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,5,SE Marsh,AB Dinda,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,6,SE Marsh,AB Dinda,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,1,SE Marsh,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,2,SE Marsh,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,3,SE Marsh,A Nehra,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,4,SE Marsh,A Nehra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,5,AC Gilchrist,A Nehra,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,6,AC Gilchrist,A Nehra,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1,AC Gilchrist,AB Dinda,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,2,SE Marsh,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,3,SE Marsh,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,4,SE Marsh,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,5,SE Marsh,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,6,SE Marsh,AB Dinda,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,1,AC Gilchrist,A Nehra,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,2,SE Marsh,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,3,SE Marsh,A Nehra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,4,AC Gilchrist,A Nehra,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,5,AC Gilchrist,A Nehra,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,6,AC Gilchrist,A Nehra,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,1,SE Marsh,MN Samuels,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,2,SE Marsh,MN Samuels,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,3,SE Marsh,MN Samuels,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,4,SE Marsh,MN Samuels,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,5,SE Marsh,MN Samuels,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6,SE Marsh,MN Samuels,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,1,AC Gilchrist,AD Mathews,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,2,AC Gilchrist,AD Mathews,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,3,AC Gilchrist,AD Mathews,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,6,4,AC Gilchrist,AD Mathews,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,6,5,AC Gilchrist,AD Mathews,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,6,6,AC Gilchrist,AD Mathews,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,1,SE Marsh,JD Ryder,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,2,SE Marsh,JD Ryder,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,3,SE Marsh,JD Ryder,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,4,SE Marsh,JD Ryder,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,5,SE Marsh,JD Ryder,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,6,SE Marsh,JD Ryder,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,1,SE Marsh,AD Mathews,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,2,SE Marsh,AD Mathews,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,3,AC Gilchrist,AD Mathews,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,4,AC Gilchrist,AD Mathews,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,5,SE Marsh,AD Mathews,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,6,AC Gilchrist,AD Mathews,SE Marsh,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,SPD Smith,middle
+2,Kings XI Punjab,9,1,SE Marsh,JD Ryder,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,2,SE Marsh,JD Ryder,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,3,Mandeep Singh,JD Ryder,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,4,Mandeep Singh,JD Ryder,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,5,SE Marsh,JD Ryder,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,6,Mandeep Singh,JD Ryder,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,1,SE Marsh,AD Mathews,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,2,SE Marsh,AD Mathews,Mandeep Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,3,SE Marsh,AD Mathews,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,4,SE Marsh,AD Mathews,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,5,SE Marsh,AD Mathews,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,6,SE Marsh,AD Mathews,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,1,SE Marsh,MN Samuels,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,2,Mandeep Singh,MN Samuels,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,3,Mandeep Singh,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,4,Mandeep Singh,MN Samuels,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,5,SE Marsh,MN Samuels,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,6,Mandeep Singh,MN Samuels,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1,Mandeep Singh,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,2,SE Marsh,R Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,3,Mandeep Singh,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,4,Mandeep Singh,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,True,caught,Mandeep Singh,SPD Smith,death
+2,Kings XI Punjab,12,5,PP Chawla,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,12,6,PP Chawla,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,1,PP Chawla,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,2,PP Chawla,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,3,PP Chawla,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,4,PP Chawla,MN Samuels,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,5,PP Chawla,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,6,PP Chawla,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,1,SE Marsh,R Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,2,PP Chawla,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,3,PP Chawla,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,4,SE Marsh,R Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,5,PP Chawla,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,6,PP Chawla,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,1,SE Marsh,A Nehra,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,2,SE Marsh,A Nehra,PP Chawla,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,3,SE Marsh,A Nehra,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,4,PP Chawla,A Nehra,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,5,SE Marsh,A Nehra,PP Chawla,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,6,SE Marsh,A Nehra,PP Chawla,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,1,PP Chawla,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,2,SE Marsh,R Sharma,PP Chawla,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,3,SE Marsh,R Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,4,PP Chawla,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,5,SE Marsh,R Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,6,PP Chawla,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,1,PP Chawla,AB Dinda,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,2,PP Chawla,AB Dinda,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,3,PP Chawla,AB Dinda,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,4,PP Chawla,AB Dinda,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,5,PP Chawla,AB Dinda,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,6,SE Marsh,AB Dinda,PP Chawla,5,0,5,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,1,SE Marsh,MN Samuels,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,2,PP Chawla,MN Samuels,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,3,PP Chawla,MN Samuels,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,4,PP Chawla,MN Samuels,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,death

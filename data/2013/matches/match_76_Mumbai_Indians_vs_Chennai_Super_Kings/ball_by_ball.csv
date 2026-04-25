@@ -1,0 +1,251 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,DR Smith,MM Sharma,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,DR Smith,MM Sharma,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,DR Smith,MM Sharma,AP Tare,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,DR Smith,MM Sharma,AP Tare,0,0,0,,0,0,0,0,0,True,lbw,DR Smith,,powerplay
+1,Mumbai Indians,1,5,KD Karthik,MM Sharma,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,KD Karthik,MM Sharma,AP Tare,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,AP Tare,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,True,bowled,AP Tare,,powerplay
+1,Mumbai Indians,2,2,RG Sharma,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,RG Sharma,JA Morkel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,KD Karthik,JA Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,KD Karthik,JA Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,KD Karthik,JA Morkel,RG Sharma,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+1,Mumbai Indians,3,1,RG Sharma,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,KD Karthik,MM Sharma,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,KD Karthik,MM Sharma,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,KD Karthik,MM Sharma,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,KD Karthik,MM Sharma,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,KD Karthik,MM Sharma,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,RG Sharma,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,RG Sharma,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,True,caught and bowled,RG Sharma,,powerplay
+1,Mumbai Indians,4,3,AT Rayudu,JA Morkel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,KD Karthik,JA Morkel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,AT Rayudu,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,AT Rayudu,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,KD Karthik,MM Sharma,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,KD Karthik,MM Sharma,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,KD Karthik,MM Sharma,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,KD Karthik,MM Sharma,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,AT Rayudu,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,KD Karthik,MM Sharma,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,KD Karthik,JA Morkel,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,KD Karthik,JA Morkel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,AT Rayudu,JA Morkel,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,AT Rayudu,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,AT Rayudu,JA Morkel,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,AT Rayudu,JA Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,KD Karthik,MM Sharma,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,AT Rayudu,MM Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,AT Rayudu,MM Sharma,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,AT Rayudu,MM Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,AT Rayudu,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,KD Karthik,MM Sharma,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,AT Rayudu,CH Morris,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,AT Rayudu,CH Morris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,AT Rayudu,CH Morris,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,KD Karthik,CH Morris,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,KD Karthik,CH Morris,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,KD Karthik,CH Morris,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,AT Rayudu,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,KD Karthik,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,AT Rayudu,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,KD Karthik,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,AT Rayudu,R Ashwin,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,AT Rayudu,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,AT Rayudu,CH Morris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,AT Rayudu,CH Morris,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3.wides,KD Karthik,CH Morris,AT Rayudu,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,KD Karthik,CH Morris,AT Rayudu,0,0,0,,0,0,0,0,0,True,bowled,KD Karthik,,middle
+1,Mumbai Indians,10,4,KA Pollard,CH Morris,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,KA Pollard,CH Morris,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,AT Rayudu,CH Morris,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,AT Rayudu,R Ashwin,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,KA Pollard,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,AT Rayudu,R Ashwin,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,AT Rayudu,R Ashwin,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,AT Rayudu,R Ashwin,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,KA Pollard,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,AT Rayudu,RA Jadeja,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,KA Pollard,RA Jadeja,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,KA Pollard,RA Jadeja,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,AT Rayudu,RA Jadeja,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,KA Pollard,RA Jadeja,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,AT Rayudu,RA Jadeja,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1.wides,AT Rayudu,R Ashwin,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,AT Rayudu,R Ashwin,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,KA Pollard,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,AT Rayudu,R Ashwin,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,KA Pollard,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,KA Pollard,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,KA Pollard,R Ashwin,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,AT Rayudu,DJ Bravo,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,KA Pollard,DJ Bravo,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,KA Pollard,DJ Bravo,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,KA Pollard,DJ Bravo,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,AT Rayudu,DJ Bravo,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,KA Pollard,DJ Bravo,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,KA Pollard,RA Jadeja,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,KA Pollard,RA Jadeja,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,KA Pollard,RA Jadeja,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,KA Pollard,RA Jadeja,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,AT Rayudu,RA Jadeja,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,AT Rayudu,RA Jadeja,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,AT Rayudu,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,True,bowled,AT Rayudu,,death
+1,Mumbai Indians,16,2,Harbhajan Singh,DJ Bravo,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,KA Pollard,DJ Bravo,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,KA Pollard,DJ Bravo,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,KA Pollard,DJ Bravo,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,KA Pollard,DJ Bravo,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,KA Pollard,CH Morris,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,KA Pollard,CH Morris,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,Harbhajan Singh,CH Morris,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,Harbhajan Singh,CH Morris,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,KA Pollard,CH Morris,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,KA Pollard,CH Morris,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1.wides,Harbhajan Singh,DJ Bravo,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,Harbhajan Singh,DJ Bravo,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,Harbhajan Singh,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,Harbhajan Singh,DJ Bravo,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,Harbhajan Singh,DJ Bravo,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,Harbhajan Singh,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,True,caught,Harbhajan Singh,MEK Hussey,death
+1,Mumbai Indians,18,6,KA Pollard,DJ Bravo,R Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,R Dhawan,CH Morris,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,KA Pollard,CH Morris,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,R Dhawan,CH Morris,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,R Dhawan,CH Morris,KA Pollard,2,0,2,,0,0,0,0,0,True,run out,R Dhawan,"MM Sharma, CH Morris",death
+1,Mumbai Indians,19,5,KA Pollard,CH Morris,MG Johnson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,MG Johnson,CH Morris,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,MG Johnson,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,True,caught,MG Johnson,MS Dhoni,death
+1,Mumbai Indians,20,2,SL Malinga,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,SL Malinga,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,True,caught,SL Malinga,MS Dhoni,death
+1,Mumbai Indians,20,4,PP Ojha,DJ Bravo,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,KA Pollard,DJ Bravo,PP Ojha,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,KA Pollard,DJ Bravo,PP Ojha,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,1,1,MEK Hussey,SL Malinga,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,2,M Vijay,SL Malinga,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,3,M Vijay,SL Malinga,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,4,MEK Hussey,SL Malinga,M Vijay,0,0,0,,0,0,0,0,0,True,bowled,MEK Hussey,,powerplay
+2,Chennai Super Kings,1,5,SK Raina,SL Malinga,M Vijay,0,0,0,,0,0,0,0,0,True,caught,SK Raina,DR Smith,powerplay
+2,Chennai Super Kings,1,6,S Badrinath,SL Malinga,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,1,M Vijay,MG Johnson,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,2,M Vijay,MG Johnson,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,3,S Badrinath,MG Johnson,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,4,S Badrinath,MG Johnson,M Vijay,0,0,0,,0,0,0,0,0,True,caught,S Badrinath,KD Karthik,powerplay
+2,Chennai Super Kings,2,5,DJ Bravo,MG Johnson,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6.wides,DJ Bravo,MG Johnson,M Vijay,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6,DJ Bravo,MG Johnson,M Vijay,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Chennai Super Kings,3,1.wides,DJ Bravo,SL Malinga,M Vijay,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1,DJ Bravo,SL Malinga,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2,DJ Bravo,SL Malinga,M Vijay,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Chennai Super Kings,3,3,M Vijay,SL Malinga,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,4,DJ Bravo,SL Malinga,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,5,DJ Bravo,SL Malinga,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,6,DJ Bravo,SL Malinga,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1,M Vijay,MG Johnson,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,2,M Vijay,MG Johnson,DJ Bravo,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,3,M Vijay,MG Johnson,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,4,M Vijay,MG Johnson,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5,M Vijay,MG Johnson,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,6,M Vijay,MG Johnson,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,1,DJ Bravo,PP Ojha,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,2,DJ Bravo,PP Ojha,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3,M Vijay,PP Ojha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,4,DJ Bravo,PP Ojha,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,5,DJ Bravo,PP Ojha,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,6,M Vijay,PP Ojha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1,DJ Bravo,R Dhawan,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,2,DJ Bravo,R Dhawan,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,3,DJ Bravo,R Dhawan,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,4,M Vijay,R Dhawan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,5,DJ Bravo,R Dhawan,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,6,DJ Bravo,R Dhawan,M Vijay,0,0,0,,0,0,0,0,0,True,caught,DJ Bravo,MG Johnson,powerplay
+2,Chennai Super Kings,7,1,M Vijay,Harbhajan Singh,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,2,M Vijay,Harbhajan Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3,RA Jadeja,Harbhajan Singh,M Vijay,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,4,RA Jadeja,Harbhajan Singh,M Vijay,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,KA Pollard,middle
+2,Chennai Super Kings,7,5,M Vijay,Harbhajan Singh,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,6,M Vijay,Harbhajan Singh,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,1,MS Dhoni,MG Johnson,M Vijay,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,2,M Vijay,MG Johnson,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,3,M Vijay,MG Johnson,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,M Vijay,RG Sharma,middle
+2,Chennai Super Kings,8,4,JA Morkel,MG Johnson,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,5,MS Dhoni,MG Johnson,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,6,JA Morkel,MG Johnson,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,1,MS Dhoni,Harbhajan Singh,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2,MS Dhoni,Harbhajan Singh,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3,JA Morkel,Harbhajan Singh,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,4,JA Morkel,Harbhajan Singh,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,5,JA Morkel,Harbhajan Singh,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,6,JA Morkel,Harbhajan Singh,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,1,MS Dhoni,KA Pollard,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,2,MS Dhoni,KA Pollard,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,3,JA Morkel,KA Pollard,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4.wides,MS Dhoni,KA Pollard,JA Morkel,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4,MS Dhoni,KA Pollard,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,5,MS Dhoni,KA Pollard,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6,JA Morkel,KA Pollard,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,1,MS Dhoni,PP Ojha,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,2,MS Dhoni,PP Ojha,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,3,MS Dhoni,PP Ojha,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,4,MS Dhoni,PP Ojha,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,5,JA Morkel,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6,JA Morkel,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,True,bowled,JA Morkel,,middle
+2,Chennai Super Kings,12,1,MS Dhoni,Harbhajan Singh,CH Morris,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,2,MS Dhoni,Harbhajan Singh,CH Morris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,3,CH Morris,Harbhajan Singh,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,CH Morris,KD Karthik,middle
+2,Chennai Super Kings,12,4,R Ashwin,Harbhajan Singh,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5,R Ashwin,Harbhajan Singh,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,6,R Ashwin,Harbhajan Singh,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,1,R Ashwin,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,2,MS Dhoni,PP Ojha,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3,MS Dhoni,PP Ojha,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,4,MS Dhoni,PP Ojha,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,5,R Ashwin,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,6,R Ashwin,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,1,MS Dhoni,SL Malinga,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,2,MS Dhoni,SL Malinga,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,3,MS Dhoni,SL Malinga,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,4,MS Dhoni,SL Malinga,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,5,R Ashwin,SL Malinga,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,6,MS Dhoni,SL Malinga,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,1,R Ashwin,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,2,MS Dhoni,PP Ojha,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,3,MS Dhoni,PP Ojha,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,4,MS Dhoni,PP Ojha,R Ashwin,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,5,MS Dhoni,PP Ojha,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,6,R Ashwin,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,16,1,MS Dhoni,KA Pollard,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2,R Ashwin,KA Pollard,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3,MS Dhoni,KA Pollard,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,4,MS Dhoni,KA Pollard,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,5,MS Dhoni,KA Pollard,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,6,R Ashwin,KA Pollard,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,1,R Ashwin,MG Johnson,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,2.wides,R Ashwin,MG Johnson,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,2,R Ashwin,MG Johnson,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,3,MS Dhoni,MG Johnson,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,4,R Ashwin,MG Johnson,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,5,R Ashwin,MG Johnson,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,6,MS Dhoni,MG Johnson,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,1,R Ashwin,KA Pollard,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,2,MS Dhoni,KA Pollard,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3,R Ashwin,KA Pollard,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,4,R Ashwin,KA Pollard,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,R Ashwin,AR Patel,death
+2,Chennai Super Kings,18,5,MM Sharma,KA Pollard,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,6,MM Sharma,KA Pollard,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1,MS Dhoni,SL Malinga,MM Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2,MS Dhoni,SL Malinga,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,3.wides,MS Dhoni,SL Malinga,MM Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,3,MS Dhoni,SL Malinga,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,4,MS Dhoni,SL Malinga,MM Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,5,MS Dhoni,SL Malinga,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,6,MS Dhoni,SL Malinga,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,1.wides,MS Dhoni,KA Pollard,MM Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,1,MS Dhoni,KA Pollard,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,2,MS Dhoni,KA Pollard,MM Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,3,MS Dhoni,KA Pollard,MM Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,4,MS Dhoni,KA Pollard,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,5,MS Dhoni,KA Pollard,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,6.wides,MS Dhoni,KA Pollard,MM Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,6,MS Dhoni,KA Pollard,MM Sharma,4,0,4,,0,0,0,0,0,False,,,,death

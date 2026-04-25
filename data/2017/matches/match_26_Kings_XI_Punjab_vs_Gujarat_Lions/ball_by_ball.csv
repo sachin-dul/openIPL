@@ -1,0 +1,246 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,M Vohra,SS Agarwal,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,HM Amla,SS Agarwal,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,HM Amla,SS Agarwal,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,M Vohra,SS Agarwal,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,HM Amla,SS Agarwal,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,HM Amla,SS Agarwal,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,M Vohra,NB Singh,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,M Vohra,NB Singh,HM Amla,0,0,0,,0,0,0,0,0,True,caught,M Vohra,KD Karthik,powerplay
+1,Kings XI Punjab,2,3,SE Marsh,NB Singh,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,SE Marsh,NB Singh,HM Amla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,SE Marsh,NB Singh,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,SE Marsh,NB Singh,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,SE Marsh,SK Raina,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,SE Marsh,SK Raina,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,SE Marsh,SK Raina,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,SE Marsh,SK Raina,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,HM Amla,SK Raina,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,HM Amla,SK Raina,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,HM Amla,NB Singh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,HM Amla,NB Singh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,HM Amla,NB Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,SE Marsh,NB Singh,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,HM Amla,NB Singh,SE Marsh,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,SE Marsh,NB Singh,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,HM Amla,Basil Thampi,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,SE Marsh,Basil Thampi,HM Amla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,SE Marsh,Basil Thampi,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,SE Marsh,Basil Thampi,HM Amla,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,HM Amla,Basil Thampi,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,SE Marsh,Basil Thampi,HM Amla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,HM Amla,AJ Tye,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,HM Amla,AJ Tye,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,HM Amla,AJ Tye,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,HM Amla,AJ Tye,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,HM Amla,AJ Tye,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,HM Amla,AJ Tye,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,SE Marsh,RA Jadeja,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,SE Marsh,RA Jadeja,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,HM Amla,RA Jadeja,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,HM Amla,RA Jadeja,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,SE Marsh,RA Jadeja,HM Amla,0,1,1,byes,0,0,1,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,HM Amla,RA Jadeja,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,SE Marsh,SS Agarwal,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,SE Marsh,SS Agarwal,HM Amla,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,SE Marsh,SS Agarwal,HM Amla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,SE Marsh,SS Agarwal,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,HM Amla,SS Agarwal,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,SE Marsh,SS Agarwal,HM Amla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,HM Amla,RA Jadeja,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,HM Amla,RA Jadeja,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,SE Marsh,RA Jadeja,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,HM Amla,RA Jadeja,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,HM Amla,RA Jadeja,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,HM Amla,RA Jadeja,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,HM Amla,AJ Tye,SE Marsh,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,10,2,SE Marsh,AJ Tye,HM Amla,0,0,0,,0,0,0,0,0,True,caught,SE Marsh,SK Raina,middle
+1,Kings XI Punjab,10,3,GJ Maxwell,AJ Tye,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,HM Amla,AJ Tye,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,GJ Maxwell,AJ Tye,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,HM Amla,AJ Tye,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,GJ Maxwell,SS Agarwal,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,GJ Maxwell,SS Agarwal,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,HM Amla,SS Agarwal,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,GJ Maxwell,SS Agarwal,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,GJ Maxwell,SS Agarwal,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,GJ Maxwell,SS Agarwal,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,GJ Maxwell,Basil Thampi,HM Amla,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,GJ Maxwell,Basil Thampi,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,HM Amla,Basil Thampi,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,HM Amla,Basil Thampi,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,GJ Maxwell,Basil Thampi,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,HM Amla,Basil Thampi,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,GJ Maxwell,RA Jadeja,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,HM Amla,RA Jadeja,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,GJ Maxwell,RA Jadeja,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,HM Amla,RA Jadeja,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,HM Amla,RA Jadeja,GJ Maxwell,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,HM Amla,RA Jadeja,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,HM Amla,SS Agarwal,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,2,GJ Maxwell,SS Agarwal,HM Amla,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,3,GJ Maxwell,SS Agarwal,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,4,GJ Maxwell,SS Agarwal,HM Amla,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,5,GJ Maxwell,SS Agarwal,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,6,HM Amla,SS Agarwal,GJ Maxwell,0,0,0,,0,0,0,0,0,True,caught and bowled,HM Amla,,middle
+1,Kings XI Punjab,15,1,GJ Maxwell,RA Jadeja,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,2,GJ Maxwell,RA Jadeja,MP Stoinis,0,0,0,,0,0,0,0,0,True,lbw,GJ Maxwell,,middle
+1,Kings XI Punjab,15,3,AR Patel,RA Jadeja,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,4,AR Patel,RA Jadeja,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,5,MP Stoinis,RA Jadeja,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,6,AR Patel,RA Jadeja,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1,AR Patel,AJ Tye,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,AR Patel,AJ Tye,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,MP Stoinis,AJ Tye,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,AR Patel,AJ Tye,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,MP Stoinis,AJ Tye,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,AR Patel,AJ Tye,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,MP Stoinis,Basil Thampi,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,MP Stoinis,Basil Thampi,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,MP Stoinis,Basil Thampi,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4.wides,AR Patel,Basil Thampi,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,AR Patel,Basil Thampi,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,AR Patel,Basil Thampi,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6,AR Patel,Basil Thampi,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,AR Patel,AJ Tye,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,2,MP Stoinis,AJ Tye,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3,MP Stoinis,AJ Tye,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,AR Patel,AJ Tye,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,MP Stoinis,AJ Tye,AR Patel,0,0,0,,0,0,0,0,0,True,caught,MP Stoinis,BB McCullum,death
+1,Kings XI Punjab,18,6,AR Patel,AJ Tye,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,AR Patel,DR Smith,WP Saha,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,AR Patel,DR Smith,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,AR Patel,DR Smith,WP Saha,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,AR Patel,DR Smith,WP Saha,0,0,0,,0,0,0,0,0,True,caught,AR Patel,AJ Finch,death
+1,Kings XI Punjab,19,5,MM Sharma,DR Smith,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,WP Saha,DR Smith,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,1,WP Saha,Basil Thampi,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,2,MM Sharma,Basil Thampi,WP Saha,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,MM Sharma,Basil Thampi,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,WP Saha,Basil Thampi,MM Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,WP Saha,Basil Thampi,MM Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,WP Saha,Basil Thampi,MM Sharma,0,0,0,,0,0,0,0,0,True,run out,WP Saha,Basil Thampi,death
+2,Gujarat Lions,1,1,BB McCullum,Sandeep Sharma,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,2,BB McCullum,Sandeep Sharma,AJ Finch,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,3,BB McCullum,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,4,BB McCullum,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,5,BB McCullum,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,6,BB McCullum,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,True,lbw,BB McCullum,,powerplay
+2,Gujarat Lions,2,1,AJ Finch,MM Sharma,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,2,AJ Finch,MM Sharma,SK Raina,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,3,AJ Finch,MM Sharma,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,4,SK Raina,MM Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,5,SK Raina,MM Sharma,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,6,SK Raina,MM Sharma,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,1,SK Raina,Sandeep Sharma,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,2,SK Raina,Sandeep Sharma,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,3,AJ Finch,Sandeep Sharma,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,4,AJ Finch,Sandeep Sharma,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,5,SK Raina,Sandeep Sharma,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,6,SK Raina,Sandeep Sharma,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,1,SK Raina,T Natarajan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,2,AJ Finch,T Natarajan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,3,SK Raina,T Natarajan,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,4,SK Raina,T Natarajan,AJ Finch,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,5,SK Raina,T Natarajan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,6,AJ Finch,T Natarajan,SK Raina,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,1,SK Raina,KC Cariappa,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,2,SK Raina,KC Cariappa,AJ Finch,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,3,SK Raina,KC Cariappa,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,4,SK Raina,KC Cariappa,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,5,AJ Finch,KC Cariappa,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,6,AJ Finch,KC Cariappa,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,1,SK Raina,MM Sharma,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,2,AJ Finch,MM Sharma,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,3,AJ Finch,MM Sharma,SK Raina,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,4,AJ Finch,MM Sharma,SK Raina,0,0,0,,0,0,0,0,0,True,caught,AJ Finch,MP Stoinis,powerplay
+2,Gujarat Lions,6,5,KD Karthik,MM Sharma,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,6,KD Karthik,MM Sharma,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,7,1,SK Raina,KC Cariappa,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,2,KD Karthik,KC Cariappa,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,3,KD Karthik,KC Cariappa,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,4,SK Raina,KC Cariappa,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,5,KD Karthik,KC Cariappa,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,6,KD Karthik,KC Cariappa,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,1,KD Karthik,T Natarajan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,2,SK Raina,T Natarajan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,3,KD Karthik,T Natarajan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,4,SK Raina,T Natarajan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,5,SK Raina,T Natarajan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,6,KD Karthik,T Natarajan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,1,KD Karthik,AR Patel,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,2,KD Karthik,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,3,SK Raina,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,4,KD Karthik,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,5,SK Raina,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,6,SK Raina,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,SK Raina,GJ Maxwell,middle
+2,Gujarat Lions,10,1,KD Karthik,MP Stoinis,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,2,KD Karthik,MP Stoinis,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,3.wides,KD Karthik,MP Stoinis,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,3,KD Karthik,MP Stoinis,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,4,RA Jadeja,MP Stoinis,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,5,KD Karthik,MP Stoinis,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,6,KD Karthik,MP Stoinis,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,1,KD Karthik,AR Patel,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,2,RA Jadeja,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,3,KD Karthik,AR Patel,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,4,KD Karthik,AR Patel,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,5,RA Jadeja,AR Patel,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,6,RA Jadeja,AR Patel,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Gujarat Lions,12,1,RA Jadeja,KC Cariappa,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,2,RA Jadeja,KC Cariappa,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,3,KD Karthik,KC Cariappa,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,4,KD Karthik,KC Cariappa,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,5,KD Karthik,KC Cariappa,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,6,RA Jadeja,KC Cariappa,KD Karthik,0,0,0,,0,0,0,0,0,True,caught and bowled,RA Jadeja,,middle
+2,Gujarat Lions,13,1,KD Karthik,AR Patel,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,2,KD Karthik,AR Patel,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,3,DR Smith,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,4,DR Smith,AR Patel,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,5,DR Smith,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,6,DR Smith,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,DR Smith,MP Stoinis,middle
+2,Gujarat Lions,14,1,AD Nath,KC Cariappa,KD Karthik,0,0,0,,0,0,0,0,0,True,lbw,AD Nath,,middle
+2,Gujarat Lions,14,2,AJ Tye,KC Cariappa,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,3,AJ Tye,KC Cariappa,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,4,KD Karthik,KC Cariappa,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,5,AJ Tye,KC Cariappa,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,6,KD Karthik,KC Cariappa,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,1,KD Karthik,AR Patel,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,2,AJ Tye,AR Patel,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,3,AJ Tye,AR Patel,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,4,AJ Tye,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,5,KD Karthik,AR Patel,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,6,AJ Tye,AR Patel,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,16,1,KD Karthik,MM Sharma,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,2,AJ Tye,MM Sharma,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Gujarat Lions,16,3,KD Karthik,MM Sharma,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,4,AJ Tye,MM Sharma,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,5,AJ Tye,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,6,KD Karthik,MM Sharma,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,1,KD Karthik,Sandeep Sharma,AJ Tye,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,2,KD Karthik,Sandeep Sharma,AJ Tye,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,3,AJ Tye,Sandeep Sharma,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,4,AJ Tye,Sandeep Sharma,KD Karthik,0,0,0,,0,0,0,0,0,True,bowled,AJ Tye,,death
+2,Gujarat Lions,17,5,Basil Thampi,Sandeep Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,6,KD Karthik,Sandeep Sharma,Basil Thampi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,1,Basil Thampi,T Natarajan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,2.wides,Basil Thampi,T Natarajan,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,2,Basil Thampi,T Natarajan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,3,KD Karthik,T Natarajan,Basil Thampi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,4,Basil Thampi,T Natarajan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,5,KD Karthik,T Natarajan,Basil Thampi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,6.wides,Basil Thampi,T Natarajan,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,6,Basil Thampi,T Natarajan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,1.wides,KD Karthik,MM Sharma,Basil Thampi,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,1,KD Karthik,MM Sharma,Basil Thampi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,2,KD Karthik,MM Sharma,Basil Thampi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,3,KD Karthik,MM Sharma,Basil Thampi,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,4,KD Karthik,MM Sharma,Basil Thampi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,5,Basil Thampi,MM Sharma,KD Karthik,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Gujarat Lions,19,6,KD Karthik,MM Sharma,Basil Thampi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,1,Basil Thampi,Sandeep Sharma,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,2,Basil Thampi,Sandeep Sharma,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,3,Basil Thampi,Sandeep Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,4,KD Karthik,Sandeep Sharma,Basil Thampi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,5,Basil Thampi,Sandeep Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,6,KD Karthik,Sandeep Sharma,Basil Thampi,0,0,0,,0,0,0,0,0,False,,,,death

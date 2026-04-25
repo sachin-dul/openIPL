@@ -1,0 +1,253 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,SR Watson,K Gowtham,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,AT Rayudu,K Gowtham,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,AT Rayudu,K Gowtham,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,SR Watson,K Gowtham,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,AT Rayudu,K Gowtham,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,AT Rayudu,K Gowtham,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,AT Rayudu,Ankit Sharma,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,AT Rayudu,Ankit Sharma,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,AT Rayudu,Ankit Sharma,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,SR Watson,Ankit Sharma,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,SR Watson,Ankit Sharma,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,AT Rayudu,Ankit Sharma,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,AT Rayudu,JC Archer,SR Watson,0,0,0,,0,0,0,0,0,True,bowled,AT Rayudu,,powerplay
+1,Chennai Super Kings,3,2,SK Raina,JC Archer,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3.noballs,SK Raina,JC Archer,SR Watson,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3.wides,SK Raina,JC Archer,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,SK Raina,JC Archer,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,SK Raina,JC Archer,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,SK Raina,JC Archer,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,SR Watson,JC Archer,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,SK Raina,K Gowtham,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,SK Raina,K Gowtham,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,SK Raina,K Gowtham,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,SK Raina,K Gowtham,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,SR Watson,K Gowtham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,SK Raina,K Gowtham,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,SK Raina,BA Stokes,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2.wides,SK Raina,BA Stokes,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,SK Raina,BA Stokes,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,SR Watson,BA Stokes,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,SK Raina,BA Stokes,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,SK Raina,BA Stokes,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,SR Watson,BA Stokes,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1.wides,SK Raina,JD Unadkat,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,SK Raina,JD Unadkat,SR Watson,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,SR Watson,JD Unadkat,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,SK Raina,JD Unadkat,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,SR Watson,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,SR Watson,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,SR Watson,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,SK Raina,IS Sodhi,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,SR Watson,IS Sodhi,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,SK Raina,IS Sodhi,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,SR Watson,IS Sodhi,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,SK Raina,IS Sodhi,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,SK Raina,IS Sodhi,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,SR Watson,BA Stokes,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,SR Watson,BA Stokes,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,SK Raina,BA Stokes,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,SR Watson,BA Stokes,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,SK Raina,BA Stokes,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,SR Watson,BA Stokes,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,SR Watson,IS Sodhi,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,SR Watson,IS Sodhi,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,SK Raina,IS Sodhi,SR Watson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,SK Raina,IS Sodhi,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,SR Watson,IS Sodhi,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,SK Raina,IS Sodhi,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,SK Raina,JD Unadkat,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,SK Raina,JD Unadkat,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,SR Watson,JD Unadkat,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,SR Watson,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,SR Watson,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6.wides,SR Watson,JD Unadkat,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6.wides,SR Watson,JD Unadkat,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,SR Watson,JD Unadkat,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,SR Watson,K Gowtham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,SK Raina,K Gowtham,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,SR Watson,K Gowtham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,SK Raina,K Gowtham,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,SK Raina,K Gowtham,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,SR Watson,K Gowtham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,SR Watson,JC Archer,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,SR Watson,JC Archer,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,SR Watson,JC Archer,SK Raina,0,0,0,,0,0,0,0,0,True,caught,SR Watson,JC Buttler,middle
+1,Chennai Super Kings,12,4.wides,SK Raina,JC Archer,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4.wides,SK Raina,JC Archer,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,SK Raina,JC Archer,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,MS Dhoni,JC Archer,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6.wides,SK Raina,JC Archer,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,SK Raina,JC Archer,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,SK Raina,IS Sodhi,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,MS Dhoni,IS Sodhi,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,SK Raina,IS Sodhi,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,MS Dhoni,IS Sodhi,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,MS Dhoni,IS Sodhi,SK Raina,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,SK Raina,IS Sodhi,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,SK Raina,STR Binny,middle
+1,Chennai Super Kings,14,1,MS Dhoni,BA Stokes,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,MS Dhoni,BA Stokes,SW Billings,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,SW Billings,BA Stokes,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,SW Billings,BA Stokes,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,SW Billings,BA Stokes,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,SW Billings,BA Stokes,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,SW Billings,IS Sodhi,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,SW Billings,IS Sodhi,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,SW Billings,IS Sodhi,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,SW Billings,IS Sodhi,MS Dhoni,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,15,5,MS Dhoni,IS Sodhi,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,MS Dhoni,IS Sodhi,SW Billings,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,MS Dhoni,JD Unadkat,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,SW Billings,JD Unadkat,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,MS Dhoni,JD Unadkat,SW Billings,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,MS Dhoni,JD Unadkat,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,SW Billings,JD Unadkat,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,SW Billings,JD Unadkat,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,MS Dhoni,JC Archer,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,SW Billings,JC Archer,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3.wides,MS Dhoni,JC Archer,SW Billings,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,MS Dhoni,JC Archer,SW Billings,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,MS Dhoni,JC Archer,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,SW Billings,JC Archer,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,JC Archer,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,MS Dhoni,JD Unadkat,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,SW Billings,JD Unadkat,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,MS Dhoni,JD Unadkat,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4.wides,MS Dhoni,JD Unadkat,SW Billings,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,MS Dhoni,JD Unadkat,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,SW Billings,JD Unadkat,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,MS Dhoni,JD Unadkat,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,SW Billings,JC Archer,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,SW Billings,JC Archer,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,SW Billings,JC Archer,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,MS Dhoni,JC Archer,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,MS Dhoni,JC Archer,SW Billings,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,MS Dhoni,JC Archer,SW Billings,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,SW Billings,BA Stokes,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,SW Billings,BA Stokes,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,SW Billings,BA Stokes,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,SW Billings,BA Stokes,MS Dhoni,0,0,0,,0,0,0,0,0,True,run out,SW Billings,,death
+1,Chennai Super Kings,20,5,DJ Bravo,BA Stokes,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,MS Dhoni,BA Stokes,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,JC Buttler,DJ Willey,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,JC Buttler,DJ Willey,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,JC Buttler,DJ Willey,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,JC Buttler,DJ Willey,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,JC Buttler,DJ Willey,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,JC Buttler,DJ Willey,BA Stokes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,JC Buttler,Harbhajan Singh,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,JC Buttler,Harbhajan Singh,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,JC Buttler,Harbhajan Singh,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,JC Buttler,Harbhajan Singh,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,JC Buttler,Harbhajan Singh,BA Stokes,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,JC Buttler,Harbhajan Singh,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,BA Stokes,RA Jadeja,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,BA Stokes,RA Jadeja,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,BA Stokes,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,JC Buttler,RA Jadeja,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,JC Buttler,RA Jadeja,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,JC Buttler,RA Jadeja,BA Stokes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,JC Buttler,Harbhajan Singh,BA Stokes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,JC Buttler,Harbhajan Singh,BA Stokes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,BA Stokes,Harbhajan Singh,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,BA Stokes,Harbhajan Singh,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,BA Stokes,Harbhajan Singh,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,BA Stokes,Harbhajan Singh,JC Buttler,0,0,0,,0,0,0,0,0,True,bowled,BA Stokes,,powerplay
+2,Rajasthan Royals,5,1,JC Buttler,RA Jadeja,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,AM Rahane,RA Jadeja,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,AM Rahane,RA Jadeja,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,AM Rahane,RA Jadeja,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,SK Raina,powerplay
+2,Rajasthan Royals,5,5,SV Samson,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,JC Buttler,RA Jadeja,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,JC Buttler,SN Thakur,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,JC Buttler,SN Thakur,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3.wides,SV Samson,SN Thakur,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,SV Samson,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,SV Samson,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,SV Samson,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,SV Samson,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,7,1,JC Buttler,RA Jadeja,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,JC Buttler,RA Jadeja,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,SV Samson,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,JC Buttler,RA Jadeja,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,JC Buttler,RA Jadeja,SV Samson,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,SV Samson,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,SV Samson,KV Sharma,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,JC Buttler,KV Sharma,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,JC Buttler,KV Sharma,SV Samson,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,8,4,SV Samson,KV Sharma,JC Buttler,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,JC Buttler,KV Sharma,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,JC Buttler,KV Sharma,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,SV Samson,SN Thakur,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,SV Samson,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,SV Samson,SN Thakur,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,JC Buttler,SN Thakur,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,JC Buttler,SN Thakur,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,JC Buttler,SN Thakur,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,SV Samson,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,SV Samson,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,SV Samson,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,SV Samson,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,SV Samson,DJ Bravo,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,JC Buttler,DJ Bravo,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,SV Samson,DJ Willey,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,JC Buttler,DJ Willey,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,SV Samson,DJ Willey,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,JC Buttler,DJ Willey,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,SV Samson,DJ Willey,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,SV Samson,DJ Willey,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,JC Buttler,DJ Bravo,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,SV Samson,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,True,run out,SV Samson,,middle
+2,Rajasthan Royals,12,3,JC Buttler,DJ Bravo,P Chopra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,P Chopra,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,P Chopra,DJ Bravo,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,P Chopra,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,JC Buttler,SN Thakur,P Chopra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,2,P Chopra,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,P Chopra,SN Thakur,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,P Chopra,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,P Chopra,DJ Bravo,middle
+2,Rajasthan Royals,13,5,STR Binny,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,6,STR Binny,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,JC Buttler,RA Jadeja,STR Binny,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,2,JC Buttler,RA Jadeja,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,STR Binny,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,JC Buttler,RA Jadeja,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,STR Binny,RA Jadeja,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,STR Binny,RA Jadeja,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,JC Buttler,SN Thakur,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,STR Binny,SN Thakur,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,STR Binny,SN Thakur,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,STR Binny,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,STR Binny,SN Thakur,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,STR Binny,SN Thakur,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,STR Binny,SR Watson,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,JC Buttler,SR Watson,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,STR Binny,SR Watson,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,JC Buttler,SR Watson,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,STR Binny,SR Watson,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,JC Buttler,SR Watson,STR Binny,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,STR Binny,DJ Willey,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,STR Binny,DJ Willey,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,JC Buttler,DJ Willey,STR Binny,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,JC Buttler,DJ Willey,STR Binny,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,JC Buttler,DJ Willey,STR Binny,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,JC Buttler,DJ Willey,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,JC Buttler,DJ Bravo,STR Binny,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,JC Buttler,DJ Bravo,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,STR Binny,DJ Bravo,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,STR Binny,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,STR Binny,SR Watson,death
+2,Rajasthan Royals,18,5,JC Buttler,DJ Bravo,K Gowtham,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,JC Buttler,DJ Bravo,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,JC Buttler,DJ Willey,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,K Gowtham,DJ Willey,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3.wides,K Gowtham,DJ Willey,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,K Gowtham,DJ Willey,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4,JC Buttler,DJ Willey,K Gowtham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,K Gowtham,DJ Willey,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,6,K Gowtham,DJ Willey,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,K Gowtham,MS Dhoni,death
+2,Rajasthan Royals,20,1,JC Buttler,DJ Bravo,JC Archer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,2,JC Buttler,DJ Bravo,JC Archer,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,3,JC Buttler,DJ Bravo,JC Archer,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,4,JC Buttler,DJ Bravo,JC Archer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,5,JC Buttler,DJ Bravo,JC Archer,2,0,2,,0,0,0,0,0,False,,,,death

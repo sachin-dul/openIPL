@@ -1,0 +1,255 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Deccan Chargers,1,1,AC Gilchrist,JA Morkel,VVS Laxman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2,VVS Laxman,JA Morkel,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3.wides,AC Gilchrist,JA Morkel,VVS Laxman,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3,AC Gilchrist,JA Morkel,VVS Laxman,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Deccan Chargers,1,4,VVS Laxman,JA Morkel,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,5,VVS Laxman,JA Morkel,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,6,VVS Laxman,JA Morkel,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,1,AC Gilchrist,S Tyagi,VVS Laxman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,2,VVS Laxman,S Tyagi,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,3,AC Gilchrist,S Tyagi,VVS Laxman,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,4,AC Gilchrist,S Tyagi,VVS Laxman,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5,AC Gilchrist,S Tyagi,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,6,AC Gilchrist,S Tyagi,VVS Laxman,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Deccan Chargers,3,1,AC Gilchrist,JA Morkel,VVS Laxman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,2,AC Gilchrist,JA Morkel,VVS Laxman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,3,AC Gilchrist,JA Morkel,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,4,AC Gilchrist,JA Morkel,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,5,AC Gilchrist,JA Morkel,VVS Laxman,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,6,AC Gilchrist,JA Morkel,VVS Laxman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,1,VVS Laxman,M Muralitharan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,2,AC Gilchrist,M Muralitharan,VVS Laxman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,3,VVS Laxman,M Muralitharan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,4,VVS Laxman,M Muralitharan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,5,VVS Laxman,M Muralitharan,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6,VVS Laxman,M Muralitharan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,1,AC Gilchrist,R Ashwin,VVS Laxman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,2,VVS Laxman,R Ashwin,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,3.wides,AC Gilchrist,R Ashwin,VVS Laxman,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,3,AC Gilchrist,R Ashwin,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4.wides,AC Gilchrist,R Ashwin,VVS Laxman,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4,AC Gilchrist,R Ashwin,VVS Laxman,0,0,0,,0,0,0,0,0,True,bowled,AC Gilchrist,,powerplay
+1,Deccan Chargers,5,5,HH Gibbs,R Ashwin,VVS Laxman,0,0,0,,0,0,0,0,0,True,run out,VVS Laxman,"SK Raina, MS Dhoni",powerplay
+1,Deccan Chargers,5,6,A Symonds,R Ashwin,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,1,HH Gibbs,M Muralitharan,A Symonds,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,2,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,3,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4.wides,A Symonds,M Muralitharan,HH Gibbs,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,5,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,6,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,7,1,HH Gibbs,L Balaji,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,2,HH Gibbs,L Balaji,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,3,HH Gibbs,L Balaji,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,4,A Symonds,L Balaji,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,5,A Symonds,L Balaji,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,6,HH Gibbs,L Balaji,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1.wides,A Symonds,JM Kemp,HH Gibbs,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1,A Symonds,JM Kemp,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,2,A Symonds,JM Kemp,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,3,A Symonds,JM Kemp,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,4,A Symonds,JM Kemp,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,5,HH Gibbs,JM Kemp,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,6,A Symonds,JM Kemp,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,1,HH Gibbs,R Ashwin,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,2,HH Gibbs,R Ashwin,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,3,HH Gibbs,R Ashwin,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,4,HH Gibbs,R Ashwin,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,5,HH Gibbs,R Ashwin,A Symonds,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,6,HH Gibbs,R Ashwin,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1,HH Gibbs,JM Kemp,A Symonds,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,2,HH Gibbs,JM Kemp,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,3,HH Gibbs,JM Kemp,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,4,HH Gibbs,JM Kemp,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,5,HH Gibbs,JM Kemp,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,6,HH Gibbs,JM Kemp,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,1,HH Gibbs,M Muralitharan,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,2,HH Gibbs,M Muralitharan,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,3,HH Gibbs,M Muralitharan,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,4,A Symonds,M Muralitharan,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,5,HH Gibbs,M Muralitharan,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,6,HH Gibbs,M Muralitharan,A Symonds,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,1,A Symonds,L Balaji,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,2,A Symonds,L Balaji,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,3,A Symonds,L Balaji,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,4,A Symonds,L Balaji,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,5,A Symonds,L Balaji,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,6,A Symonds,L Balaji,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,1,A Symonds,R Ashwin,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,2,HH Gibbs,R Ashwin,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,3,A Symonds,R Ashwin,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,4,HH Gibbs,R Ashwin,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,5,A Symonds,R Ashwin,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,6,HH Gibbs,R Ashwin,A Symonds,0,2,2,byes,0,0,2,0,0,False,,,,middle
+1,Deccan Chargers,14,1,A Symonds,JA Morkel,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,2,A Symonds,JA Morkel,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,3,A Symonds,JA Morkel,HH Gibbs,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,4,A Symonds,JA Morkel,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,5,HH Gibbs,JA Morkel,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,6,A Symonds,JA Morkel,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,1,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,2,A Symonds,M Muralitharan,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,3,HH Gibbs,M Muralitharan,A Symonds,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4.wides,HH Gibbs,M Muralitharan,A Symonds,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4.wides,HH Gibbs,M Muralitharan,A Symonds,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4.wides,HH Gibbs,M Muralitharan,A Symonds,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4,HH Gibbs,M Muralitharan,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,5,A Symonds,M Muralitharan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,6,A Symonds,M Muralitharan,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,16,1,A Symonds,L Balaji,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,2,HH Gibbs,L Balaji,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,3,A Symonds,L Balaji,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,4,HH Gibbs,L Balaji,A Symonds,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Deccan Chargers,16,5,A Symonds,L Balaji,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6.wides,A Symonds,L Balaji,HH Gibbs,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6,A Symonds,L Balaji,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,1,A Symonds,R Ashwin,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,2,A Symonds,R Ashwin,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,3,HH Gibbs,R Ashwin,A Symonds,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,4,HH Gibbs,R Ashwin,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,5,HH Gibbs,R Ashwin,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,6,A Symonds,R Ashwin,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,1,HH Gibbs,JA Morkel,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,2,A Symonds,JA Morkel,HH Gibbs,0,0,0,,0,0,0,0,0,True,run out,HH Gibbs,JA Morkel,death
+1,Deccan Chargers,18,3,A Symonds,JA Morkel,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,4,A Symonds,JA Morkel,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5,A Symonds,JA Morkel,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,6,RG Sharma,JA Morkel,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1,RG Sharma,L Balaji,A Symonds,0,0,0,,0,0,0,0,0,True,run out,A Symonds,ML Hayden,death
+1,Deccan Chargers,19,2,RG Sharma,L Balaji,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,3,TL Suman,L Balaji,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,4,RG Sharma,L Balaji,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,5,RG Sharma,L Balaji,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,6,RG Sharma,L Balaji,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,1,TL Suman,S Tyagi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,2.noballs,TL Suman,S Tyagi,RG Sharma,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Deccan Chargers,20,2,TL Suman,S Tyagi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,3,TL Suman,S Tyagi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,4,RG Sharma,S Tyagi,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,5,RG Sharma,S Tyagi,TL Suman,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,6.noballs,RG Sharma,S Tyagi,TL Suman,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Deccan Chargers,20,6,RG Sharma,JM Kemp,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,1,1,M Vijay,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,2,M Vijay,WPUJC Vaas,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,3,ML Hayden,WPUJC Vaas,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,4,M Vijay,WPUJC Vaas,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,5,M Vijay,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,6,M Vijay,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,1,ML Hayden,RG Sharma,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,2,ML Hayden,RG Sharma,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,3,ML Hayden,RG Sharma,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,4,ML Hayden,RG Sharma,M Vijay,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,5,ML Hayden,RG Sharma,M Vijay,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6,ML Hayden,RG Sharma,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1,M Vijay,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,True,bowled,M Vijay,,powerplay
+2,Chennai Super Kings,3,2,SK Raina,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,3,SK Raina,WPUJC Vaas,ML Hayden,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,4,SK Raina,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,True,caught,SK Raina,AC Gilchrist,powerplay
+2,Chennai Super Kings,3,5,S Badrinath,WPUJC Vaas,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,6,S Badrinath,WPUJC Vaas,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1,ML Hayden,RP Singh,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,2,S Badrinath,RP Singh,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,3,ML Hayden,RP Singh,S Badrinath,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,4,ML Hayden,RP Singh,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5,S Badrinath,RP Singh,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,6,S Badrinath,RP Singh,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,1,ML Hayden,WPUJC Vaas,S Badrinath,0,0,0,,0,0,0,0,0,True,caught,ML Hayden,RP Singh,powerplay
+2,Chennai Super Kings,5,2,S Badrinath,WPUJC Vaas,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3,S Badrinath,WPUJC Vaas,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,4,S Badrinath,WPUJC Vaas,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,5,S Badrinath,WPUJC Vaas,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,6,S Badrinath,WPUJC Vaas,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1,JM Kemp,PP Ojha,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,2,S Badrinath,PP Ojha,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,3,S Badrinath,PP Ojha,JM Kemp,0,0,0,,0,0,0,0,0,True,caught,S Badrinath,RP Singh,powerplay
+2,Chennai Super Kings,6,4,MS Dhoni,PP Ojha,JM Kemp,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,5,JM Kemp,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,6,JM Kemp,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,7,1,JM Kemp,Jaskaran Singh,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,2,JM Kemp,Jaskaran Singh,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3,JM Kemp,Jaskaran Singh,MS Dhoni,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,4.wides,MS Dhoni,Jaskaran Singh,JM Kemp,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,4,MS Dhoni,Jaskaran Singh,JM Kemp,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,5,MS Dhoni,Jaskaran Singh,JM Kemp,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,6,MS Dhoni,Jaskaran Singh,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,1,JM Kemp,PP Ojha,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,2,JM Kemp,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,3,JM Kemp,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,4,MS Dhoni,PP Ojha,JM Kemp,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,5,JM Kemp,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,6,JM Kemp,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,1,MS Dhoni,RG Sharma,JM Kemp,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2,MS Dhoni,RG Sharma,JM Kemp,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3,JM Kemp,RG Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,4,MS Dhoni,RG Sharma,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,5,MS Dhoni,RG Sharma,JM Kemp,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,6,MS Dhoni,RG Sharma,JM Kemp,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,1,MS Dhoni,PP Ojha,JM Kemp,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,2,JM Kemp,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,3,MS Dhoni,PP Ojha,JM Kemp,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4,JM Kemp,PP Ojha,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,5,JM Kemp,PP Ojha,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6,JM Kemp,PP Ojha,MS Dhoni,0,0,0,,0,0,0,0,0,True,stumped,JM Kemp,AC Gilchrist,middle
+2,Chennai Super Kings,11,1,MS Dhoni,TL Suman,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,2,MS Dhoni,TL Suman,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,3,JA Morkel,TL Suman,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,4,MS Dhoni,TL Suman,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,5,JA Morkel,TL Suman,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6,MS Dhoni,TL Suman,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,1,JA Morkel,RG Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,2,MS Dhoni,RG Sharma,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,3,JA Morkel,RG Sharma,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,4,JA Morkel,RG Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5,MS Dhoni,RG Sharma,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,6,JA Morkel,RG Sharma,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,1,MS Dhoni,WPUJC Vaas,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,2,JA Morkel,WPUJC Vaas,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3,MS Dhoni,WPUJC Vaas,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,4,JA Morkel,WPUJC Vaas,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,5,MS Dhoni,WPUJC Vaas,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,6,JA Morkel,WPUJC Vaas,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,1,MS Dhoni,PP Ojha,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,2,JA Morkel,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,3,MS Dhoni,PP Ojha,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,4,MS Dhoni,PP Ojha,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,5,JA Morkel,PP Ojha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,6,MS Dhoni,PP Ojha,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,1,JA Morkel,A Symonds,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,2,MS Dhoni,A Symonds,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,3,JA Morkel,A Symonds,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,4,MS Dhoni,A Symonds,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,5,MS Dhoni,A Symonds,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,6,MS Dhoni,A Symonds,JA Morkel,0,0,0,,0,0,0,0,0,True,bowled,MS Dhoni,,middle
+2,Chennai Super Kings,16,1,JA Morkel,RG Sharma,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2,JA Morkel,RG Sharma,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3,R Ashwin,RG Sharma,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,R Ashwin,RP Singh,death
+2,Chennai Super Kings,16,4,L Balaji,RG Sharma,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,5,L Balaji,RG Sharma,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,6,JA Morkel,RG Sharma,L Balaji,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,1,L Balaji,A Symonds,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,2,JA Morkel,A Symonds,L Balaji,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,3,L Balaji,A Symonds,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,4,JA Morkel,A Symonds,L Balaji,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,5,L Balaji,A Symonds,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,6,L Balaji,A Symonds,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,1,L Balaji,RP Singh,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,2,L Balaji,RP Singh,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3.wides,JA Morkel,RP Singh,L Balaji,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3,JA Morkel,RP Singh,L Balaji,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,4,L Balaji,RP Singh,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,5,L Balaji,RP Singh,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,L Balaji,Anirudh Singh,death
+2,Chennai Super Kings,18,6,M Muralitharan,RP Singh,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1,M Muralitharan,A Symonds,JA Morkel,0,0,0,,0,0,0,0,0,True,lbw,M Muralitharan,,death
+2,Chennai Super Kings,19,2,S Tyagi,A Symonds,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,3,JA Morkel,A Symonds,S Tyagi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,4,JA Morkel,A Symonds,S Tyagi,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,5,JA Morkel,A Symonds,S Tyagi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,6,S Tyagi,A Symonds,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,1,S Tyagi,RP Singh,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,2,S Tyagi,RP Singh,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,3,JA Morkel,RP Singh,S Tyagi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,4.wides,JA Morkel,RP Singh,S Tyagi,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,4,JA Morkel,RP Singh,S Tyagi,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,5,JA Morkel,RP Singh,S Tyagi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,6,JA Morkel,RP Singh,S Tyagi,1,0,1,,0,0,0,0,0,False,,,,death

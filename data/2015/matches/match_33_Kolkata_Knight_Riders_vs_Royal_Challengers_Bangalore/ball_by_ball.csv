@@ -1,0 +1,128 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,RV Uthappa,MA Starc,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,RV Uthappa,MA Starc,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3.wides,RV Uthappa,MA Starc,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,RV Uthappa,MA Starc,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4.wides,G Gambhir,MA Starc,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,G Gambhir,MA Starc,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,G Gambhir,MA Starc,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,RV Uthappa,MA Starc,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,G Gambhir,VR Aaron,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,RV Uthappa,VR Aaron,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,RV Uthappa,VR Aaron,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,RV Uthappa,VR Aaron,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,RV Uthappa,VR Aaron,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,RV Uthappa,VR Aaron,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,RV Uthappa,HV Patel,G Gambhir,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2.wides,G Gambhir,HV Patel,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,G Gambhir,HV Patel,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,RV Uthappa,HV Patel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,RV Uthappa,HV Patel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,RV Uthappa,HV Patel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,RV Uthappa,HV Patel,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,G Gambhir,D Wiese,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,4,2,RV Uthappa,D Wiese,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,4,3,G Gambhir,D Wiese,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,4,4,G Gambhir,D Wiese,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,4,5,G Gambhir,D Wiese,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,G Gambhir,Mandeep Singh,middle
+1,Kolkata Knight Riders,4,6,AD Russell,D Wiese,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,5,1,AD Russell,YS Chahal,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,5,2,RV Uthappa,YS Chahal,AD Russell,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,5,3,RV Uthappa,YS Chahal,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,5,4,AD Russell,YS Chahal,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,5,5,RV Uthappa,YS Chahal,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,5,6,AD Russell,YS Chahal,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,1,RV Uthappa,VR Aaron,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,2,AD Russell,VR Aaron,RV Uthappa,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,3,AD Russell,VR Aaron,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,4,AD Russell,VR Aaron,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,5,AD Russell,VR Aaron,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,6,AD Russell,VR Aaron,RV Uthappa,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,1,RV Uthappa,YS Chahal,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,AD Russell,YS Chahal,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,AD Russell,YS Chahal,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,AD Russell,YS Chahal,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,7,5,RV Uthappa,YS Chahal,AD Russell,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,KD Karthik,death
+1,Kolkata Knight Riders,7,6,AD Russell,YS Chahal,RN ten Doeschate,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,8,1,RN ten Doeschate,D Wiese,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,8,2,AD Russell,D Wiese,RN ten Doeschate,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,8,3,AD Russell,D Wiese,RN ten Doeschate,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,8,4,RN ten Doeschate,D Wiese,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,8,5,AD Russell,D Wiese,RN ten Doeschate,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,8,6,AD Russell,D Wiese,RN ten Doeschate,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,9,1,RN ten Doeschate,HV Patel,AD Russell,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,9,2,RN ten Doeschate,HV Patel,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,9,3,RN ten Doeschate,HV Patel,AD Russell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,9,4,RN ten Doeschate,HV Patel,AD Russell,0,0,0,,0,0,0,0,0,True,run out,AD Russell,KD Karthik,death
+1,Kolkata Knight Riders,9,5,YK Pathan,HV Patel,RN ten Doeschate,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,9,6,YK Pathan,HV Patel,RN ten Doeschate,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,10,1,RN ten Doeschate,MA Starc,YK Pathan,0,0,0,,0,0,0,0,0,True,caught,RN ten Doeschate,AB de Villiers,death
+1,Kolkata Knight Riders,10,2,YK Pathan,MA Starc,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,10,3,SA Yadav,MA Starc,YK Pathan,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kolkata Knight Riders,10,4.noballs,YK Pathan,MA Starc,SA Yadav,2,1,3,noballs,0,1,0,0,0,False,,,,death
+1,Kolkata Knight Riders,10,4,YK Pathan,MA Starc,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,10,5,SA Yadav,MA Starc,YK Pathan,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kolkata Knight Riders,10,6.wides,YK Pathan,MA Starc,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,10,6,YK Pathan,MA Starc,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,1,1.wides,CH Gayle,PJ Cummins,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,1.wides,CH Gayle,PJ Cummins,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,1,CH Gayle,PJ Cummins,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,V Kohli,PJ Cummins,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,V Kohli,PJ Cummins,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,V Kohli,PJ Cummins,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,V Kohli,PJ Cummins,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,V Kohli,PJ Cummins,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,V Kohli,UT Yadav,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,V Kohli,UT Yadav,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,V Kohli,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,V Kohli,UT Yadav,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,V Kohli,UT Yadav,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6.wides,CH Gayle,UT Yadav,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,CH Gayle,UT Yadav,V Kohli,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,V Kohli,PJ Cummins,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,V Kohli,PJ Cummins,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,CH Gayle,PJ Cummins,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,V Kohli,PJ Cummins,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,V Kohli,PJ Cummins,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,CH Gayle,PJ Cummins,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,1,CH Gayle,GB Hogg,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,2,CH Gayle,GB Hogg,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,3,CH Gayle,GB Hogg,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,4,CH Gayle,GB Hogg,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,5,CH Gayle,GB Hogg,V Kohli,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,AD Russell,middle
+2,Royal Challengers Bangalore,4,6,AB de Villiers,GB Hogg,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,1,AB de Villiers,PP Chawla,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,2,AB de Villiers,PP Chawla,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,3,V Kohli,PP Chawla,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,4,AB de Villiers,PP Chawla,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,AB de Villiers,,middle
+2,Royal Challengers Bangalore,5,5,Mandeep Singh,PP Chawla,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,6,Mandeep Singh,PP Chawla,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,1,Mandeep Singh,GB Hogg,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,2,V Kohli,GB Hogg,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,3,Mandeep Singh,GB Hogg,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,4,V Kohli,GB Hogg,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,5,Mandeep Singh,GB Hogg,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,6,Mandeep Singh,GB Hogg,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,V Kohli,PP Chawla,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,Mandeep Singh,PP Chawla,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,3,Mandeep Singh,PP Chawla,V Kohli,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,4,Mandeep Singh,PP Chawla,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,5,Mandeep Singh,PP Chawla,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,6,V Kohli,PP Chawla,Mandeep Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,1,Mandeep Singh,AD Russell,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,2,V Kohli,AD Russell,Mandeep Singh,0,0,0,,0,0,0,0,0,True,caught,V Kohli,SA Yadav,death
+2,Royal Challengers Bangalore,8,3.wides,D Wiese,AD Russell,Mandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,3,D Wiese,AD Russell,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,4,Mandeep Singh,AD Russell,D Wiese,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,5,D Wiese,AD Russell,Mandeep Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,6,D Wiese,AD Russell,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,1,D Wiese,UT Yadav,Mandeep Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,2,D Wiese,UT Yadav,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,3,Mandeep Singh,UT Yadav,D Wiese,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,4,D Wiese,UT Yadav,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,5,Mandeep Singh,UT Yadav,D Wiese,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,6,Mandeep Singh,UT Yadav,D Wiese,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,1,D Wiese,AD Russell,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,2,Mandeep Singh,AD Russell,D Wiese,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,3,Mandeep Singh,AD Russell,D Wiese,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,4,Mandeep Singh,AD Russell,D Wiese,6,0,6,,0,0,0,0,0,False,,,,death

@@ -1,0 +1,254 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1.wides,ST Jayasuriya,I Sharma,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,1,ST Jayasuriya,I Sharma,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2.wides,SR Tendulkar,I Sharma,ST Jayasuriya,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,SR Tendulkar,I Sharma,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,SR Tendulkar,I Sharma,ST Jayasuriya,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,SR Tendulkar,I Sharma,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,SR Tendulkar,I Sharma,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,SR Tendulkar,I Sharma,ST Jayasuriya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,ST Jayasuriya,AB Dinda,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,ST Jayasuriya,AB Dinda,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,ST Jayasuriya,AB Dinda,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,SR Tendulkar,AB Dinda,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,SR Tendulkar,AB Dinda,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,SR Tendulkar,AB Dinda,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,SR Tendulkar,I Sharma,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,SR Tendulkar,I Sharma,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,SR Tendulkar,I Sharma,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,ST Jayasuriya,I Sharma,SR Tendulkar,0,2,2,byes,0,0,2,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,ST Jayasuriya,I Sharma,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,ST Jayasuriya,I Sharma,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,SR Tendulkar,AB Dinda,ST Jayasuriya,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Mumbai Indians,4,2,ST Jayasuriya,AB Dinda,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,ST Jayasuriya,MN van Wyk,powerplay
+1,Mumbai Indians,4,3.wides,Harbhajan Singh,AB Dinda,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,Harbhajan Singh,AB Dinda,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,Harbhajan Singh,AB Dinda,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,Harbhajan Singh,AB Dinda,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,SR Tendulkar,AB Dinda,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,SR Tendulkar,LR Shukla,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,SR Tendulkar,LR Shukla,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,Harbhajan Singh,LR Shukla,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,SR Tendulkar,LR Shukla,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,SR Tendulkar,LR Shukla,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,SR Tendulkar,LR Shukla,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,SR Tendulkar,M Kartik,Harbhajan Singh,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,SR Tendulkar,M Kartik,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,Harbhajan Singh,M Kartik,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,Harbhajan Singh,M Kartik,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,Harbhajan Singh,M Kartik,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,Harbhajan Singh,AB Dinda,powerplay
+1,Mumbai Indians,6,6,AM Nayar,M Kartik,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,SR Tendulkar,LR Shukla,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,SR Tendulkar,LR Shukla,AM Nayar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,SR Tendulkar,LR Shukla,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,SR Tendulkar,LR Shukla,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,SR Tendulkar,LR Shukla,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,SR Tendulkar,LR Shukla,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,AM Nayar,AB Agarkar,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,SR Tendulkar,AB Agarkar,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,SR Tendulkar,AB Agarkar,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,SR Tendulkar,AB Agarkar,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5.wides,SR Tendulkar,AB Agarkar,AM Nayar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,SR Tendulkar,AB Agarkar,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,SR Tendulkar,BB McCullum,middle
+1,Mumbai Indians,8,6,JP Duminy,AB Agarkar,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,AM Nayar,CH Gayle,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,AM Nayar,CH Gayle,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,AM Nayar,CH Gayle,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,AM Nayar,CH Gayle,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,JP Duminy,CH Gayle,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,JP Duminy,CH Gayle,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,JP Duminy,BJ Hodge,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,JP Duminy,BJ Hodge,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,AM Nayar,BJ Hodge,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,JP Duminy,BJ Hodge,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,AM Nayar,BJ Hodge,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,JP Duminy,BJ Hodge,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,JP Duminy,CH Gayle,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,AM Nayar,CH Gayle,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,JP Duminy,CH Gayle,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,JP Duminy,CH Gayle,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,JP Duminy,CH Gayle,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,AM Nayar,CH Gayle,JP Duminy,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,12,1,AM Nayar,BJ Hodge,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,AM Nayar,BJ Hodge,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,JP Duminy,BJ Hodge,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,AM Nayar,BJ Hodge,JP Duminy,0,0,0,,0,0,0,0,0,True,bowled,AM Nayar,,middle
+1,Mumbai Indians,12,5,GR Napier,BJ Hodge,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,JP Duminy,BJ Hodge,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,JP Duminy,M Kartik,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,GR Napier,M Kartik,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,GR Napier,M Kartik,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,GR Napier,M Kartik,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,GR Napier,M Kartik,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,GR Napier,M Kartik,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,JP Duminy,CH Gayle,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,GR Napier,CH Gayle,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,JP Duminy,CH Gayle,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,GR Napier,CH Gayle,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,GR Napier,CH Gayle,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,GR Napier,CH Gayle,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,JP Duminy,I Sharma,GR Napier,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,JP Duminy,I Sharma,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,GR Napier,I Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,JP Duminy,I Sharma,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,GR Napier,I Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,JP Duminy,I Sharma,GR Napier,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,JP Duminy,CH Gayle,GR Napier,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,GR Napier,CH Gayle,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,GR Napier,CH Gayle,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4.wides,JP Duminy,CH Gayle,GR Napier,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,GR Napier,CH Gayle,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,GR Napier,CH Gayle,JP Duminy,0,0,0,,0,0,0,0,0,True,caught,GR Napier,BB McCullum,death
+1,Mumbai Indians,16,6,JP Duminy,CH Gayle,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,JP Duminy,M Kartik,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,AM Rahane,M Kartik,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,JP Duminy,M Kartik,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,JP Duminy,M Kartik,AM Rahane,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,17,5,AM Rahane,M Kartik,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,JP Duminy,M Kartik,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,JP Duminy,LR Shukla,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,JP Duminy,LR Shukla,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,AM Rahane,LR Shukla,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,JP Duminy,LR Shukla,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,JP Duminy,LR Shukla,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,AM Rahane,LR Shukla,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,AM Rahane,I Sharma,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2.noballs,AM Rahane,I Sharma,JP Duminy,1,1,2,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,JP Duminy,I Sharma,AM Rahane,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Mumbai Indians,19,3,AM Rahane,I Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,JP Duminy,I Sharma,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,AM Rahane,I Sharma,JP Duminy,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,CH Gayle,death
+1,Mumbai Indians,19,6,JP Duminy,I Sharma,Z Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,JP Duminy,AB Dinda,Z Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,Z Khan,AB Dinda,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,JP Duminy,AB Dinda,Z Khan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,JP Duminy,AB Dinda,Z Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,Z Khan,AB Dinda,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,JP Duminy,AB Dinda,Z Khan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,1,1,CH Gayle,Z Khan,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,CH Gayle,Z Khan,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,CH Gayle,Z Khan,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,SC Ganguly,Z Khan,CH Gayle,0,0,0,,0,0,0,0,0,True,bowled,SC Ganguly,,powerplay
+2,Kolkata Knight Riders,1,5,BJ Hodge,Z Khan,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,BJ Hodge,Z Khan,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,CH Gayle,GR Napier,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,BJ Hodge,GR Napier,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,BJ Hodge,GR Napier,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,CH Gayle,GR Napier,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,BJ Hodge,GR Napier,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,BJ Hodge,GR Napier,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,CH Gayle,Z Khan,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,CH Gayle,Z Khan,BJ Hodge,0,0,0,,0,0,0,0,0,True,bowled,CH Gayle,,powerplay
+2,Kolkata Knight Riders,3,3,MN van Wyk,Z Khan,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4.wides,MN van Wyk,Z Khan,BJ Hodge,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,MN van Wyk,Z Khan,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,MN van Wyk,Z Khan,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,MN van Wyk,Z Khan,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,BJ Hodge,Harbhajan Singh,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,MN van Wyk,Harbhajan Singh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,MN van Wyk,Harbhajan Singh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,MN van Wyk,Harbhajan Singh,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,MN van Wyk,SL Malinga,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,MN van Wyk,SL Malinga,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,MN van Wyk,SL Malinga,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,MN van Wyk,SL Malinga,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,BJ Hodge,SL Malinga,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,MN van Wyk,SL Malinga,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,4,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,5,BJ Hodge,Harbhajan Singh,MN van Wyk,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,6,BJ Hodge,Harbhajan Singh,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,7,1,BJ Hodge,ST Jayasuriya,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,MN van Wyk,ST Jayasuriya,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,BJ Hodge,ST Jayasuriya,MN van Wyk,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4.wides,BJ Hodge,ST Jayasuriya,MN van Wyk,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4.wides,BJ Hodge,ST Jayasuriya,MN van Wyk,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,BJ Hodge,ST Jayasuriya,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,MN van Wyk,ST Jayasuriya,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,BJ Hodge,ST Jayasuriya,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,BJ Hodge,AM Nayar,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,BJ Hodge,AM Nayar,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,BJ Hodge,AM Nayar,MN van Wyk,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,BJ Hodge,AM Nayar,MN van Wyk,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,BJ Hodge,AM Nayar,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,MN van Wyk,AM Nayar,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,BJ Hodge,GR Napier,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,BJ Hodge,GR Napier,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,BJ Hodge,GR Napier,MN van Wyk,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,BJ Hodge,GR Napier,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,MN van Wyk,GR Napier,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,BJ Hodge,GR Napier,MN van Wyk,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,MN van Wyk,AM Nayar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,BJ Hodge,AM Nayar,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3.wides,MN van Wyk,AM Nayar,BJ Hodge,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,MN van Wyk,AM Nayar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,BJ Hodge,AM Nayar,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,MN van Wyk,AM Nayar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,BJ Hodge,AM Nayar,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,MN van Wyk,GR Napier,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,BJ Hodge,GR Napier,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,MN van Wyk,GR Napier,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,BJ Hodge,GR Napier,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,MN van Wyk,GR Napier,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,MN van Wyk,GR Napier,BJ Hodge,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kolkata Knight Riders,12,1,MN van Wyk,Harbhajan Singh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,MN van Wyk,Harbhajan Singh,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,MN van Wyk,Harbhajan Singh,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,MN van Wyk,Harbhajan Singh,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,5,MN van Wyk,Harbhajan Singh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,6,MN van Wyk,Harbhajan Singh,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,1.wides,BJ Hodge,SL Malinga,MN van Wyk,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,1,BJ Hodge,SL Malinga,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,2,MN van Wyk,SL Malinga,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,3,MN van Wyk,SL Malinga,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,4,MN van Wyk,SL Malinga,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,5,BJ Hodge,SL Malinga,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,6,BJ Hodge,SL Malinga,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,1,BJ Hodge,Harbhajan Singh,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,2,BJ Hodge,Harbhajan Singh,MN van Wyk,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,3,BJ Hodge,Harbhajan Singh,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,4,MN van Wyk,Harbhajan Singh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,5,MN van Wyk,Harbhajan Singh,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,6,BJ Hodge,Harbhajan Singh,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,1,BJ Hodge,GR Napier,MN van Wyk,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,2,BJ Hodge,GR Napier,MN van Wyk,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,3,BJ Hodge,GR Napier,MN van Wyk,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,4,BJ Hodge,GR Napier,MN van Wyk,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,5,MN van Wyk,GR Napier,BJ Hodge,0,0,0,,0,0,0,0,0,True,caught,MN van Wyk,JP Duminy,middle
+2,Kolkata Knight Riders,15,6,BJ Hodge,GR Napier,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,16,1,BJ Hodge,Z Khan,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,LR Shukla,Z Khan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3.noballs,BJ Hodge,Z Khan,LR Shukla,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,BJ Hodge,Z Khan,LR Shukla,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,BJ Hodge,Z Khan,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,LR Shukla,Z Khan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,6,BJ Hodge,Z Khan,LR Shukla,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,LR Shukla,SL Malinga,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,2,BJ Hodge,SL Malinga,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,LR Shukla,SL Malinga,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,4,LR Shukla,SL Malinga,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5.wides,BJ Hodge,SL Malinga,LR Shukla,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5,BJ Hodge,SL Malinga,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,LR Shukla,SL Malinga,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1,BJ Hodge,Z Khan,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2,LR Shukla,Z Khan,BJ Hodge,0,0,0,,0,0,0,0,0,True,bowled,LR Shukla,,death
+2,Kolkata Knight Riders,18,3,BB McCullum,Z Khan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,4,BJ Hodge,Z Khan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,5,BJ Hodge,Z Khan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,BB McCullum,Z Khan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1,BB McCullum,SL Malinga,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,2,BJ Hodge,SL Malinga,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,3,BB McCullum,SL Malinga,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,4,BB McCullum,SL Malinga,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,5,BJ Hodge,SL Malinga,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,6,BJ Hodge,SL Malinga,BB McCullum,1,0,1,,0,0,0,0,0,True,run out,BJ Hodge,"JP Duminy, PR Shah",death
+2,Kolkata Knight Riders,20,1,BB McCullum,AM Nayar,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,2,WP Saha,AM Nayar,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,3,BB McCullum,AM Nayar,WP Saha,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,SL Malinga,death
+2,Kolkata Knight Riders,20,4,WP Saha,AM Nayar,AB Agarkar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,5,WP Saha,AM Nayar,AB Agarkar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,6,WP Saha,AM Nayar,AB Agarkar,1,0,1,,0,0,0,0,0,False,,,,death

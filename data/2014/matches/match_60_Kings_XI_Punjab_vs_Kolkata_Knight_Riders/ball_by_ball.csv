@@ -1,0 +1,246 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,V Sehwag,M Morkel,M Vohra,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,M Vohra,M Morkel,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,M Vohra,M Morkel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,M Vohra,M Morkel,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,M Vohra,M Morkel,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,M Vohra,M Morkel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,V Sehwag,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,V Sehwag,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,V Sehwag,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,V Sehwag,UT Yadav,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,M Vohra,UT Yadav,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,V Sehwag,UT Yadav,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,M Vohra,M Morkel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,M Vohra,M Morkel,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,M Vohra,M Morkel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,M Vohra,M Morkel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,M Vohra,M Morkel,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,M Vohra,M Morkel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,V Sehwag,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,V Sehwag,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,V Sehwag,UT Yadav,M Vohra,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,V Sehwag,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,True,caught,V Sehwag,G Gambhir,powerplay
+1,Kings XI Punjab,4,5,M Vohra,UT Yadav,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,M Vohra,UT Yadav,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,M Vohra,M Morkel,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,GJ Bailey,M Morkel,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,M Vohra,M Morkel,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,M Vohra,M Morkel,GJ Bailey,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,M Vohra,M Morkel,GJ Bailey,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,M Vohra,M Morkel,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,GJ Bailey,SP Narine,M Vohra,0,0,0,,0,0,0,0,0,True,bowled,GJ Bailey,,powerplay
+1,Kings XI Punjab,6,2,WP Saha,SP Narine,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,WP Saha,SP Narine,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,WP Saha,SP Narine,M Vohra,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,WP Saha,SP Narine,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,WP Saha,SP Narine,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,WP Saha,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,WP Saha,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,WP Saha,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,M Vohra,Shakib Al Hasan,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,WP Saha,PP Chawla,M Vohra,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,WP Saha,PP Chawla,M Vohra,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,WP Saha,PP Chawla,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,M Vohra,PP Chawla,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,M Vohra,PP Chawla,WP Saha,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,M Vohra,PP Chawla,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,M Vohra,Shakib Al Hasan,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,WP Saha,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,WP Saha,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,M Vohra,Shakib Al Hasan,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,WP Saha,PP Chawla,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,M Vohra,PP Chawla,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,WP Saha,PP Chawla,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,M Vohra,PP Chawla,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,M Vohra,PP Chawla,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,WP Saha,PP Chawla,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,M Vohra,Shakib Al Hasan,WP Saha,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,M Vohra,Shakib Al Hasan,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,WP Saha,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,WP Saha,Shakib Al Hasan,M Vohra,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,WP Saha,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,M Vohra,PP Chawla,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,M Vohra,PP Chawla,WP Saha,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,M Vohra,PP Chawla,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,WP Saha,PP Chawla,M Vohra,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,WP Saha,PP Chawla,M Vohra,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,WP Saha,PP Chawla,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,WP Saha,Shakib Al Hasan,M Vohra,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,13,3,M Vohra,Shakib Al Hasan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,WP Saha,Shakib Al Hasan,M Vohra,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,WP Saha,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,M Vohra,Shakib Al Hasan,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,WP Saha,SP Narine,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,2,WP Saha,SP Narine,M Vohra,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,3,WP Saha,SP Narine,M Vohra,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,4,WP Saha,SP Narine,M Vohra,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,5,WP Saha,SP Narine,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,6,M Vohra,SP Narine,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,1,WP Saha,M Morkel,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,2,M Vohra,M Morkel,WP Saha,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,3,M Vohra,M Morkel,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,4,M Vohra,M Morkel,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,5,WP Saha,M Morkel,M Vohra,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,6,WP Saha,M Morkel,M Vohra,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1,M Vohra,SP Narine,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,M Vohra,SP Narine,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,WP Saha,SP Narine,M Vohra,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4.noballs,M Vohra,SP Narine,WP Saha,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,M Vohra,SP Narine,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,M Vohra,SP Narine,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,WP Saha,SP Narine,M Vohra,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,WP Saha,UT Yadav,M Vohra,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,WP Saha,UT Yadav,M Vohra,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,WP Saha,UT Yadav,M Vohra,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4.wides,WP Saha,UT Yadav,M Vohra,0,3,3,wides,3,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,WP Saha,UT Yadav,M Vohra,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,M Vohra,UT Yadav,WP Saha,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,17,6,WP Saha,UT Yadav,M Vohra,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,M Vohra,PP Chawla,WP Saha,0,0,0,,0,0,0,0,0,True,caught and bowled,M Vohra,,death
+1,Kings XI Punjab,18,2,WP Saha,PP Chawla,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3,WP Saha,PP Chawla,GJ Maxwell,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,WP Saha,PP Chawla,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,WP Saha,PP Chawla,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,GJ Maxwell,PP Chawla,WP Saha,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,M Morkel,death
+1,Kings XI Punjab,19,1,WP Saha,SP Narine,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,WP Saha,SP Narine,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,WP Saha,SP Narine,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,WP Saha,SP Narine,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,WP Saha,SP Narine,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,WP Saha,SP Narine,DA Miller,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,20,1,WP Saha,UT Yadav,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,2,WP Saha,UT Yadav,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,WP Saha,UT Yadav,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,WP Saha,UT Yadav,DA Miller,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,WP Saha,UT Yadav,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,DA Miller,UT Yadav,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,1,1,RV Uthappa,MG Johnson,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,RV Uthappa,MG Johnson,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,G Gambhir,MG Johnson,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,RV Uthappa,MG Johnson,G Gambhir,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,AR Patel,powerplay
+2,Kolkata Knight Riders,1,5,MK Pandey,MG Johnson,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,MK Pandey,MG Johnson,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,G Gambhir,L Balaji,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,G Gambhir,L Balaji,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,G Gambhir,L Balaji,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,G Gambhir,L Balaji,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,MK Pandey,L Balaji,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,G Gambhir,L Balaji,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1.wides,G Gambhir,MG Johnson,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,G Gambhir,MG Johnson,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2.wides,G Gambhir,MG Johnson,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,G Gambhir,MG Johnson,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,MK Pandey,MG Johnson,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,G Gambhir,MG Johnson,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,G Gambhir,MG Johnson,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,G Gambhir,MG Johnson,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,MK Pandey,P Awana,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,G Gambhir,P Awana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,MK Pandey,P Awana,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,MK Pandey,P Awana,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,MK Pandey,P Awana,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,MK Pandey,P Awana,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,MK Pandey,L Balaji,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,MK Pandey,L Balaji,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,MK Pandey,L Balaji,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,MK Pandey,L Balaji,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,G Gambhir,L Balaji,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,MK Pandey,L Balaji,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,G Gambhir,P Awana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,MK Pandey,P Awana,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,G Gambhir,P Awana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,4,MK Pandey,P Awana,G Gambhir,5,0,5,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,5,G Gambhir,P Awana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,6,MK Pandey,P Awana,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,G Gambhir,Karanveer Singh,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,G Gambhir,DA Miller,middle
+2,Kolkata Knight Riders,7,2,MK Pandey,Karanveer Singh,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,MK Pandey,Karanveer Singh,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,MK Pandey,Karanveer Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,YK Pathan,Karanveer Singh,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,YK Pathan,Karanveer Singh,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,YK Pathan,L Balaji,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,YK Pathan,L Balaji,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,MK Pandey,L Balaji,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,MK Pandey,L Balaji,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,MK Pandey,L Balaji,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,YK Pathan,L Balaji,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,MK Pandey,Karanveer Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,YK Pathan,Karanveer Singh,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,YK Pathan,Karanveer Singh,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,YK Pathan,Karanveer Singh,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,MK Pandey,Karanveer Singh,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,MK Pandey,Karanveer Singh,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,YK Pathan,AR Patel,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,MK Pandey,AR Patel,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,MK Pandey,AR Patel,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,MK Pandey,AR Patel,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,YK Pathan,AR Patel,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,YK Pathan,AR Patel,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,MK Pandey,P Awana,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,MK Pandey,P Awana,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,MK Pandey,P Awana,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,MK Pandey,P Awana,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,YK Pathan,P Awana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,MK Pandey,P Awana,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,1,YK Pathan,AR Patel,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,YK Pathan,AR Patel,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,YK Pathan,AR Patel,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,MK Pandey,AR Patel,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,5,MK Pandey,AR Patel,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,6,YK Pathan,AR Patel,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,1,YK Pathan,L Balaji,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,2,YK Pathan,L Balaji,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,3,YK Pathan,L Balaji,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,4,YK Pathan,L Balaji,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,5,MK Pandey,L Balaji,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,YK Pathan,L Balaji,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,MK Pandey,Karanveer Singh,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,MK Pandey,Karanveer Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3.wides,YK Pathan,Karanveer Singh,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,YK Pathan,Karanveer Singh,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,YK Pathan,GJ Maxwell,death
+2,Kolkata Knight Riders,14,4,MK Pandey,Karanveer Singh,Shakib Al Hasan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5.wides,MK Pandey,Karanveer Singh,Shakib Al Hasan,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5,MK Pandey,Karanveer Singh,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,MK Pandey,Karanveer Singh,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1,MK Pandey,MG Johnson,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,2,Shakib Al Hasan,MG Johnson,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,Shakib Al Hasan,MG Johnson,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,4,Shakib Al Hasan,MG Johnson,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,5,Shakib Al Hasan,MG Johnson,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,6,Shakib Al Hasan,MG Johnson,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,1,MK Pandey,AR Patel,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,Shakib Al Hasan,AR Patel,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,Shakib Al Hasan,AR Patel,MK Pandey,0,0,0,,0,0,0,0,0,True,run out,Shakib Al Hasan,GJ Bailey,death
+2,Kolkata Knight Riders,16,4,MK Pandey,AR Patel,RN ten Doeschate,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,RN ten Doeschate,AR Patel,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,6,RN ten Doeschate,AR Patel,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,MK Pandey,Karanveer Singh,RN ten Doeschate,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,2,MK Pandey,Karanveer Singh,RN ten Doeschate,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,RN ten Doeschate,Karanveer Singh,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,RN ten Doeschate,DA Miller,death
+2,Kolkata Knight Riders,17,4,MK Pandey,Karanveer Singh,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5,MK Pandey,Karanveer Singh,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6.wides,MK Pandey,Karanveer Singh,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,MK Pandey,Karanveer Singh,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,GJ Bailey,death
+2,Kolkata Knight Riders,18,1,SA Yadav,AR Patel,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2.wides,PP Chawla,AR Patel,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2,PP Chawla,AR Patel,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,3,SA Yadav,AR Patel,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,4,PP Chawla,AR Patel,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,5,SA Yadav,AR Patel,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,SA Yadav,AR Patel,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1,SA Yadav,MG Johnson,PP Chawla,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,2,SA Yadav,MG Johnson,PP Chawla,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,M Vohra,death
+2,Kolkata Knight Riders,19,3,PP Chawla,MG Johnson,SP Narine,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,4,SP Narine,MG Johnson,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,5,SP Narine,MG Johnson,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,6,PP Chawla,MG Johnson,SP Narine,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,1,SP Narine,P Awana,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,2,SP Narine,P Awana,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,3,PP Chawla,P Awana,SP Narine,4,0,4,,0,0,0,0,0,False,,,,death

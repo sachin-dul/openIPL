@@ -1,0 +1,252 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,SA Yadav,UT Yadav,E Lewis,0,0,0,,0,0,0,0,0,True,bowled,SA Yadav,,powerplay
+1,Mumbai Indians,1,2,Ishan Kishan,UT Yadav,E Lewis,0,0,0,,0,0,0,0,0,True,bowled,Ishan Kishan,,powerplay
+1,Mumbai Indians,1,3,RG Sharma,UT Yadav,E Lewis,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Mumbai Indians,1,4,E Lewis,UT Yadav,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,RG Sharma,UT Yadav,E Lewis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,E Lewis,UT Yadav,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,RG Sharma,CR Woakes,E Lewis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,RG Sharma,CR Woakes,E Lewis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,RG Sharma,CR Woakes,E Lewis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,E Lewis,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,E Lewis,CR Woakes,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,E Lewis,CR Woakes,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,E Lewis,UT Yadav,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,E Lewis,UT Yadav,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,E Lewis,UT Yadav,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,E Lewis,UT Yadav,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,RG Sharma,UT Yadav,E Lewis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,RG Sharma,UT Yadav,E Lewis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,RG Sharma,Washington Sundar,E Lewis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,RG Sharma,Washington Sundar,E Lewis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,RG Sharma,Washington Sundar,E Lewis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,E Lewis,Washington Sundar,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5.wides,E Lewis,Washington Sundar,RG Sharma,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,E Lewis,Washington Sundar,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,E Lewis,Washington Sundar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,E Lewis,Mohammed Siraj,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,E Lewis,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,E Lewis,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,E Lewis,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5.wides,E Lewis,Mohammed Siraj,RG Sharma,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,E Lewis,Mohammed Siraj,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,E Lewis,Mohammed Siraj,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,E Lewis,CR Woakes,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,E Lewis,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,E Lewis,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,E Lewis,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,E Lewis,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,E Lewis,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,RG Sharma,Mohammed Siraj,E Lewis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,E Lewis,Mohammed Siraj,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,RG Sharma,Mohammed Siraj,E Lewis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,RG Sharma,Mohammed Siraj,E Lewis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,E Lewis,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,E Lewis,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,RG Sharma,Washington Sundar,E Lewis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,RG Sharma,Washington Sundar,E Lewis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,RG Sharma,Washington Sundar,E Lewis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,E Lewis,Washington Sundar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,RG Sharma,Washington Sundar,E Lewis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,E Lewis,Washington Sundar,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,RG Sharma,YS Chahal,E Lewis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,E Lewis,YS Chahal,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,E Lewis,YS Chahal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,E Lewis,YS Chahal,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,E Lewis,YS Chahal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,E Lewis,YS Chahal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,RG Sharma,CJ Anderson,E Lewis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,RG Sharma,CJ Anderson,E Lewis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,RG Sharma,CJ Anderson,E Lewis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,RG Sharma,CJ Anderson,E Lewis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,RG Sharma,CJ Anderson,E Lewis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,E Lewis,CJ Anderson,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,E Lewis,YS Chahal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,E Lewis,YS Chahal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,E Lewis,YS Chahal,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,E Lewis,YS Chahal,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,E Lewis,YS Chahal,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,RG Sharma,YS Chahal,E Lewis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,E Lewis,CJ Anderson,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,E Lewis,CJ Anderson,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,E Lewis,Q de Kock,middle
+1,Mumbai Indians,12,3,RG Sharma,CJ Anderson,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,RG Sharma,CJ Anderson,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,RG Sharma,CJ Anderson,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,RG Sharma,CJ Anderson,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,KH Pandya,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,KH Pandya,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,KH Pandya,Mohammed Siraj,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,KH Pandya,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5.wides,KH Pandya,Mohammed Siraj,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,KH Pandya,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,KH Pandya,Mohammed Siraj,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,KH Pandya,YS Chahal,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,RG Sharma,YS Chahal,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,KH Pandya,YS Chahal,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,KH Pandya,YS Chahal,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,RG Sharma,YS Chahal,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,KH Pandya,YS Chahal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,RG Sharma,UT Yadav,KH Pandya,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,RG Sharma,UT Yadav,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,RG Sharma,UT Yadav,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,RG Sharma,UT Yadav,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,KH Pandya,UT Yadav,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,KH Pandya,UT Yadav,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,RG Sharma,CJ Anderson,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,RG Sharma,CJ Anderson,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,RG Sharma,CJ Anderson,KH Pandya,1,0,1,,0,0,0,0,0,True,run out,KH Pandya,,death
+1,Mumbai Indians,16,4,RG Sharma,CJ Anderson,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,RG Sharma,CJ Anderson,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,KA Pollard,CJ Anderson,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,RG Sharma,UT Yadav,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,RG Sharma,UT Yadav,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,KA Pollard,UT Yadav,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,RG Sharma,UT Yadav,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5.wides,RG Sharma,UT Yadav,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,RG Sharma,UT Yadav,KA Pollard,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,RG Sharma,UT Yadav,KA Pollard,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,KA Pollard,Mohammed Siraj,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,KA Pollard,Mohammed Siraj,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,RG Sharma,Mohammed Siraj,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,RG Sharma,Mohammed Siraj,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,KA Pollard,Mohammed Siraj,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,KA Pollard,Mohammed Siraj,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1.wides,KA Pollard,CR Woakes,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,KA Pollard,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,AB de Villiers,death
+1,Mumbai Indians,19,2,HH Pandya,CR Woakes,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,HH Pandya,CR Woakes,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,HH Pandya,CR Woakes,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,HH Pandya,CR Woakes,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,RG Sharma,CR Woakes,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1.wides,RG Sharma,CJ Anderson,HH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,RG Sharma,CJ Anderson,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,RG Sharma,CJ Anderson,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,RG Sharma,CJ Anderson,HH Pandya,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,RG Sharma,CJ Anderson,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,RG Sharma,CJ Anderson,HH Pandya,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,CR Woakes,death
+1,Mumbai Indians,20,6.wides,MJ McClenaghan,CJ Anderson,HH Pandya,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,HH Pandya,CJ Anderson,MJ McClenaghan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,1,1,V Kohli,JJ Bumrah,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,V Kohli,JJ Bumrah,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,Q de Kock,JJ Bumrah,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4.wides,Q de Kock,JJ Bumrah,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,Q de Kock,JJ Bumrah,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,V Kohli,JJ Bumrah,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,V Kohli,JJ Bumrah,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,Q de Kock,KH Pandya,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,Q de Kock,KH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,V Kohli,KH Pandya,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,V Kohli,KH Pandya,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,V Kohli,KH Pandya,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,V Kohli,KH Pandya,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,Q de Kock,MJ McClenaghan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,V Kohli,MJ McClenaghan,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,V Kohli,MJ McClenaghan,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,Q de Kock,MJ McClenaghan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,Q de Kock,MJ McClenaghan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,V Kohli,MJ McClenaghan,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,Q de Kock,Mustafizur Rahman,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,Q de Kock,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,3,V Kohli,Mustafizur Rahman,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,4,V Kohli,Mustafizur Rahman,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,Q de Kock,Mustafizur Rahman,V Kohli,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,Q de Kock,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,Q de Kock,MJ McClenaghan,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,Q de Kock,,powerplay
+2,Royal Challengers Bangalore,5,2,AB de Villiers,MJ McClenaghan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3,V Kohli,MJ McClenaghan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,4,AB de Villiers,MJ McClenaghan,V Kohli,0,0,0,,0,0,0,0,0,True,caught,AB de Villiers,HH Pandya,powerplay
+2,Royal Challengers Bangalore,5,5,Mandeep Singh,MJ McClenaghan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,6,V Kohli,MJ McClenaghan,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,1,V Kohli,Mustafizur Rahman,Mandeep Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,2,V Kohli,Mustafizur Rahman,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,3,Mandeep Singh,Mustafizur Rahman,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,4,Mandeep Singh,Mustafizur Rahman,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,5,Mandeep Singh,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,6,V Kohli,Mustafizur Rahman,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,7,1,V Kohli,M Markande,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,V Kohli,M Markande,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,V Kohli,M Markande,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,Mandeep Singh,M Markande,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,5,V Kohli,M Markande,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,Mandeep Singh,M Markande,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,Mandeep Singh,KH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,2,V Kohli,KH Pandya,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,Mandeep Singh,KH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,4,V Kohli,KH Pandya,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,Mandeep Singh,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,Mandeep Singh,KH Pandya,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,V Kohli,M Markande,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,V Kohli,M Markande,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,V Kohli,M Markande,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4.wides,Mandeep Singh,M Markande,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,Mandeep Singh,M Markande,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,V Kohli,M Markande,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,6,Mandeep Singh,M Markande,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,1,Mandeep Singh,KH Pandya,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,2,Mandeep Singh,KH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,3,V Kohli,KH Pandya,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,4.wides,Mandeep Singh,KH Pandya,V Kohli,0,1,1,wides,1,0,0,0,0,True,stumped,Mandeep Singh,Ishan Kishan,middle
+2,Royal Challengers Bangalore,10,4,CJ Anderson,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,True,caught,CJ Anderson,JP Duminy,middle
+2,Royal Challengers Bangalore,10,5,V Kohli,KH Pandya,Washington Sundar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,6,Washington Sundar,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,1,V Kohli,M Markande,Washington Sundar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,2,Washington Sundar,M Markande,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,3,Washington Sundar,M Markande,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,4,Washington Sundar,M Markande,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,5,V Kohli,M Markande,Washington Sundar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,6,Washington Sundar,M Markande,V Kohli,0,1,1,byes,0,0,1,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,1,Washington Sundar,KH Pandya,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,2,Washington Sundar,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,3,Washington Sundar,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,True,caught,Washington Sundar,SA Yadav,middle
+2,Royal Challengers Bangalore,12,4,V Kohli,KH Pandya,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,5,SN Khan,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,6,SN Khan,KH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,1,V Kohli,JJ Bumrah,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,2,V Kohli,JJ Bumrah,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,3,SN Khan,JJ Bumrah,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,4,V Kohli,JJ Bumrah,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,5,SN Khan,JJ Bumrah,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,6,SN Khan,JJ Bumrah,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,1,V Kohli,M Markande,SN Khan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,2,V Kohli,M Markande,SN Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,3,V Kohli,M Markande,SN Khan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,4,V Kohli,M Markande,SN Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,5,SN Khan,M Markande,V Kohli,0,0,0,,0,0,0,0,0,True,stumped,SN Khan,AP Tare,middle
+2,Royal Challengers Bangalore,14,6,CR Woakes,M Markande,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,1,CR Woakes,HH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,2,CR Woakes,HH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,3,V Kohli,HH Pandya,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,4,CR Woakes,HH Pandya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,5,V Kohli,HH Pandya,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,6,CR Woakes,HH Pandya,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,16,1,V Kohli,Mustafizur Rahman,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,2,CR Woakes,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,3,V Kohli,Mustafizur Rahman,CR Woakes,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,4,V Kohli,Mustafizur Rahman,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,5,CR Woakes,Mustafizur Rahman,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,6,CR Woakes,Mustafizur Rahman,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,1,V Kohli,MJ McClenaghan,CR Woakes,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,2,V Kohli,MJ McClenaghan,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,3,CR Woakes,MJ McClenaghan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,4,V Kohli,MJ McClenaghan,CR Woakes,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,5,V Kohli,MJ McClenaghan,CR Woakes,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,6,V Kohli,MJ McClenaghan,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,1,V Kohli,JJ Bumrah,CR Woakes,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,2,CR Woakes,JJ Bumrah,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,3,CR Woakes,JJ Bumrah,V Kohli,0,0,0,,0,0,0,0,0,True,caught,CR Woakes,KH Pandya,death
+2,Royal Challengers Bangalore,18,4,UT Yadav,JJ Bumrah,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,5,V Kohli,JJ Bumrah,UT Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,6,UT Yadav,JJ Bumrah,V Kohli,0,0,0,,0,0,0,0,0,True,caught,UT Yadav,RG Sharma,death
+2,Royal Challengers Bangalore,19,1,V Kohli,Mustafizur Rahman,Mohammed Siraj,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,2.noballs,V Kohli,Mustafizur Rahman,Mohammed Siraj,1,1,2,noballs,0,1,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,2,Mohammed Siraj,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,3,V Kohli,Mustafizur Rahman,Mohammed Siraj,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,4,Mohammed Siraj,Mustafizur Rahman,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,5,Mohammed Siraj,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,6,V Kohli,Mustafizur Rahman,Mohammed Siraj,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,1,V Kohli,JJ Bumrah,Mohammed Siraj,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,2,V Kohli,JJ Bumrah,Mohammed Siraj,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,3,V Kohli,JJ Bumrah,Mohammed Siraj,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,4,V Kohli,JJ Bumrah,Mohammed Siraj,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,5,V Kohli,JJ Bumrah,Mohammed Siraj,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,6,V Kohli,JJ Bumrah,Mohammed Siraj,0,0,0,,0,0,0,0,0,False,,,,death

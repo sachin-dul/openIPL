@@ -1,0 +1,236 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Deccan Chargers,1,1,S Sohal,P Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2,S Sohal,P Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3,S Dhawan,P Kumar,S Sohal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,4,S Dhawan,P Kumar,S Sohal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,5,S Dhawan,P Kumar,S Sohal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,6,S Sohal,P Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,1,S Sohal,RJ Harris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,2,S Dhawan,RJ Harris,S Sohal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,3,S Dhawan,RJ Harris,S Sohal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,4,S Dhawan,RJ Harris,S Sohal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5,S Dhawan,RJ Harris,S Sohal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,6,S Sohal,RJ Harris,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,S Sohal,KD Karthik,powerplay
+1,Deccan Chargers,3,1,S Dhawan,P Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,2,S Dhawan,P Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,3,S Dhawan,P Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,4,KC Sangakkara,P Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,5,KC Sangakkara,P Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,6,KC Sangakkara,P Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,1,S Dhawan,RJ Harris,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,2,S Dhawan,RJ Harris,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,3,S Dhawan,RJ Harris,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,4,KC Sangakkara,RJ Harris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,5,S Dhawan,RJ Harris,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6,S Dhawan,RJ Harris,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,1,KC Sangakkara,P Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,2,S Dhawan,P Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,3,KC Sangakkara,P Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4,KC Sangakkara,P Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,5,KC Sangakkara,P Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,6,KC Sangakkara,P Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,1,S Dhawan,R McLaren,KC Sangakkara,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Deccan Chargers,6,2,KC Sangakkara,R McLaren,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,3,KC Sangakkara,R McLaren,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4,KC Sangakkara,R McLaren,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,5,KC Sangakkara,R McLaren,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,6,S Dhawan,R McLaren,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,7,1,KC Sangakkara,VS Malik,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,2,S Dhawan,VS Malik,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,3,S Dhawan,VS Malik,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,4,KC Sangakkara,VS Malik,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,5,KC Sangakkara,VS Malik,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,6,S Dhawan,VS Malik,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1,S Dhawan,R McLaren,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,2,KC Sangakkara,R McLaren,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,3,KC Sangakkara,R McLaren,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,4,KC Sangakkara,R McLaren,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,5,S Dhawan,R McLaren,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,6,S Dhawan,R McLaren,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,1,S Dhawan,VS Malik,KC Sangakkara,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Deccan Chargers,9,2,KC Sangakkara,VS Malik,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,3,S Dhawan,VS Malik,KC Sangakkara,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,4,S Dhawan,VS Malik,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,5,KC Sangakkara,VS Malik,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,6,S Dhawan,VS Malik,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1,KC Sangakkara,AM Nayar,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,2,KC Sangakkara,AM Nayar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,3,S Dhawan,AM Nayar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,4,KC Sangakkara,AM Nayar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,5,KC Sangakkara,AM Nayar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,6,S Dhawan,AM Nayar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,1,S Dhawan,PP Chawla,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,2,S Dhawan,PP Chawla,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,3,KC Sangakkara,PP Chawla,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,4,S Dhawan,PP Chawla,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,5,KC Sangakkara,PP Chawla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,6,KC Sangakkara,PP Chawla,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,KC Sangakkara,R McLaren,middle
+1,Deccan Chargers,12,1,JP Duminy,PC Valthaty,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,2,S Dhawan,PC Valthaty,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,3,JP Duminy,PC Valthaty,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,4,S Dhawan,PC Valthaty,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,5,S Dhawan,PC Valthaty,JP Duminy,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,Sunny Singh,middle
+1,Deccan Chargers,12,6,B Chipli,PC Valthaty,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,1,JP Duminy,P Kumar,B Chipli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,2,JP Duminy,P Kumar,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,3,B Chipli,P Kumar,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,4,JP Duminy,P Kumar,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,5,B Chipli,P Kumar,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,6,B Chipli,P Kumar,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,1,JP Duminy,PP Chawla,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,2,B Chipli,PP Chawla,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,3,B Chipli,PP Chawla,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,4,JP Duminy,PP Chawla,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,5,B Chipli,PP Chawla,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,6,B Chipli,PP Chawla,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,1,B Chipli,PC Valthaty,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,2,JP Duminy,PC Valthaty,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,3,B Chipli,PC Valthaty,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4,B Chipli,PC Valthaty,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,5,B Chipli,PC Valthaty,JP Duminy,0,0,0,,0,0,0,0,0,True,caught,B Chipli,SE Marsh,middle
+1,Deccan Chargers,15,6,JP Duminy,PC Valthaty,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,16,1,JP Duminy,RJ Harris,DT Christian,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Deccan Chargers,16,2,DT Christian,RJ Harris,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,3,JP Duminy,RJ Harris,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,4,DT Christian,RJ Harris,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,5,JP Duminy,RJ Harris,DT Christian,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6,JP Duminy,RJ Harris,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,1,JP Duminy,PC Valthaty,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,2,DT Christian,PC Valthaty,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,3,DT Christian,PC Valthaty,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,4,DT Christian,PC Valthaty,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,5,DT Christian,PC Valthaty,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,6,JP Duminy,PC Valthaty,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,1,JP Duminy,R McLaren,DT Christian,0,0,0,,0,0,0,0,0,True,caught,JP Duminy,PP Chawla,death
+1,Deccan Chargers,18,2.noballs,DT Christian,R McLaren,MS Gony,6,1,7,noballs,0,1,0,0,0,False,,,,death
+1,Deccan Chargers,18,2,DT Christian,R McLaren,MS Gony,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,3,MS Gony,R McLaren,DT Christian,0,0,0,,0,0,0,0,0,True,bowled,MS Gony,,death
+1,Deccan Chargers,18,4,DB Ravi Teja,R McLaren,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5,DT Christian,R McLaren,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,6,DT Christian,R McLaren,DB Ravi Teja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1.wides,DB Ravi Teja,PC Valthaty,DT Christian,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1,DB Ravi Teja,PC Valthaty,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,2,DT Christian,PC Valthaty,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,3,DT Christian,PC Valthaty,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,4,DT Christian,PC Valthaty,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,5,DT Christian,PC Valthaty,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,bowled,DT Christian,,death
+1,Deccan Chargers,19,6,A Mishra,PC Valthaty,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,lbw,A Mishra,,death
+1,Deccan Chargers,20,1,DB Ravi Teja,RJ Harris,DW Steyn,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,2,DB Ravi Teja,RJ Harris,DW Steyn,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,3,DB Ravi Teja,RJ Harris,DW Steyn,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,4,DW Steyn,RJ Harris,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,5,DW Steyn,RJ Harris,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,6,DB Ravi Teja,RJ Harris,DW Steyn,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,1,1,AC Gilchrist,DW Steyn,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,2,AC Gilchrist,DW Steyn,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,3,AC Gilchrist,DW Steyn,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,4,PC Valthaty,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,5,PC Valthaty,DW Steyn,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,6,PC Valthaty,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,1,AC Gilchrist,I Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,2,AC Gilchrist,I Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,3,AC Gilchrist,I Sharma,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,4,AC Gilchrist,I Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,5,AC Gilchrist,I Sharma,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,6,AC Gilchrist,I Sharma,PC Valthaty,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kings XI Punjab,3,1,AC Gilchrist,DW Steyn,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,2,PC Valthaty,DW Steyn,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,3.noballs,PC Valthaty,DW Steyn,AC Gilchrist,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,3,AC Gilchrist,DW Steyn,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,4,PC Valthaty,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,5,PC Valthaty,DW Steyn,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,6,AC Gilchrist,DW Steyn,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,1,AC Gilchrist,I Sharma,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,2.wides,PC Valthaty,I Sharma,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,2,PC Valthaty,I Sharma,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,3,PC Valthaty,I Sharma,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,4,PC Valthaty,I Sharma,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,5,PC Valthaty,I Sharma,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,6.noballs,PC Valthaty,I Sharma,AC Gilchrist,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,6,AC Gilchrist,I Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,1,PC Valthaty,MS Gony,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,2,PC Valthaty,MS Gony,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,3,PC Valthaty,MS Gony,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,4,PC Valthaty,MS Gony,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,5,PC Valthaty,MS Gony,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6.wides,PC Valthaty,MS Gony,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6,PC Valthaty,MS Gony,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,1,AC Gilchrist,I Sharma,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,2,PC Valthaty,I Sharma,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,3,PC Valthaty,I Sharma,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,6,4,PC Valthaty,I Sharma,AC Gilchrist,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kings XI Punjab,6,5,AC Gilchrist,I Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,6,6,AC Gilchrist,I Sharma,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,1,AC Gilchrist,MS Gony,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,2,AC Gilchrist,MS Gony,PC Valthaty,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kings XI Punjab,7,3,PC Valthaty,MS Gony,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,4,PC Valthaty,MS Gony,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,5,AC Gilchrist,MS Gony,PC Valthaty,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,6,AC Gilchrist,MS Gony,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,1,AC Gilchrist,A Mishra,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,2,AC Gilchrist,A Mishra,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,3,PC Valthaty,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,4,PC Valthaty,A Mishra,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,5,PC Valthaty,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,6,PC Valthaty,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,1,AC Gilchrist,DT Christian,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,2,AC Gilchrist,DT Christian,PC Valthaty,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,3,AC Gilchrist,DT Christian,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,4,AC Gilchrist,DT Christian,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,5,PC Valthaty,DT Christian,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,6,AC Gilchrist,DT Christian,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,1,PC Valthaty,A Mishra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,2,AC Gilchrist,A Mishra,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,3,AC Gilchrist,A Mishra,PC Valthaty,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,4,AC Gilchrist,A Mishra,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,5,AC Gilchrist,A Mishra,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,6,AC Gilchrist,A Mishra,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,1.wides,AC Gilchrist,JP Duminy,PC Valthaty,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,1,AC Gilchrist,JP Duminy,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,2,PC Valthaty,JP Duminy,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,3.wides,AC Gilchrist,JP Duminy,PC Valthaty,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,3,AC Gilchrist,JP Duminy,PC Valthaty,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+2,Kings XI Punjab,11,4,AC Gilchrist,JP Duminy,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,5,AC Gilchrist,JP Duminy,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,6,AC Gilchrist,JP Duminy,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1.wides,AC Gilchrist,DW Steyn,PC Valthaty,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1,AC Gilchrist,DW Steyn,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,2,PC Valthaty,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,3,PC Valthaty,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,4,PC Valthaty,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,12,5,PC Valthaty,DW Steyn,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,12,6,AC Gilchrist,DW Steyn,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,1,PC Valthaty,JP Duminy,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,2,PC Valthaty,JP Duminy,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,3,AC Gilchrist,JP Duminy,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,4,PC Valthaty,JP Duminy,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,5,AC Gilchrist,JP Duminy,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,6,PC Valthaty,JP Duminy,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,1,AC Gilchrist,A Mishra,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,2,PC Valthaty,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,3,PC Valthaty,A Mishra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,4,AC Gilchrist,A Mishra,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,5,AC Gilchrist,A Mishra,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,6,AC Gilchrist,A Mishra,PC Valthaty,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,DB Ravi Teja,death
+2,Kings XI Punjab,15,1,PC Valthaty,DT Christian,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,2,PC Valthaty,DT Christian,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,3,AM Nayar,DT Christian,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,4,AM Nayar,DT Christian,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,5,AM Nayar,DT Christian,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,6,AM Nayar,DT Christian,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,1,PC Valthaty,A Mishra,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,2,AM Nayar,A Mishra,PC Valthaty,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kings XI Punjab,16,3,PC Valthaty,A Mishra,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,4,PC Valthaty,A Mishra,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,5,PC Valthaty,A Mishra,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,6,PC Valthaty,A Mishra,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,PC Valthaty,I Sharma,death
+2,Kings XI Punjab,17,1,KD Karthik,I Sharma,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,2,KD Karthik,I Sharma,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,3,AM Nayar,I Sharma,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,4,AM Nayar,I Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,5,KD Karthik,I Sharma,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,6,KD Karthik,I Sharma,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,1,KD Karthik,DT Christian,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,2,AM Nayar,DT Christian,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,3,AM Nayar,DT Christian,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,4,AM Nayar,DT Christian,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,death

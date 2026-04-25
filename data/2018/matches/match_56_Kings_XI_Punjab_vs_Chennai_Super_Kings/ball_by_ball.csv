@@ -1,0 +1,248 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,KL Rahul,DL Chahar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,KL Rahul,DL Chahar,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,KL Rahul,DL Chahar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,KL Rahul,DL Chahar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,KL Rahul,DL Chahar,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6.wides,KL Rahul,DL Chahar,CH Gayle,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,KL Rahul,DL Chahar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,CH Gayle,L Ngidi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,CH Gayle,L Ngidi,KL Rahul,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,MS Dhoni,powerplay
+1,Kings XI Punjab,2,3,AJ Finch,L Ngidi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,AJ Finch,L Ngidi,KL Rahul,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,KL Rahul,L Ngidi,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,KL Rahul,L Ngidi,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,AJ Finch,DL Chahar,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,AJ Finch,DL Chahar,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,AJ Finch,DL Chahar,KL Rahul,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,KL Rahul,DL Chahar,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,AJ Finch,DL Chahar,KL Rahul,0,0,0,,0,0,0,0,0,True,caught,AJ Finch,SK Raina,powerplay
+1,Kings XI Punjab,3,6,MK Tiwary,DL Chahar,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,MK Tiwary,L Ngidi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,MK Tiwary,L Ngidi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,MK Tiwary,L Ngidi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,MK Tiwary,L Ngidi,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,KL Rahul,L Ngidi,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,KL Rahul,L Ngidi,MK Tiwary,0,0,0,,0,0,0,0,0,True,bowled,KL Rahul,,powerplay
+1,Kings XI Punjab,5,1,MK Tiwary,DL Chahar,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,DA Miller,DL Chahar,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,DA Miller,DL Chahar,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,DA Miller,DL Chahar,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,DA Miller,DL Chahar,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,MK Tiwary,DL Chahar,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,MK Tiwary,L Ngidi,DA Miller,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,MK Tiwary,L Ngidi,DA Miller,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,MK Tiwary,L Ngidi,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,DA Miller,L Ngidi,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,MK Tiwary,L Ngidi,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,DA Miller,L Ngidi,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,1,DA Miller,DL Chahar,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,MK Tiwary,DL Chahar,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,MK Tiwary,DL Chahar,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,DA Miller,DL Chahar,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5.wides,DA Miller,DL Chahar,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,DA Miller,DL Chahar,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6.noballs,DA Miller,DL Chahar,MK Tiwary,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,DA Miller,DL Chahar,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,MK Tiwary,Harbhajan Singh,DA Miller,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,MK Tiwary,Harbhajan Singh,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,MK Tiwary,Harbhajan Singh,DA Miller,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,MK Tiwary,Harbhajan Singh,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,DA Miller,Harbhajan Singh,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,MK Tiwary,Harbhajan Singh,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,MK Tiwary,SN Thakur,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,MK Tiwary,SN Thakur,DA Miller,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,MK Tiwary,SN Thakur,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4.wides,MK Tiwary,SN Thakur,DA Miller,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,MK Tiwary,SN Thakur,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,MK Tiwary,SN Thakur,DA Miller,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,DA Miller,SN Thakur,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,DA Miller,DJ Bravo,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,DA Miller,DJ Bravo,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,MK Tiwary,DJ Bravo,DA Miller,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,10,4,DA Miller,DJ Bravo,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,MK Tiwary,DJ Bravo,DA Miller,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,MK Tiwary,DJ Bravo,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,MK Tiwary,SN Thakur,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,DA Miller,SN Thakur,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,MK Tiwary,SN Thakur,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,MK Tiwary,SN Thakur,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,DA Miller,SN Thakur,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,DA Miller,SN Thakur,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,MK Tiwary,RA Jadeja,DA Miller,0,0,0,,0,0,0,0,0,True,caught,MK Tiwary,MS Dhoni,middle
+1,Kings XI Punjab,12,2,KK Nair,RA Jadeja,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,DA Miller,RA Jadeja,KK Nair,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,12,4,KK Nair,RA Jadeja,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,KK Nair,RA Jadeja,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,DA Miller,RA Jadeja,KK Nair,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,DA Miller,DJ Bravo,KK Nair,0,0,0,,0,0,0,0,0,True,bowled,DA Miller,,middle
+1,Kings XI Punjab,13,2,AR Patel,DJ Bravo,KK Nair,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,KK Nair,DJ Bravo,AR Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,KK Nair,DJ Bravo,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,AR Patel,DJ Bravo,KK Nair,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,13,6,AR Patel,DJ Bravo,KK Nair,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,1,KK Nair,RA Jadeja,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,2,KK Nair,RA Jadeja,AR Patel,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,3,KK Nair,RA Jadeja,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,4,AR Patel,RA Jadeja,KK Nair,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,5,KK Nair,RA Jadeja,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,6,AR Patel,RA Jadeja,KK Nair,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,1,KK Nair,DJ Bravo,AR Patel,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,2,KK Nair,DJ Bravo,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,3,AR Patel,DJ Bravo,KK Nair,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,4,KK Nair,DJ Bravo,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,5,AR Patel,DJ Bravo,KK Nair,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,6,KK Nair,DJ Bravo,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,1,KK Nair,RA Jadeja,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,AR Patel,RA Jadeja,KK Nair,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,KK Nair,RA Jadeja,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,AR Patel,RA Jadeja,KK Nair,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,AR Patel,RA Jadeja,KK Nair,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,KK Nair,RA Jadeja,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,KK Nair,SN Thakur,AR Patel,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,17,2,AR Patel,SN Thakur,KK Nair,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,AR Patel,SN Thakur,KK Nair,0,0,0,,0,0,0,0,0,True,caught,AR Patel,SW Billings,death
+1,Kings XI Punjab,17,4,KK Nair,SN Thakur,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,KK Nair,SN Thakur,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6.wides,KK Nair,SN Thakur,R Ashwin,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6,KK Nair,SN Thakur,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1.wides,R Ashwin,L Ngidi,KK Nair,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,R Ashwin,L Ngidi,KK Nair,0,0,0,,0,0,0,0,0,True,caught,R Ashwin,MS Dhoni,death
+1,Kings XI Punjab,18,2,AJ Tye,L Ngidi,KK Nair,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3,AJ Tye,L Ngidi,KK Nair,0,0,0,,0,0,0,0,0,True,caught,AJ Tye,SK Raina,death
+1,Kings XI Punjab,18,4,MM Sharma,L Ngidi,KK Nair,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,MM Sharma,L Ngidi,KK Nair,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,KK Nair,L Ngidi,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,KK Nair,DJ Bravo,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,KK Nair,DJ Bravo,MM Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,KK Nair,DJ Bravo,MM Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,KK Nair,DJ Bravo,MM Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,KK Nair,DJ Bravo,MM Sharma,0,0,0,,0,0,0,0,0,True,caught,KK Nair,DL Chahar,death
+1,Kings XI Punjab,19,6,AS Rajpoot,DJ Bravo,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,1,AS Rajpoot,SN Thakur,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,2,AS Rajpoot,SN Thakur,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,MM Sharma,SN Thakur,AS Rajpoot,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,AS Rajpoot,SN Thakur,MM Sharma,0,0,0,,0,0,0,0,0,True,caught,AS Rajpoot,F du Plessis,death
+2,Chennai Super Kings,1,1,AT Rayudu,AS Rajpoot,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,2,F du Plessis,AS Rajpoot,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,3,F du Plessis,AS Rajpoot,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,4,F du Plessis,AS Rajpoot,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,5,F du Plessis,AS Rajpoot,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,6,F du Plessis,AS Rajpoot,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,1,AT Rayudu,MM Sharma,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,2,AT Rayudu,MM Sharma,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,AT Rayudu,KL Rahul,powerplay
+2,Chennai Super Kings,2,3,SK Raina,MM Sharma,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,4,SK Raina,MM Sharma,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,5,F du Plessis,MM Sharma,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6,F du Plessis,MM Sharma,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1,SK Raina,AS Rajpoot,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2,F du Plessis,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,3,F du Plessis,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,4,F du Plessis,AS Rajpoot,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,5,F du Plessis,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,6,F du Plessis,AS Rajpoot,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1,SK Raina,AJ Tye,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,2,SK Raina,AJ Tye,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,3,SK Raina,AJ Tye,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,4,SK Raina,AJ Tye,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5.wides,SK Raina,AJ Tye,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5.wides,SK Raina,AJ Tye,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5,SK Raina,AJ Tye,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,6,SK Raina,AJ Tye,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,1,F du Plessis,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,2,F du Plessis,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3,F du Plessis,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,CH Gayle,powerplay
+2,Chennai Super Kings,5,4,SW Billings,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,True,bowled,SW Billings,,powerplay
+2,Chennai Super Kings,5,5,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,6,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1,SK Raina,MM Sharma,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,2,SK Raina,MM Sharma,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,3,SK Raina,MM Sharma,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,4,Harbhajan Singh,MM Sharma,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,5,Harbhajan Singh,MM Sharma,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,6,6,Harbhajan Singh,MM Sharma,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,1,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,2,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3.noballs,Harbhajan Singh,AS Rajpoot,SK Raina,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,4,Harbhajan Singh,AS Rajpoot,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,5,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,6,Harbhajan Singh,AS Rajpoot,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,1,SK Raina,AR Patel,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,2,SK Raina,AR Patel,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,3,Harbhajan Singh,AR Patel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,4,Harbhajan Singh,AR Patel,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,5,Harbhajan Singh,AR Patel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,6,Harbhajan Singh,AR Patel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,1,SK Raina,AJ Tye,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2.wides,Harbhajan Singh,AJ Tye,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2,Harbhajan Singh,AJ Tye,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3.wides,SK Raina,AJ Tye,Harbhajan Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3,SK Raina,AJ Tye,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,4,Harbhajan Singh,AJ Tye,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,5,SK Raina,AJ Tye,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,6,SK Raina,AJ Tye,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,1,SK Raina,AR Patel,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,2,Harbhajan Singh,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,3,SK Raina,AR Patel,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4,Harbhajan Singh,AR Patel,SK Raina,0,1,1,byes,0,0,1,0,0,False,,,,middle
+2,Chennai Super Kings,10,5,SK Raina,AR Patel,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6,Harbhajan Singh,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,1,Harbhajan Singh,R Ashwin,SK Raina,0,0,0,,0,0,0,0,0,True,lbw,Harbhajan Singh,,middle
+2,Chennai Super Kings,11,2,DL Chahar,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,3,SK Raina,R Ashwin,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,4,DL Chahar,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,5,SK Raina,R Ashwin,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6,DL Chahar,R Ashwin,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,1.wides,SK Raina,AJ Tye,DL Chahar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,1,SK Raina,AJ Tye,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,2,DL Chahar,AJ Tye,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,3,SK Raina,AJ Tye,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,4,DL Chahar,AJ Tye,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5,SK Raina,AJ Tye,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,6,DL Chahar,AJ Tye,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,1,SK Raina,R Ashwin,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,2,DL Chahar,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3,SK Raina,R Ashwin,DL Chahar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,4,SK Raina,R Ashwin,DL Chahar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,5,SK Raina,R Ashwin,DL Chahar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,6,SK Raina,R Ashwin,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,1,SK Raina,AR Patel,DL Chahar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,2,SK Raina,AR Patel,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,3,DL Chahar,AR Patel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,4,DL Chahar,AR Patel,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,5,DL Chahar,AR Patel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,6,DL Chahar,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,1,DL Chahar,R Ashwin,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,2,DL Chahar,R Ashwin,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,3.wides,DL Chahar,R Ashwin,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,3,DL Chahar,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,4,SK Raina,R Ashwin,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,5,DL Chahar,R Ashwin,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,6,DL Chahar,R Ashwin,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,1,SK Raina,AR Patel,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2,DL Chahar,AR Patel,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3,DL Chahar,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,4,SK Raina,AR Patel,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,5,DL Chahar,AR Patel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,6,SK Raina,AR Patel,DL Chahar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,1,DL Chahar,R Ashwin,SK Raina,0,0,0,,0,0,0,0,0,True,caught,DL Chahar,MM Sharma,death
+2,Chennai Super Kings,17,2,SK Raina,R Ashwin,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,3,MS Dhoni,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,4,SK Raina,R Ashwin,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,5,MS Dhoni,R Ashwin,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,6,MS Dhoni,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,1,MS Dhoni,MM Sharma,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,2.wides,SK Raina,MM Sharma,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,2,SK Raina,MM Sharma,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3,SK Raina,MM Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,4,MS Dhoni,MM Sharma,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,5,SK Raina,MM Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,6,MS Dhoni,MM Sharma,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1,SK Raina,AJ Tye,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2,SK Raina,AJ Tye,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,3,SK Raina,AJ Tye,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,4,SK Raina,AJ Tye,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,5,SK Raina,AJ Tye,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,6,SK Raina,AJ Tye,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,1,MS Dhoni,MM Sharma,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death

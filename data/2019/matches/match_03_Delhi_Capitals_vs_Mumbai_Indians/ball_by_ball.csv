@@ -1,0 +1,247 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Capitals,1,1.noballs,PP Shaw,Rasikh Salam,S Dhawan,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,1,S Dhawan,Rasikh Salam,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,2,PP Shaw,Rasikh Salam,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,3,S Dhawan,Rasikh Salam,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,4,S Dhawan,Rasikh Salam,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,5,PP Shaw,Rasikh Salam,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,6,S Dhawan,Rasikh Salam,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,1,PP Shaw,MJ McClenaghan,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,2,PP Shaw,MJ McClenaghan,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,3,PP Shaw,MJ McClenaghan,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,PP Shaw,Q de Kock,powerplay
+1,Delhi Capitals,2,4,SS Iyer,MJ McClenaghan,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,5,SS Iyer,MJ McClenaghan,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,6,S Dhawan,MJ McClenaghan,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,1,SS Iyer,Rasikh Salam,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,2,SS Iyer,Rasikh Salam,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,3,SS Iyer,Rasikh Salam,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,4,SS Iyer,Rasikh Salam,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,5,S Dhawan,Rasikh Salam,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,6.noballs,S Dhawan,Rasikh Salam,SS Iyer,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,6,SS Iyer,Rasikh Salam,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,1,S Dhawan,MJ McClenaghan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,2,SS Iyer,MJ McClenaghan,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,3,SS Iyer,MJ McClenaghan,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,4,SS Iyer,MJ McClenaghan,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,SS Iyer,KA Pollard,powerplay
+1,Delhi Capitals,4,5,CA Ingram,MJ McClenaghan,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,6,CA Ingram,MJ McClenaghan,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,1,S Dhawan,JJ Bumrah,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,2,CA Ingram,JJ Bumrah,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,3,CA Ingram,JJ Bumrah,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,4,S Dhawan,JJ Bumrah,CA Ingram,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,5,S Dhawan,JJ Bumrah,CA Ingram,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,6,S Dhawan,JJ Bumrah,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,1,S Dhawan,HH Pandya,CA Ingram,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,2,S Dhawan,HH Pandya,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,3,CA Ingram,HH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,4,S Dhawan,HH Pandya,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,5,CA Ingram,HH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,6,S Dhawan,HH Pandya,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,7,1,S Dhawan,Rasikh Salam,CA Ingram,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,2,S Dhawan,Rasikh Salam,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,3,CA Ingram,Rasikh Salam,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,4,CA Ingram,Rasikh Salam,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,5,CA Ingram,Rasikh Salam,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,6,S Dhawan,Rasikh Salam,CA Ingram,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,1,CA Ingram,HH Pandya,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,2,CA Ingram,HH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,3,CA Ingram,HH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,4,S Dhawan,HH Pandya,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,5,CA Ingram,HH Pandya,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,6,CA Ingram,HH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,1,CA Ingram,KH Pandya,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,2,CA Ingram,KH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,3,S Dhawan,KH Pandya,CA Ingram,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,4,S Dhawan,KH Pandya,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,5,CA Ingram,KH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,6,S Dhawan,KH Pandya,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,1,S Dhawan,MJ McClenaghan,CA Ingram,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,2,S Dhawan,MJ McClenaghan,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,3,CA Ingram,MJ McClenaghan,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,4,S Dhawan,MJ McClenaghan,CA Ingram,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,5,S Dhawan,MJ McClenaghan,CA Ingram,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,6,S Dhawan,MJ McClenaghan,CA Ingram,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,1,CA Ingram,KH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,2,CA Ingram,KH Pandya,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,3,CA Ingram,KH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,4,CA Ingram,KH Pandya,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,5,CA Ingram,KH Pandya,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,6,CA Ingram,KH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,1,CA Ingram,JJ Bumrah,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,2,CA Ingram,JJ Bumrah,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,3,S Dhawan,JJ Bumrah,CA Ingram,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,4,S Dhawan,JJ Bumrah,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,5,CA Ingram,JJ Bumrah,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,6,CA Ingram,JJ Bumrah,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,1,CA Ingram,BCJ Cutting,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,2,CA Ingram,BCJ Cutting,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,3,CA Ingram,BCJ Cutting,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,4,S Dhawan,BCJ Cutting,CA Ingram,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,5,S Dhawan,BCJ Cutting,CA Ingram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,6,CA Ingram,BCJ Cutting,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,CA Ingram,HH Pandya,middle
+1,Delhi Capitals,14,1,RR Pant,HH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,2,RR Pant,HH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,3,RR Pant,HH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,4,RR Pant,HH Pandya,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,5,RR Pant,HH Pandya,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,6,S Dhawan,HH Pandya,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,1,S Dhawan,BCJ Cutting,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,2,RR Pant,BCJ Cutting,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,3,RR Pant,BCJ Cutting,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,4,S Dhawan,BCJ Cutting,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,5,RR Pant,BCJ Cutting,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,6,RR Pant,BCJ Cutting,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,16,1,S Dhawan,HH Pandya,RR Pant,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,SA Yadav,death
+1,Delhi Capitals,16,2.wides,KMA Paul,HH Pandya,RR Pant,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,2,KMA Paul,HH Pandya,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,3,KMA Paul,HH Pandya,RR Pant,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Delhi Capitals,16,4,RR Pant,HH Pandya,KMA Paul,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,5,RR Pant,HH Pandya,KMA Paul,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,6,RR Pant,HH Pandya,KMA Paul,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,1,KMA Paul,MJ McClenaghan,RR Pant,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,2,KMA Paul,MJ McClenaghan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,3,RR Pant,MJ McClenaghan,KMA Paul,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,4,RR Pant,MJ McClenaghan,KMA Paul,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,5,KMA Paul,MJ McClenaghan,RR Pant,0,0,0,,0,0,0,0,0,True,caught,KMA Paul,Q de Kock,death
+1,Delhi Capitals,17,6,RR Pant,MJ McClenaghan,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,1,AR Patel,JJ Bumrah,RR Pant,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,2,AR Patel,JJ Bumrah,RR Pant,0,0,0,,0,0,0,0,0,True,caught,AR Patel,Rasikh Salam,death
+1,Delhi Capitals,18,3,RR Pant,JJ Bumrah,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,4,RR Pant,JJ Bumrah,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,5,RR Pant,JJ Bumrah,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,6,RR Pant,JJ Bumrah,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,1,RR Pant,Rasikh Salam,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,2,R Tewatia,Rasikh Salam,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,3,RR Pant,Rasikh Salam,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,4,RR Pant,Rasikh Salam,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,5.wides,RR Pant,Rasikh Salam,R Tewatia,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,5,RR Pant,Rasikh Salam,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,6,RR Pant,Rasikh Salam,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,1,R Tewatia,JJ Bumrah,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,2,RR Pant,JJ Bumrah,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,3,RR Pant,JJ Bumrah,R Tewatia,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Delhi Capitals,20,4,R Tewatia,JJ Bumrah,RR Pant,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,5,R Tewatia,JJ Bumrah,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,6,RR Pant,JJ Bumrah,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,1,1,RG Sharma,TA Boult,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,Q de Kock,TA Boult,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,RG Sharma,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4,RG Sharma,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,RG Sharma,TA Boult,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,RG Sharma,TA Boult,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,1,RG Sharma,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,2,RG Sharma,I Sharma,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,Q de Kock,I Sharma,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,RG Sharma,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,RG Sharma,I Sharma,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,6,RG Sharma,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,Q de Kock,TA Boult,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,RG Sharma,TA Boult,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,Q de Kock,TA Boult,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,4,Q de Kock,TA Boult,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,5,Q de Kock,TA Boult,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,Q de Kock,TA Boult,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,Q de Kock,I Sharma,RG Sharma,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Mumbai Indians,4,2,RG Sharma,I Sharma,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,RG Sharma,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,R Tewatia,powerplay
+2,Mumbai Indians,4,4,SA Yadav,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,5,SA Yadav,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6,SA Yadav,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,1,Q de Kock,K Rabada,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,2,Q de Kock,K Rabada,SA Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Mumbai Indians,5,3,SA Yadav,K Rabada,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4,Q de Kock,K Rabada,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,SA Yadav,K Rabada,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,Q de Kock,K Rabada,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,SA Yadav,I Sharma,Q de Kock,0,0,0,,0,0,0,0,0,True,run out,SA Yadav,,powerplay
+2,Mumbai Indians,6,2,Q de Kock,I Sharma,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,Q de Kock,I Sharma,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,4,Q de Kock,I Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,5,Q de Kock,I Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,caught,Q de Kock,TA Boult,powerplay
+2,Mumbai Indians,6,6,KA Pollard,I Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,1,KA Pollard,K Rabada,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,KA Pollard,K Rabada,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,KA Pollard,K Rabada,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,Yuvraj Singh,K Rabada,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,KA Pollard,K Rabada,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,Yuvraj Singh,K Rabada,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,1,KA Pollard,R Tewatia,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,KA Pollard,R Tewatia,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,Yuvraj Singh,R Tewatia,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,4,Yuvraj Singh,R Tewatia,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5,Yuvraj Singh,R Tewatia,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,KA Pollard,R Tewatia,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1.wides,Yuvraj Singh,KMA Paul,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1,Yuvraj Singh,KMA Paul,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,KA Pollard,KMA Paul,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,Yuvraj Singh,KMA Paul,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,Yuvraj Singh,KMA Paul,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,5,Yuvraj Singh,KMA Paul,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,Yuvraj Singh,KMA Paul,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,Yuvraj Singh,AR Patel,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,Yuvraj Singh,AR Patel,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,KA Pollard,AR Patel,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,4,KA Pollard,AR Patel,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,5,Yuvraj Singh,AR Patel,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6,Yuvraj Singh,AR Patel,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,KA Pollard,KMA Paul,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,Yuvraj Singh,KMA Paul,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,Yuvraj Singh,KMA Paul,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,Yuvraj Singh,KMA Paul,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,KA Pollard,KMA Paul,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,R Tewatia,middle
+2,Mumbai Indians,11,6,Yuvraj Singh,KMA Paul,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,HH Pandya,AR Patel,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,HH Pandya,AR Patel,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,caught and bowled,HH Pandya,,middle
+2,Mumbai Indians,12,3,KH Pandya,AR Patel,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,Yuvraj Singh,AR Patel,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,5,Yuvraj Singh,AR Patel,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6,KH Pandya,AR Patel,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1,Yuvraj Singh,KMA Paul,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2,Yuvraj Singh,KMA Paul,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,3,Yuvraj Singh,KMA Paul,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,4,Yuvraj Singh,KMA Paul,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,5,KH Pandya,KMA Paul,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,6.wides,KH Pandya,KMA Paul,Yuvraj Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,6,KH Pandya,KMA Paul,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,1,KH Pandya,I Sharma,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,2,KH Pandya,I Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,3,KH Pandya,I Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,4,KH Pandya,I Sharma,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,5,KH Pandya,I Sharma,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,6,KH Pandya,I Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,1,KH Pandya,TA Boult,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,2,KH Pandya,TA Boult,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,3.wides,Yuvraj Singh,TA Boult,KH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,3,Yuvraj Singh,TA Boult,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,4,KH Pandya,TA Boult,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,5,KH Pandya,TA Boult,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,6,KH Pandya,TA Boult,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,caught,KH Pandya,R Tewatia,death
+2,Mumbai Indians,16,1,Yuvraj Singh,AR Patel,BCJ Cutting,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,BCJ Cutting,AR Patel,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,Yuvraj Singh,AR Patel,BCJ Cutting,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,4,Yuvraj Singh,AR Patel,BCJ Cutting,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,BCJ Cutting,AR Patel,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,Yuvraj Singh,AR Patel,BCJ Cutting,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,1,BCJ Cutting,K Rabada,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2.wides,Yuvraj Singh,K Rabada,BCJ Cutting,0,2,2,wides,2,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,BCJ Cutting,K Rabada,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,caught,BCJ Cutting,RR Pant,death
+2,Mumbai Indians,17,3,MJ McClenaghan,K Rabada,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,MJ McClenaghan,K Rabada,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,Yuvraj Singh,K Rabada,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,6,MJ McClenaghan,K Rabada,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,1,Yuvraj Singh,TA Boult,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,Yuvraj Singh,TA Boult,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,Yuvraj Singh,TA Boult,MJ McClenaghan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,Yuvraj Singh,TA Boult,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,MJ McClenaghan,TA Boult,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,MJ McClenaghan,TA Boult,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1.wides,Yuvraj Singh,K Rabada,MJ McClenaghan,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1.wides,Yuvraj Singh,K Rabada,MJ McClenaghan,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,Yuvraj Singh,K Rabada,MJ McClenaghan,0,0,0,,0,0,0,0,0,True,caught,Yuvraj Singh,R Tewatia,death
+2,Mumbai Indians,19,2,Rasikh Salam,K Rabada,MJ McClenaghan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,3,Rasikh Salam,K Rabada,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,Rasikh Salam,K Rabada,MJ McClenaghan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,5,Rasikh Salam,K Rabada,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,6,MJ McClenaghan,K Rabada,Rasikh Salam,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,1,MJ McClenaghan,R Tewatia,Rasikh Salam,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,2,MJ McClenaghan,R Tewatia,Rasikh Salam,0,0,0,,0,0,0,0,0,True,stumped,MJ McClenaghan,RR Pant,death

@@ -1,0 +1,127 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,WP Saha,MA Starc,M Vohra,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2.wides,WP Saha,MA Starc,M Vohra,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,WP Saha,MA Starc,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,M Vohra,MA Starc,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,WP Saha,MA Starc,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,WP Saha,MA Starc,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,WP Saha,MA Starc,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,WP Saha,S Aravind,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,WP Saha,S Aravind,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,WP Saha,S Aravind,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,WP Saha,S Aravind,M Vohra,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,WP Saha,S Aravind,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6.wides,WP Saha,S Aravind,M Vohra,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,WP Saha,S Aravind,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,WP Saha,D Wiese,M Vohra,0,0,0,,0,0,0,0,0,True,caught,WP Saha,Mandeep Singh,powerplay
+1,Kings XI Punjab,3,2,M Vohra,D Wiese,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,M Vohra,D Wiese,GJ Maxwell,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,GJ Maxwell,D Wiese,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,GJ Maxwell,D Wiese,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,GJ Maxwell,D Wiese,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,GJ Maxwell,S Aravind,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,4,2,GJ Maxwell,S Aravind,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,4,3,M Vohra,S Aravind,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,4,4,M Vohra,S Aravind,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,4,5,GJ Maxwell,S Aravind,M Vohra,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,4,6,GJ Maxwell,S Aravind,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,5,1,GJ Maxwell,HV Patel,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,5,2,M Vohra,HV Patel,GJ Maxwell,0,0,0,,0,0,0,0,0,True,caught,M Vohra,Mandeep Singh,middle
+1,Kings XI Punjab,5,3,GJ Maxwell,HV Patel,DA Miller,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,5,4,GJ Maxwell,HV Patel,DA Miller,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,AB de Villiers,middle
+1,Kings XI Punjab,5,5,GJ Bailey,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,5,6,DA Miller,HV Patel,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,1,DA Miller,YS Chahal,GJ Bailey,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,2,DA Miller,YS Chahal,GJ Bailey,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,3,DA Miller,YS Chahal,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,4,GJ Bailey,YS Chahal,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,5.wides,DA Miller,YS Chahal,GJ Bailey,0,1,1,wides,1,0,0,0,0,True,stumped,DA Miller,KD Karthik,middle
+1,Kings XI Punjab,6,5,AR Patel,YS Chahal,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,6,6,AR Patel,YS Chahal,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,1,AR Patel,D Wiese,GJ Bailey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,AR Patel,D Wiese,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,GJ Bailey,D Wiese,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,AR Patel,D Wiese,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,7,5,GJ Bailey,D Wiese,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,7,6,GJ Bailey,D Wiese,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,8,1,AR Patel,HV Patel,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,8,2,AR Patel,HV Patel,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,8,3,GJ Bailey,HV Patel,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,8,4,AR Patel,HV Patel,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,8,5,AR Patel,HV Patel,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,8,6,GJ Bailey,HV Patel,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,9,1,AR Patel,YS Chahal,GJ Bailey,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,9,2,AR Patel,YS Chahal,GJ Bailey,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,9,3,GJ Bailey,YS Chahal,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,9,4,AR Patel,YS Chahal,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,9,5,GJ Bailey,YS Chahal,AR Patel,0,0,0,,0,0,0,0,0,True,bowled,GJ Bailey,,death
+1,Kings XI Punjab,9,6,Gurkeerat Singh,YS Chahal,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,10,1,Gurkeerat Singh,MA Starc,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,10,2,AR Patel,MA Starc,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,10,3,Gurkeerat Singh,MA Starc,AR Patel,0,0,0,,0,0,0,0,0,True,caught,Gurkeerat Singh,KD Karthik,death
+1,Kings XI Punjab,10,4,R Dhawan,MA Starc,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,10,5,AR Patel,MA Starc,R Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,10,6,AR Patel,MA Starc,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,1,1,CH Gayle,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,CH Gayle,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,CH Gayle,Sandeep Sharma,V Kohli,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,CH Gayle,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,CH Gayle,Sandeep Sharma,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,CH Gayle,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,V Kohli,BE Hendricks,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,V Kohli,BE Hendricks,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,V Kohli,BE Hendricks,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,CH Gayle,BE Hendricks,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,CH Gayle,BE Hendricks,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,V Kohli,BE Hendricks,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,CH Gayle,Anureet Singh,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,V Kohli,Anureet Singh,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,V Kohli,Anureet Singh,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,V Kohli,Anureet Singh,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,V Kohli,Anureet Singh,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,V Kohli,Anureet Singh,CH Gayle,0,0,0,,0,0,0,0,0,True,bowled,V Kohli,,powerplay
+2,Royal Challengers Bangalore,4,1,CH Gayle,R Dhawan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,2,AB de Villiers,R Dhawan,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,3,CH Gayle,R Dhawan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,4,AB de Villiers,R Dhawan,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,5,CH Gayle,R Dhawan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,4,6,AB de Villiers,R Dhawan,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,1.wides,AB de Villiers,Sandeep Sharma,CH Gayle,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,1,AB de Villiers,Sandeep Sharma,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,2,CH Gayle,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,3,AB de Villiers,Sandeep Sharma,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,4.wides,CH Gayle,Sandeep Sharma,AB de Villiers,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,4,CH Gayle,Sandeep Sharma,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,WP Saha,middle
+2,Royal Challengers Bangalore,5,5,Mandeep Singh,Sandeep Sharma,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,6,Mandeep Singh,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,1,Mandeep Singh,R Dhawan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,2,AB de Villiers,R Dhawan,Mandeep Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,3,AB de Villiers,R Dhawan,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,4,Mandeep Singh,R Dhawan,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,5,Mandeep Singh,R Dhawan,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,6,Mandeep Singh,R Dhawan,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,AB de Villiers,AR Patel,Mandeep Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,Mandeep Singh,AR Patel,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,Mandeep Singh,AR Patel,AB de Villiers,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,AB de Villiers,AR Patel,Mandeep Singh,0,0,0,,0,0,0,0,0,True,caught,AB de Villiers,BE Hendricks,death
+2,Royal Challengers Bangalore,7,5,KD Karthik,AR Patel,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,7,6,Mandeep Singh,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,1,Mandeep Singh,BE Hendricks,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,2,KD Karthik,BE Hendricks,Mandeep Singh,0,2,2,legbyes,0,0,0,2,0,False,,,,death
+2,Royal Challengers Bangalore,8,3,KD Karthik,BE Hendricks,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,4,Mandeep Singh,BE Hendricks,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,8,5,KD Karthik,BE Hendricks,Mandeep Singh,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,DA Miller,death
+2,Royal Challengers Bangalore,8,6,Mandeep Singh,BE Hendricks,SN Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,1,SN Khan,AR Patel,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,2,Mandeep Singh,AR Patel,SN Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,3,SN Khan,AR Patel,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,4,Mandeep Singh,AR Patel,SN Khan,0,0,0,,0,0,0,0,0,True,caught,Mandeep Singh,DA Miller,death
+2,Royal Challengers Bangalore,9,5,SN Khan,AR Patel,D Wiese,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,6,D Wiese,AR Patel,SN Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,1.noballs,D Wiese,Anureet Singh,SN Khan,1,1,2,noballs,0,1,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,1,SN Khan,Anureet Singh,D Wiese,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,2,SN Khan,Anureet Singh,D Wiese,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,3,D Wiese,Anureet Singh,SN Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,4,D Wiese,Anureet Singh,SN Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,5,SN Khan,Anureet Singh,D Wiese,0,0,0,,0,0,0,0,0,True,caught,SN Khan,BE Hendricks,death
+2,Royal Challengers Bangalore,10,6,D Wiese,Anureet Singh,HV Patel,1,0,1,,0,0,0,0,0,False,,,,death

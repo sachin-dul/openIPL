@@ -1,0 +1,249 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,S Dhawan,Mohammed Siraj,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,S Dhawan,Mohammed Siraj,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,S Dhawan,Mohammed Siraj,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,4,S Dhawan,Mohammed Siraj,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,JM Bairstow,Mohammed Siraj,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,JM Bairstow,Mohammed Siraj,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1,S Dhawan,Yash Dayal,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,S Dhawan,Yash Dayal,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,3,S Dhawan,Yash Dayal,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,S Dhawan,Yash Dayal,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,S Dhawan,Yash Dayal,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,JM Bairstow,Yash Dayal,S Dhawan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Punjab Kings,3,1,JM Bairstow,Mohammed Siraj,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,JM Bairstow,Mohammed Siraj,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,JM Bairstow,Mohammed Siraj,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,JM Bairstow,V Kohli,powerplay
+1,Punjab Kings,3,4,P Simran Singh,Mohammed Siraj,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,5,P Simran Singh,Mohammed Siraj,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,6,P Simran Singh,Mohammed Siraj,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,1,S Dhawan,Yash Dayal,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,S Dhawan,Yash Dayal,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,P Simran Singh,Yash Dayal,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,P Simran Singh,Yash Dayal,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,5,S Dhawan,Yash Dayal,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,6,P Simran Singh,Yash Dayal,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,S Dhawan,AS Joseph,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,S Dhawan,AS Joseph,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,S Dhawan,AS Joseph,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4,S Dhawan,AS Joseph,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5,S Dhawan,AS Joseph,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,6,S Dhawan,AS Joseph,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,1,P Simran Singh,Yash Dayal,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,2,P Simran Singh,Yash Dayal,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,3,P Simran Singh,Yash Dayal,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,4,S Dhawan,Yash Dayal,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,5,S Dhawan,Yash Dayal,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,6,S Dhawan,Yash Dayal,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,7,1,S Dhawan,C Green,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2.wides,S Dhawan,C Green,P Simran Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,S Dhawan,C Green,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,3,P Simran Singh,C Green,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,4,P Simran Singh,C Green,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,P Simran Singh,C Green,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,S Dhawan,C Green,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,S Dhawan,Mayank Dagar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,P Simran Singh,Mayank Dagar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,3,S Dhawan,Mayank Dagar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,P Simran Singh,Mayank Dagar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,5,S Dhawan,Mayank Dagar,P Simran Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,S Dhawan,Mayank Dagar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,1,S Dhawan,GJ Maxwell,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,S Dhawan,GJ Maxwell,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,3,P Simran Singh,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,P Simran Singh,GJ Maxwell,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,P Simran Singh,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,P Simran Singh,Anuj Rawat,middle
+1,Punjab Kings,9,6,LS Livingstone,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,1,S Dhawan,Mayank Dagar,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,LS Livingstone,Mayank Dagar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,3,LS Livingstone,Mayank Dagar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,4,LS Livingstone,Mayank Dagar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5,S Dhawan,Mayank Dagar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,6,S Dhawan,Mayank Dagar,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,1,LS Livingstone,GJ Maxwell,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,2,S Dhawan,GJ Maxwell,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,3,LS Livingstone,GJ Maxwell,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,4,LS Livingstone,GJ Maxwell,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,5,LS Livingstone,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,6,LS Livingstone,GJ Maxwell,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,1,S Dhawan,AS Joseph,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,2,LS Livingstone,AS Joseph,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,3,LS Livingstone,AS Joseph,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4.wides,LS Livingstone,AS Joseph,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4,LS Livingstone,AS Joseph,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,5,S Dhawan,AS Joseph,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,6,LS Livingstone,AS Joseph,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,LS Livingstone,Anuj Rawat,middle
+1,Punjab Kings,13,1,S Dhawan,GJ Maxwell,SM Curran,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,V Kohli,middle
+1,Punjab Kings,13,2,JM Sharma,GJ Maxwell,SM Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,3,SM Curran,GJ Maxwell,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,4,JM Sharma,GJ Maxwell,SM Curran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,5,JM Sharma,GJ Maxwell,SM Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,6,SM Curran,GJ Maxwell,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,1,SM Curran,C Green,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,2,JM Sharma,C Green,SM Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,3,SM Curran,C Green,JM Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,4,SM Curran,C Green,JM Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,5,SM Curran,C Green,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,6,JM Sharma,C Green,SM Curran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,1,SM Curran,Mayank Dagar,JM Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,2,SM Curran,Mayank Dagar,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,3,JM Sharma,Mayank Dagar,SM Curran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,4,JM Sharma,Mayank Dagar,SM Curran,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,5,JM Sharma,Mayank Dagar,SM Curran,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,6,JM Sharma,Mayank Dagar,SM Curran,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,16,1,SM Curran,Mohammed Siraj,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2,JM Sharma,Mohammed Siraj,SM Curran,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,3,SM Curran,Mohammed Siraj,JM Sharma,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Punjab Kings,16,4,JM Sharma,Mohammed Siraj,SM Curran,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,5,SM Curran,Mohammed Siraj,JM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6,SM Curran,Mohammed Siraj,JM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,1,JM Sharma,AS Joseph,SM Curran,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,2,JM Sharma,AS Joseph,SM Curran,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,3,JM Sharma,AS Joseph,SM Curran,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,4,JM Sharma,AS Joseph,SM Curran,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,5,SM Curran,AS Joseph,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,6,JM Sharma,AS Joseph,SM Curran,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,1,JM Sharma,Yash Dayal,SM Curran,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2.wides,SM Curran,Yash Dayal,JM Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2,SM Curran,Yash Dayal,JM Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,3,SM Curran,Yash Dayal,JM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4.wides,SM Curran,Yash Dayal,JM Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4,SM Curran,Yash Dayal,JM Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5,SM Curran,Yash Dayal,JM Sharma,0,0,0,,0,0,0,0,0,True,caught,SM Curran,Anuj Rawat,death
+1,Punjab Kings,18,6,Shashank Singh,Yash Dayal,JM Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,1,JM Sharma,Mohammed Siraj,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,2,JM Sharma,Mohammed Siraj,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,3,Shashank Singh,Mohammed Siraj,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,4,JM Sharma,Mohammed Siraj,Shashank Singh,0,0,0,,0,0,0,0,0,True,caught,JM Sharma,Anuj Rawat,death
+1,Punjab Kings,19,5,Harpreet Brar,Mohammed Siraj,Shashank Singh,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,6,Harpreet Brar,Mohammed Siraj,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,1,Shashank Singh,AS Joseph,Harpreet Brar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,2,Shashank Singh,AS Joseph,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,3,Shashank Singh,AS Joseph,Harpreet Brar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,4,Shashank Singh,AS Joseph,Harpreet Brar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,5,Shashank Singh,AS Joseph,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,6.wides,Harpreet Brar,AS Joseph,Shashank Singh,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Punjab Kings,20,6,Shashank Singh,AS Joseph,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,1,1,V Kohli,SM Curran,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,2,V Kohli,SM Curran,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,3,V Kohli,SM Curran,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,4,V Kohli,SM Curran,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,5,V Kohli,SM Curran,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,6,V Kohli,SM Curran,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,1,F du Plessis,Arshdeep Singh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,2,F du Plessis,Arshdeep Singh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,3,F du Plessis,Arshdeep Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,4.wides,V Kohli,Arshdeep Singh,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,4,V Kohli,Arshdeep Singh,F du Plessis,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,5,F du Plessis,Arshdeep Singh,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,6,F du Plessis,Arshdeep Singh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,1,V Kohli,K Rabada,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,2,V Kohli,K Rabada,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,3,F du Plessis,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,4,F du Plessis,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,SM Curran,powerplay
+2,Royal Challengers Bengaluru,3,5,C Green,K Rabada,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,6,C Green,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,1,V Kohli,Arshdeep Singh,C Green,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,2,V Kohli,Arshdeep Singh,C Green,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,3,V Kohli,Arshdeep Singh,C Green,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,4.wides,V Kohli,Arshdeep Singh,C Green,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,4,V Kohli,Arshdeep Singh,C Green,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,5,V Kohli,Arshdeep Singh,C Green,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,6,V Kohli,Arshdeep Singh,C Green,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,1,C Green,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,2,C Green,K Rabada,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,3,V Kohli,K Rabada,C Green,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,4,C Green,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,True,caught,C Green,JM Sharma,powerplay
+2,Royal Challengers Bengaluru,5,5,RM Patidar,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,6,RM Patidar,K Rabada,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,1,V Kohli,SM Curran,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,2,V Kohli,SM Curran,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,3,V Kohli,SM Curran,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,4,RM Patidar,SM Curran,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,5,V Kohli,SM Curran,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,6,V Kohli,SM Curran,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,1,V Kohli,Harpreet Brar,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,2,RM Patidar,Harpreet Brar,V Kohli,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,3,RM Patidar,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,4,V Kohli,Harpreet Brar,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,5,RM Patidar,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,6,V Kohli,Harpreet Brar,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,1,RM Patidar,HV Patel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,2,RM Patidar,HV Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,3,V Kohli,HV Patel,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,4,V Kohli,HV Patel,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,5,RM Patidar,HV Patel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,6,RM Patidar,HV Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,1,RM Patidar,RD Chahar,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,2,RM Patidar,RD Chahar,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,3,RM Patidar,RD Chahar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,4,V Kohli,RD Chahar,RM Patidar,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,5,V Kohli,RD Chahar,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,6,RM Patidar,RD Chahar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,1,V Kohli,K Rabada,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,2,V Kohli,K Rabada,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,3,V Kohli,K Rabada,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,4.wides,RM Patidar,K Rabada,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,4,RM Patidar,K Rabada,V Kohli,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,5,RM Patidar,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,6,RM Patidar,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,1,V Kohli,Harpreet Brar,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,2,V Kohli,Harpreet Brar,RM Patidar,0,1,1,byes,0,0,1,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,3,RM Patidar,Harpreet Brar,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,RM Patidar,,middle
+2,Royal Challengers Bengaluru,11,4,GJ Maxwell,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,5,V Kohli,Harpreet Brar,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,6,GJ Maxwell,Harpreet Brar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,1,V Kohli,HV Patel,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,2,V Kohli,HV Patel,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,3,GJ Maxwell,HV Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,4,V Kohli,HV Patel,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,5.wides,GJ Maxwell,HV Patel,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,5,GJ Maxwell,HV Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,6,V Kohli,HV Patel,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,1,GJ Maxwell,Harpreet Brar,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,GJ Maxwell,,middle
+2,Royal Challengers Bengaluru,13,2,Anuj Rawat,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,3,V Kohli,Harpreet Brar,Anuj Rawat,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,4,Anuj Rawat,Harpreet Brar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,13,5,Anuj Rawat,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,13,6,V Kohli,Harpreet Brar,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,1,Anuj Rawat,K Rabada,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,2,Anuj Rawat,K Rabada,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,3,V Kohli,K Rabada,Anuj Rawat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,4,Anuj Rawat,K Rabada,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,5,Anuj Rawat,K Rabada,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,14,6,V Kohli,K Rabada,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,15,1,Anuj Rawat,Harpreet Brar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,15,2,Anuj Rawat,Harpreet Brar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,15,3,Anuj Rawat,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,15,4,V Kohli,Harpreet Brar,Anuj Rawat,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,15,5,V Kohli,Harpreet Brar,Anuj Rawat,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bengaluru,15,6,Anuj Rawat,Harpreet Brar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,1,Anuj Rawat,HV Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,2,V Kohli,HV Patel,Anuj Rawat,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,3,V Kohli,HV Patel,Anuj Rawat,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,4,V Kohli,HV Patel,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,5.wides,V Kohli,HV Patel,Anuj Rawat,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,5,V Kohli,HV Patel,Anuj Rawat,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,6,V Kohli,HV Patel,Anuj Rawat,0,0,0,,0,0,0,0,0,True,caught,V Kohli,Harpreet Brar,death
+2,Royal Challengers Bengaluru,17,1,Anuj Rawat,SM Curran,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,2,Anuj Rawat,SM Curran,KD Karthik,0,0,0,,0,0,0,0,0,True,lbw,Anuj Rawat,,death
+2,Royal Challengers Bengaluru,17,3,MK Lomror,SM Curran,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,4,MK Lomror,SM Curran,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,5,KD Karthik,SM Curran,MK Lomror,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,6,KD Karthik,SM Curran,MK Lomror,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,1,MK Lomror,Arshdeep Singh,KD Karthik,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,2,KD Karthik,Arshdeep Singh,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,3,MK Lomror,Arshdeep Singh,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,4,MK Lomror,Arshdeep Singh,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,5,MK Lomror,Arshdeep Singh,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,6,MK Lomror,Arshdeep Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,1,MK Lomror,HV Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,2.wides,KD Karthik,HV Patel,MK Lomror,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,2,KD Karthik,HV Patel,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,3,KD Karthik,HV Patel,MK Lomror,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,4,KD Karthik,HV Patel,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,5,KD Karthik,HV Patel,MK Lomror,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,6,KD Karthik,HV Patel,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,1,KD Karthik,Arshdeep Singh,MK Lomror,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,2.wides,KD Karthik,Arshdeep Singh,MK Lomror,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,2,KD Karthik,Arshdeep Singh,MK Lomror,4,0,4,,0,0,0,0,0,False,,,,death

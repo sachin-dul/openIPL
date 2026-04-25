@@ -1,0 +1,250 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,MA Agarwal,JA Morkel,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,MA Agarwal,JA Morkel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,MA Agarwal,JA Morkel,CH Gayle,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,CH Gayle,JA Morkel,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,CH Gayle,JA Morkel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,MA Agarwal,JA Morkel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,MA Agarwal,DE Bollinger,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,MA Agarwal,DE Bollinger,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,MA Agarwal,DE Bollinger,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,CH Gayle,DE Bollinger,MA Agarwal,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,CH Gayle,DE Bollinger,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,CH Gayle,DE Bollinger,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,MA Agarwal,JA Morkel,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,MA Agarwal,JA Morkel,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,MA Agarwal,JA Morkel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,CH Gayle,JA Morkel,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,MA Agarwal,JA Morkel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,MA Agarwal,JA Morkel,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,CH Gayle,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,CH Gayle,R Ashwin,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,CH Gayle,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,True,lbw,CH Gayle,,powerplay
+1,Royal Challengers Bangalore,4,4,V Kohli,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,V Kohli,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,V Kohli,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1.wides,MA Agarwal,DE Bollinger,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,MA Agarwal,DE Bollinger,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,MA Agarwal,DE Bollinger,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,MA Agarwal,DE Bollinger,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,MA Agarwal,DE Bollinger,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,MA Agarwal,DE Bollinger,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,MA Agarwal,DE Bollinger,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1.wides,V Kohli,R Ashwin,MA Agarwal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,V Kohli,R Ashwin,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,MA Agarwal,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,V Kohli,R Ashwin,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,V Kohli,R Ashwin,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,MA Agarwal,R Ashwin,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,MA Agarwal,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,MA Agarwal,DJ Bravo,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2.wides,MA Agarwal,DJ Bravo,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,MA Agarwal,DJ Bravo,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3.wides,V Kohli,DJ Bravo,MA Agarwal,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,V Kohli,DJ Bravo,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,MA Agarwal,DJ Bravo,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,MA Agarwal,DJ Bravo,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,MA Agarwal,DJ Bravo,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,MA Agarwal,SB Jakati,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,V Kohli,SB Jakati,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,MA Agarwal,SB Jakati,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,MA Agarwal,SB Jakati,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,V Kohli,SB Jakati,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,V Kohli,SB Jakati,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,MA Agarwal,DJ Bravo,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,V Kohli,DJ Bravo,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,MA Agarwal,DJ Bravo,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4.wides,MA Agarwal,DJ Bravo,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,MA Agarwal,DJ Bravo,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,V Kohli,DJ Bravo,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,MA Agarwal,DJ Bravo,V Kohli,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,DE Bollinger,middle
+1,Royal Challengers Bangalore,10,1,AB de Villiers,SB Jakati,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,V Kohli,SB Jakati,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,V Kohli,SB Jakati,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,AB de Villiers,SB Jakati,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,AB de Villiers,SB Jakati,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,V Kohli,SB Jakati,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,V Kohli,JA Morkel,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,AB de Villiers,JA Morkel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,V Kohli,JA Morkel,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,V Kohli,JA Morkel,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,AB de Villiers,JA Morkel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,AB de Villiers,JA Morkel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,V Kohli,SB Jakati,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,AB de Villiers,SB Jakati,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,AB de Villiers,SB Jakati,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,AB de Villiers,SB Jakati,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,AB de Villiers,SB Jakati,V Kohli,0,0,0,,0,0,0,0,0,True,caught,AB de Villiers,M Vijay,middle
+1,Royal Challengers Bangalore,12,6,V Kohli,SB Jakati,LA Pomersbach,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,V Kohli,SK Raina,LA Pomersbach,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,V Kohli,SK Raina,LA Pomersbach,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,LA Pomersbach,SK Raina,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,V Kohli,SK Raina,LA Pomersbach,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,V Kohli,SK Raina,LA Pomersbach,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,V Kohli,SK Raina,LA Pomersbach,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,LA Pomersbach,SB Jakati,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,LA Pomersbach,SB Jakati,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,LA Pomersbach,SB Jakati,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,LA Pomersbach,SB Jakati,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,LA Pomersbach,SB Jakati,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,V Kohli,SB Jakati,LA Pomersbach,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,LA Pomersbach,DJ Bravo,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,LA Pomersbach,DJ Bravo,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,LA Pomersbach,DJ Bravo,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,LA Pomersbach,DJ Bravo,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,LA Pomersbach,DJ Bravo,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,LA Pomersbach,DJ Bravo,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,LA Pomersbach,R Ashwin,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,LA Pomersbach,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,V Kohli,R Ashwin,LA Pomersbach,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,V Kohli,R Ashwin,LA Pomersbach,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,LA Pomersbach,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,V Kohli,R Ashwin,LA Pomersbach,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,LA Pomersbach,DE Bollinger,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,LA Pomersbach,DE Bollinger,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,V Kohli,DE Bollinger,LA Pomersbach,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,LA Pomersbach,DE Bollinger,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,LA Pomersbach,,death
+1,Royal Challengers Bangalore,17,5,SS Tiwary,DE Bollinger,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,V Kohli,DE Bollinger,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,V Kohli,R Ashwin,SS Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,V Kohli,R Ashwin,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,SS Tiwary,R Ashwin,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,V Kohli,R Ashwin,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,SS Tiwary,R Ashwin,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,SS Tiwary,R Ashwin,V Kohli,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,V Kohli,JA Morkel,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,V Kohli,JA Morkel,SS Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,V Kohli,JA Morkel,SS Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,V Kohli,JA Morkel,SS Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,V Kohli,JA Morkel,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,SS Tiwary,JA Morkel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,V Kohli,DE Bollinger,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,V Kohli,DE Bollinger,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,SS Tiwary,DE Bollinger,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,V Kohli,DE Bollinger,SS Tiwary,0,2,2,byes,0,0,2,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,V Kohli,DE Bollinger,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,V Kohli,DE Bollinger,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,1,1.wides,MEK Hussey,Z Khan,M Vijay,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,1,MEK Hussey,Z Khan,M Vijay,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,2,M Vijay,Z Khan,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,3,M Vijay,Z Khan,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,4,MEK Hussey,Z Khan,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,5,MEK Hussey,Z Khan,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,6,MEK Hussey,Z Khan,M Vijay,0,0,0,,0,0,0,0,0,True,lbw,MEK Hussey,,powerplay
+2,Chennai Super Kings,2,1,M Vijay,S Aravind,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,2,M Vijay,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,3,M Vijay,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,True,lbw,M Vijay,,powerplay
+2,Chennai Super Kings,2,4,S Badrinath,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,5,S Badrinath,S Aravind,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6,S Badrinath,S Aravind,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1.wides,S Badrinath,Z Khan,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1,S Badrinath,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2,S Badrinath,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,3,S Badrinath,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,4,S Badrinath,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,5,S Badrinath,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,6,S Badrinath,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1,SK Raina,S Aravind,S Badrinath,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Chennai Super Kings,4,2,S Badrinath,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,3,S Badrinath,S Aravind,SK Raina,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,4,S Badrinath,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5,S Badrinath,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,6,S Badrinath,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,1,SK Raina,Z Khan,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,2,SK Raina,Z Khan,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3,SK Raina,Z Khan,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,4,SK Raina,Z Khan,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,5,SK Raina,Z Khan,S Badrinath,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,6,SK Raina,Z Khan,S Badrinath,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1,S Badrinath,A Mithun,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,2,SK Raina,A Mithun,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,3,SK Raina,A Mithun,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,4,SK Raina,A Mithun,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,5,SK Raina,A Mithun,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,6,SK Raina,A Mithun,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,1,S Badrinath,V Kohli,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,2,S Badrinath,V Kohli,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3,S Badrinath,V Kohli,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,4,SK Raina,V Kohli,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,5,S Badrinath,V Kohli,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,6,S Badrinath,V Kohli,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,1,S Badrinath,DL Vettori,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,2,S Badrinath,DL Vettori,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,3,SK Raina,DL Vettori,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,4,SK Raina,DL Vettori,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,5,SK Raina,DL Vettori,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,6,S Badrinath,DL Vettori,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,1,SK Raina,V Kohli,S Badrinath,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2.noballs,SK Raina,V Kohli,S Badrinath,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2,SK Raina,V Kohli,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3,S Badrinath,V Kohli,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,4,SK Raina,V Kohli,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,5,S Badrinath,V Kohli,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,6,S Badrinath,V Kohli,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,1,SK Raina,DL Vettori,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,2,S Badrinath,DL Vettori,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,3,SK Raina,DL Vettori,S Badrinath,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4,SK Raina,DL Vettori,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,5,S Badrinath,DL Vettori,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6,SK Raina,DL Vettori,S Badrinath,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,1,S Badrinath,A Mithun,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,2,SK Raina,A Mithun,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,3,S Badrinath,A Mithun,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,4,SK Raina,A Mithun,S Badrinath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,5,S Badrinath,A Mithun,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6,S Badrinath,A Mithun,SK Raina,0,0,0,,0,0,0,0,0,True,caught,S Badrinath,S Aravind,middle
+2,Chennai Super Kings,12,1,MS Dhoni,CH Gayle,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,2,MS Dhoni,CH Gayle,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,3,MS Dhoni,CH Gayle,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,4,MS Dhoni,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5,SK Raina,CH Gayle,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,6,SK Raina,CH Gayle,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,1,MS Dhoni,A Mithun,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,2,SK Raina,A Mithun,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3.wides,SK Raina,A Mithun,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3,SK Raina,A Mithun,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,4,SK Raina,A Mithun,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,5.noballs,SK Raina,A Mithun,MS Dhoni,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,5,MS Dhoni,A Mithun,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,6,MS Dhoni,A Mithun,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,1,MS Dhoni,CH Gayle,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,2,MS Dhoni,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,3,SK Raina,CH Gayle,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,4,SK Raina,CH Gayle,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,5,MS Dhoni,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,6,SK Raina,CH Gayle,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,1,MS Dhoni,DL Vettori,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,2,SK Raina,DL Vettori,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,3,MS Dhoni,DL Vettori,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,4,MS Dhoni,DL Vettori,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,5,MS Dhoni,DL Vettori,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,6,SK Raina,DL Vettori,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,1,MS Dhoni,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2,SK Raina,CH Gayle,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3,SK Raina,CH Gayle,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,4,MS Dhoni,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,5,SK Raina,CH Gayle,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,6,MS Dhoni,CH Gayle,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,1,SK Raina,Z Khan,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,2,SK Raina,Z Khan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,3,MS Dhoni,Z Khan,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,4,MS Dhoni,Z Khan,SK Raina,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,A Mithun,death
+2,Chennai Super Kings,17,5,JA Morkel,Z Khan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,6,SK Raina,Z Khan,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,1,JA Morkel,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,2,SK Raina,CH Gayle,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3,SK Raina,CH Gayle,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,4,JA Morkel,CH Gayle,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,5,JA Morkel,CH Gayle,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,6.wides,SK Raina,CH Gayle,JA Morkel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,6,SK Raina,CH Gayle,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1,SK Raina,S Aravind,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2,JA Morkel,S Aravind,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,3,JA Morkel,S Aravind,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,4,JA Morkel,S Aravind,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,5,SK Raina,S Aravind,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,6,SK Raina,S Aravind,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,1,SK Raina,DL Vettori,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,2,JA Morkel,DL Vettori,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,3,JA Morkel,DL Vettori,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,4,JA Morkel,DL Vettori,SK Raina,6,0,6,,0,0,0,0,0,False,,,,death

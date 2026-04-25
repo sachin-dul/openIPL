@@ -1,0 +1,227 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,AP Tare,AB Dinda,SW Billings,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,AP Tare,AB Dinda,SW Billings,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,AP Tare,AB Dinda,SW Billings,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4.wides,AP Tare,AB Dinda,SW Billings,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,AP Tare,AB Dinda,SW Billings,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,SW Billings,AB Dinda,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,SW Billings,AB Dinda,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,AP Tare,DL Chahar,SW Billings,0,0,0,,0,0,0,0,0,True,caught,AP Tare,MS Dhoni,powerplay
+1,Delhi Daredevils,2,2,SV Samson,DL Chahar,SW Billings,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,SW Billings,DL Chahar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,SV Samson,DL Chahar,SW Billings,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,SV Samson,DL Chahar,SW Billings,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,SV Samson,DL Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,SV Samson,AB Dinda,SW Billings,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,SV Samson,AB Dinda,SW Billings,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,SV Samson,AB Dinda,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4.wides,SW Billings,AB Dinda,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,SW Billings,AB Dinda,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,SW Billings,AB Dinda,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,SV Samson,AB Dinda,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,SV Samson,DL Chahar,SW Billings,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,SV Samson,DL Chahar,SW Billings,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,SV Samson,DL Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,SW Billings,DL Chahar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,SV Samson,DL Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6.wides,SV Samson,DL Chahar,SW Billings,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,SV Samson,DL Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,SV Samson,BA Stokes,SW Billings,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,SV Samson,BA Stokes,SW Billings,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,SV Samson,BA Stokes,SW Billings,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,SV Samson,BA Stokes,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,SW Billings,BA Stokes,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,SV Samson,BA Stokes,SW Billings,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,SW Billings,DL Chahar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2.wides,SW Billings,DL Chahar,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,SW Billings,DL Chahar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,SW Billings,DL Chahar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,SW Billings,DL Chahar,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,SW Billings,DL Chahar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,SV Samson,DL Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,SV Samson,Imran Tahir,SW Billings,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Delhi Daredevils,7,2,SW Billings,Imran Tahir,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,SW Billings,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,SV Samson,Imran Tahir,SW Billings,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,SW Billings,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,SV Samson,Imran Tahir,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,SW Billings,A Zampa,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,SV Samson,A Zampa,SW Billings,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,SV Samson,A Zampa,SW Billings,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,SV Samson,A Zampa,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,SV Samson,A Zampa,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,SV Samson,A Zampa,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,SW Billings,Imran Tahir,SV Samson,0,0,0,,0,0,0,0,0,True,bowled,SW Billings,,middle
+1,Delhi Daredevils,9,2,RR Pant,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,SV Samson,Imran Tahir,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,RR Pant,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,SV Samson,Imran Tahir,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,RR Pant,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,RR Pant,R Bhatia,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,SV Samson,R Bhatia,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,RR Pant,R Bhatia,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,SV Samson,R Bhatia,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,RR Pant,R Bhatia,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,SV Samson,R Bhatia,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,RR Pant,A Zampa,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,SV Samson,A Zampa,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,RR Pant,A Zampa,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,RR Pant,A Zampa,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,RR Pant,A Zampa,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,RR Pant,A Zampa,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,RR Pant,R Bhatia,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,RR Pant,R Bhatia,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,SV Samson,R Bhatia,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,RR Pant,R Bhatia,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,RR Pant,R Bhatia,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,SV Samson,R Bhatia,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,SV Samson,Imran Tahir,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,RR Pant,Imran Tahir,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,RR Pant,Imran Tahir,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,RR Pant,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,SV Samson,Imran Tahir,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,SV Samson,Imran Tahir,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,RR Pant,BA Stokes,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,SV Samson,BA Stokes,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,RR Pant,BA Stokes,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,SV Samson,BA Stokes,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,SV Samson,BA Stokes,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,RR Pant,BA Stokes,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,SV Samson,A Zampa,RR Pant,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,SV Samson,A Zampa,RR Pant,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,SV Samson,A Zampa,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,SV Samson,A Zampa,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,SV Samson,A Zampa,RR Pant,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,SV Samson,A Zampa,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,SV Samson,BA Stokes,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,RR Pant,BA Stokes,SV Samson,0,0,0,,0,0,0,0,0,True,run out,RR Pant,MA Agarwal,death
+1,Delhi Daredevils,16,3,SV Samson,BA Stokes,CJ Anderson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,SV Samson,BA Stokes,CJ Anderson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,CJ Anderson,BA Stokes,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,CJ Anderson,BA Stokes,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,SV Samson,Imran Tahir,CJ Anderson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,SV Samson,Imran Tahir,CJ Anderson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3.wides,CJ Anderson,Imran Tahir,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,CJ Anderson,Imran Tahir,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,SV Samson,Imran Tahir,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,SV Samson,Imran Tahir,CJ Anderson,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,SV Samson,Imran Tahir,CJ Anderson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,SV Samson,AB Dinda,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,SV Samson,AB Dinda,CJ Anderson,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,SV Samson,AB Dinda,CJ Anderson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,SV Samson,AB Dinda,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,SV Samson,AB Dinda,CJ Anderson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,SV Samson,AB Dinda,CJ Anderson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,SV Samson,A Zampa,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,SV Samson,A Zampa,CJ Anderson,0,0,0,,0,0,0,0,0,True,bowled,SV Samson,,death
+1,Delhi Daredevils,19,3,CH Morris,A Zampa,CJ Anderson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,CH Morris,A Zampa,CJ Anderson,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,CH Morris,A Zampa,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,CH Morris,A Zampa,CJ Anderson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,CJ Anderson,BA Stokes,CH Morris,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,2,CH Morris,BA Stokes,CJ Anderson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,CH Morris,BA Stokes,CJ Anderson,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,4,CH Morris,BA Stokes,CJ Anderson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,CH Morris,BA Stokes,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,CH Morris,BA Stokes,CJ Anderson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,1,1,AM Rahane,S Nadeem,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,1,2,MA Agarwal,S Nadeem,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,1,3.wides,AM Rahane,S Nadeem,MA Agarwal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,1,3,AM Rahane,S Nadeem,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,1,4,MA Agarwal,S Nadeem,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,1,5,MA Agarwal,S Nadeem,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,1,6,AM Rahane,S Nadeem,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,1,AM Rahane,PJ Cummins,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,2,MA Agarwal,PJ Cummins,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,3,MA Agarwal,PJ Cummins,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,4.wides,MA Agarwal,PJ Cummins,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,4,MA Agarwal,PJ Cummins,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,5,AM Rahane,PJ Cummins,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,2,6,MA Agarwal,PJ Cummins,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,3,1,MA Agarwal,Z Khan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,3,2,AM Rahane,Z Khan,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,3,3,MA Agarwal,Z Khan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,3,4,AM Rahane,Z Khan,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,3,5,AM Rahane,Z Khan,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,3,6,AM Rahane,Z Khan,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,SV Samson,powerplay
+2,Rising Pune Supergiant,4,1,F du Plessis,CH Morris,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,4,2,MA Agarwal,CH Morris,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,4,3,MA Agarwal,CH Morris,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,4,4,MA Agarwal,CH Morris,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,4,5,MA Agarwal,CH Morris,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,4,6,MA Agarwal,CH Morris,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,5,1,F du Plessis,Z Khan,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,5,2,MA Agarwal,Z Khan,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,5,3,MA Agarwal,Z Khan,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,5,4,MA Agarwal,Z Khan,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rising Pune Supergiant,5,5,MA Agarwal,Z Khan,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,CH Morris,powerplay
+2,Rising Pune Supergiant,5,6,F du Plessis,Z Khan,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,6,1,RA Tripathi,CH Morris,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,6,2.wides,RA Tripathi,CH Morris,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,6,2,RA Tripathi,CH Morris,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,6,3,RA Tripathi,CH Morris,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,6,4,RA Tripathi,CH Morris,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,6,5,RA Tripathi,CH Morris,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,RA Tripathi,S Nadeem,middle
+2,Rising Pune Supergiant,6,6,F du Plessis,CH Morris,BA Stokes,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,7,1,F du Plessis,S Nadeem,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,7,2,F du Plessis,S Nadeem,BA Stokes,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,7,3,BA Stokes,S Nadeem,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,7,4,F du Plessis,S Nadeem,BA Stokes,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,RR Pant,middle
+2,Rising Pune Supergiant,7,5,MS Dhoni,S Nadeem,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,7,6,MS Dhoni,S Nadeem,BA Stokes,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,8,1,BA Stokes,PJ Cummins,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,8,2,MS Dhoni,PJ Cummins,BA Stokes,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,8,3,BA Stokes,PJ Cummins,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,8,4,BA Stokes,PJ Cummins,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,8,5,BA Stokes,PJ Cummins,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,BA Stokes,RR Pant,middle
+2,Rising Pune Supergiant,8,6,R Bhatia,PJ Cummins,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,9,1,R Bhatia,S Nadeem,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,9,2,MS Dhoni,S Nadeem,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,9,3,MS Dhoni,S Nadeem,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,9,4,MS Dhoni,S Nadeem,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,9,5,R Bhatia,S Nadeem,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,9,6,R Bhatia,S Nadeem,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,10,1,R Bhatia,CJ Anderson,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,10,2,R Bhatia,CJ Anderson,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,10,3,R Bhatia,CJ Anderson,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,10,4,R Bhatia,CJ Anderson,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,10,5,MS Dhoni,CJ Anderson,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,10,6,R Bhatia,CJ Anderson,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,11,1,MS Dhoni,S Nadeem,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,11,2,R Bhatia,S Nadeem,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,11,3,R Bhatia,S Nadeem,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rising Pune Supergiant,11,4,MS Dhoni,S Nadeem,R Bhatia,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,11,5,MS Dhoni,S Nadeem,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,11,6,MS Dhoni,S Nadeem,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,12,1,R Bhatia,A Mishra,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,12,2,MS Dhoni,A Mishra,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,12,3,MS Dhoni,A Mishra,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,12,4,R Bhatia,A Mishra,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,12,5,R Bhatia,A Mishra,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,12,6,MS Dhoni,A Mishra,R Bhatia,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,KK Nair,death
+2,Rising Pune Supergiant,13,1,R Bhatia,PJ Cummins,DL Chahar,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Rising Pune Supergiant,13,2,DL Chahar,PJ Cummins,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,13,3,DL Chahar,PJ Cummins,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,13,4,R Bhatia,PJ Cummins,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,13,5,DL Chahar,PJ Cummins,R Bhatia,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,13,6,DL Chahar,PJ Cummins,R Bhatia,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,14,1,R Bhatia,A Mishra,DL Chahar,0,0,0,,0,0,0,0,0,True,caught,R Bhatia,CH Morris,death
+2,Rising Pune Supergiant,14,2,A Zampa,A Mishra,DL Chahar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,14,3,A Zampa,A Mishra,DL Chahar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,14,4,DL Chahar,A Mishra,A Zampa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,14,5,A Zampa,A Mishra,DL Chahar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,14,6,A Zampa,A Mishra,DL Chahar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,15,1,DL Chahar,Z Khan,A Zampa,0,0,0,,0,0,0,0,0,True,caught,DL Chahar,RR Pant,death
+2,Rising Pune Supergiant,15,2,AB Dinda,Z Khan,A Zampa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,15,3,AB Dinda,Z Khan,A Zampa,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,15,4,AB Dinda,Z Khan,A Zampa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,15,5.wides,AB Dinda,Z Khan,A Zampa,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,15,5,AB Dinda,Z Khan,A Zampa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,15,6,A Zampa,Z Khan,AB Dinda,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,16,1,AB Dinda,A Mishra,A Zampa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,16,2,A Zampa,A Mishra,AB Dinda,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,16,3,A Zampa,A Mishra,AB Dinda,0,0,0,,0,0,0,0,0,True,caught,A Zampa,SV Samson,death
+2,Rising Pune Supergiant,16,4,AB Dinda,A Mishra,Imran Tahir,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,16,5,Imran Tahir,A Mishra,AB Dinda,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,16,6,Imran Tahir,A Mishra,AB Dinda,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rising Pune Supergiant,17,1,AB Dinda,PJ Cummins,Imran Tahir,0,0,0,,0,0,0,0,0,True,caught,AB Dinda,A Mishra,death

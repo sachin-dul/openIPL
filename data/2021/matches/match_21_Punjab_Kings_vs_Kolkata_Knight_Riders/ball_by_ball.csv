@@ -1,0 +1,226 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,KL Rahul,Shivam Mavi,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,MA Agarwal,Shivam Mavi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,4,MA Agarwal,Shivam Mavi,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1.wides,MA Agarwal,PJ Cummins,KL Rahul,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1,MA Agarwal,PJ Cummins,KL Rahul,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,MA Agarwal,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,3,MA Agarwal,PJ Cummins,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,KL Rahul,PJ Cummins,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,KL Rahul,PJ Cummins,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,KL Rahul,PJ Cummins,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,1,MA Agarwal,Shivam Mavi,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,MA Agarwal,Shivam Mavi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,MA Agarwal,Shivam Mavi,KL Rahul,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Punjab Kings,3,4,KL Rahul,Shivam Mavi,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,5,MA Agarwal,Shivam Mavi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,6,MA Agarwal,Shivam Mavi,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,1,KL Rahul,SP Narine,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,KL Rahul,SP Narine,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,KL Rahul,SP Narine,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,MA Agarwal,SP Narine,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,5,KL Rahul,SP Narine,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,6,KL Rahul,SP Narine,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,KL Rahul,Shivam Mavi,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,MA Agarwal,Shivam Mavi,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,6,KL Rahul,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,1,MA Agarwal,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,2,MA Agarwal,PJ Cummins,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,3,KL Rahul,PJ Cummins,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,4,KL Rahul,PJ Cummins,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,SP Narine,powerplay
+1,Punjab Kings,6,5,MA Agarwal,PJ Cummins,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,6,MA Agarwal,PJ Cummins,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,7,1,MA Agarwal,Shivam Mavi,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,MA Agarwal,Shivam Mavi,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,3,CH Gayle,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,KD Karthik,middle
+1,Punjab Kings,7,4.wides,DJ Hooda,Shivam Mavi,MA Agarwal,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,4,DJ Hooda,Shivam Mavi,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,DJ Hooda,Shivam Mavi,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,MA Agarwal,Shivam Mavi,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,MA Agarwal,M Prasidh Krishna,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,MA Agarwal,M Prasidh Krishna,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,3,DJ Hooda,M Prasidh Krishna,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,DJ Hooda,M Prasidh Krishna,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,DJ Hooda,EJG Morgan,middle
+1,Punjab Kings,8,5,N Pooran,M Prasidh Krishna,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,MA Agarwal,M Prasidh Krishna,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,1,MA Agarwal,AD Russell,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,MA Agarwal,AD Russell,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,3,N Pooran,AD Russell,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,N Pooran,AD Russell,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,N Pooran,AD Russell,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,6,MA Agarwal,AD Russell,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,1,N Pooran,M Prasidh Krishna,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,N Pooran,M Prasidh Krishna,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,3,MA Agarwal,M Prasidh Krishna,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,4,MA Agarwal,M Prasidh Krishna,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5.wides,MA Agarwal,M Prasidh Krishna,N Pooran,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5,MA Agarwal,M Prasidh Krishna,N Pooran,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,6,MA Agarwal,M Prasidh Krishna,N Pooran,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,1,N Pooran,CV Varun,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,2,N Pooran,CV Varun,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,3,MA Agarwal,CV Varun,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,4,N Pooran,CV Varun,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,5,MA Agarwal,CV Varun,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,6,MA Agarwal,CV Varun,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,1,MA Agarwal,SP Narine,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,2,MA Agarwal,SP Narine,N Pooran,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,RA Tripathi,middle
+1,Punjab Kings,12,3,N Pooran,SP Narine,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4,N Pooran,SP Narine,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,5,MC Henriques,SP Narine,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,6,N Pooran,SP Narine,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,1,N Pooran,CV Varun,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,2,MC Henriques,CV Varun,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,3,N Pooran,CV Varun,MC Henriques,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,4,N Pooran,CV Varun,MC Henriques,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,5,N Pooran,CV Varun,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,6,N Pooran,CV Varun,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,1,MC Henriques,SP Narine,N Pooran,0,0,0,,0,0,0,0,0,True,bowled,MC Henriques,,middle
+1,Punjab Kings,14,2,M Shahrukh Khan,SP Narine,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,3,N Pooran,SP Narine,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,4,M Shahrukh Khan,SP Narine,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,5,M Shahrukh Khan,SP Narine,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,6,M Shahrukh Khan,SP Narine,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,1,M Shahrukh Khan,CV Varun,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,2,N Pooran,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,True,bowled,N Pooran,,middle
+1,Punjab Kings,15,3,CJ Jordan,CV Varun,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,4,M Shahrukh Khan,CV Varun,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,5,M Shahrukh Khan,CV Varun,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,6,M Shahrukh Khan,CV Varun,CJ Jordan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,16,1,CJ Jordan,SP Narine,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2,M Shahrukh Khan,SP Narine,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,3,M Shahrukh Khan,SP Narine,CJ Jordan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,4,M Shahrukh Khan,SP Narine,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,5,CJ Jordan,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6,CJ Jordan,SP Narine,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,1,CJ Jordan,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,2,CJ Jordan,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,3,CJ Jordan,CV Varun,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,4,M Shahrukh Khan,CV Varun,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,5,CJ Jordan,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,6,CJ Jordan,CV Varun,M Shahrukh Khan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,1,M Shahrukh Khan,M Prasidh Krishna,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2,M Shahrukh Khan,M Prasidh Krishna,CJ Jordan,0,0,0,,0,0,0,0,0,True,caught,M Shahrukh Khan,EJG Morgan,death
+1,Punjab Kings,18,3,CJ Jordan,M Prasidh Krishna,Ravi Bishnoi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4,Ravi Bishnoi,M Prasidh Krishna,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5.wides,Ravi Bishnoi,M Prasidh Krishna,CJ Jordan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5,Ravi Bishnoi,M Prasidh Krishna,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,6,Ravi Bishnoi,M Prasidh Krishna,CJ Jordan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,1,Ravi Bishnoi,PJ Cummins,CJ Jordan,0,0,0,,0,0,0,0,0,True,caught,Ravi Bishnoi,EJG Morgan,death
+1,Punjab Kings,19,2,CJ Jordan,PJ Cummins,Mohammed Shami,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,3,CJ Jordan,PJ Cummins,Mohammed Shami,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,4,CJ Jordan,PJ Cummins,Mohammed Shami,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,5,CJ Jordan,PJ Cummins,Mohammed Shami,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,6,Mohammed Shami,PJ Cummins,CJ Jordan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,1,CJ Jordan,M Prasidh Krishna,Mohammed Shami,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,2,CJ Jordan,M Prasidh Krishna,Mohammed Shami,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,3,CJ Jordan,M Prasidh Krishna,Mohammed Shami,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,4,CJ Jordan,M Prasidh Krishna,Mohammed Shami,0,0,0,,0,0,0,0,0,True,bowled,CJ Jordan,,death
+1,Punjab Kings,20,5,Arshdeep Singh,M Prasidh Krishna,Mohammed Shami,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,6,Mohammed Shami,M Prasidh Krishna,Arshdeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,1,1,Shubman Gill,MC Henriques,N Rana,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,Shubman Gill,MC Henriques,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,Shubman Gill,MC Henriques,N Rana,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,N Rana,MC Henriques,Shubman Gill,0,0,0,,0,0,0,0,0,True,caught,N Rana,M Shahrukh Khan,powerplay
+2,Kolkata Knight Riders,1,5,RA Tripathi,MC Henriques,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,RA Tripathi,MC Henriques,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,Shubman Gill,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,Shubman Gill,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,Shubman Gill,Mohammed Shami,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,Shubman Gill,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,Shubman Gill,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,True,lbw,Shubman Gill,,powerplay
+2,Kolkata Knight Riders,2,6.wides,SP Narine,Mohammed Shami,RA Tripathi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,SP Narine,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,RA Tripathi,Arshdeep Singh,SP Narine,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,RA Tripathi,Arshdeep Singh,SP Narine,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,SP Narine,Arshdeep Singh,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,SP Narine,Arshdeep Singh,RA Tripathi,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,RA Tripathi,Arshdeep Singh,SP Narine,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,SP Narine,Arshdeep Singh,RA Tripathi,0,0,0,,0,0,0,0,0,True,caught,SP Narine,Ravi Bishnoi,powerplay
+2,Kolkata Knight Riders,4,1,EJG Morgan,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,EJG Morgan,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,EJG Morgan,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,EJG Morgan,Mohammed Shami,RA Tripathi,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,EJG Morgan,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,EJG Morgan,Mohammed Shami,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,RA Tripathi,Arshdeep Singh,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,RA Tripathi,Arshdeep Singh,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,EJG Morgan,Arshdeep Singh,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,RA Tripathi,Arshdeep Singh,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,RA Tripathi,Arshdeep Singh,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,RA Tripathi,Arshdeep Singh,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,EJG Morgan,Mohammed Shami,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,2,EJG Morgan,Mohammed Shami,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,3,EJG Morgan,Mohammed Shami,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,4,RA Tripathi,Mohammed Shami,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5,RA Tripathi,Mohammed Shami,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,RA Tripathi,Mohammed Shami,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,EJG Morgan,Ravi Bishnoi,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,EJG Morgan,Ravi Bishnoi,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,RA Tripathi,Ravi Bishnoi,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,EJG Morgan,Ravi Bishnoi,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,EJG Morgan,Ravi Bishnoi,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,RA Tripathi,Ravi Bishnoi,EJG Morgan,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,RA Tripathi,CJ Jordan,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,RA Tripathi,CJ Jordan,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,RA Tripathi,CJ Jordan,EJG Morgan,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,RA Tripathi,CJ Jordan,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,EJG Morgan,CJ Jordan,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,EJG Morgan,CJ Jordan,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,RA Tripathi,Ravi Bishnoi,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,EJG Morgan,Ravi Bishnoi,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,RA Tripathi,Ravi Bishnoi,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,RA Tripathi,Ravi Bishnoi,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,EJG Morgan,Ravi Bishnoi,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,RA Tripathi,Ravi Bishnoi,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,RA Tripathi,CJ Jordan,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,RA Tripathi,CJ Jordan,EJG Morgan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,RA Tripathi,CJ Jordan,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,RA Tripathi,CJ Jordan,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,RA Tripathi,CJ Jordan,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,RA Tripathi,CJ Jordan,EJG Morgan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,EJG Morgan,DJ Hooda,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,RA Tripathi,DJ Hooda,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,RA Tripathi,DJ Hooda,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,EJG Morgan,DJ Hooda,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,EJG Morgan,DJ Hooda,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,RA Tripathi,DJ Hooda,EJG Morgan,0,0,0,,0,0,0,0,0,True,caught,RA Tripathi,M Shahrukh Khan,death
+2,Kolkata Knight Riders,12,1,EJG Morgan,Mohammed Shami,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,2,EJG Morgan,Mohammed Shami,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,3,AD Russell,Mohammed Shami,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,4,AD Russell,Mohammed Shami,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,5,AD Russell,Mohammed Shami,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,6,AD Russell,Mohammed Shami,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,1,EJG Morgan,Ravi Bishnoi,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,2,EJG Morgan,Ravi Bishnoi,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,3,AD Russell,Ravi Bishnoi,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,EJG Morgan,Ravi Bishnoi,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,EJG Morgan,Ravi Bishnoi,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,AD Russell,Ravi Bishnoi,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,EJG Morgan,CJ Jordan,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,EJG Morgan,CJ Jordan,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,AD Russell,CJ Jordan,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4,AD Russell,CJ Jordan,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5,AD Russell,CJ Jordan,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,EJG Morgan,CJ Jordan,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1,EJG Morgan,Ravi Bishnoi,AD Russell,0,0,0,,0,0,0,0,0,True,run out,AD Russell,,death
+2,Kolkata Knight Riders,15,2,KD Karthik,Ravi Bishnoi,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,KD Karthik,Ravi Bishnoi,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,4,EJG Morgan,Ravi Bishnoi,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,5,EJG Morgan,Ravi Bishnoi,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,6,EJG Morgan,Ravi Bishnoi,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,1,EJG Morgan,DJ Hooda,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,EJG Morgan,DJ Hooda,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,KD Karthik,DJ Hooda,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,EJG Morgan,DJ Hooda,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,EJG Morgan,DJ Hooda,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,6,EJG Morgan,DJ Hooda,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,EJG Morgan,Arshdeep Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,2,KD Karthik,Arshdeep Singh,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,KD Karthik,Arshdeep Singh,EJG Morgan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,4,KD Karthik,Arshdeep Singh,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,death

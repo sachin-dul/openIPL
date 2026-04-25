@@ -1,0 +1,209 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Sunrisers Hyderabad,1,1,TM Head,MA Starc,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,2,TM Head,MA Starc,Abhishek Sharma,0,0,0,,0,0,0,0,0,True,bowled,TM Head,,powerplay
+1,Sunrisers Hyderabad,1,3,RA Tripathi,MA Starc,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,4,RA Tripathi,MA Starc,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,5,RA Tripathi,MA Starc,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,6,RA Tripathi,MA Starc,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,1,Abhishek Sharma,VG Arora,RA Tripathi,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,2.wides,Abhishek Sharma,VG Arora,RA Tripathi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,2,Abhishek Sharma,VG Arora,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,3,RA Tripathi,VG Arora,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4,Abhishek Sharma,VG Arora,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,5,Abhishek Sharma,VG Arora,RA Tripathi,0,0,0,,0,0,0,0,0,True,caught,Abhishek Sharma,AD Russell,powerplay
+1,Sunrisers Hyderabad,2,6,Nithish Kumar Reddy,VG Arora,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,1,RA Tripathi,MA Starc,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,2.wides,Nithish Kumar Reddy,MA Starc,RA Tripathi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,2,Nithish Kumar Reddy,MA Starc,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,3,RA Tripathi,MA Starc,Nithish Kumar Reddy,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,4,RA Tripathi,MA Starc,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,5,Nithish Kumar Reddy,MA Starc,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,6,Nithish Kumar Reddy,MA Starc,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,1,RA Tripathi,VG Arora,Nithish Kumar Reddy,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,2,RA Tripathi,VG Arora,Nithish Kumar Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,3.noballs,RA Tripathi,VG Arora,Nithish Kumar Reddy,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,3,RA Tripathi,VG Arora,Nithish Kumar Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,4,RA Tripathi,VG Arora,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,5,Nithish Kumar Reddy,VG Arora,RA Tripathi,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,6.wides,Nithish Kumar Reddy,VG Arora,RA Tripathi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,6,Nithish Kumar Reddy,VG Arora,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,1,Nithish Kumar Reddy,MA Starc,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,2,Nithish Kumar Reddy,MA Starc,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,3,RA Tripathi,MA Starc,Nithish Kumar Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,4,Nithish Kumar Reddy,MA Starc,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,5,Nithish Kumar Reddy,MA Starc,RA Tripathi,0,0,0,,0,0,0,0,0,True,caught,Nithish Kumar Reddy,Rahmanullah Gurbaz,powerplay
+1,Sunrisers Hyderabad,5,6,Shahbaz Ahmed,MA Starc,RA Tripathi,0,0,0,,0,0,0,0,0,True,bowled,Shahbaz Ahmed,,powerplay
+1,Sunrisers Hyderabad,6,1,RA Tripathi,Harshit Rana,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,2,RA Tripathi,Harshit Rana,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,3,H Klaasen,Harshit Rana,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,4,H Klaasen,Harshit Rana,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,5,H Klaasen,Harshit Rana,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,6,H Klaasen,Harshit Rana,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,1,H Klaasen,SP Narine,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,2,RA Tripathi,SP Narine,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,3,H Klaasen,SP Narine,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,4,H Klaasen,SP Narine,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,5,RA Tripathi,SP Narine,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,6,H Klaasen,SP Narine,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,1,H Klaasen,Harshit Rana,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,2,RA Tripathi,Harshit Rana,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,3,H Klaasen,Harshit Rana,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,4.wides,RA Tripathi,Harshit Rana,H Klaasen,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,4,RA Tripathi,Harshit Rana,H Klaasen,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,5,RA Tripathi,Harshit Rana,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,6,H Klaasen,Harshit Rana,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,1,H Klaasen,SP Narine,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,2,RA Tripathi,SP Narine,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,3,RA Tripathi,SP Narine,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,4,H Klaasen,SP Narine,RA Tripathi,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,5,H Klaasen,SP Narine,RA Tripathi,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,6,H Klaasen,SP Narine,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,1,RA Tripathi,AD Russell,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,2,H Klaasen,AD Russell,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,3,H Klaasen,AD Russell,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,4,RA Tripathi,AD Russell,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,5,RA Tripathi,AD Russell,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,6,H Klaasen,AD Russell,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,1.noballs,H Klaasen,CV Varun,RA Tripathi,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,1,RA Tripathi,CV Varun,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,2,RA Tripathi,CV Varun,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,3,H Klaasen,CV Varun,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,4,RA Tripathi,CV Varun,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,5,RA Tripathi,CV Varun,H Klaasen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,6,H Klaasen,CV Varun,RA Tripathi,0,0,0,,0,0,0,0,0,True,caught,H Klaasen,RK Singh,middle
+1,Sunrisers Hyderabad,12,1,RA Tripathi,SP Narine,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,2,Abdul Samad,SP Narine,RA Tripathi,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,3,Abdul Samad,SP Narine,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,4,Abdul Samad,SP Narine,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,5,Abdul Samad,SP Narine,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,6,RA Tripathi,SP Narine,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,1.wides,RA Tripathi,CV Varun,Abdul Samad,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,1,RA Tripathi,CV Varun,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,2,Abdul Samad,CV Varun,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,3,Abdul Samad,CV Varun,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,4,RA Tripathi,CV Varun,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,5,RA Tripathi,CV Varun,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,13,6,Abdul Samad,CV Varun,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,14,1,Abdul Samad,SP Narine,RA Tripathi,6,0,6,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,14,2,Abdul Samad,SP Narine,RA Tripathi,0,0,0,,0,0,0,0,0,True,run out,RA Tripathi,"Rahmanullah Gurbaz, AD Russell",death
+1,Sunrisers Hyderabad,14,3,Sanvir Singh,SP Narine,Abdul Samad,0,0,0,,0,0,0,0,0,True,bowled,Sanvir Singh,,death
+1,Sunrisers Hyderabad,14,4,PJ Cummins,SP Narine,Abdul Samad,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,14,5,PJ Cummins,SP Narine,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,14,6,PJ Cummins,SP Narine,Abdul Samad,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,15,1,Abdul Samad,Harshit Rana,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,15,2,Abdul Samad,Harshit Rana,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,15,3,PJ Cummins,Harshit Rana,Abdul Samad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,15,4,Abdul Samad,Harshit Rana,PJ Cummins,0,0,0,,0,0,0,0,0,True,caught,Abdul Samad,SS Iyer,death
+1,Sunrisers Hyderabad,15,5,B Kumar,Harshit Rana,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,15,6,B Kumar,Harshit Rana,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,1,PJ Cummins,CV Varun,B Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,2,PJ Cummins,CV Varun,B Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,3,PJ Cummins,CV Varun,B Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,4,PJ Cummins,CV Varun,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,5,B Kumar,CV Varun,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,6,B Kumar,CV Varun,PJ Cummins,0,0,0,,0,0,0,0,0,True,lbw,B Kumar,,death
+1,Sunrisers Hyderabad,17,1,PJ Cummins,Harshit Rana,V Viyaskanth,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,2,PJ Cummins,Harshit Rana,V Viyaskanth,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,3,PJ Cummins,Harshit Rana,V Viyaskanth,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,4,V Viyaskanth,Harshit Rana,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,5,PJ Cummins,Harshit Rana,V Viyaskanth,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,6,PJ Cummins,Harshit Rana,V Viyaskanth,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,1,PJ Cummins,CV Varun,V Viyaskanth,6,0,6,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,2,PJ Cummins,CV Varun,V Viyaskanth,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,3,V Viyaskanth,CV Varun,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,4,PJ Cummins,CV Varun,V Viyaskanth,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,5,V Viyaskanth,CV Varun,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,6,PJ Cummins,CV Varun,V Viyaskanth,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,1,PJ Cummins,MA Starc,V Viyaskanth,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,2,PJ Cummins,MA Starc,V Viyaskanth,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,3,V Viyaskanth,MA Starc,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,4,PJ Cummins,MA Starc,V Viyaskanth,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,5,PJ Cummins,MA Starc,V Viyaskanth,6,0,6,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,6,PJ Cummins,MA Starc,V Viyaskanth,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,1,V Viyaskanth,AD Russell,PJ Cummins,3,0,3,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,2,PJ Cummins,AD Russell,V Viyaskanth,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,3,PJ Cummins,AD Russell,V Viyaskanth,0,0,0,,0,0,0,0,0,True,caught,PJ Cummins,Rahmanullah Gurbaz,death
+2,Kolkata Knight Riders,1,1,Rahmanullah Gurbaz,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,Rahmanullah Gurbaz,B Kumar,SP Narine,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,Rahmanullah Gurbaz,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,Rahmanullah Gurbaz,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5,Rahmanullah Gurbaz,B Kumar,SP Narine,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,Rahmanullah Gurbaz,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,SP Narine,PJ Cummins,Rahmanullah Gurbaz,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,SP Narine,PJ Cummins,Rahmanullah Gurbaz,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,SP Narine,PJ Cummins,Rahmanullah Gurbaz,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,Rahmanullah Gurbaz,PJ Cummins,SP Narine,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,Rahmanullah Gurbaz,PJ Cummins,SP Narine,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6.wides,Rahmanullah Gurbaz,PJ Cummins,SP Narine,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,Rahmanullah Gurbaz,PJ Cummins,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,SP Narine,B Kumar,Rahmanullah Gurbaz,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,SP Narine,B Kumar,Rahmanullah Gurbaz,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,Rahmanullah Gurbaz,B Kumar,SP Narine,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,Rahmanullah Gurbaz,B Kumar,SP Narine,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,Rahmanullah Gurbaz,B Kumar,SP Narine,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,SP Narine,B Kumar,Rahmanullah Gurbaz,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,Rahmanullah Gurbaz,T Natarajan,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,Rahmanullah Gurbaz,T Natarajan,SP Narine,0,0,0,,0,0,0,0,0,True,caught,Rahmanullah Gurbaz,V Viyaskanth,powerplay
+2,Kolkata Knight Riders,4,3,VR Iyer,T Natarajan,SP Narine,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,VR Iyer,T Natarajan,SP Narine,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,SP Narine,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,SP Narine,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,VR Iyer,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,VR Iyer,B Kumar,SP Narine,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,5,3,VR Iyer,B Kumar,SP Narine,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,5,4,VR Iyer,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,5,5,VR Iyer,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,5,6,VR Iyer,B Kumar,SP Narine,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,1,SP Narine,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,2,SP Narine,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,3,SP Narine,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,4,SP Narine,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5.wides,SP Narine,T Natarajan,VR Iyer,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5,SP Narine,T Natarajan,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,SP Narine,T Natarajan,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,SP Narine,PJ Cummins,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,SP Narine,PJ Cummins,VR Iyer,0,0,0,,0,0,0,0,0,True,caught,SP Narine,V Viyaskanth,middle
+2,Kolkata Knight Riders,7,3,SS Iyer,PJ Cummins,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,VR Iyer,PJ Cummins,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,VR Iyer,PJ Cummins,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,VR Iyer,PJ Cummins,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,SS Iyer,V Viyaskanth,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,VR Iyer,V Viyaskanth,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,VR Iyer,V Viyaskanth,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,SS Iyer,V Viyaskanth,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,VR Iyer,V Viyaskanth,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,SS Iyer,V Viyaskanth,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,SS Iyer,PJ Cummins,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,VR Iyer,PJ Cummins,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,VR Iyer,PJ Cummins,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,VR Iyer,PJ Cummins,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,SS Iyer,PJ Cummins,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,SS Iyer,PJ Cummins,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,1,SS Iyer,V Viyaskanth,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,2,SS Iyer,V Viyaskanth,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,3,VR Iyer,V Viyaskanth,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,4,SS Iyer,V Viyaskanth,VR Iyer,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,5,SS Iyer,V Viyaskanth,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,6,VR Iyer,V Viyaskanth,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,1,SS Iyer,T Natarajan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,2,SS Iyer,T Natarajan,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,3,SS Iyer,T Natarajan,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,4,VR Iyer,T Natarajan,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,5,VR Iyer,T Natarajan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,6,SS Iyer,T Natarajan,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,1,VR Iyer,TM Head,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,2,VR Iyer,TM Head,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,3,VR Iyer,TM Head,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,4,SS Iyer,TM Head,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,5,SS Iyer,TM Head,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,6,VR Iyer,TM Head,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,1,SS Iyer,Nithish Kumar Reddy,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,2,VR Iyer,Nithish Kumar Reddy,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,3,SS Iyer,Nithish Kumar Reddy,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,SS Iyer,Nithish Kumar Reddy,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,VR Iyer,Nithish Kumar Reddy,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,VR Iyer,Nithish Kumar Reddy,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,SS Iyer,TM Head,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,SS Iyer,TM Head,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,SS Iyer,TM Head,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4,SS Iyer,TM Head,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,death

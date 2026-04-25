@@ -1,0 +1,240 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1.wides,DA Warner,RP Singh,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,1,DA Warner,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,DA Warner,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,DA Warner,RP Singh,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,DA Warner,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,DA Warner,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,DA Warner,RP Singh,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,DA Warner,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,True,bowled,DA Warner,,powerplay
+1,Delhi Daredevils,2,2,NV Ojha,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,NV Ojha,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,NV Ojha,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,True,lbw,NV Ojha,,powerplay
+1,Delhi Daredevils,2,5,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,V Sehwag,RP Singh,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,V Sehwag,RP Singh,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,V Sehwag,RP Singh,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,V Sehwag,RP Singh,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,V Sehwag,RP Singh,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,V Sehwag,RP Singh,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,V Sehwag,S Sreesanth,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,Y Venugopal Rao,S Sreesanth,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,V Sehwag,S Sreesanth,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,V Sehwag,S Sreesanth,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6.wides,V Sehwag,S Sreesanth,Y Venugopal Rao,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,V Sehwag,S Sreesanth,Y Venugopal Rao,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,V Sehwag,RP Singh,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,V Sehwag,RP Singh,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,V Sehwag,RP Singh,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,V Sehwag,RP Singh,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,V Sehwag,RP Singh,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,V Sehwag,RP Singh,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,Y Venugopal Rao,S Sreesanth,V Sehwag,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,V Sehwag,S Sreesanth,Y Venugopal Rao,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,6,4.wides,Y Venugopal Rao,S Sreesanth,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,Y Venugopal Rao,S Sreesanth,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,V Sehwag,RA Jadeja,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,Y Venugopal Rao,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,True,lbw,Y Venugopal Rao,,middle
+1,Delhi Daredevils,7,3,Y Nagar,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,Y Nagar,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,Y Nagar,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,Y Nagar,RA Jadeja,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,Y Nagar,S Sreesanth,V Sehwag,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Delhi Daredevils,8,2,V Sehwag,S Sreesanth,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,V Sehwag,S Sreesanth,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,V Sehwag,S Sreesanth,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,V Sehwag,S Sreesanth,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,Y Nagar,S Sreesanth,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,Y Nagar,RA Jadeja,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,V Sehwag,RA Jadeja,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,Y Nagar,RA Jadeja,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,V Sehwag,RA Jadeja,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,V Sehwag,RA Jadeja,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,V Sehwag,RA Jadeja,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,Y Nagar,R Vinay Kumar,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,Y Nagar,R Vinay Kumar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,Y Nagar,R Vinay Kumar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,V Sehwag,R Vinay Kumar,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,V Sehwag,R Vinay Kumar,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,Y Nagar,R Vinay Kumar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,V Sehwag,RA Jadeja,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,V Sehwag,RA Jadeja,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,Y Nagar,RA Jadeja,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,V Sehwag,RA Jadeja,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5.wides,Y Nagar,RA Jadeja,V Sehwag,0,3,3,wides,3,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,Y Nagar,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,Y Nagar,RA Jadeja,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,Y Nagar,R Vinay Kumar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,Y Nagar,R Vinay Kumar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,Y Nagar,R Vinay Kumar,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,Y Nagar,R Vinay Kumar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,V Sehwag,R Vinay Kumar,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,Y Nagar,R Vinay Kumar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,Y Nagar,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,Y Nagar,RA Jadeja,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,Y Nagar,RA Jadeja,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,Y Nagar,RA Jadeja,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,V Sehwag,RA Jadeja,Y Nagar,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,V Sehwag,RA Jadeja,Y Nagar,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,Y Nagar,B Akhil,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,Y Nagar,B Akhil,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,Y Nagar,B Akhil,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,V Sehwag,B Akhil,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,Y Nagar,B Akhil,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,Y Nagar,B Akhil,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,V Sehwag,R Vinay Kumar,Y Nagar,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,V Sehwag,R Vinay Kumar,Y Nagar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,V Sehwag,R Vinay Kumar,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,Y Nagar,R Vinay Kumar,V Sehwag,1,0,1,,0,0,0,0,0,True,run out,Y Nagar,"RA Jadeja, PA Patel",middle
+1,Delhi Daredevils,15,5,TR Birt,R Vinay Kumar,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,TR Birt,R Vinay Kumar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1.noballs,TR Birt,B Akhil,V Sehwag,0,2,2,noballs,0,2,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,V Sehwag,B Akhil,TR Birt,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,V Sehwag,B Akhil,TR Birt,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,V Sehwag,B Akhil,TR Birt,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,V Sehwag,B Akhil,TR Birt,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,TR Birt,B Akhil,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,V Sehwag,B Akhil,TR Birt,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,TR Birt,RR Powar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,TR Birt,RR Powar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,TR Birt,RR Powar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,V Sehwag,RR Powar,TR Birt,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,V Sehwag,RR Powar,TR Birt,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,V Sehwag,RR Powar,TR Birt,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,TR Birt,R Vinay Kumar,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,TR Birt,R Vinay Kumar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,TR Birt,R Vinay Kumar,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,TR Birt,R Vinay Kumar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,V Sehwag,R Vinay Kumar,TR Birt,0,0,0,,0,0,0,0,0,True,caught,V Sehwag,BJ Hodge,death
+1,Delhi Daredevils,18,6,TR Birt,R Vinay Kumar,IK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,IK Pathan,RR Powar,TR Birt,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,IK Pathan,RR Powar,TR Birt,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,IK Pathan,RR Powar,TR Birt,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,TR Birt,RR Powar,IK Pathan,0,0,0,,0,0,0,0,0,True,caught,TR Birt,R Vinay Kumar,death
+1,Delhi Daredevils,19,5,IK Pathan,RR Powar,RE van der Merwe,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,RE van der Merwe,RR Powar,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,RE van der Merwe,RP Singh,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,2,RE van der Merwe,RP Singh,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,IK Pathan,RP Singh,RE van der Merwe,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+1,Delhi Daredevils,20,4,IK Pathan,RP Singh,RE van der Merwe,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,IK Pathan,RP Singh,RE van der Merwe,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,RE van der Merwe,RP Singh,IK Pathan,0,0,0,,0,0,0,0,0,True,run out,IK Pathan,RP Singh,death
+2,Kochi Tuskers Kerala,1,1,BB McCullum,IK Pathan,M Klinger,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,2,M Klinger,IK Pathan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,3,M Klinger,IK Pathan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,4,BB McCullum,IK Pathan,M Klinger,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,5,M Klinger,IK Pathan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,6,M Klinger,IK Pathan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,1,BB McCullum,M Morkel,M Klinger,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,2,BB McCullum,M Morkel,M Klinger,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,3,M Klinger,M Morkel,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,4,BB McCullum,M Morkel,M Klinger,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,5,BB McCullum,M Morkel,M Klinger,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,6,M Klinger,M Morkel,BB McCullum,0,0,0,,0,0,0,0,0,True,caught,M Klinger,RE van der Merwe,powerplay
+2,Kochi Tuskers Kerala,3,1.wides,BB McCullum,IK Pathan,PA Patel,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,1,BB McCullum,IK Pathan,PA Patel,0,0,0,,0,0,0,0,0,True,bowled,BB McCullum,,powerplay
+2,Kochi Tuskers Kerala,3,2,DPMD Jayawardene,IK Pathan,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,3,PA Patel,IK Pathan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,4,DPMD Jayawardene,IK Pathan,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,5,DPMD Jayawardene,IK Pathan,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,6,PA Patel,IK Pathan,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,1,DPMD Jayawardene,UT Yadav,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,2,DPMD Jayawardene,UT Yadav,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,3,DPMD Jayawardene,UT Yadav,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,4,DPMD Jayawardene,UT Yadav,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,5,DPMD Jayawardene,UT Yadav,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,6,DPMD Jayawardene,UT Yadav,PA Patel,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,1,DPMD Jayawardene,IK Pathan,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,2,DPMD Jayawardene,IK Pathan,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,3,PA Patel,IK Pathan,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,bowled,PA Patel,,powerplay
+2,Kochi Tuskers Kerala,5,4,BJ Hodge,IK Pathan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,5,DPMD Jayawardene,IK Pathan,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,6,DPMD Jayawardene,IK Pathan,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,6,1,BJ Hodge,UT Yadav,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,6,2,BJ Hodge,UT Yadav,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,6,3,BJ Hodge,UT Yadav,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,6,4,BJ Hodge,UT Yadav,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,6,5,BJ Hodge,UT Yadav,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,6,BJ Hodge,UT Yadav,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,1,DPMD Jayawardene,M Morkel,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,2,DPMD Jayawardene,M Morkel,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,3,DPMD Jayawardene,M Morkel,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,4,DPMD Jayawardene,M Morkel,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,5,DPMD Jayawardene,M Morkel,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,6,BJ Hodge,M Morkel,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,1,DPMD Jayawardene,AB Agarkar,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,2,DPMD Jayawardene,AB Agarkar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,3,BJ Hodge,AB Agarkar,DPMD Jayawardene,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,4,BJ Hodge,AB Agarkar,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,5,BJ Hodge,AB Agarkar,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,6,DPMD Jayawardene,AB Agarkar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,1,DPMD Jayawardene,RE van der Merwe,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,2,BJ Hodge,RE van der Merwe,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,3,BJ Hodge,RE van der Merwe,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,4,DPMD Jayawardene,RE van der Merwe,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,5,DPMD Jayawardene,RE van der Merwe,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,6,DPMD Jayawardene,RE van der Merwe,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,1,DPMD Jayawardene,AB Agarkar,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,2,DPMD Jayawardene,AB Agarkar,BJ Hodge,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,3,BJ Hodge,AB Agarkar,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,4,DPMD Jayawardene,AB Agarkar,BJ Hodge,0,0,0,,0,0,0,0,0,True,caught,DPMD Jayawardene,V Sehwag,middle
+2,Kochi Tuskers Kerala,10,5,RA Jadeja,AB Agarkar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,6,BJ Hodge,AB Agarkar,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,1,RA Jadeja,RE van der Merwe,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,2,RA Jadeja,RE van der Merwe,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,3,BJ Hodge,RE van der Merwe,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,4,RA Jadeja,RE van der Merwe,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,5,BJ Hodge,RE van der Merwe,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,6,BJ Hodge,RE van der Merwe,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,12,1,BJ Hodge,AB Agarkar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,12,2,RA Jadeja,AB Agarkar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,12,3,BJ Hodge,AB Agarkar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,12,4,RA Jadeja,AB Agarkar,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,12,5,RA Jadeja,AB Agarkar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,12,6,BJ Hodge,AB Agarkar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,13,1,BJ Hodge,IK Pathan,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,13,2,BJ Hodge,IK Pathan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,3,RA Jadeja,IK Pathan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,4,BJ Hodge,IK Pathan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,5,RA Jadeja,IK Pathan,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,6,RA Jadeja,IK Pathan,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,1,BJ Hodge,M Morkel,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,BJ Hodge,NV Ojha,death
+2,Kochi Tuskers Kerala,14,2,B Akhil,M Morkel,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,3,RA Jadeja,M Morkel,B Akhil,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,4,RA Jadeja,M Morkel,B Akhil,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,5,B Akhil,M Morkel,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,6,B Akhil,M Morkel,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,1,B Akhil,UT Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,2,B Akhil,UT Yadav,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,3,B Akhil,UT Yadav,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,4,B Akhil,UT Yadav,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,5,B Akhil,UT Yadav,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,6,RA Jadeja,UT Yadav,B Akhil,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,1,RA Jadeja,M Morkel,B Akhil,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,2,B Akhil,M Morkel,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,B Akhil,NV Ojha,death
+2,Kochi Tuskers Kerala,16,3,R Vinay Kumar,M Morkel,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,4,RA Jadeja,M Morkel,R Vinay Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,5,RA Jadeja,M Morkel,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,6,R Vinay Kumar,M Morkel,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,1,RA Jadeja,RE van der Merwe,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,2,R Vinay Kumar,RE van der Merwe,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,3,RA Jadeja,RE van der Merwe,R Vinay Kumar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,4,RA Jadeja,RE van der Merwe,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,5,RA Jadeja,RE van der Merwe,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,6,R Vinay Kumar,RE van der Merwe,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,18,1,R Vinay Kumar,AB Agarkar,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,18,2,R Vinay Kumar,AB Agarkar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,18,3,RA Jadeja,AB Agarkar,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,18,4,R Vinay Kumar,AB Agarkar,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,18,5,R Vinay Kumar,AB Agarkar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,18,6,RA Jadeja,AB Agarkar,R Vinay Kumar,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,RE van der Merwe,death
+2,Kochi Tuskers Kerala,19,1,RR Powar,RE van der Merwe,R Vinay Kumar,0,0,0,,0,0,0,0,0,True,bowled,RR Powar,,death
+2,Kochi Tuskers Kerala,19,2,S Sreesanth,RE van der Merwe,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,19,3,S Sreesanth,RE van der Merwe,R Vinay Kumar,0,0,0,,0,0,0,0,0,True,bowled,S Sreesanth,,death
+2,Kochi Tuskers Kerala,19,4,RP Singh,RE van der Merwe,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,19,5,R Vinay Kumar,RE van der Merwe,RP Singh,0,0,0,,0,0,0,0,0,True,caught,R Vinay Kumar,UT Yadav,death

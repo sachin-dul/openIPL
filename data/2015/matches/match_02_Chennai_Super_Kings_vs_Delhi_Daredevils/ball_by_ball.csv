@@ -1,0 +1,249 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,DR Smith,JA Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,DR Smith,JA Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,DR Smith,JA Morkel,BB McCullum,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,DR Smith,JA Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,DR Smith,JA Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,DR Smith,JA Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,BB McCullum,NM Coulter-Nile,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,BB McCullum,NM Coulter-Nile,DR Smith,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,Yuvraj Singh,powerplay
+1,Chennai Super Kings,2,3.noballs,DR Smith,NM Coulter-Nile,SK Raina,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,DR Smith,NM Coulter-Nile,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,SK Raina,NM Coulter-Nile,DR Smith,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,DR Smith,NM Coulter-Nile,SK Raina,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,SK Raina,NM Coulter-Nile,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,DR Smith,DJ Muthuswami,SK Raina,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,DR Smith,DJ Muthuswami,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,DR Smith,DJ Muthuswami,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,DR Smith,DJ Muthuswami,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,DR Smith,DJ Muthuswami,SK Raina,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,DR Smith,DJ Muthuswami,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,SK Raina,NM Coulter-Nile,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,DR Smith,NM Coulter-Nile,SK Raina,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,SK Raina,NM Coulter-Nile,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,SK Raina,NM Coulter-Nile,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,SK Raina,NM Coulter-Nile,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,SK Raina,NM Coulter-Nile,DR Smith,0,0,0,,0,0,0,0,0,True,bowled,SK Raina,,powerplay
+1,Chennai Super Kings,5,1,DR Smith,DJ Muthuswami,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,DR Smith,DJ Muthuswami,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,F du Plessis,DJ Muthuswami,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,DR Smith,DJ Muthuswami,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,DR Smith,DJ Muthuswami,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,F du Plessis,DJ Muthuswami,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,DR Smith,JA Morkel,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,F du Plessis,JA Morkel,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,F du Plessis,JA Morkel,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,DR Smith,JA Morkel,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,F du Plessis,JA Morkel,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6.wides,F du Plessis,JA Morkel,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,F du Plessis,JA Morkel,DR Smith,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,DR Smith,Imran Tahir,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,DR Smith,Imran Tahir,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,F du Plessis,Imran Tahir,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,DR Smith,Imran Tahir,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,DR Smith,Imran Tahir,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,DR Smith,Imran Tahir,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,F du Plessis,A Mishra,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,F du Plessis,A Mishra,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,DR Smith,A Mishra,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,F du Plessis,A Mishra,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,DR Smith,A Mishra,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,DR Smith,A Mishra,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,DR Smith,Imran Tahir,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,DR Smith,NM Coulter-Nile,middle
+1,Chennai Super Kings,9,2,F du Plessis,Imran Tahir,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,F du Plessis,Imran Tahir,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,F du Plessis,Imran Tahir,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,RA Jadeja,Imran Tahir,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,RA Jadeja,Imran Tahir,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,F du Plessis,A Mishra,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,F du Plessis,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,RA Jadeja,A Mishra,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,RA Jadeja,A Mishra,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,RA Jadeja,A Mishra,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,RA Jadeja,A Mishra,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,RA Jadeja,JP Duminy,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2.wides,RA Jadeja,JP Duminy,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,RA Jadeja,JP Duminy,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,F du Plessis,JP Duminy,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,F du Plessis,JP Duminy,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,F du Plessis,JP Duminy,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,F du Plessis,JP Duminy,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,RA Jadeja,A Mishra,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,RA Jadeja,A Mishra,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,RA Jadeja,A Mishra,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,F du Plessis,A Mishra,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,F du Plessis,A Mishra,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,F du Plessis,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,F du Plessis,JP Duminy,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,F du Plessis,JP Duminy,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,SS Iyer,middle
+1,Chennai Super Kings,13,3,RA Jadeja,JP Duminy,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,MS Dhoni,JP Duminy,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,RA Jadeja,JP Duminy,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,MS Dhoni,JP Duminy,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,RA Jadeja,JA Morkel,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,RA Jadeja,JA Morkel,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,MS Dhoni,JA Morkel,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,MS Dhoni,JA Morkel,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,MS Dhoni,JA Morkel,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,RA Jadeja,JA Morkel,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,MS Dhoni,Imran Tahir,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,RA Jadeja,Imran Tahir,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,MS Dhoni,Imran Tahir,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,MS Dhoni,Imran Tahir,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,MS Dhoni,Imran Tahir,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,MS Dhoni,Imran Tahir,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,MS Dhoni,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,RA Jadeja,A Mishra,MS Dhoni,0,0,0,,0,0,0,0,0,True,stumped,RA Jadeja,CM Gautam,death
+1,Chennai Super Kings,16,3,DJ Bravo,A Mishra,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,MS Dhoni,A Mishra,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,MS Dhoni,A Mishra,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,DJ Bravo,A Mishra,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,MS Dhoni,DJ Muthuswami,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,MS Dhoni,DJ Muthuswami,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,MS Dhoni,DJ Muthuswami,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,DJ Bravo,DJ Muthuswami,MS Dhoni,0,0,0,,0,0,0,0,0,True,lbw,DJ Bravo,,death
+1,Chennai Super Kings,17,5,R Ashwin,DJ Muthuswami,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,R Ashwin,DJ Muthuswami,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,MS Dhoni,NM Coulter-Nile,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,MS Dhoni,NM Coulter-Nile,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,MS Dhoni,NM Coulter-Nile,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,MS Dhoni,NM Coulter-Nile,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,MS Dhoni,NM Coulter-Nile,R Ashwin,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Chennai Super Kings,18,6,R Ashwin,NM Coulter-Nile,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,MS Dhoni,Imran Tahir,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,R Ashwin,Imran Tahir,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,R Ashwin,Imran Tahir,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,R Ashwin,Imran Tahir,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,MS Dhoni,Imran Tahir,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,R Ashwin,Imran Tahir,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,MS Dhoni,NM Coulter-Nile,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,R Ashwin,NM Coulter-Nile,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,MS Dhoni,NM Coulter-Nile,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,MS Dhoni,NM Coulter-Nile,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,MS Dhoni,NM Coulter-Nile,R Ashwin,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,MA Agarwal,death
+1,Chennai Super Kings,20,6,MM Sharma,NM Coulter-Nile,R Ashwin,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,1,1,MA Agarwal,A Nehra,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,2,MA Agarwal,A Nehra,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,3,MA Agarwal,A Nehra,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,4,MA Agarwal,A Nehra,CM Gautam,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,5,MA Agarwal,A Nehra,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,6,MA Agarwal,A Nehra,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,1,CM Gautam,MM Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,2,MA Agarwal,MM Sharma,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,3,MA Agarwal,MM Sharma,CM Gautam,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,4,CM Gautam,MM Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,5,MA Agarwal,MM Sharma,CM Gautam,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,6,MA Agarwal,MM Sharma,CM Gautam,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,1,CM Gautam,A Nehra,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,2,CM Gautam,A Nehra,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,3,CM Gautam,A Nehra,MA Agarwal,0,0,0,,0,0,0,0,0,True,caught,CM Gautam,DJ Bravo,powerplay
+2,Delhi Daredevils,3,4,JA Morkel,A Nehra,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,5,MA Agarwal,A Nehra,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,6,MA Agarwal,A Nehra,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,MS Dhoni,powerplay
+2,Delhi Daredevils,4,1,JA Morkel,MM Sharma,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,2,SS Iyer,MM Sharma,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,3,JA Morkel,MM Sharma,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,4,JA Morkel,MM Sharma,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,5,SS Iyer,MM Sharma,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,6.wides,JA Morkel,MM Sharma,SS Iyer,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,6,JA Morkel,MM Sharma,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,1,SS Iyer,A Nehra,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,2,SS Iyer,A Nehra,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,3,JA Morkel,A Nehra,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,4,SS Iyer,A Nehra,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,5,SS Iyer,A Nehra,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,6,SS Iyer,A Nehra,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,SS Iyer,F du Plessis,powerplay
+2,Delhi Daredevils,6,1,JA Morkel,MM Sharma,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,6,2,JA Morkel,MM Sharma,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,6,3,JA Morkel,MM Sharma,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,6,4,KM Jadhav,MM Sharma,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,6,5,KM Jadhav,MM Sharma,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,6,6,KM Jadhav,MM Sharma,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,7,1,JA Morkel,IC Pandey,KM Jadhav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,2,JA Morkel,IC Pandey,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,3,JA Morkel,IC Pandey,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,4,JA Morkel,IC Pandey,KM Jadhav,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,5,JA Morkel,IC Pandey,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,6,JA Morkel,IC Pandey,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,1,JA Morkel,R Ashwin,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,2,KM Jadhav,R Ashwin,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,3,JA Morkel,R Ashwin,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,4,JA Morkel,R Ashwin,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,5,JA Morkel,R Ashwin,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,6,KM Jadhav,R Ashwin,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,1,KM Jadhav,IC Pandey,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,2,JA Morkel,IC Pandey,KM Jadhav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,3,JA Morkel,IC Pandey,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,4,JA Morkel,IC Pandey,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,5,KM Jadhav,IC Pandey,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,6,KM Jadhav,IC Pandey,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,1,KM Jadhav,R Ashwin,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,2,KM Jadhav,R Ashwin,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,3,JA Morkel,R Ashwin,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,4,JA Morkel,R Ashwin,KM Jadhav,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,5,JA Morkel,R Ashwin,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,6,KM Jadhav,R Ashwin,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,1,KM Jadhav,IC Pandey,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,2,KM Jadhav,IC Pandey,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,3,JA Morkel,IC Pandey,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,4,JA Morkel,IC Pandey,KM Jadhav,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,5,JA Morkel,IC Pandey,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,6,KM Jadhav,IC Pandey,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,12,1,JA Morkel,R Ashwin,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,12,2,JA Morkel,R Ashwin,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,12,3,KM Jadhav,R Ashwin,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,12,4,KM Jadhav,R Ashwin,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,12,5,JA Morkel,R Ashwin,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,12,6,KM Jadhav,R Ashwin,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,1.wides,JA Morkel,DJ Bravo,KM Jadhav,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,1,JA Morkel,DJ Bravo,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,2,KM Jadhav,DJ Bravo,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,3,JA Morkel,DJ Bravo,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,4,JA Morkel,DJ Bravo,KM Jadhav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,5,KM Jadhav,DJ Bravo,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,13,6,JA Morkel,DJ Bravo,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,14,1,KM Jadhav,MM Sharma,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,KM Jadhav,RA Jadeja,middle
+2,Delhi Daredevils,14,2,Yuvraj Singh,MM Sharma,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,14,3,JA Morkel,MM Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,14,4,Yuvraj Singh,MM Sharma,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,14,5,Yuvraj Singh,MM Sharma,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,14,6,Yuvraj Singh,MM Sharma,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,15,1.wides,JA Morkel,DJ Bravo,Yuvraj Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,15,1,JA Morkel,DJ Bravo,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,15,2,Yuvraj Singh,DJ Bravo,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,15,3,Yuvraj Singh,DJ Bravo,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,Yuvraj Singh,IC Pandey,middle
+2,Delhi Daredevils,15,4,JP Duminy,DJ Bravo,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,15,5,JA Morkel,DJ Bravo,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,15,6,JP Duminy,DJ Bravo,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,16,1,JP Duminy,IC Pandey,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,2,JA Morkel,IC Pandey,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,3,JP Duminy,IC Pandey,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,4,JP Duminy,IC Pandey,JA Morkel,0,0,0,,0,0,0,0,0,True,bowled,JP Duminy,,death
+2,Delhi Daredevils,16,5,NM Coulter-Nile,IC Pandey,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,6,NM Coulter-Nile,IC Pandey,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,17,1,JA Morkel,DJ Bravo,NM Coulter-Nile,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,17,2,JA Morkel,DJ Bravo,NM Coulter-Nile,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,17,3,JA Morkel,DJ Bravo,NM Coulter-Nile,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,17,4,NM Coulter-Nile,DJ Bravo,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,17,5,JA Morkel,DJ Bravo,NM Coulter-Nile,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,17,6,JA Morkel,DJ Bravo,NM Coulter-Nile,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,18,1,JA Morkel,R Ashwin,NM Coulter-Nile,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,18,2,JA Morkel,R Ashwin,NM Coulter-Nile,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,18,3.wides,JA Morkel,R Ashwin,NM Coulter-Nile,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Daredevils,18,3,JA Morkel,R Ashwin,NM Coulter-Nile,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,18,4,NM Coulter-Nile,R Ashwin,JA Morkel,0,0,0,,0,0,0,0,0,True,bowled,NM Coulter-Nile,,death
+2,Delhi Daredevils,18,5,A Mishra,R Ashwin,JA Morkel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,18,6,A Mishra,R Ashwin,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,19,1,A Mishra,A Nehra,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,19,2,JA Morkel,A Nehra,A Mishra,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,19,3,JA Morkel,A Nehra,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,19,4,A Mishra,A Nehra,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,19,5.wides,A Mishra,A Nehra,JA Morkel,0,1,1,wides,1,0,0,0,0,True,run out,A Mishra,"MS Dhoni, A Nehra",death
+2,Delhi Daredevils,19,5,JA Morkel,A Nehra,Imran Tahir,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,19,6,Imran Tahir,A Nehra,JA Morkel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,20,1,JA Morkel,DJ Bravo,Imran Tahir,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,20,2,JA Morkel,DJ Bravo,Imran Tahir,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,20,3,Imran Tahir,DJ Bravo,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,Imran Tahir,SK Raina,death
+2,Delhi Daredevils,20,4,JA Morkel,DJ Bravo,DJ Muthuswami,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,20,5,JA Morkel,DJ Bravo,DJ Muthuswami,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,20,6,JA Morkel,DJ Bravo,DJ Muthuswami,4,0,4,,0,0,0,0,0,False,,,,death

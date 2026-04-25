@@ -1,0 +1,257 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,LMP Simmons,UT Yadav,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,LMP Simmons,UT Yadav,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,LMP Simmons,UT Yadav,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,PA Patel,UT Yadav,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,PA Patel,UT Yadav,LMP Simmons,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,PA Patel,UT Yadav,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,PA Patel,M Morkel,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,LMP Simmons,M Morkel,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,LMP Simmons,M Morkel,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,LMP Simmons,M Morkel,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,PA Patel,M Morkel,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,LMP Simmons,M Morkel,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,LMP Simmons,Shakib Al Hasan,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,LMP Simmons,Shakib Al Hasan,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,PA Patel,Shakib Al Hasan,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,PA Patel,Shakib Al Hasan,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,PA Patel,Shakib Al Hasan,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,LMP Simmons,Shakib Al Hasan,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,PA Patel,M Morkel,LMP Simmons,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,PA Patel,M Morkel,LMP Simmons,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,PA Patel,M Morkel,LMP Simmons,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,PA Patel,M Morkel,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,LMP Simmons,M Morkel,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,LMP Simmons,M Morkel,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,PA Patel,Shakib Al Hasan,LMP Simmons,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,PA Patel,Shakib Al Hasan,LMP Simmons,0,0,0,,0,0,0,0,0,True,caught,PA Patel,MK Pandey,powerplay
+1,Mumbai Indians,5,3,RG Sharma,Shakib Al Hasan,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,RG Sharma,Shakib Al Hasan,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,RG Sharma,Shakib Al Hasan,LMP Simmons,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,RG Sharma,Shakib Al Hasan,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,RG Sharma,M Morkel,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,LMP Simmons,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3.noballs,LMP Simmons,M Morkel,RG Sharma,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,LMP Simmons,M Morkel,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,LMP Simmons,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,LMP Simmons,MK Pandey,powerplay
+1,Mumbai Indians,6,5.wides,RG Sharma,M Morkel,AT Rayudu,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,RG Sharma,M Morkel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,AT Rayudu,M Morkel,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,RG Sharma,Shakib Al Hasan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,AT Rayudu,Shakib Al Hasan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,AT Rayudu,Shakib Al Hasan,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,AT Rayudu,AD Russell,middle
+1,Mumbai Indians,7,4,RG Sharma,Shakib Al Hasan,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,KA Pollard,Shakib Al Hasan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,KA Pollard,Shakib Al Hasan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,RG Sharma,M Morkel,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,RG Sharma,M Morkel,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,KA Pollard,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4.wides,KA Pollard,M Morkel,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,KA Pollard,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,KA Pollard,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,KA Pollard,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,RG Sharma,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,RG Sharma,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,RG Sharma,PP Chawla,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,RG Sharma,PP Chawla,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,RG Sharma,PP Chawla,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,KA Pollard,PP Chawla,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,RG Sharma,SP Narine,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,KA Pollard,SP Narine,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,KA Pollard,SP Narine,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,KA Pollard,SP Narine,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,KA Pollard,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,RG Sharma,SP Narine,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,KA Pollard,AD Russell,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,RG Sharma,AD Russell,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,KA Pollard,AD Russell,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,KA Pollard,AD Russell,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,KA Pollard,AD Russell,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,KA Pollard,AD Russell,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,RG Sharma,SP Narine,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,KA Pollard,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,RG Sharma,SP Narine,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,RG Sharma,SP Narine,KA Pollard,0,0,0,,0,0,0,0,0,True,bowled,RG Sharma,,middle
+1,Mumbai Indians,12,5,HH Pandya,SP Narine,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,HH Pandya,SP Narine,KA Pollard,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,13,1,HH Pandya,AD Russell,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,KA Pollard,AD Russell,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,KA Pollard,AD Russell,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,HH Pandya,AD Russell,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,KA Pollard,AD Russell,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,KA Pollard,AD Russell,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,KA Pollard,Shakib Al Hasan,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,KA Pollard,Shakib Al Hasan,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,HH Pandya,Shakib Al Hasan,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,KA Pollard,Shakib Al Hasan,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5.wides,HH Pandya,Shakib Al Hasan,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,HH Pandya,Shakib Al Hasan,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,KA Pollard,Shakib Al Hasan,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,HH Pandya,AD Russell,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,HH Pandya,AD Russell,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,HH Pandya,AD Russell,KA Pollard,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,HH Pandya,AD Russell,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,KA Pollard,AD Russell,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,KA Pollard,AD Russell,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,KA Pollard,SP Narine,HH Pandya,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2.wides,KA Pollard,SP Narine,HH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,KA Pollard,SP Narine,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3.wides,HH Pandya,SP Narine,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,HH Pandya,SP Narine,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,KA Pollard,SP Narine,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,HH Pandya,SP Narine,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,KA Pollard,SP Narine,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,KA Pollard,UT Yadav,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,HH Pandya,UT Yadav,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,HH Pandya,UT Yadav,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,HH Pandya,UT Yadav,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,HH Pandya,UT Yadav,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,HH Pandya,UT Yadav,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,HH Pandya,SP Narine,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,KA Pollard,SP Narine,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,HH Pandya,SP Narine,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,KA Pollard,SP Narine,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,HH Pandya,SP Narine,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6.wides,HH Pandya,SP Narine,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,HH Pandya,SP Narine,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,KA Pollard,AD Russell,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2.noballs,HH Pandya,AD Russell,KA Pollard,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,HH Pandya,AD Russell,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,HH Pandya,AD Russell,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,HH Pandya,AD Russell,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,HH Pandya,AD Russell,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,HH Pandya,AD Russell,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,HH Pandya,UT Yadav,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2.noballs,HH Pandya,UT Yadav,KA Pollard,2,1,3,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,HH Pandya,UT Yadav,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,KA Pollard,UT Yadav,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,KA Pollard,UT Yadav,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,HH Pandya,UT Yadav,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,KA Pollard,UT Yadav,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,1,1,RV Uthappa,SL Malinga,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,RV Uthappa,SL Malinga,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,RV Uthappa,SL Malinga,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,RV Uthappa,SL Malinga,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5,RV Uthappa,SL Malinga,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,G Gambhir,SL Malinga,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,RV Uthappa,MJ McClenaghan,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,RV Uthappa,MJ McClenaghan,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,G Gambhir,MJ McClenaghan,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,G Gambhir,MJ McClenaghan,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,G Gambhir,MJ McClenaghan,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,G Gambhir,MJ McClenaghan,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,RV Uthappa,SL Malinga,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,G Gambhir,SL Malinga,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,G Gambhir,SL Malinga,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,G Gambhir,SL Malinga,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,G Gambhir,SL Malinga,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,RV Uthappa,SL Malinga,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,G Gambhir,R Vinay Kumar,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,G Gambhir,R Vinay Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,RV Uthappa,R Vinay Kumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,RV Uthappa,R Vinay Kumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,RV Uthappa,R Vinay Kumar,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,RV Uthappa,R Vinay Kumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,G Gambhir,MJ McClenaghan,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,RV Uthappa,MJ McClenaghan,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,RV Uthappa,MJ McClenaghan,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,RV Uthappa,MJ McClenaghan,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5.wides,G Gambhir,MJ McClenaghan,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,G Gambhir,MJ McClenaghan,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,RV Uthappa,MJ McClenaghan,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,RV Uthappa,Harbhajan Singh,G Gambhir,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2.wides,RV Uthappa,Harbhajan Singh,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,RV Uthappa,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,RV Uthappa,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,SL Malinga,powerplay
+2,Kolkata Knight Riders,6,4,MK Pandey,Harbhajan Singh,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,5,G Gambhir,Harbhajan Singh,MK Pandey,0,0,0,,0,0,0,0,0,True,run out,MK Pandey,LMP Simmons,powerplay
+2,Kolkata Knight Riders,6,6,YK Pathan,Harbhajan Singh,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,7,1,G Gambhir,R Vinay Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,YK Pathan,R Vinay Kumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,YK Pathan,R Vinay Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,G Gambhir,R Vinay Kumar,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,G Gambhir,R Vinay Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,YK Pathan,R Vinay Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1.wides,YK Pathan,Harbhajan Singh,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,YK Pathan,Harbhajan Singh,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,G Gambhir,Harbhajan Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,YK Pathan,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,YK Pathan,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5.wides,YK Pathan,Harbhajan Singh,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,YK Pathan,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,YK Pathan,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,G Gambhir,J Suchith,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,G Gambhir,J Suchith,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,YK Pathan,J Suchith,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,YK Pathan,J Suchith,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,YK Pathan,J Suchith,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,G Gambhir,J Suchith,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,G Gambhir,Harbhajan Singh,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,G Gambhir,Harbhajan Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,YK Pathan,Harbhajan Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,YK Pathan,Harbhajan Singh,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,G Gambhir,Harbhajan Singh,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,G Gambhir,Harbhajan Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,G Gambhir,J Suchith,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,YK Pathan,J Suchith,G Gambhir,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,YK Pathan,J Suchith,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,G Gambhir,J Suchith,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,G Gambhir,J Suchith,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,G Gambhir,J Suchith,YK Pathan,0,0,0,,0,0,0,0,0,True,bowled,G Gambhir,,middle
+2,Kolkata Knight Riders,12,1,YK Pathan,Harbhajan Singh,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,Shakib Al Hasan,Harbhajan Singh,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,Shakib Al Hasan,Harbhajan Singh,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,Shakib Al Hasan,Harbhajan Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,5,YK Pathan,Harbhajan Singh,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,6,Shakib Al Hasan,Harbhajan Singh,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,1,Shakib Al Hasan,HH Pandya,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,2,Shakib Al Hasan,HH Pandya,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,3,Shakib Al Hasan,HH Pandya,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,4,YK Pathan,HH Pandya,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,5,Shakib Al Hasan,HH Pandya,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,6,Shakib Al Hasan,HH Pandya,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,1,YK Pathan,MJ McClenaghan,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,2,Shakib Al Hasan,MJ McClenaghan,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,3,Shakib Al Hasan,MJ McClenaghan,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,4.wides,YK Pathan,MJ McClenaghan,Shakib Al Hasan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,4,YK Pathan,MJ McClenaghan,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,5.wides,Shakib Al Hasan,MJ McClenaghan,YK Pathan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,5,Shakib Al Hasan,MJ McClenaghan,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,6,Shakib Al Hasan,MJ McClenaghan,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,1,Shakib Al Hasan,R Vinay Kumar,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,2,Shakib Al Hasan,R Vinay Kumar,YK Pathan,0,0,0,,0,0,0,0,0,True,caught,Shakib Al Hasan,HH Pandya,middle
+2,Kolkata Knight Riders,15,3,YK Pathan,R Vinay Kumar,AD Russell,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,4,YK Pathan,R Vinay Kumar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,5,AD Russell,R Vinay Kumar,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,6,AD Russell,R Vinay Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,16,1,AD Russell,SL Malinga,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,YK Pathan,SL Malinga,AD Russell,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,YK Pathan,SL Malinga,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,YK Pathan,SL Malinga,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,AD Russell,SL Malinga,YK Pathan,0,0,0,,0,0,0,0,0,True,caught,AD Russell,PA Patel,death
+2,Kolkata Knight Riders,16,6,SA Yadav,SL Malinga,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,YK Pathan,R Vinay Kumar,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,2,YK Pathan,R Vinay Kumar,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,SA Yadav,R Vinay Kumar,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,4,SA Yadav,R Vinay Kumar,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5,SA Yadav,R Vinay Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,YK Pathan,R Vinay Kumar,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1,SA Yadav,MJ McClenaghan,YK Pathan,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,AT Rayudu,death
+2,Kolkata Knight Riders,18,2,YK Pathan,MJ McClenaghan,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,3,YK Pathan,MJ McClenaghan,PP Chawla,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,4,YK Pathan,MJ McClenaghan,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,5,PP Chawla,MJ McClenaghan,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,YK Pathan,MJ McClenaghan,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1,YK Pathan,SL Malinga,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,2,PP Chawla,SL Malinga,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,3,PP Chawla,SL Malinga,YK Pathan,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Kolkata Knight Riders,19,4,YK Pathan,SL Malinga,PP Chawla,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,5,YK Pathan,SL Malinga,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,6,PP Chawla,SL Malinga,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,1,YK Pathan,KA Pollard,PP Chawla,0,0,0,,0,0,0,0,0,True,caught,YK Pathan,PA Patel,death
+2,Kolkata Knight Riders,20,2,UT Yadav,KA Pollard,PP Chawla,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,3,UT Yadav,KA Pollard,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,4.wides,PP Chawla,KA Pollard,UT Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,4,PP Chawla,KA Pollard,UT Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,5,PP Chawla,KA Pollard,UT Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,6,PP Chawla,KA Pollard,UT Yadav,0,0,0,,0,0,0,0,0,False,,,,death

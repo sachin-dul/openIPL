@@ -1,0 +1,229 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Deccan Chargers,1,1,S Sohal,RP Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2,S Dhawan,RP Singh,S Sohal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3,S Dhawan,RP Singh,S Sohal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,4,S Sohal,RP Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,5.wides,S Sohal,RP Singh,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,5,S Sohal,RP Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,6,S Sohal,RP Singh,S Dhawan,0,0,0,,0,0,0,0,0,True,lbw,S Sohal,,powerplay
+1,Deccan Chargers,2,1,S Dhawan,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,2,S Dhawan,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,3,S Dhawan,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,4,S Dhawan,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5,S Dhawan,S Sreesanth,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,6,B Chipli,S Sreesanth,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,1,S Dhawan,RP Singh,B Chipli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,2,S Dhawan,RP Singh,B Chipli,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,RV Gomez,powerplay
+1,Deccan Chargers,3,3,B Chipli,RP Singh,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,4,B Chipli,RP Singh,KC Sangakkara,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,5,KC Sangakkara,RP Singh,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,6,B Chipli,RP Singh,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,1,KC Sangakkara,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,2,KC Sangakkara,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,3,KC Sangakkara,S Sreesanth,B Chipli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,4.noballs,KC Sangakkara,S Sreesanth,B Chipli,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,4.noballs,KC Sangakkara,S Sreesanth,B Chipli,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,4,KC Sangakkara,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,5,KC Sangakkara,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6.wides,KC Sangakkara,S Sreesanth,B Chipli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6,KC Sangakkara,S Sreesanth,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,1,B Chipli,RP Singh,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,2,B Chipli,RP Singh,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,3,B Chipli,RP Singh,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4,KC Sangakkara,RP Singh,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,5,B Chipli,RP Singh,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,6,B Chipli,RP Singh,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,1,KC Sangakkara,R Vinay Kumar,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,2,B Chipli,R Vinay Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,True,caught,B Chipli,S Sreesanth,powerplay
+1,Deccan Chargers,6,3,KC Sangakkara,R Vinay Kumar,CL White,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4,KC Sangakkara,R Vinay Kumar,CL White,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,5,KC Sangakkara,R Vinay Kumar,CL White,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,6,KC Sangakkara,R Vinay Kumar,CL White,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,7,1,CL White,S Sreesanth,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,2,CL White,S Sreesanth,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,3,CL White,S Sreesanth,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,4,CL White,S Sreesanth,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,5,CL White,S Sreesanth,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,6,CL White,S Sreesanth,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1,KC Sangakkara,R Vinay Kumar,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,2,KC Sangakkara,R Vinay Kumar,CL White,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,3,KC Sangakkara,R Vinay Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,4,CL White,R Vinay Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,5,KC Sangakkara,R Vinay Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,6,CL White,R Vinay Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,1,KC Sangakkara,NLTC Perera,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,2,CL White,NLTC Perera,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,3,CL White,NLTC Perera,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,4,CL White,NLTC Perera,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,5,CL White,NLTC Perera,KC Sangakkara,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,6,CL White,NLTC Perera,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1,CL White,RV Gomez,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,2,CL White,RV Gomez,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,3,KC Sangakkara,RV Gomez,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,4,CL White,RV Gomez,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,5,KC Sangakkara,RV Gomez,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,6,CL White,RV Gomez,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,1,KC Sangakkara,NLTC Perera,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,2,CL White,NLTC Perera,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,3,KC Sangakkara,NLTC Perera,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,4,KC Sangakkara,NLTC Perera,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,5,CL White,NLTC Perera,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,6,CL White,NLTC Perera,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,1,KC Sangakkara,R Vinay Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,2,CL White,R Vinay Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,3,CL White,R Vinay Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,4,KC Sangakkara,R Vinay Kumar,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,5,KC Sangakkara,R Vinay Kumar,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,6,KC Sangakkara,R Vinay Kumar,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,1,CL White,RA Jadeja,KC Sangakkara,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,2,CL White,RA Jadeja,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,3,KC Sangakkara,RA Jadeja,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,4,CL White,RA Jadeja,KC Sangakkara,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,5,CL White,RA Jadeja,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,6,KC Sangakkara,RA Jadeja,CL White,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,1,CL White,NLTC Perera,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,2,CL White,NLTC Perera,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,3,KC Sangakkara,NLTC Perera,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,4,KC Sangakkara,NLTC Perera,CL White,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,5,KC Sangakkara,NLTC Perera,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,6,KC Sangakkara,NLTC Perera,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,1,KC Sangakkara,RA Jadeja,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,2,KC Sangakkara,RA Jadeja,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,3,KC Sangakkara,RA Jadeja,CL White,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4,KC Sangakkara,RA Jadeja,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,5,KC Sangakkara,RA Jadeja,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,6,CL White,RA Jadeja,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,16,1,KC Sangakkara,S Sreesanth,CL White,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,2,KC Sangakkara,S Sreesanth,CL White,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Deccan Chargers,16,3,CL White,S Sreesanth,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,4,CL White,S Sreesanth,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,5,KC Sangakkara,S Sreesanth,CL White,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6,KC Sangakkara,S Sreesanth,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,1,KC Sangakkara,R Vinay Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,2,CL White,R Vinay Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,3,KC Sangakkara,R Vinay Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,4,CL White,R Vinay Kumar,KC Sangakkara,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,5,CL White,R Vinay Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,True,caught,CL White,DPMD Jayawardene,death
+1,Deccan Chargers,17,6,KC Sangakkara,R Vinay Kumar,DT Christian,0,0,0,,0,0,0,0,0,True,caught,KC Sangakkara,PA Patel,death
+1,Deccan Chargers,18,1,DT Christian,RA Jadeja,DB Ravi Teja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,2,DT Christian,RA Jadeja,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,3,DT Christian,RA Jadeja,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,4,DB Ravi Teja,RA Jadeja,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5,DT Christian,RA Jadeja,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,6,DT Christian,RA Jadeja,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1,DT Christian,RP Singh,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,2,DB Ravi Teja,RP Singh,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,3,DT Christian,RP Singh,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,4,DT Christian,RP Singh,DB Ravi Teja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,5.wides,DT Christian,RP Singh,DB Ravi Teja,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,5,DT Christian,RP Singh,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,6,DB Ravi Teja,RP Singh,DT Christian,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,1,DT Christian,NLTC Perera,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,2,DB Ravi Teja,NLTC Perera,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,3,DT Christian,NLTC Perera,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,bowled,DT Christian,,death
+1,Deccan Chargers,20,4,A Mishra,NLTC Perera,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,run out,A Mishra,"PA Patel, NLTC Perera",death
+1,Deccan Chargers,20,5,DB Ravi Teja,NLTC Perera,MS Gony,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,6,MS Gony,NLTC Perera,DB Ravi Teja,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Kochi Tuskers Kerala,1,1,BB McCullum,DW Steyn,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,2,BB McCullum,DW Steyn,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,3,BB McCullum,DW Steyn,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,4,BB McCullum,DW Steyn,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,KC Sangakkara,powerplay
+2,Kochi Tuskers Kerala,1,5,PA Patel,DW Steyn,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,6,PA Patel,DW Steyn,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,1,DPMD Jayawardene,I Sharma,PA Patel,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,2,PA Patel,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,caught,PA Patel,KC Sangakkara,powerplay
+2,Kochi Tuskers Kerala,2,3,RV Gomez,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,bowled,RV Gomez,,powerplay
+2,Kochi Tuskers Kerala,2,4,BJ Hodge,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,5.wides,BJ Hodge,I Sharma,DPMD Jayawardene,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,5,BJ Hodge,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,bowled,BJ Hodge,,powerplay
+2,Kochi Tuskers Kerala,2,6,KM Jadhav,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,1,DPMD Jayawardene,DW Steyn,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,2,DPMD Jayawardene,DW Steyn,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,3,DPMD Jayawardene,DW Steyn,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,4,DPMD Jayawardene,DW Steyn,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,5,DPMD Jayawardene,DW Steyn,KM Jadhav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,6,DPMD Jayawardene,DW Steyn,KM Jadhav,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,1,KM Jadhav,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,lbw,KM Jadhav,,powerplay
+2,Kochi Tuskers Kerala,4,2,RA Jadeja,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,3,RA Jadeja,I Sharma,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,4,RA Jadeja,I Sharma,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,5,RA Jadeja,I Sharma,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,4,6,DPMD Jayawardene,I Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,DPMD Jayawardene,KC Sangakkara,powerplay
+2,Kochi Tuskers Kerala,5,1,RA Jadeja,DW Steyn,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,2,NLTC Perera,DW Steyn,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,3,NLTC Perera,DW Steyn,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,4,NLTC Perera,DW Steyn,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,5.wides,NLTC Perera,DW Steyn,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,5,NLTC Perera,DW Steyn,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,6.wides,NLTC Perera,DW Steyn,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,5,6,NLTC Perera,DW Steyn,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,6,1,NLTC Perera,I Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,2,RA Jadeja,I Sharma,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,3,NLTC Perera,I Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,4,NLTC Perera,I Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,5,NLTC Perera,I Sharma,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,6,6,NLTC Perera,I Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,1,RA Jadeja,DT Christian,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,2,RA Jadeja,DT Christian,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,3,RA Jadeja,DT Christian,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,4,RA Jadeja,DT Christian,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,5,RA Jadeja,DT Christian,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,7,6,NLTC Perera,DT Christian,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,1,RA Jadeja,MS Gony,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,2,RA Jadeja,MS Gony,NLTC Perera,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,3,RA Jadeja,MS Gony,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,4,NLTC Perera,MS Gony,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,5,NLTC Perera,MS Gony,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,8,6,NLTC Perera,MS Gony,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,1,RA Jadeja,DT Christian,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,2.wides,RA Jadeja,DT Christian,NLTC Perera,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,2,RA Jadeja,DT Christian,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,3,NLTC Perera,DT Christian,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,4,NLTC Perera,DT Christian,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,5,NLTC Perera,DT Christian,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,9,6,NLTC Perera,DT Christian,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,1,RA Jadeja,A Mishra,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,2,RA Jadeja,A Mishra,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,3,NLTC Perera,A Mishra,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,4,NLTC Perera,A Mishra,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,5,NLTC Perera,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,10,6,RA Jadeja,A Mishra,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,1,NLTC Perera,MS Gony,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,2,RA Jadeja,MS Gony,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,3,RA Jadeja,MS Gony,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,11,4,NLTC Perera,MS Gony,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,NLTC Perera,CL White,middle
+2,Kochi Tuskers Kerala,11,5,R Vinay Kumar,MS Gony,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,11,6,RA Jadeja,MS Gony,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,1,R Vinay Kumar,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,2,RA Jadeja,A Mishra,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,3,R Vinay Kumar,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,4,RA Jadeja,A Mishra,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,5,R Vinay Kumar,A Mishra,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,12,6,R Vinay Kumar,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,1,R Vinay Kumar,MS Gony,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,2,RA Jadeja,MS Gony,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,3,R Vinay Kumar,MS Gony,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,4,R Vinay Kumar,MS Gony,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,5,R Vinay Kumar,MS Gony,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,13,6,R Vinay Kumar,MS Gony,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,1,R Vinay Kumar,A Mishra,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,2,R Vinay Kumar,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,3,RA Jadeja,A Mishra,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,4,R Vinay Kumar,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,14,5,RA Jadeja,A Mishra,R Vinay Kumar,0,2,2,legbyes,0,0,0,2,0,False,,,,death
+2,Kochi Tuskers Kerala,14,6,RA Jadeja,A Mishra,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,1,RA Jadeja,DT Christian,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,2,RA Jadeja,DT Christian,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,3,R Vinay Kumar,DT Christian,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,4,R Vinay Kumar,DT Christian,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,5,R Vinay Kumar,DT Christian,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,15,6,RA Jadeja,DT Christian,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,1,RA Jadeja,A Mishra,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,2,RA Jadeja,A Mishra,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,3,RA Jadeja,A Mishra,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,4,RA Jadeja,A Mishra,R Vinay Kumar,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,DT Christian,death
+2,Kochi Tuskers Kerala,16,5,R Vinay Kumar,A Mishra,S Sreesanth,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,16,6,S Sreesanth,A Mishra,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,1,R Vinay Kumar,DW Steyn,S Sreesanth,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,17,2,R Vinay Kumar,DW Steyn,S Sreesanth,0,0,0,,0,0,0,0,0,True,bowled,R Vinay Kumar,,death
+2,Kochi Tuskers Kerala,17,3,RP Singh,DW Steyn,S Sreesanth,0,0,0,,0,0,0,0,0,True,bowled,RP Singh,,death

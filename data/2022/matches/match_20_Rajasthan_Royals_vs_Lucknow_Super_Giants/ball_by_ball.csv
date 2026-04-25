@@ -1,0 +1,251 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Rajasthan Royals,1,1,JC Buttler,PVD Chameera,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,2,D Padikkal,PVD Chameera,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,3,D Padikkal,PVD Chameera,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,4,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,5,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,6,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,1,JC Buttler,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,2,JC Buttler,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,3,JC Buttler,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,4,JC Buttler,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,5,JC Buttler,JO Holder,D Padikkal,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,6,JC Buttler,JO Holder,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,1,D Padikkal,PVD Chameera,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,2,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,3,D Padikkal,PVD Chameera,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,4,JC Buttler,PVD Chameera,D Padikkal,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Rajasthan Royals,3,5.wides,D Padikkal,PVD Chameera,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,5,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,6,D Padikkal,PVD Chameera,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,1,D Padikkal,Ravi Bishnoi,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,2.wides,JC Buttler,Ravi Bishnoi,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,2,JC Buttler,Ravi Bishnoi,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,3,D Padikkal,Ravi Bishnoi,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,4,D Padikkal,Ravi Bishnoi,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,5,D Padikkal,Ravi Bishnoi,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,6,D Padikkal,Ravi Bishnoi,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,1,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,2,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,3,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,4,D Padikkal,PVD Chameera,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,5,JC Buttler,PVD Chameera,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,6.wides,D Padikkal,PVD Chameera,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,6,D Padikkal,PVD Chameera,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,1,JC Buttler,Avesh Khan,D Padikkal,0,0,0,,0,0,0,0,0,True,bowled,JC Buttler,,powerplay
+1,Rajasthan Royals,6,2,SV Samson,Avesh Khan,D Padikkal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,3,SV Samson,Avesh Khan,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,4,SV Samson,Avesh Khan,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,5,SV Samson,Avesh Khan,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,6,SV Samson,Avesh Khan,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,7,1,D Padikkal,Ravi Bishnoi,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,2,SV Samson,Ravi Bishnoi,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,3,SV Samson,Ravi Bishnoi,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,4.wides,D Padikkal,Ravi Bishnoi,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,4,D Padikkal,Ravi Bishnoi,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,5,D Padikkal,Ravi Bishnoi,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,6,SV Samson,Ravi Bishnoi,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,1,D Padikkal,Avesh Khan,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,2,SV Samson,Avesh Khan,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,3,SV Samson,Avesh Khan,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,4,D Padikkal,Avesh Khan,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,5,D Padikkal,Avesh Khan,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,6,D Padikkal,Avesh Khan,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,1,SV Samson,JO Holder,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,2,D Padikkal,JO Holder,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,3,SV Samson,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,True,lbw,SV Samson,,middle
+1,Rajasthan Royals,9,4,HE van der Dussen,JO Holder,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,5,HE van der Dussen,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,6,HE van der Dussen,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,1,D Padikkal,K Gowtham,HE van der Dussen,0,0,0,,0,0,0,0,0,True,caught,D Padikkal,JO Holder,middle
+1,Rajasthan Royals,10,2,SO Hetmyer,K Gowtham,HE van der Dussen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,3,SO Hetmyer,K Gowtham,HE van der Dussen,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,4,SO Hetmyer,K Gowtham,HE van der Dussen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,5,HE van der Dussen,K Gowtham,SO Hetmyer,0,0,0,,0,0,0,0,0,True,bowled,HE van der Dussen,,middle
+1,Rajasthan Royals,10,6,R Ashwin,K Gowtham,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,1,SO Hetmyer,PVD Chameera,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,2,SO Hetmyer,PVD Chameera,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,3,R Ashwin,PVD Chameera,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,4,R Ashwin,PVD Chameera,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,5,R Ashwin,PVD Chameera,SO Hetmyer,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,6,R Ashwin,PVD Chameera,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,1,SO Hetmyer,K Gowtham,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,2,R Ashwin,K Gowtham,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,3,SO Hetmyer,K Gowtham,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,4,R Ashwin,K Gowtham,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,5,SO Hetmyer,K Gowtham,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,6,SO Hetmyer,K Gowtham,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,1,R Ashwin,Ravi Bishnoi,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,2,SO Hetmyer,Ravi Bishnoi,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,3,SO Hetmyer,Ravi Bishnoi,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,4,R Ashwin,Ravi Bishnoi,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,5,SO Hetmyer,Ravi Bishnoi,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,6,SO Hetmyer,Ravi Bishnoi,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,1,SO Hetmyer,K Gowtham,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,2,SO Hetmyer,K Gowtham,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,3,R Ashwin,K Gowtham,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,4,SO Hetmyer,K Gowtham,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,5,SO Hetmyer,K Gowtham,R Ashwin,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Rajasthan Royals,14,6,R Ashwin,K Gowtham,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,1,SO Hetmyer,Ravi Bishnoi,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,2,SO Hetmyer,Ravi Bishnoi,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,3.wides,R Ashwin,Ravi Bishnoi,SO Hetmyer,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,3,R Ashwin,Ravi Bishnoi,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,4,SO Hetmyer,Ravi Bishnoi,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,5,R Ashwin,Ravi Bishnoi,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,6,R Ashwin,Ravi Bishnoi,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,16,1,R Ashwin,K Gowtham,SO Hetmyer,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,2,R Ashwin,K Gowtham,SO Hetmyer,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,3,R Ashwin,K Gowtham,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,4,SO Hetmyer,K Gowtham,R Ashwin,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,5,SO Hetmyer,K Gowtham,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,6,SO Hetmyer,K Gowtham,R Ashwin,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Rajasthan Royals,17,1,SO Hetmyer,Avesh Khan,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,2,R Ashwin,Avesh Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,3,SO Hetmyer,Avesh Khan,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,4,R Ashwin,Avesh Khan,SO Hetmyer,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,5.wides,R Ashwin,Avesh Khan,SO Hetmyer,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,5,R Ashwin,Avesh Khan,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,6,R Ashwin,Avesh Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,1,R Ashwin,JO Holder,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,2,SO Hetmyer,JO Holder,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,3,SO Hetmyer,JO Holder,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,4,SO Hetmyer,JO Holder,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,5,SO Hetmyer,JO Holder,R Ashwin,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,6,SO Hetmyer,JO Holder,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,1,SO Hetmyer,Avesh Khan,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,2,R Ashwin,Avesh Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,True,retired out,R Ashwin,,death
+1,Rajasthan Royals,19,3,SO Hetmyer,Avesh Khan,R Parag,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,4,SO Hetmyer,Avesh Khan,R Parag,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,5,SO Hetmyer,Avesh Khan,R Parag,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,6,R Parag,Avesh Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,1,R Parag,JO Holder,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,2,SO Hetmyer,JO Holder,R Parag,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,3,SO Hetmyer,JO Holder,R Parag,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,4,R Parag,JO Holder,SO Hetmyer,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,5,R Parag,JO Holder,SO Hetmyer,0,0,0,,0,0,0,0,0,True,caught,R Parag,K Gowtham,death
+1,Rajasthan Royals,20,6,TA Boult,JO Holder,SO Hetmyer,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,1,1,KL Rahul,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,True,bowled,KL Rahul,,powerplay
+2,Lucknow Super Giants,1,2.wides,K Gowtham,TA Boult,Q de Kock,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,2,K Gowtham,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,True,lbw,K Gowtham,,powerplay
+2,Lucknow Super Giants,1,3,JO Holder,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,4,JO Holder,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,5,JO Holder,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,6,JO Holder,TA Boult,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,1,Q de Kock,M Prasidh Krishna,JO Holder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,2,Q de Kock,M Prasidh Krishna,JO Holder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,3,JO Holder,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,4,JO Holder,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,5,JO Holder,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,6,JO Holder,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,1,Q de Kock,TA Boult,JO Holder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,2,Q de Kock,TA Boult,JO Holder,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,3,JO Holder,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,4,JO Holder,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,5,JO Holder,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,6,JO Holder,TA Boult,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,1,Q de Kock,M Prasidh Krishna,JO Holder,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Lucknow Super Giants,4,2,JO Holder,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,3,JO Holder,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,JO Holder,R Ashwin,powerplay
+2,Lucknow Super Giants,4,4,DJ Hooda,M Prasidh Krishna,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,5,DJ Hooda,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,6,DJ Hooda,M Prasidh Krishna,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,1,DJ Hooda,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,2,DJ Hooda,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,3,DJ Hooda,TA Boult,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,4,DJ Hooda,TA Boult,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,5,DJ Hooda,TA Boult,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,6,DJ Hooda,TA Boult,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,1,DJ Hooda,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,2,Q de Kock,R Ashwin,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,3,DJ Hooda,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,4,Q de Kock,R Ashwin,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,5,DJ Hooda,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,6,Q de Kock,R Ashwin,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,7,1,DJ Hooda,KR Sen,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,2,DJ Hooda,KR Sen,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,3,Q de Kock,KR Sen,DJ Hooda,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,4,Q de Kock,KR Sen,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,5,Q de Kock,KR Sen,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,6,DJ Hooda,KR Sen,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,1,Q de Kock,YS Chahal,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,2,DJ Hooda,YS Chahal,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,3,Q de Kock,YS Chahal,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,4,DJ Hooda,YS Chahal,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,5,DJ Hooda,YS Chahal,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,6,DJ Hooda,YS Chahal,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,1,DJ Hooda,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,2,Q de Kock,R Ashwin,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,3,DJ Hooda,R Ashwin,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,4,DJ Hooda,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,5,Q de Kock,R Ashwin,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,6,DJ Hooda,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,1,DJ Hooda,KR Sen,Q de Kock,0,0,0,,0,0,0,0,0,True,bowled,DJ Hooda,,middle
+2,Lucknow Super Giants,10,2,A Badoni,KR Sen,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,3,Q de Kock,KR Sen,A Badoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,4,Q de Kock,KR Sen,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,5,A Badoni,KR Sen,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,6,Q de Kock,KR Sen,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,1,A Badoni,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,2,Q de Kock,R Ashwin,A Badoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,3,Q de Kock,R Ashwin,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,4,A Badoni,R Ashwin,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,5,A Badoni,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,6,Q de Kock,R Ashwin,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,1,Q de Kock,YS Chahal,A Badoni,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,2,Q de Kock,YS Chahal,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,3,Q de Kock,YS Chahal,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,4,A Badoni,YS Chahal,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,5,Q de Kock,YS Chahal,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,6,A Badoni,YS Chahal,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,A Badoni,R Parag,middle
+2,Lucknow Super Giants,13,1,Q de Kock,R Ashwin,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,2,KH Pandya,R Ashwin,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,3,KH Pandya,R Ashwin,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,4,KH Pandya,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,5,Q de Kock,R Ashwin,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,6,KH Pandya,R Ashwin,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,1,KH Pandya,KR Sen,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,2,KH Pandya,KR Sen,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,3,Q de Kock,KR Sen,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,4,Q de Kock,KR Sen,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,5,KH Pandya,KR Sen,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,6,KH Pandya,KR Sen,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,1,KH Pandya,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,2,KH Pandya,M Prasidh Krishna,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,3,KH Pandya,M Prasidh Krishna,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,4,Q de Kock,M Prasidh Krishna,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,5,KH Pandya,M Prasidh Krishna,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,6,KH Pandya,M Prasidh Krishna,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,16,1,Q de Kock,YS Chahal,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,2,KH Pandya,YS Chahal,Q de Kock,3,0,3,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,3,Q de Kock,YS Chahal,KH Pandya,0,0,0,,0,0,0,0,0,True,caught,Q de Kock,R Parag,death
+2,Lucknow Super Giants,16,4,MP Stoinis,YS Chahal,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,5,KH Pandya,YS Chahal,MP Stoinis,0,0,0,,0,0,0,0,0,True,bowled,KH Pandya,,death
+2,Lucknow Super Giants,16,6,PVD Chameera,YS Chahal,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,1,MP Stoinis,TA Boult,PVD Chameera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,2,PVD Chameera,TA Boult,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,3,PVD Chameera,TA Boult,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,4,MP Stoinis,TA Boult,PVD Chameera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,5,PVD Chameera,TA Boult,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,6,PVD Chameera,TA Boult,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,1,MP Stoinis,YS Chahal,PVD Chameera,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,2,MP Stoinis,YS Chahal,PVD Chameera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,3,MP Stoinis,YS Chahal,PVD Chameera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,4.wides,PVD Chameera,YS Chahal,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,4,PVD Chameera,YS Chahal,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,5.wides,PVD Chameera,YS Chahal,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,5,PVD Chameera,YS Chahal,MP Stoinis,0,0,0,,0,0,0,0,0,True,lbw,PVD Chameera,,death
+2,Lucknow Super Giants,18,6,Avesh Khan,YS Chahal,MP Stoinis,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,1.wides,MP Stoinis,M Prasidh Krishna,Avesh Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,1,MP Stoinis,M Prasidh Krishna,Avesh Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,2,MP Stoinis,M Prasidh Krishna,Avesh Khan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,3,MP Stoinis,M Prasidh Krishna,Avesh Khan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,4,MP Stoinis,M Prasidh Krishna,Avesh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,5,MP Stoinis,M Prasidh Krishna,Avesh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,6,MP Stoinis,M Prasidh Krishna,Avesh Khan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,1,Avesh Khan,KR Sen,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,2,MP Stoinis,KR Sen,Avesh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,3,MP Stoinis,KR Sen,Avesh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,4,MP Stoinis,KR Sen,Avesh Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,5,MP Stoinis,KR Sen,Avesh Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,6,MP Stoinis,KR Sen,Avesh Khan,6,0,6,,0,0,0,0,0,False,,,,death

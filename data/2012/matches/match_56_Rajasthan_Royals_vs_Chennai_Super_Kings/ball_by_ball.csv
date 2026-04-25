@@ -1,0 +1,244 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Rajasthan Royals,1,1,R Dravid,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,2,R Dravid,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,3,R Dravid,JA Morkel,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,4,R Dravid,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,5,R Dravid,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,6.wides,R Dravid,JA Morkel,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,6,R Dravid,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,1,AM Rahane,BW Hilfenhaus,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,2,AM Rahane,BW Hilfenhaus,R Dravid,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Rajasthan Royals,2,3,R Dravid,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,4,R Dravid,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,5,R Dravid,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,True,caught,R Dravid,MEK Hussey,powerplay
+1,Rajasthan Royals,2,6,SR Watson,BW Hilfenhaus,AM Rahane,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Rajasthan Royals,3,1,AM Rahane,JA Morkel,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,2,AM Rahane,JA Morkel,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,3,SR Watson,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,4,SR Watson,JA Morkel,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,5,SR Watson,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,6,SR Watson,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,1,AM Rahane,BW Hilfenhaus,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,2,AM Rahane,BW Hilfenhaus,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,3,AM Rahane,BW Hilfenhaus,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,4,SR Watson,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,5,SR Watson,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,6,SR Watson,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,1,AM Rahane,JA Morkel,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,2,AM Rahane,JA Morkel,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,3,AM Rahane,JA Morkel,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,4,AM Rahane,JA Morkel,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,5,AM Rahane,JA Morkel,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,6,SR Watson,JA Morkel,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,1,AM Rahane,BW Hilfenhaus,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,2,SR Watson,BW Hilfenhaus,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,3,AM Rahane,BW Hilfenhaus,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,4,SR Watson,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,True,caught,SR Watson,R Ashwin,powerplay
+1,Rajasthan Royals,6,5,STR Binny,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,6,STR Binny,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,7,1,AM Rahane,VY Mahesh,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,2,AM Rahane,VY Mahesh,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,3,AM Rahane,VY Mahesh,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,4,STR Binny,VY Mahesh,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,5,AM Rahane,VY Mahesh,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,6.wides,STR Binny,VY Mahesh,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,6.wides,STR Binny,VY Mahesh,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,6,STR Binny,VY Mahesh,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,1,STR Binny,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,2,STR Binny,BW Hilfenhaus,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,3,STR Binny,BW Hilfenhaus,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,4,STR Binny,BW Hilfenhaus,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,5,AM Rahane,BW Hilfenhaus,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,6,AM Rahane,BW Hilfenhaus,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,1,AM Rahane,VY Mahesh,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,2,STR Binny,VY Mahesh,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,3,STR Binny,VY Mahesh,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,4,AM Rahane,VY Mahesh,STR Binny,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,R Ashwin,middle
+1,Rajasthan Royals,9,5.wides,BJ Hodge,VY Mahesh,STR Binny,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,5,BJ Hodge,VY Mahesh,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,6,STR Binny,VY Mahesh,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,1,STR Binny,DJ Bravo,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,2,STR Binny,DJ Bravo,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,3.wides,BJ Hodge,DJ Bravo,STR Binny,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,3,BJ Hodge,DJ Bravo,STR Binny,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Rajasthan Royals,10,4,STR Binny,DJ Bravo,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,5,STR Binny,DJ Bravo,BJ Hodge,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,6,STR Binny,DJ Bravo,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,1,STR Binny,VY Mahesh,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,2,STR Binny,VY Mahesh,BJ Hodge,0,0,0,,0,0,0,0,0,True,caught,STR Binny,SK Raina,middle
+1,Rajasthan Royals,11,3,J Botha,VY Mahesh,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,4,BJ Hodge,VY Mahesh,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,5,BJ Hodge,VY Mahesh,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,6,BJ Hodge,VY Mahesh,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,1,BJ Hodge,RA Jadeja,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,2,J Botha,RA Jadeja,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,3,J Botha,RA Jadeja,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,4,BJ Hodge,RA Jadeja,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,5,J Botha,RA Jadeja,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,6,J Botha,RA Jadeja,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,1,J Botha,VY Mahesh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,2,J Botha,VY Mahesh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,3,J Botha,VY Mahesh,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,4,BJ Hodge,VY Mahesh,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,5,J Botha,VY Mahesh,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,6,J Botha,VY Mahesh,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,1,BJ Hodge,RA Jadeja,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,2,J Botha,RA Jadeja,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,3,J Botha,RA Jadeja,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,4,BJ Hodge,RA Jadeja,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,5,BJ Hodge,RA Jadeja,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,6,BJ Hodge,RA Jadeja,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,1,BJ Hodge,DJ Bravo,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,2.wides,J Botha,DJ Bravo,BJ Hodge,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,2,J Botha,DJ Bravo,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,3,BJ Hodge,DJ Bravo,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,4,BJ Hodge,DJ Bravo,J Botha,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,5,BJ Hodge,DJ Bravo,J Botha,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,6,BJ Hodge,DJ Bravo,J Botha,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,16,1,J Botha,RA Jadeja,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,2,BJ Hodge,RA Jadeja,J Botha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,3,BJ Hodge,RA Jadeja,J Botha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,4,BJ Hodge,RA Jadeja,J Botha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,5,J Botha,RA Jadeja,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,6,BJ Hodge,RA Jadeja,J Botha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,1,BJ Hodge,R Ashwin,J Botha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,2,J Botha,R Ashwin,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,3,J Botha,R Ashwin,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,4,J Botha,R Ashwin,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,5,BJ Hodge,R Ashwin,J Botha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,6,J Botha,R Ashwin,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,1,J Botha,RA Jadeja,BJ Hodge,0,0,0,,0,0,0,0,0,True,bowled,J Botha,,death
+1,Rajasthan Royals,18,2,AL Menaria,RA Jadeja,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,3,AL Menaria,RA Jadeja,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,4,BJ Hodge,RA Jadeja,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,5,BJ Hodge,RA Jadeja,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,6,AL Menaria,RA Jadeja,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,1,BJ Hodge,R Ashwin,AL Menaria,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,2,BJ Hodge,R Ashwin,AL Menaria,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,3,BJ Hodge,R Ashwin,AL Menaria,0,0,0,,0,0,0,0,0,True,lbw,BJ Hodge,,death
+1,Rajasthan Royals,19,4,DH Yagnik,R Ashwin,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,5,DH Yagnik,R Ashwin,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,6,AL Menaria,R Ashwin,DH Yagnik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,1,DH Yagnik,DJ Bravo,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,2,DH Yagnik,DJ Bravo,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,3,DH Yagnik,DJ Bravo,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,4,DH Yagnik,DJ Bravo,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,5,AL Menaria,DJ Bravo,DH Yagnik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,6,DH Yagnik,DJ Bravo,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,1,1,MEK Hussey,SR Watson,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,2,M Vijay,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,3,M Vijay,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,4,M Vijay,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,5,M Vijay,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,6,M Vijay,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,True,bowled,M Vijay,,powerplay
+2,Chennai Super Kings,2,1,MEK Hussey,Pankaj Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,2,MEK Hussey,Pankaj Singh,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,3,MEK Hussey,Pankaj Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,4,SK Raina,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,5,SK Raina,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6,SK Raina,Pankaj Singh,MEK Hussey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1,MEK Hussey,SW Tait,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2.wides,SK Raina,SW Tait,MEK Hussey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2.wides,SK Raina,SW Tait,MEK Hussey,0,2,2,wides,2,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2.wides,MEK Hussey,SW Tait,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,3,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,4,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,5,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,6,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1.wides,SK Raina,SR Watson,MEK Hussey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1,SK Raina,SR Watson,MEK Hussey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,2,SK Raina,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,3,SK Raina,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,4,SK Raina,SR Watson,MEK Hussey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5,SK Raina,SR Watson,MEK Hussey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,6,SK Raina,SR Watson,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,1,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,2,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3,MEK Hussey,SW Tait,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,4,MEK Hussey,SW Tait,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,5,SK Raina,SW Tait,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,6,SK Raina,SW Tait,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1,SK Raina,Pankaj Singh,MEK Hussey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,2,SK Raina,Pankaj Singh,MEK Hussey,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,3,SK Raina,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,4,SK Raina,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,6,5,SK Raina,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,6,6,SK Raina,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,True,caught,SK Raina,AM Rahane,middle
+2,Chennai Super Kings,7,1,DJ Bravo,J Botha,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,2,MEK Hussey,J Botha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3,DJ Bravo,J Botha,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,4,DJ Bravo,J Botha,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,5,MEK Hussey,J Botha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,6,MEK Hussey,J Botha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,1,MEK Hussey,Pankaj Singh,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,2,MEK Hussey,Pankaj Singh,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,3,DJ Bravo,Pankaj Singh,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,4,DJ Bravo,Pankaj Singh,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,5,MEK Hussey,Pankaj Singh,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,6,MEK Hussey,Pankaj Singh,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,1,DJ Bravo,J Botha,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,2,MEK Hussey,J Botha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3,MEK Hussey,J Botha,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,4,MEK Hussey,J Botha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,5,MEK Hussey,J Botha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,6,DJ Bravo,J Botha,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,1,DJ Bravo,SK Trivedi,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,2,MEK Hussey,SK Trivedi,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,3,MEK Hussey,SK Trivedi,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4,DJ Bravo,SK Trivedi,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,5,MEK Hussey,SK Trivedi,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6,DJ Bravo,SK Trivedi,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,1,MEK Hussey,J Botha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,2,MEK Hussey,J Botha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,3,DJ Bravo,J Botha,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,4,DJ Bravo,J Botha,MEK Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,5,DJ Bravo,J Botha,MEK Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6,MEK Hussey,J Botha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,1,DJ Bravo,SK Trivedi,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,2,DJ Bravo,SK Trivedi,MEK Hussey,0,0,0,,0,0,0,0,0,True,caught,DJ Bravo,STR Binny,middle
+2,Chennai Super Kings,12,3,MS Dhoni,SK Trivedi,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,4,MS Dhoni,SK Trivedi,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5.wides,MS Dhoni,SK Trivedi,MEK Hussey,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5,MS Dhoni,SK Trivedi,MEK Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,6,MS Dhoni,SK Trivedi,MEK Hussey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,1,MEK Hussey,SW Tait,MS Dhoni,0,0,0,,0,0,0,0,0,True,run out,MEK Hussey,SW Tait,death
+2,Chennai Super Kings,13,2,RA Jadeja,SW Tait,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,3,RA Jadeja,SW Tait,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,4,RA Jadeja,SW Tait,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,5,RA Jadeja,SW Tait,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,13,6,MS Dhoni,SW Tait,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,1,RA Jadeja,SK Trivedi,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,2,RA Jadeja,SK Trivedi,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,3,MS Dhoni,SK Trivedi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,4,MS Dhoni,SK Trivedi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,5,MS Dhoni,SK Trivedi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,14,6,MS Dhoni,SK Trivedi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,1,MS Dhoni,J Botha,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,2,MS Dhoni,J Botha,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,3,MS Dhoni,J Botha,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,4,RA Jadeja,J Botha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,5,MS Dhoni,J Botha,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,15,6,RA Jadeja,J Botha,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,1,RA Jadeja,SK Trivedi,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2,MS Dhoni,SK Trivedi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3,MS Dhoni,SK Trivedi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,4,RA Jadeja,SK Trivedi,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,5,RA Jadeja,SK Trivedi,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,6,MS Dhoni,SK Trivedi,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,AM Rahane,death
+2,Chennai Super Kings,17,1,RA Jadeja,Pankaj Singh,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,2,RA Jadeja,Pankaj Singh,JA Morkel,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,J Botha,death
+2,Chennai Super Kings,17,3.wides,S Anirudha,Pankaj Singh,JA Morkel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,3,S Anirudha,Pankaj Singh,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,4,JA Morkel,Pankaj Singh,S Anirudha,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,5,JA Morkel,Pankaj Singh,S Anirudha,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,6,JA Morkel,Pankaj Singh,S Anirudha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,1,JA Morkel,SR Watson,S Anirudha,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,2,JA Morkel,SR Watson,S Anirudha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3,JA Morkel,SR Watson,S Anirudha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,4,S Anirudha,SR Watson,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,5,S Anirudha,SR Watson,JA Morkel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,6,S Anirudha,SR Watson,JA Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1,S Anirudha,SW Tait,JA Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2.noballs,S Anirudha,SW Tait,JA Morkel,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2.wides,S Anirudha,SW Tait,JA Morkel,0,5,5,wides,5,0,0,0,0,False,,,,death

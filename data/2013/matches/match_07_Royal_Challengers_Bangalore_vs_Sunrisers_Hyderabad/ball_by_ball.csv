@@ -1,0 +1,249 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,CH Gayle,DW Steyn,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,TM Dilshan,DW Steyn,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,TM Dilshan,DW Steyn,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,TM Dilshan,DW Steyn,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,TM Dilshan,DW Steyn,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6.wides,TM Dilshan,DW Steyn,CH Gayle,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,TM Dilshan,DW Steyn,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,CH Gayle,GH Vihari,TM Dilshan,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,PA Patel,powerplay
+1,Royal Challengers Bangalore,2,2,V Kohli,GH Vihari,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,TM Dilshan,GH Vihari,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,TM Dilshan,GH Vihari,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,V Kohli,GH Vihari,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,V Kohli,GH Vihari,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,V Kohli,DW Steyn,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,V Kohli,DW Steyn,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,V Kohli,DW Steyn,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,V Kohli,DW Steyn,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,V Kohli,DW Steyn,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6.wides,V Kohli,DW Steyn,TM Dilshan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,V Kohli,DW Steyn,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,V Kohli,I Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,TM Dilshan,I Sharma,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,V Kohli,I Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,TM Dilshan,I Sharma,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,TM Dilshan,,powerplay
+1,Royal Challengers Bangalore,4,5,KK Nair,I Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,V Kohli,I Sharma,KK Nair,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,KK Nair,Ankit Sharma,V Kohli,5,0,5,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,V Kohli,Ankit Sharma,KK Nair,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,V Kohli,Ankit Sharma,KK Nair,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,V Kohli,Ankit Sharma,KK Nair,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,V Kohli,Ankit Sharma,KK Nair,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,KK Nair,Ankit Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,V Kohli,I Sharma,KK Nair,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,V Kohli,I Sharma,KK Nair,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,V Kohli,I Sharma,KK Nair,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,V Kohli,I Sharma,KK Nair,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,KK Nair,I Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,KK Nair,I Sharma,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,V Kohli,NLTC Perera,KK Nair,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,KK Nair,NLTC Perera,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,KK Nair,NLTC Perera,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,KK Nair,NLTC Perera,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,V Kohli,NLTC Perera,KK Nair,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,V Kohli,NLTC Perera,KK Nair,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,KK Nair,A Mishra,V Kohli,0,0,0,,0,0,0,0,0,True,lbw,KK Nair,,middle
+1,Royal Challengers Bangalore,8,2,MC Henriques,A Mishra,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,MC Henriques,A Mishra,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,V Kohli,A Mishra,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,V Kohli,A Mishra,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,V Kohli,A Mishra,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,MC Henriques,NLTC Perera,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,MC Henriques,NLTC Perera,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,V Kohli,NLTC Perera,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,V Kohli,NLTC Perera,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,V Kohli,NLTC Perera,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,MC Henriques,NLTC Perera,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,V Kohli,A Mishra,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,MC Henriques,A Mishra,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,MC Henriques,A Mishra,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,MC Henriques,A Mishra,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,MC Henriques,A Mishra,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,V Kohli,A Mishra,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,MC Henriques,Ankit Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,V Kohli,Ankit Sharma,MC Henriques,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,V Kohli,Ankit Sharma,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,MC Henriques,Ankit Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,MC Henriques,Ankit Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,V Kohli,Ankit Sharma,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,MC Henriques,A Mishra,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,V Kohli,A Mishra,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,MC Henriques,A Mishra,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,MC Henriques,A Mishra,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,MC Henriques,A Mishra,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,V Kohli,A Mishra,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,V Kohli,I Sharma,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,MC Henriques,I Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,V Kohli,I Sharma,MC Henriques,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,V Kohli,I Sharma,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,V Kohli,I Sharma,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,MC Henriques,I Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,MC Henriques,A Ashish Reddy,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,V Kohli,A Ashish Reddy,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,MC Henriques,A Ashish Reddy,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,V Kohli,A Ashish Reddy,MC Henriques,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,V Kohli,A Ashish Reddy,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,V Kohli,A Ashish Reddy,MC Henriques,0,0,0,,0,0,0,0,0,True,caught and bowled,V Kohli,,middle
+1,Royal Challengers Bangalore,15,1,MC Henriques,NLTC Perera,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,MA Agarwal,NLTC Perera,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,MA Agarwal,NLTC Perera,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,MC Henriques,NLTC Perera,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,MC Henriques,NLTC Perera,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,MA Agarwal,NLTC Perera,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,MC Henriques,A Mishra,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,MC Henriques,A Mishra,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,MA Agarwal,A Mishra,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,MA Agarwal,A Mishra,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,MC Henriques,A Mishra,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,MC Henriques,A Mishra,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,MA Agarwal,DW Steyn,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,MC Henriques,DW Steyn,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,MC Henriques,DW Steyn,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,MC Henriques,DW Steyn,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,MA Agarwal,DW Steyn,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,MA Agarwal,DW Steyn,MC Henriques,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,Ankit Sharma,death
+1,Royal Challengers Bangalore,18,1,MC Henriques,NLTC Perera,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,MC Henriques,NLTC Perera,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,MC Henriques,NLTC Perera,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,MC Henriques,NLTC Perera,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,MC Henriques,NLTC Perera,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6.wides,KB Arun Karthik,NLTC Perera,MC Henriques,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,KB Arun Karthik,NLTC Perera,MC Henriques,0,0,0,,0,0,0,0,0,True,caught,KB Arun Karthik,A Ashish Reddy,death
+1,Royal Challengers Bangalore,19,1,MC Henriques,DW Steyn,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,R Vinay Kumar,DW Steyn,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,MC Henriques,DW Steyn,R Vinay Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,MC Henriques,DW Steyn,R Vinay Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,MC Henriques,DW Steyn,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,R Vinay Kumar,DW Steyn,MC Henriques,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,MC Henriques,I Sharma,R Vinay Kumar,0,0,0,,0,0,0,0,0,True,caught,MC Henriques,CL White,death
+1,Royal Challengers Bangalore,20,2,R Vinay Kumar,I Sharma,M Kartik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,R Vinay Kumar,I Sharma,M Kartik,0,0,0,,0,0,0,0,0,True,caught,R Vinay Kumar,KC Sangakkara,death
+1,Royal Challengers Bangalore,20,4,M Kartik,I Sharma,JD Unadkat,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,JD Unadkat,I Sharma,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,M Kartik,I Sharma,JD Unadkat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1,PA Reddy,JD Unadkat,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,PA Patel,JD Unadkat,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,PA Reddy,JD Unadkat,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,PA Patel,JD Unadkat,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,PA Patel,JD Unadkat,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,PA Reddy,JD Unadkat,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,PA Patel,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,True,caught,PA Patel,KB Arun Karthik,powerplay
+2,Sunrisers Hyderabad,2,2.wides,CL White,MC Henriques,PA Reddy,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,CL White,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,CL White,MC Henriques,PA Reddy,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,PA Reddy,MC Henriques,CL White,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,PA Reddy,MC Henriques,CL White,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,PA Reddy,MC Henriques,CL White,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1.wides,CL White,JD Unadkat,PA Reddy,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,CL White,JD Unadkat,PA Reddy,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,CL White,JD Unadkat,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,CL White,JD Unadkat,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,PA Reddy,JD Unadkat,CL White,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,CL White,JD Unadkat,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,CL White,JD Unadkat,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,PA Reddy,MC Henriques,CL White,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,CL White,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,CL White,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,True,caught,CL White,M Muralitharan,powerplay
+2,Sunrisers Hyderabad,4,4,GH Vihari,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,GH Vihari,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,GH Vihari,MC Henriques,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1.wides,PA Reddy,M Kartik,GH Vihari,0,2,2,wides,2,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,GH Vihari,M Kartik,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,PA Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,GH Vihari,M Kartik,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,PA Reddy,M Kartik,GH Vihari,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,PA Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,GH Vihari,M Kartik,PA Reddy,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,GH Vihari,MC Henriques,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,PA Reddy,MC Henriques,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,PA Reddy,MC Henriques,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,GH Vihari,MC Henriques,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,PA Reddy,MC Henriques,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,6,GH Vihari,MC Henriques,PA Reddy,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,7,1,PA Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2.wides,GH Vihari,M Kartik,PA Reddy,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,GH Vihari,M Kartik,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,PA Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,GH Vihari,M Kartik,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,PA Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,GH Vihari,M Kartik,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,PA Reddy,R Vinay Kumar,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,GH Vihari,R Vinay Kumar,PA Reddy,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,GH Vihari,R Vinay Kumar,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,PA Reddy,R Vinay Kumar,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,GH Vihari,R Vinay Kumar,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,PA Reddy,R Vinay Kumar,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,GH Vihari,M Muralitharan,PA Reddy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,PA Reddy,M Muralitharan,GH Vihari,0,0,0,,0,0,0,0,0,True,bowled,PA Reddy,,middle
+2,Sunrisers Hyderabad,9,3,KC Sangakkara,M Muralitharan,GH Vihari,0,3,3,legbyes,0,0,0,3,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,GH Vihari,M Muralitharan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,GH Vihari,M Muralitharan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,KC Sangakkara,M Muralitharan,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,GH Vihari,R Vinay Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,KC Sangakkara,R Vinay Kumar,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,KC Sangakkara,R Vinay Kumar,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,GH Vihari,R Vinay Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,GH Vihari,R Vinay Kumar,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,GH Vihari,R Vinay Kumar,KC Sangakkara,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,KC Sangakkara,M Muralitharan,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,KC Sangakkara,M Muralitharan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,GH Vihari,M Muralitharan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,KC Sangakkara,M Muralitharan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,GH Vihari,M Muralitharan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,GH Vihari,M Muralitharan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,KC Sangakkara,TM Dilshan,GH Vihari,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,KC Sangakkara,TM Dilshan,GH Vihari,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,KC Sangakkara,TM Dilshan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,GH Vihari,TM Dilshan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,KC Sangakkara,TM Dilshan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,GH Vihari,TM Dilshan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,GH Vihari,M Muralitharan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,KC Sangakkara,M Muralitharan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3,GH Vihari,M Muralitharan,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,GH Vihari,M Muralitharan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,KC Sangakkara,M Muralitharan,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,6,KC Sangakkara,M Muralitharan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,1,KC Sangakkara,JD Unadkat,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,2,GH Vihari,JD Unadkat,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,3,KC Sangakkara,JD Unadkat,GH Vihari,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,4,KC Sangakkara,JD Unadkat,GH Vihari,0,0,0,,0,0,0,0,0,True,caught,KC Sangakkara,KB Arun Karthik,middle
+2,Sunrisers Hyderabad,14,5,NLTC Perera,JD Unadkat,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,6,NLTC Perera,JD Unadkat,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,1.wides,NLTC Perera,M Muralitharan,GH Vihari,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,1,NLTC Perera,M Muralitharan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,2,GH Vihari,M Muralitharan,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3,NLTC Perera,M Muralitharan,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,4,GH Vihari,M Muralitharan,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,5,NLTC Perera,M Muralitharan,GH Vihari,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+2,Sunrisers Hyderabad,15,6,NLTC Perera,M Muralitharan,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,16,1,GH Vihari,JD Unadkat,NLTC Perera,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,GH Vihari,JD Unadkat,NLTC Perera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,GH Vihari,JD Unadkat,NLTC Perera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,NLTC Perera,JD Unadkat,GH Vihari,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,NLTC Perera,JD Unadkat,GH Vihari,0,0,0,,0,0,0,0,0,True,caught,NLTC Perera,MC Henriques,death
+2,Sunrisers Hyderabad,16,6,GH Vihari,JD Unadkat,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,GH Vihari,M Kartik,A Mishra,2,0,2,,0,0,0,0,0,True,run out,A Mishra,"R Vinay Kumar, KB Arun Karthik",death
+2,Sunrisers Hyderabad,17,2,A Ashish Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,GH Vihari,M Kartik,A Ashish Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,A Ashish Reddy,M Kartik,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,A Ashish Reddy,M Kartik,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,A Ashish Reddy,M Kartik,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,GH Vihari,R Vinay Kumar,A Ashish Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,A Ashish Reddy,R Vinay Kumar,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,GH Vihari,R Vinay Kumar,A Ashish Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,A Ashish Reddy,R Vinay Kumar,GH Vihari,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,A Ashish Reddy,R Vinay Kumar,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,GH Vihari,R Vinay Kumar,A Ashish Reddy,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,A Ashish Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,GH Vihari,M Kartik,A Ashish Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,A Ashish Reddy,M Kartik,GH Vihari,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,A Ashish Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,GH Vihari,M Kartik,A Ashish Reddy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,6,A Ashish Reddy,M Kartik,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,1,A Ashish Reddy,R Vinay Kumar,GH Vihari,0,0,0,,0,0,0,0,0,True,caught,A Ashish Reddy,V Kohli,death
+2,Sunrisers Hyderabad,20,2,DW Steyn,R Vinay Kumar,GH Vihari,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,3,DW Steyn,R Vinay Kumar,GH Vihari,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,4,DW Steyn,R Vinay Kumar,GH Vihari,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,5,GH Vihari,R Vinay Kumar,DW Steyn,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,6,GH Vihari,R Vinay Kumar,DW Steyn,0,1,1,byes,0,0,1,0,0,False,,,,death

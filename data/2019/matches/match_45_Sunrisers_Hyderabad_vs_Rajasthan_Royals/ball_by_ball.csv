@@ -1,0 +1,242 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Sunrisers Hyderabad,1,1,DA Warner,VR Aaron,KS Williamson,5,0,5,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,2,KS Williamson,VR Aaron,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,3,KS Williamson,VR Aaron,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,4,KS Williamson,VR Aaron,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,5,DA Warner,VR Aaron,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,6,DA Warner,VR Aaron,KS Williamson,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,1,DA Warner,O Thomas,KS Williamson,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,2,KS Williamson,O Thomas,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,3,KS Williamson,O Thomas,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4,KS Williamson,O Thomas,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,5,DA Warner,O Thomas,KS Williamson,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,6,DA Warner,O Thomas,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,1,KS Williamson,VR Aaron,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,2,KS Williamson,VR Aaron,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,3,KS Williamson,VR Aaron,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,4,KS Williamson,VR Aaron,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,5,KS Williamson,VR Aaron,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,6,DA Warner,VR Aaron,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,1,DA Warner,S Gopal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,2,DA Warner,S Gopal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,3,KS Williamson,S Gopal,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,4,KS Williamson,S Gopal,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,5,KS Williamson,S Gopal,DA Warner,0,0,0,,0,0,0,0,0,True,bowled,KS Williamson,,powerplay
+1,Sunrisers Hyderabad,4,6,MK Pandey,S Gopal,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,1,DA Warner,JD Unadkat,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,2,MK Pandey,JD Unadkat,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,3,DA Warner,JD Unadkat,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,4,MK Pandey,JD Unadkat,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,5,MK Pandey,JD Unadkat,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,6,DA Warner,JD Unadkat,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,1,DA Warner,O Thomas,MK Pandey,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,2,MK Pandey,O Thomas,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,3,DA Warner,O Thomas,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,4,DA Warner,O Thomas,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,5,MK Pandey,O Thomas,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,6,MK Pandey,O Thomas,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,7,1,MK Pandey,R Parag,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,2,DA Warner,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,3,MK Pandey,R Parag,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,4,DA Warner,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,5,MK Pandey,R Parag,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,6,DA Warner,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,1,DA Warner,S Gopal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,2,MK Pandey,S Gopal,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,3,MK Pandey,S Gopal,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,4,MK Pandey,S Gopal,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,5,MK Pandey,S Gopal,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,6,DA Warner,S Gopal,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,1,MK Pandey,R Parag,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,2,DA Warner,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,3,MK Pandey,R Parag,DA Warner,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,4,MK Pandey,R Parag,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,5,MK Pandey,R Parag,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,6,MK Pandey,R Parag,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,1,DA Warner,S Gopal,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,2,DA Warner,S Gopal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,3,MK Pandey,S Gopal,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,4,DA Warner,S Gopal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,5,MK Pandey,S Gopal,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,6,MK Pandey,S Gopal,DA Warner,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,1,DA Warner,JD Unadkat,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,2,DA Warner,JD Unadkat,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,3,MK Pandey,JD Unadkat,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,4,DA Warner,JD Unadkat,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,5,DA Warner,JD Unadkat,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,6,DA Warner,JD Unadkat,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,1.wides,DA Warner,STR Binny,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,1,DA Warner,STR Binny,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,2,MK Pandey,STR Binny,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,3,MK Pandey,STR Binny,DA Warner,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,4,MK Pandey,STR Binny,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,5,MK Pandey,STR Binny,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,6,DA Warner,STR Binny,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,1,DA Warner,O Thomas,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,DA Warner,SPD Smith,middle
+1,Sunrisers Hyderabad,13,2,MK Pandey,O Thomas,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,3,V Shankar,O Thomas,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,4,MK Pandey,O Thomas,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,5,V Shankar,O Thomas,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,6,V Shankar,O Thomas,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,1,V Shankar,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,2,MK Pandey,R Parag,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,3,V Shankar,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,4,MK Pandey,R Parag,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,5,V Shankar,R Parag,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,6,MK Pandey,R Parag,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,1,MK Pandey,S Gopal,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,2,V Shankar,S Gopal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,3,MK Pandey,S Gopal,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,4,V Shankar,S Gopal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,5,MK Pandey,S Gopal,V Shankar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,6,MK Pandey,S Gopal,V Shankar,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,SV Samson,middle
+1,Sunrisers Hyderabad,16,1,V Shankar,VR Aaron,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,2,Shakib Al Hasan,VR Aaron,V Shankar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,3,Shakib Al Hasan,VR Aaron,V Shankar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,4,Shakib Al Hasan,VR Aaron,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,5,V Shankar,VR Aaron,Shakib Al Hasan,0,0,0,,0,0,0,0,0,True,caught,V Shankar,JD Unadkat,death
+1,Sunrisers Hyderabad,16,6,Shakib Al Hasan,VR Aaron,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,1,Shakib Al Hasan,JD Unadkat,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,2,DJ Hooda,JD Unadkat,Shakib Al Hasan,0,0,0,,0,0,0,0,0,True,caught and bowled,DJ Hooda,,death
+1,Sunrisers Hyderabad,17,3,WP Saha,JD Unadkat,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,4,Shakib Al Hasan,JD Unadkat,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,5,WP Saha,JD Unadkat,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,6,Shakib Al Hasan,JD Unadkat,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,1,Shakib Al Hasan,O Thomas,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,2,WP Saha,O Thomas,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,3.wides,Shakib Al Hasan,O Thomas,WP Saha,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,3,Shakib Al Hasan,O Thomas,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,4,WP Saha,O Thomas,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,5,WP Saha,O Thomas,Shakib Al Hasan,0,0,0,,0,0,0,0,0,True,caught,WP Saha,SV Samson,death
+1,Sunrisers Hyderabad,18,6,Rashid Khan,O Thomas,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,1,Shakib Al Hasan,JD Unadkat,Rashid Khan,0,0,0,,0,0,0,0,0,True,caught,Shakib Al Hasan,S Gopal,death
+1,Sunrisers Hyderabad,19,2,Rashid Khan,JD Unadkat,B Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,3,Rashid Khan,JD Unadkat,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,4,B Kumar,JD Unadkat,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,5,B Kumar,JD Unadkat,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,6,Rashid Khan,JD Unadkat,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,1,Rashid Khan,VR Aaron,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,2,B Kumar,VR Aaron,Rashid Khan,0,4,4,byes,0,0,4,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,3,B Kumar,VR Aaron,Rashid Khan,0,0,0,,0,0,0,0,0,True,caught,B Kumar,JD Unadkat,death
+1,Sunrisers Hyderabad,20,4.wides,Rashid Khan,VR Aaron,S Kaul,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,4,Rashid Khan,VR Aaron,S Kaul,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,5,Rashid Khan,VR Aaron,S Kaul,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,6,Rashid Khan,VR Aaron,S Kaul,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,AM Rahane,B Kumar,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,LS Livingstone,Shakib Al Hasan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,LS Livingstone,Shakib Al Hasan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,LS Livingstone,Shakib Al Hasan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,AM Rahane,Shakib Al Hasan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,LS Livingstone,Shakib Al Hasan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,AM Rahane,Shakib Al Hasan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,AM Rahane,B Kumar,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,AM Rahane,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,AM Rahane,B Kumar,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,AM Rahane,B Kumar,LS Livingstone,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,LS Livingstone,Rashid Khan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,AM Rahane,Rashid Khan,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,AM Rahane,Rashid Khan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,LS Livingstone,Rashid Khan,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,LS Livingstone,Rashid Khan,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,LS Livingstone,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,AM Rahane,KK Ahmed,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,AM Rahane,KK Ahmed,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,LS Livingstone,KK Ahmed,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,LS Livingstone,KK Ahmed,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,LS Livingstone,KK Ahmed,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,AM Rahane,KK Ahmed,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,LS Livingstone,S Kaul,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,LS Livingstone,S Kaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,LS Livingstone,S Kaul,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,LS Livingstone,S Kaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,LS Livingstone,S Kaul,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,6,LS Livingstone,S Kaul,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,1,AM Rahane,Rashid Khan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,AM Rahane,Rashid Khan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,AM Rahane,Rashid Khan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,LS Livingstone,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,LS Livingstone,Rashid Khan,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,LS Livingstone,Rashid Khan,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,AM Rahane,Shakib Al Hasan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,AM Rahane,Shakib Al Hasan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,LS Livingstone,Shakib Al Hasan,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,LS Livingstone,Shakib Al Hasan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,AM Rahane,Shakib Al Hasan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,LS Livingstone,Shakib Al Hasan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,AM Rahane,KK Ahmed,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,LS Livingstone,KK Ahmed,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,LS Livingstone,KK Ahmed,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,AM Rahane,KK Ahmed,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,AM Rahane,KK Ahmed,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,AM Rahane,KK Ahmed,LS Livingstone,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,LS Livingstone,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,True,caught,LS Livingstone,WP Saha,middle
+2,Rajasthan Royals,10,2,SV Samson,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,SV Samson,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,SV Samson,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,SV Samson,Rashid Khan,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,SV Samson,Rashid Khan,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1.wides,SV Samson,S Kaul,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,SV Samson,S Kaul,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2.wides,SV Samson,S Kaul,AM Rahane,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,SV Samson,S Kaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,SV Samson,S Kaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,SV Samson,S Kaul,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,AM Rahane,S Kaul,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,AM Rahane,S Kaul,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,AM Rahane,Shakib Al Hasan,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,AM Rahane,Shakib Al Hasan,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,AM Rahane,Shakib Al Hasan,SV Samson,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,DA Warner,middle
+2,Rajasthan Royals,12,4,SV Samson,Shakib Al Hasan,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,SPD Smith,Shakib Al Hasan,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,SPD Smith,Shakib Al Hasan,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,SV Samson,S Kaul,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,2,SV Samson,S Kaul,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,SV Samson,S Kaul,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,4,SV Samson,S Kaul,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,5,SPD Smith,S Kaul,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,6,SV Samson,S Kaul,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,SPD Smith,Rashid Khan,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,2,SV Samson,Rashid Khan,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,SPD Smith,Rashid Khan,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,SV Samson,Rashid Khan,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,SV Samson,Rashid Khan,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,SPD Smith,Rashid Khan,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,SV Samson,KK Ahmed,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,SV Samson,KK Ahmed,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,SV Samson,KK Ahmed,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,SV Samson,KK Ahmed,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,SPD Smith,KK Ahmed,SV Samson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,SPD Smith,KK Ahmed,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,SPD Smith,B Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2.wides,SV Samson,B Kumar,SPD Smith,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,SV Samson,B Kumar,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,SPD Smith,B Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,SPD Smith,B Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,SPD Smith,B Kumar,SV Samson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,SPD Smith,B Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,SV Samson,KK Ahmed,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,SV Samson,KK Ahmed,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,SPD Smith,KK Ahmed,SV Samson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,SPD Smith,KK Ahmed,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,SV Samson,KK Ahmed,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,SPD Smith,KK Ahmed,SV Samson,0,0,0,,0,0,0,0,0,True,caught,SPD Smith,S Kaul,death
+2,Rajasthan Royals,18,1,AJ Turner,B Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,SV Samson,B Kumar,AJ Turner,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Rajasthan Royals,18,3,AJ Turner,B Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,AJ Turner,B Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,AJ Turner,B Kumar,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,SV Samson,B Kumar,AJ Turner,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,SV Samson,S Kaul,AJ Turner,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,SV Samson,S Kaul,AJ Turner,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,AJ Turner,S Kaul,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4,AJ Turner,S Kaul,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,SV Samson,S Kaul,AJ Turner,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Rajasthan Royals,19,6,AJ Turner,S Kaul,SV Samson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,1,SV Samson,Shakib Al Hasan,AJ Turner,4,0,4,,0,0,0,0,0,False,,,,death

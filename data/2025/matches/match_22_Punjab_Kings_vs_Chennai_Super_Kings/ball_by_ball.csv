@@ -1,0 +1,254 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,Priyansh Arya,KK Ahmed,P Simran Singh,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,Priyansh Arya,KK Ahmed,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3.noballs,Priyansh Arya,KK Ahmed,P Simran Singh,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,Priyansh Arya,KK Ahmed,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,4,Priyansh Arya,KK Ahmed,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,Priyansh Arya,KK Ahmed,P Simran Singh,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,Priyansh Arya,KK Ahmed,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1,P Simran Singh,Mukesh Choudhary,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,P Simran Singh,Mukesh Choudhary,Priyansh Arya,0,0,0,,0,0,0,0,0,True,bowled,P Simran Singh,,powerplay
+1,Punjab Kings,2,3,SS Iyer,Mukesh Choudhary,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,SS Iyer,Mukesh Choudhary,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,SS Iyer,Mukesh Choudhary,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,Priyansh Arya,Mukesh Choudhary,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,1,SS Iyer,KK Ahmed,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,SS Iyer,KK Ahmed,Priyansh Arya,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,SS Iyer,KK Ahmed,Priyansh Arya,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,4,SS Iyer,KK Ahmed,Priyansh Arya,0,0,0,,0,0,0,0,0,True,bowled,SS Iyer,,powerplay
+1,Punjab Kings,3,5,MP Stoinis,KK Ahmed,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,6,MP Stoinis,KK Ahmed,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,1,Priyansh Arya,Mukesh Choudhary,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,Priyansh Arya,Mukesh Choudhary,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,Priyansh Arya,Mukesh Choudhary,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,Priyansh Arya,Mukesh Choudhary,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,5,Priyansh Arya,Mukesh Choudhary,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,6,MP Stoinis,Mukesh Choudhary,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,MP Stoinis,KK Ahmed,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,MP Stoinis,KK Ahmed,Priyansh Arya,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,MP Stoinis,KK Ahmed,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4,Priyansh Arya,KK Ahmed,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5,Priyansh Arya,KK Ahmed,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,6,MP Stoinis,KK Ahmed,Priyansh Arya,0,0,0,,0,0,0,0,0,True,caught,MP Stoinis,DP Conway,powerplay
+1,Punjab Kings,6,1,Priyansh Arya,R Ashwin,N Wadhera,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,2,Priyansh Arya,R Ashwin,N Wadhera,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,3,Priyansh Arya,R Ashwin,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,4,N Wadhera,R Ashwin,Priyansh Arya,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,5,N Wadhera,R Ashwin,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,6.wides,Priyansh Arya,R Ashwin,N Wadhera,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,6,Priyansh Arya,R Ashwin,N Wadhera,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,7,1,N Wadhera,RA Jadeja,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2.noballs,N Wadhera,RA Jadeja,Priyansh Arya,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,Priyansh Arya,RA Jadeja,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,3,N Wadhera,RA Jadeja,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,4,Priyansh Arya,RA Jadeja,N Wadhera,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,Priyansh Arya,RA Jadeja,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,Priyansh Arya,RA Jadeja,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,N Wadhera,R Ashwin,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,N Wadhera,R Ashwin,Priyansh Arya,0,0,0,,0,0,0,0,0,True,caught,N Wadhera,MS Dhoni,middle
+1,Punjab Kings,8,3,GJ Maxwell,R Ashwin,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,Priyansh Arya,R Ashwin,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,5,Priyansh Arya,R Ashwin,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,GJ Maxwell,R Ashwin,Priyansh Arya,0,0,0,,0,0,0,0,0,True,caught and bowled,GJ Maxwell,,middle
+1,Punjab Kings,9,1,Priyansh Arya,RA Jadeja,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,Shashank Singh,RA Jadeja,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,3,Shashank Singh,RA Jadeja,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,Priyansh Arya,RA Jadeja,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,Shashank Singh,RA Jadeja,Priyansh Arya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,6,Shashank Singh,RA Jadeja,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,1,Shashank Singh,R Ashwin,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,Priyansh Arya,R Ashwin,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,3,Shashank Singh,R Ashwin,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,4,Shashank Singh,R Ashwin,Priyansh Arya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5,Shashank Singh,R Ashwin,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,6,Shashank Singh,R Ashwin,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,1,Shashank Singh,Noor Ahmad,Priyansh Arya,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,2,Shashank Singh,Noor Ahmad,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,3,Priyansh Arya,Noor Ahmad,Shashank Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,4,Priyansh Arya,Noor Ahmad,Shashank Singh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,5,Priyansh Arya,Noor Ahmad,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,6,Priyansh Arya,Noor Ahmad,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,1,Priyansh Arya,R Ashwin,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,2,Priyansh Arya,R Ashwin,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,3,Priyansh Arya,R Ashwin,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4,Shashank Singh,R Ashwin,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,5,Shashank Singh,R Ashwin,Priyansh Arya,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,6,Shashank Singh,R Ashwin,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,1,Shashank Singh,M Pathirana,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,2,Priyansh Arya,M Pathirana,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,3,Priyansh Arya,M Pathirana,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,4,Priyansh Arya,M Pathirana,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,5,Priyansh Arya,M Pathirana,Shashank Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,6,Priyansh Arya,M Pathirana,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,1,Shashank Singh,Noor Ahmad,Priyansh Arya,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Punjab Kings,14,2,Priyansh Arya,Noor Ahmad,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,3,Shashank Singh,Noor Ahmad,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,4,Priyansh Arya,Noor Ahmad,Shashank Singh,0,0,0,,0,0,0,0,0,True,caught,Priyansh Arya,V Shankar,middle
+1,Punjab Kings,14,5,M Jansen,Noor Ahmad,Shashank Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,6,M Jansen,Noor Ahmad,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,1,Shashank Singh,RA Jadeja,M Jansen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,2,Shashank Singh,RA Jadeja,M Jansen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,3,Shashank Singh,RA Jadeja,M Jansen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,4,Shashank Singh,RA Jadeja,M Jansen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,5,Shashank Singh,RA Jadeja,M Jansen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,6,M Jansen,RA Jadeja,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,16,1,M Jansen,M Pathirana,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2,Shashank Singh,M Pathirana,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,3,M Jansen,M Pathirana,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,4,M Jansen,M Pathirana,Shashank Singh,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,5,M Jansen,M Pathirana,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6,Shashank Singh,M Pathirana,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,1,Shashank Singh,Noor Ahmad,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,2,M Jansen,Noor Ahmad,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,3,Shashank Singh,Noor Ahmad,M Jansen,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,4,Shashank Singh,Noor Ahmad,M Jansen,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,5,Shashank Singh,Noor Ahmad,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,6,M Jansen,Noor Ahmad,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,1,M Jansen,M Pathirana,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2,M Jansen,M Pathirana,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,3,Shashank Singh,M Pathirana,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4,M Jansen,M Pathirana,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5,Shashank Singh,M Pathirana,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,6,M Jansen,M Pathirana,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,1,M Jansen,KK Ahmed,Shashank Singh,0,2,2,legbyes,0,0,0,2,0,False,,,,death
+1,Punjab Kings,19,2,M Jansen,KK Ahmed,Shashank Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,3,M Jansen,KK Ahmed,Shashank Singh,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,4,M Jansen,KK Ahmed,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,5,Shashank Singh,KK Ahmed,M Jansen,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,6,Shashank Singh,KK Ahmed,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,1,Shashank Singh,M Pathirana,M Jansen,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,2.wides,Shashank Singh,M Pathirana,M Jansen,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,20,2,Shashank Singh,M Pathirana,M Jansen,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,3,Shashank Singh,M Pathirana,M Jansen,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,4,M Jansen,M Pathirana,Shashank Singh,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,5,M Jansen,M Pathirana,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,6,Shashank Singh,M Pathirana,M Jansen,3,0,3,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,1,1,R Ravindra,Arshdeep Singh,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,2,R Ravindra,Arshdeep Singh,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,3,R Ravindra,Arshdeep Singh,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,4,R Ravindra,Arshdeep Singh,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,5,DP Conway,Arshdeep Singh,R Ravindra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,1,6,DP Conway,Arshdeep Singh,R Ravindra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,1,R Ravindra,Yash Thakur,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,2,R Ravindra,Yash Thakur,DP Conway,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,3,DP Conway,Yash Thakur,R Ravindra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,4,DP Conway,Yash Thakur,R Ravindra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,5,DP Conway,Yash Thakur,R Ravindra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,2,6,DP Conway,Yash Thakur,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,1,DP Conway,Arshdeep Singh,R Ravindra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,2,DP Conway,Arshdeep Singh,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,3,R Ravindra,Arshdeep Singh,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,4,R Ravindra,Arshdeep Singh,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,5,R Ravindra,Arshdeep Singh,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,3,6,R Ravindra,Arshdeep Singh,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,1,DP Conway,Yash Thakur,R Ravindra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,2,DP Conway,Yash Thakur,R Ravindra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,3,DP Conway,Yash Thakur,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,4,R Ravindra,Yash Thakur,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,5,R Ravindra,Yash Thakur,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,4,6,R Ravindra,Yash Thakur,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,1,DP Conway,GJ Maxwell,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,2,R Ravindra,GJ Maxwell,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,3,DP Conway,GJ Maxwell,R Ravindra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,4,DP Conway,GJ Maxwell,R Ravindra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,5,DP Conway,GJ Maxwell,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,5,6,R Ravindra,GJ Maxwell,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1.noballs,R Ravindra,M Jansen,DP Conway,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,1,R Ravindra,M Jansen,DP Conway,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,2,R Ravindra,M Jansen,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,3,R Ravindra,M Jansen,DP Conway,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,4,R Ravindra,M Jansen,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,5,DP Conway,M Jansen,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Chennai Super Kings,6,6,R Ravindra,M Jansen,DP Conway,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Chennai Super Kings,7,1,R Ravindra,GJ Maxwell,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,2,DP Conway,GJ Maxwell,R Ravindra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,3,R Ravindra,GJ Maxwell,DP Conway,0,0,0,,0,0,0,0,0,True,stumped,R Ravindra,P Simran Singh,middle
+2,Chennai Super Kings,7,4,RD Gaikwad,GJ Maxwell,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,5,DP Conway,GJ Maxwell,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,7,6,DP Conway,GJ Maxwell,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,1,RD Gaikwad,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,2,RD Gaikwad,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,True,caught,RD Gaikwad,Shashank Singh,middle
+2,Chennai Super Kings,8,3,S Dube,LH Ferguson,DP Conway,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,4.wides,S Dube,LH Ferguson,DP Conway,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,4,S Dube,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,5,S Dube,LH Ferguson,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,8,6,S Dube,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,1,DP Conway,M Jansen,S Dube,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Chennai Super Kings,9,2,S Dube,M Jansen,DP Conway,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,3,S Dube,M Jansen,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,4,S Dube,M Jansen,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,5,S Dube,M Jansen,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,9,6,DP Conway,M Jansen,S Dube,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,1,S Dube,LH Ferguson,DP Conway,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,2,S Dube,LH Ferguson,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,3,DP Conway,LH Ferguson,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4.wides,DP Conway,LH Ferguson,S Dube,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,4,DP Conway,LH Ferguson,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,5,S Dube,LH Ferguson,DP Conway,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6.wides,S Dube,LH Ferguson,DP Conway,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,10,6,S Dube,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,1,DP Conway,Yash Thakur,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,2,S Dube,Yash Thakur,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,3,DP Conway,Yash Thakur,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,4,DP Conway,Yash Thakur,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,5,S Dube,Yash Thakur,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6.wides,DP Conway,Yash Thakur,S Dube,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,11,6,DP Conway,Yash Thakur,S Dube,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Chennai Super Kings,12,1,DP Conway,M Jansen,S Dube,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,2,DP Conway,M Jansen,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,3,S Dube,M Jansen,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,4,DP Conway,M Jansen,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,5,S Dube,M Jansen,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,12,6,S Dube,M Jansen,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,1,DP Conway,MP Stoinis,S Dube,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,2,DP Conway,MP Stoinis,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3.wides,DP Conway,MP Stoinis,S Dube,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,3,DP Conway,MP Stoinis,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,4,S Dube,MP Stoinis,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,5,DP Conway,MP Stoinis,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,13,6,DP Conway,MP Stoinis,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,1,DP Conway,M Jansen,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,2,DP Conway,M Jansen,S Dube,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,3,DP Conway,M Jansen,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,4,S Dube,M Jansen,DP Conway,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,5,S Dube,M Jansen,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,14,6,DP Conway,M Jansen,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,1,DP Conway,Arshdeep Singh,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,2,S Dube,Arshdeep Singh,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,3,DP Conway,Arshdeep Singh,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,4,S Dube,Arshdeep Singh,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,5,DP Conway,Arshdeep Singh,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,15,6,S Dube,Arshdeep Singh,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Chennai Super Kings,16,1,S Dube,LH Ferguson,DP Conway,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2.wides,DP Conway,LH Ferguson,S Dube,0,2,2,wides,2,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,2,S Dube,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3.wides,S Dube,LH Ferguson,DP Conway,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,3,S Dube,LH Ferguson,DP Conway,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,4,DP Conway,LH Ferguson,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,16,5,S Dube,LH Ferguson,DP Conway,0,0,0,,0,0,0,0,0,True,bowled,S Dube,,death
+2,Chennai Super Kings,16,6,MS Dhoni,LH Ferguson,DP Conway,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,1,MS Dhoni,YS Chahal,DP Conway,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,2,DP Conway,YS Chahal,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,3,DP Conway,YS Chahal,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,4,MS Dhoni,YS Chahal,DP Conway,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,5,DP Conway,YS Chahal,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,17,6,DP Conway,YS Chahal,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,1,MS Dhoni,LH Ferguson,DP Conway,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Chennai Super Kings,18,2,DP Conway,LH Ferguson,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,3,MS Dhoni,LH Ferguson,DP Conway,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Chennai Super Kings,18,4,DP Conway,LH Ferguson,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,18,5,MS Dhoni,LH Ferguson,DP Conway,6,0,6,,0,0,0,0,0,True,retired out,DP Conway,,death
+2,Chennai Super Kings,18,6,MS Dhoni,LH Ferguson,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,1,RA Jadeja,Arshdeep Singh,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2.wides,MS Dhoni,Arshdeep Singh,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,2,MS Dhoni,Arshdeep Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,3,RA Jadeja,Arshdeep Singh,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,4,MS Dhoni,Arshdeep Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,5,MS Dhoni,Arshdeep Singh,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,19,6,MS Dhoni,Arshdeep Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,1,MS Dhoni,Yash Thakur,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,YS Chahal,death
+2,Chennai Super Kings,20,2,V Shankar,Yash Thakur,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,3,RA Jadeja,Yash Thakur,V Shankar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,4,RA Jadeja,Yash Thakur,V Shankar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,5,RA Jadeja,Yash Thakur,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Chennai Super Kings,20,6,V Shankar,Yash Thakur,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death

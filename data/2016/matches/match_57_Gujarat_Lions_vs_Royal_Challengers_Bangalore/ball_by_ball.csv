@@ -1,0 +1,241 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Gujarat Lions,1,1,AJ Finch,S Aravind,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,1,2,AJ Finch,S Aravind,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,1,3,AJ Finch,S Aravind,BB McCullum,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Lions,1,4,BB McCullum,S Aravind,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,1,5,BB McCullum,S Aravind,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,1,6,BB McCullum,S Aravind,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,2,1,BB McCullum,Iqbal Abdulla,AJ Finch,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,AB de Villiers,powerplay
+1,Gujarat Lions,2,2,AJ Finch,Iqbal Abdulla,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,2,3,AJ Finch,Iqbal Abdulla,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,2,4,AJ Finch,Iqbal Abdulla,SK Raina,0,0,0,,0,0,0,0,0,True,caught,AJ Finch,CH Gayle,powerplay
+1,Gujarat Lions,2,5,KD Karthik,Iqbal Abdulla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,2,6,SK Raina,Iqbal Abdulla,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,3,1,KD Karthik,S Aravind,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,3,2,SK Raina,S Aravind,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,3,3,SK Raina,S Aravind,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,3,4,SK Raina,S Aravind,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,3,5,SK Raina,S Aravind,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,3,6,KD Karthik,S Aravind,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,4,1,SK Raina,SR Watson,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,4,2,SK Raina,SR Watson,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,4,3,SK Raina,SR Watson,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,4,4,SK Raina,SR Watson,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,SK Raina,S Aravind,powerplay
+1,Gujarat Lions,4,5,DR Smith,SR Watson,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,4,6,DR Smith,SR Watson,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,5,1,DR Smith,Iqbal Abdulla,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,5,2,DR Smith,Iqbal Abdulla,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,5,3,KD Karthik,Iqbal Abdulla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,5,4,DR Smith,Iqbal Abdulla,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,5,5,DR Smith,Iqbal Abdulla,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,5,6,DR Smith,Iqbal Abdulla,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,6,1,KD Karthik,SR Watson,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,6,2,KD Karthik,SR Watson,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,6,3,DR Smith,SR Watson,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,6,4,KD Karthik,SR Watson,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,6,5,KD Karthik,SR Watson,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,6,6,KD Karthik,SR Watson,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,7,1.wides,KD Karthik,CJ Jordan,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Lions,7,1,KD Karthik,CJ Jordan,DR Smith,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Gujarat Lions,7,2,DR Smith,CJ Jordan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,7,3,DR Smith,CJ Jordan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,7,4,DR Smith,CJ Jordan,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,7,5,DR Smith,CJ Jordan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,7,6,KD Karthik,CJ Jordan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,8,1,KD Karthik,YS Chahal,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,8,2,DR Smith,YS Chahal,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,8,3,KD Karthik,YS Chahal,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,8,4,DR Smith,YS Chahal,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,8,5,KD Karthik,YS Chahal,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,8,6,DR Smith,YS Chahal,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,9,1,KD Karthik,STR Binny,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,9,2,DR Smith,STR Binny,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,9,3,DR Smith,STR Binny,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,9,4,DR Smith,STR Binny,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,9,5,KD Karthik,STR Binny,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,9,6,DR Smith,STR Binny,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,10,1,DR Smith,YS Chahal,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,10,2,DR Smith,YS Chahal,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,10,3,DR Smith,YS Chahal,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,10,4,DR Smith,YS Chahal,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,10,5,KD Karthik,YS Chahal,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,10,6,DR Smith,YS Chahal,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,11,1,KD Karthik,Iqbal Abdulla,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,11,2,KD Karthik,Iqbal Abdulla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,11,3,DR Smith,Iqbal Abdulla,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,11,4,KD Karthik,Iqbal Abdulla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,11,5,KD Karthik,Iqbal Abdulla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,11,6,KD Karthik,Iqbal Abdulla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,12,1,DR Smith,YS Chahal,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,12,2,DR Smith,YS Chahal,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,12,3,KD Karthik,YS Chahal,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,12,4,KD Karthik,YS Chahal,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,12,5,DR Smith,YS Chahal,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,12,6,DR Smith,YS Chahal,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,1,KD Karthik,Iqbal Abdulla,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,2.wides,KD Karthik,Iqbal Abdulla,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,2,KD Karthik,Iqbal Abdulla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,3,KD Karthik,Iqbal Abdulla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,4,DR Smith,Iqbal Abdulla,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,5,DR Smith,Iqbal Abdulla,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,13,6,DR Smith,Iqbal Abdulla,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,14,1,DR Smith,CJ Jordan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,14,2,KD Karthik,CJ Jordan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,14,3,DR Smith,CJ Jordan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,14,4,KD Karthik,CJ Jordan,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,14,5,KD Karthik,CJ Jordan,DR Smith,0,0,0,,0,0,0,0,0,True,bowled,KD Karthik,,middle
+1,Gujarat Lions,14,6,RA Jadeja,CJ Jordan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,15,1,DR Smith,S Aravind,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,15,2,RA Jadeja,S Aravind,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,15,3,DR Smith,S Aravind,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,15,4,DR Smith,S Aravind,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,15,5,DR Smith,S Aravind,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,15,6,RA Jadeja,S Aravind,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Lions,16,1,RA Jadeja,SR Watson,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,16,2,RA Jadeja,SR Watson,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,16,3.wides,RA Jadeja,SR Watson,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Lions,16,3,RA Jadeja,SR Watson,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,16,4,DR Smith,SR Watson,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,16,5,RA Jadeja,SR Watson,DR Smith,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,CH Gayle,death
+1,Gujarat Lions,16,6,DJ Bravo,SR Watson,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,17,1,DJ Bravo,YS Chahal,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,17,2,DR Smith,YS Chahal,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,17,3,DR Smith,YS Chahal,DJ Bravo,0,0,0,,0,0,0,0,0,True,caught,DR Smith,V Kohli,death
+1,Gujarat Lions,17,4,DJ Bravo,YS Chahal,ER Dwivedi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,17,5,ER Dwivedi,YS Chahal,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,17,6,ER Dwivedi,YS Chahal,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,18,1,ER Dwivedi,CJ Jordan,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,18,2,ER Dwivedi,CJ Jordan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,18,3.wides,DJ Bravo,CJ Jordan,ER Dwivedi,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Lions,18,3,DJ Bravo,CJ Jordan,ER Dwivedi,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,18,4,DJ Bravo,CJ Jordan,ER Dwivedi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,18,5,ER Dwivedi,CJ Jordan,DJ Bravo,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+1,Gujarat Lions,18,6,ER Dwivedi,CJ Jordan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,19,1,ER Dwivedi,SR Watson,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,19,2,ER Dwivedi,SR Watson,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,19,3,ER Dwivedi,SR Watson,DJ Bravo,0,0,0,,0,0,0,0,0,True,caught,ER Dwivedi,V Kohli,death
+1,Gujarat Lions,19,4,DJ Bravo,SR Watson,P Kumar,0,0,0,,0,0,0,0,0,True,bowled,DJ Bravo,,death
+1,Gujarat Lions,19,5.wides,P Kumar,SR Watson,DS Kulkarni,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Lions,19,5,DS Kulkarni,SR Watson,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,19,6,DS Kulkarni,SR Watson,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,20,1,P Kumar,CJ Jordan,DS Kulkarni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,20,2,DS Kulkarni,CJ Jordan,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,20,3,P Kumar,CJ Jordan,DS Kulkarni,0,0,0,,0,0,0,0,0,True,bowled,P Kumar,,death
+1,Gujarat Lions,20,4,SB Jakati,CJ Jordan,DS Kulkarni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,20,5,SB Jakati,CJ Jordan,DS Kulkarni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Lions,20,6,DS Kulkarni,CJ Jordan,SB Jakati,1,0,1,,0,0,0,0,0,True,run out,DS Kulkarni,"Sachin Baby, KL Rahul",death
+2,Royal Challengers Bangalore,1,1.wides,CH Gayle,P Kumar,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,1,CH Gayle,P Kumar,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,CH Gayle,P Kumar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,CH Gayle,P Kumar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,CH Gayle,P Kumar,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5.wides,CH Gayle,P Kumar,V Kohli,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,CH Gayle,P Kumar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,V Kohli,P Kumar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,CH Gayle,DS Kulkarni,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,V Kohli,DS Kulkarni,CH Gayle,0,0,0,,0,0,0,0,0,True,bowled,V Kohli,,powerplay
+2,Royal Challengers Bangalore,2,3,AB de Villiers,DS Kulkarni,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,AB de Villiers,DS Kulkarni,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,CH Gayle,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,CH Gayle,DS Kulkarni,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,AB de Villiers,P Kumar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,AB de Villiers,P Kumar,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,AB de Villiers,P Kumar,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,AB de Villiers,P Kumar,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,CH Gayle,P Kumar,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,CH Gayle,P Kumar,AB de Villiers,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,CH Gayle,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,CH Gayle,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,True,bowled,CH Gayle,,powerplay
+2,Royal Challengers Bangalore,4,3,KL Rahul,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,DR Smith,powerplay
+2,Royal Challengers Bangalore,4,4,SR Watson,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,SR Watson,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,SR Watson,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,AB de Villiers,RA Jadeja,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,2,SR Watson,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3,AB de Villiers,RA Jadeja,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,4,SR Watson,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,5,SR Watson,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,SR Watson,DR Smith,powerplay
+2,Royal Challengers Bangalore,5,6,Sachin Baby,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,1,AB de Villiers,DS Kulkarni,Sachin Baby,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,2,Sachin Baby,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,3,Sachin Baby,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,Sachin Baby,SB Jakati,powerplay
+2,Royal Challengers Bangalore,6,4,STR Binny,DS Kulkarni,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,5,STR Binny,DS Kulkarni,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,6,AB de Villiers,DS Kulkarni,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,AB de Villiers,RA Jadeja,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,STR Binny,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,STR Binny,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,STR Binny,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,5,AB de Villiers,RA Jadeja,STR Binny,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,AB de Villiers,RA Jadeja,STR Binny,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,STR Binny,DS Kulkarni,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,2,AB de Villiers,DS Kulkarni,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,STR Binny,DS Kulkarni,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,4,STR Binny,DS Kulkarni,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,AB de Villiers,DS Kulkarni,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,AB de Villiers,DS Kulkarni,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,AB de Villiers,SB Jakati,STR Binny,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,STR Binny,SB Jakati,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,STR Binny,SB Jakati,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4.wides,STR Binny,SB Jakati,AB de Villiers,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,STR Binny,SB Jakati,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,STR Binny,SB Jakati,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,6,STR Binny,SB Jakati,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,1,AB de Villiers,RA Jadeja,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,2,STR Binny,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,3,AB de Villiers,RA Jadeja,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,4,STR Binny,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,True,lbw,STR Binny,,middle
+2,Royal Challengers Bangalore,10,5,Iqbal Abdulla,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,6,AB de Villiers,RA Jadeja,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,1,AB de Villiers,SB Jakati,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,2,AB de Villiers,SB Jakati,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,3,Iqbal Abdulla,SB Jakati,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,4.noballs,Iqbal Abdulla,SB Jakati,AB de Villiers,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,4,AB de Villiers,SB Jakati,Iqbal Abdulla,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,5,AB de Villiers,SB Jakati,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,6,Iqbal Abdulla,SB Jakati,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,1,Iqbal Abdulla,DJ Bravo,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,2,AB de Villiers,DJ Bravo,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,3,Iqbal Abdulla,DJ Bravo,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,4,AB de Villiers,DJ Bravo,Iqbal Abdulla,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,5,AB de Villiers,DJ Bravo,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,6,Iqbal Abdulla,DJ Bravo,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,1,AB de Villiers,RA Jadeja,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,2,AB de Villiers,RA Jadeja,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,3,Iqbal Abdulla,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,4,Iqbal Abdulla,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,5,AB de Villiers,RA Jadeja,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,6,Iqbal Abdulla,RA Jadeja,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,1,AB de Villiers,DJ Bravo,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,2,Iqbal Abdulla,DJ Bravo,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,3,Iqbal Abdulla,DJ Bravo,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,4,AB de Villiers,DJ Bravo,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,5,Iqbal Abdulla,DJ Bravo,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,6,Iqbal Abdulla,DJ Bravo,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,1,Iqbal Abdulla,DR Smith,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,2,Iqbal Abdulla,DR Smith,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,3,AB de Villiers,DR Smith,Iqbal Abdulla,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,4,AB de Villiers,DR Smith,Iqbal Abdulla,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,5,AB de Villiers,DR Smith,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,6,Iqbal Abdulla,DR Smith,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,1,AB de Villiers,SB Jakati,Iqbal Abdulla,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,2,AB de Villiers,SB Jakati,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,3,Iqbal Abdulla,SB Jakati,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,4,AB de Villiers,SB Jakati,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,5,Iqbal Abdulla,SB Jakati,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,6,Iqbal Abdulla,SB Jakati,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,1,Iqbal Abdulla,P Kumar,AB de Villiers,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,17,2,AB de Villiers,P Kumar,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,3,AB de Villiers,P Kumar,Iqbal Abdulla,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,4,AB de Villiers,P Kumar,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,5,AB de Villiers,P Kumar,Iqbal Abdulla,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,6,AB de Villiers,P Kumar,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,1,AB de Villiers,DJ Bravo,Iqbal Abdulla,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+2,Royal Challengers Bangalore,18,2,AB de Villiers,DJ Bravo,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,3.wides,AB de Villiers,DJ Bravo,Iqbal Abdulla,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,3,AB de Villiers,DJ Bravo,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,4,Iqbal Abdulla,DJ Bravo,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,5,Iqbal Abdulla,DJ Bravo,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,6,Iqbal Abdulla,DJ Bravo,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,1,AB de Villiers,P Kumar,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,2,Iqbal Abdulla,P Kumar,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death

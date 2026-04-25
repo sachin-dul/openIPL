@@ -1,0 +1,242 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Deccan Chargers,1,1,TL Suman,M Morkel,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2.wides,AC Gilchrist,M Morkel,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2,AC Gilchrist,M Morkel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3,AC Gilchrist,M Morkel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,4,AC Gilchrist,M Morkel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,5,AC Gilchrist,M Morkel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,6,AC Gilchrist,M Morkel,TL Suman,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,1,TL Suman,MM Patel,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,2,TL Suman,MM Patel,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,3,TL Suman,MM Patel,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,4,TL Suman,MM Patel,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5,TL Suman,MM Patel,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,6,AC Gilchrist,MM Patel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,1,TL Suman,M Morkel,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,2,TL Suman,M Morkel,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,3,TL Suman,M Morkel,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,4,AC Gilchrist,M Morkel,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,5,TL Suman,M Morkel,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,6,AC Gilchrist,M Morkel,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,1,AC Gilchrist,YK Pathan,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,2,AC Gilchrist,YK Pathan,TL Suman,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,3,AC Gilchrist,YK Pathan,TL Suman,0,0,0,,0,0,0,0,0,True,lbw,AC Gilchrist,,powerplay
+1,Deccan Chargers,4,4,RG Sharma,YK Pathan,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,5,RG Sharma,YK Pathan,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6,TL Suman,YK Pathan,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,1,RG Sharma,M Morkel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,2,RG Sharma,M Morkel,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,3,TL Suman,M Morkel,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4,TL Suman,M Morkel,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,5,TL Suman,M Morkel,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,6,RG Sharma,M Morkel,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,1,TL Suman,SK Trivedi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,2,TL Suman,SK Trivedi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,3,TL Suman,SK Trivedi,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4,TL Suman,SK Trivedi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,5,TL Suman,SK Trivedi,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,TL Suman,LA Carseldine,powerplay
+1,Deccan Chargers,6,6,RG Sharma,SK Trivedi,A Symonds,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,7,1,A Symonds,SK Warne,RG Sharma,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,2,RG Sharma,SK Warne,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,3,A Symonds,SK Warne,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,4,A Symonds,SK Warne,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,5,A Symonds,SK Warne,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,6,RG Sharma,SK Warne,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1,RG Sharma,RA Jadeja,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,2,A Symonds,RA Jadeja,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,3,RG Sharma,RA Jadeja,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,4,A Symonds,RA Jadeja,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,5,A Symonds,RA Jadeja,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,6,RG Sharma,RA Jadeja,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,1,RG Sharma,SK Warne,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,2,A Symonds,SK Warne,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,3,A Symonds,SK Warne,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,4,RG Sharma,SK Warne,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,5,A Symonds,SK Warne,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,6,A Symonds,SK Warne,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1,A Symonds,RA Jadeja,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,2,A Symonds,RA Jadeja,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,3,RG Sharma,RA Jadeja,A Symonds,0,0,0,,0,0,0,0,0,True,stumped,RG Sharma,NV Ojha,middle
+1,Deccan Chargers,10,4,DR Smith,RA Jadeja,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,5,A Symonds,RA Jadeja,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,6,A Symonds,RA Jadeja,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,1,DR Smith,SK Warne,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,2,DR Smith,SK Warne,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,3,DR Smith,SK Warne,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,4,A Symonds,SK Warne,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,5,A Symonds,SK Warne,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,6,DR Smith,SK Warne,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,1,DR Smith,RA Jadeja,A Symonds,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Deccan Chargers,12,2,A Symonds,RA Jadeja,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,3,A Symonds,RA Jadeja,DR Smith,0,0,0,,0,0,0,0,0,True,bowled,A Symonds,,middle
+1,Deccan Chargers,12,4,WPUJC Vaas,RA Jadeja,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,5,DR Smith,RA Jadeja,WPUJC Vaas,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,6,DR Smith,RA Jadeja,WPUJC Vaas,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,1,WPUJC Vaas,YK Pathan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,2,DR Smith,YK Pathan,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,3,WPUJC Vaas,YK Pathan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,4,WPUJC Vaas,YK Pathan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,5,WPUJC Vaas,YK Pathan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,6,DR Smith,YK Pathan,WPUJC Vaas,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,1,WPUJC Vaas,SK Trivedi,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,2,DR Smith,SK Trivedi,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,3,WPUJC Vaas,SK Trivedi,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,4,DR Smith,SK Trivedi,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,5,WPUJC Vaas,SK Trivedi,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,6,DR Smith,SK Trivedi,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,1,DR Smith,AS Raut,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,2,WPUJC Vaas,AS Raut,DR Smith,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,3,WPUJC Vaas,AS Raut,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4,WPUJC Vaas,AS Raut,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,5,DR Smith,AS Raut,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,6,WPUJC Vaas,AS Raut,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,16,1,DR Smith,RA Jadeja,WPUJC Vaas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,2,DR Smith,RA Jadeja,WPUJC Vaas,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,3,DR Smith,RA Jadeja,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,4,WPUJC Vaas,RA Jadeja,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,5,DR Smith,RA Jadeja,WPUJC Vaas,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6,DR Smith,RA Jadeja,WPUJC Vaas,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,1,WPUJC Vaas,YK Pathan,DR Smith,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,2,WPUJC Vaas,YK Pathan,DR Smith,0,0,0,,0,0,0,0,0,True,caught,WPUJC Vaas,LA Carseldine,death
+1,Deccan Chargers,17,3,DR Smith,YK Pathan,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,4,Y Venugopal Rao,YK Pathan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,5,DR Smith,YK Pathan,Y Venugopal Rao,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,6,DR Smith,YK Pathan,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,1,Y Venugopal Rao,SK Trivedi,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,2,Y Venugopal Rao,SK Trivedi,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,3,DR Smith,SK Trivedi,Y Venugopal Rao,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,4,DR Smith,SK Trivedi,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5,Y Venugopal Rao,SK Trivedi,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,6,Y Venugopal Rao,SK Trivedi,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1,Y Venugopal Rao,SK Warne,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,2,DR Smith,SK Warne,Y Venugopal Rao,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,3,DR Smith,SK Warne,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,4,Y Venugopal Rao,SK Warne,DR Smith,0,0,0,,0,0,0,0,0,True,caught,Y Venugopal Rao,RA Jadeja,death
+1,Deccan Chargers,19,5,DR Smith,SK Warne,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,6,DR Smith,SK Warne,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,1,DR Smith,YK Pathan,DB Ravi Teja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,2,DR Smith,YK Pathan,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,3,DB Ravi Teja,YK Pathan,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,4,DB Ravi Teja,YK Pathan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,5,DR Smith,YK Pathan,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,caught,DR Smith,AS Raut,death
+1,Deccan Chargers,20,6,DB Ravi Teja,YK Pathan,RP Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,GC Smith,RP Singh,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,GC Smith,RP Singh,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,SA Asnodkar,RP Singh,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,SA Asnodkar,RP Singh,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,SA Asnodkar,RP Singh,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,SA Asnodkar,RP Singh,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,GC Smith,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,True,lbw,GC Smith,,powerplay
+2,Rajasthan Royals,2,2,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,LA Carseldine,WPUJC Vaas,SA Asnodkar,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,SA Asnodkar,WPUJC Vaas,LA Carseldine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,SA Asnodkar,WPUJC Vaas,LA Carseldine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,LA Carseldine,RP Singh,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,LA Carseldine,RP Singh,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,LA Carseldine,RP Singh,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4.wides,SA Asnodkar,RP Singh,LA Carseldine,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,SA Asnodkar,RP Singh,LA Carseldine,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,SA Asnodkar,RP Singh,LA Carseldine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,SA Asnodkar,RP Singh,LA Carseldine,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2.wides,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,LA Carseldine,WPUJC Vaas,SA Asnodkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,LA Carseldine,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,True,stumped,LA Carseldine,AC Gilchrist,powerplay
+2,Rajasthan Royals,4,6,NV Ojha,WPUJC Vaas,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,NV Ojha,A Symonds,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,NV Ojha,A Symonds,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,NV Ojha,A Symonds,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,NV Ojha,A Symonds,SA Asnodkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,NV Ojha,A Symonds,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,SA Asnodkar,A Symonds,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,NV Ojha,WPUJC Vaas,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,NV Ojha,WPUJC Vaas,SA Asnodkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,NV Ojha,WPUJC Vaas,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,SA Asnodkar,WPUJC Vaas,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,SA Asnodkar,WPUJC Vaas,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,SA Asnodkar,WPUJC Vaas,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,1,NV Ojha,A Symonds,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,SA Asnodkar,A Symonds,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,SA Asnodkar,A Symonds,NV Ojha,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,SA Asnodkar,A Symonds,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,SA Asnodkar,A Symonds,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,NV Ojha,A Symonds,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,NV Ojha,PP Ojha,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,SA Asnodkar,PP Ojha,NV Ojha,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,SA Asnodkar,PP Ojha,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,NV Ojha,PP Ojha,SA Asnodkar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,NV Ojha,PP Ojha,SA Asnodkar,0,0,0,,0,0,0,0,0,True,run out,NV Ojha,DB Ravi Teja,middle
+2,Rajasthan Royals,8,6,SA Asnodkar,PP Ojha,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,YK Pathan,A Symonds,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,SA Asnodkar,A Symonds,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,SA Asnodkar,A Symonds,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,YK Pathan,A Symonds,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,SA Asnodkar,A Symonds,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,SA Asnodkar,A Symonds,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,SA Asnodkar,PP Ojha,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,SA Asnodkar,PP Ojha,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,SA Asnodkar,PP Ojha,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,YK Pathan,PP Ojha,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,SA Asnodkar,PP Ojha,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,YK Pathan,PP Ojha,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,YK Pathan,A Symonds,SA Asnodkar,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,11,2,SA Asnodkar,A Symonds,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,SA Asnodkar,A Symonds,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,SA Asnodkar,A Symonds,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,SA Asnodkar,A Symonds,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,SA Asnodkar,A Symonds,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,YK Pathan,PP Ojha,SA Asnodkar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,YK Pathan,PP Ojha,SA Asnodkar,0,0,0,,0,0,0,0,0,True,caught,YK Pathan,DR Smith,middle
+2,Rajasthan Royals,12,3,SA Asnodkar,PP Ojha,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,RA Jadeja,PP Ojha,SA Asnodkar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,RA Jadeja,PP Ojha,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,SA Asnodkar,PP Ojha,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,RA Jadeja,DR Smith,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,2,SA Asnodkar,DR Smith,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,RA Jadeja,DR Smith,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,SA Asnodkar,DR Smith,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,5,SA Asnodkar,DR Smith,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,6,RA Jadeja,DR Smith,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,SA Asnodkar,RG Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,True,run out,SA Asnodkar,"AC Gilchrist, Y Venugopal Rao",death
+2,Rajasthan Royals,14,2,AS Raut,RG Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,RA Jadeja,RG Sharma,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,AS Raut,RG Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,True,bowled,AS Raut,,death
+2,Rajasthan Royals,14,5,M Morkel,RG Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,M Morkel,RG Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,M Morkel,RP Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,RA Jadeja,RP Singh,M Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,M Morkel,RP Singh,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,M Morkel,RP Singh,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,M Morkel,RP Singh,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6.wides,M Morkel,RP Singh,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,M Morkel,RP Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,RA Jadeja,RG Sharma,M Morkel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,M Morkel,RG Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,M Morkel,DB Ravi Teja,death
+2,Rajasthan Royals,16,3,RA Jadeja,RG Sharma,SK Warne,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,SK Warne,RG Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,True,bowled,SK Warne,,death
+2,Rajasthan Royals,16,5,SK Trivedi,RG Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,SK Trivedi,RG Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,SK Trivedi,RP Singh,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,SK Trivedi,RP Singh,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,SK Trivedi,RP Singh,RA Jadeja,0,0,0,,0,0,0,0,0,True,bowled,SK Trivedi,,death
+2,Rajasthan Royals,17,4,MM Patel,RP Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,RA Jadeja,RP Singh,MM Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,RA Jadeja,RP Singh,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,RA Jadeja,RG Sharma,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,MM Patel,RG Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,RA Jadeja,RG Sharma,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,MM Patel,RG Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,MM Patel,RG Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,RA Jadeja,RG Sharma,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,RA Jadeja,WPUJC Vaas,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,MM Patel,WPUJC Vaas,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,RA Jadeja,WPUJC Vaas,MM Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4,RA Jadeja,WPUJC Vaas,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,MM Patel,WPUJC Vaas,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,6,RA Jadeja,WPUJC Vaas,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,1,RA Jadeja,PP Ojha,MM Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,2,RA Jadeja,PP Ojha,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,3,MM Patel,PP Ojha,RA Jadeja,0,0,0,,0,0,0,0,0,True,run out,MM Patel,"TL Suman, AC Gilchrist",death

@@ -1,0 +1,248 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,JH Kallis,DW Steyn,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,JH Kallis,DW Steyn,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,JH Kallis,DW Steyn,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,JH Kallis,DW Steyn,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,JH Kallis,DW Steyn,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,JH Kallis,DW Steyn,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,MS Bisla,I Sharma,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,MS Bisla,I Sharma,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,JH Kallis,I Sharma,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,JH Kallis,I Sharma,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,JH Kallis,I Sharma,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,JH Kallis,I Sharma,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,MS Bisla,DW Steyn,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,MS Bisla,DW Steyn,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,MS Bisla,DW Steyn,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,JH Kallis,DW Steyn,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,MS Bisla,DW Steyn,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,MS Bisla,DW Steyn,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,JH Kallis,I Sharma,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,JH Kallis,I Sharma,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,JH Kallis,I Sharma,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,4,JH Kallis,I Sharma,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,MS Bisla,I Sharma,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,JH Kallis,I Sharma,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,JH Kallis,DT Christian,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,MS Bisla,DT Christian,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,MS Bisla,DT Christian,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,JH Kallis,DT Christian,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,MS Bisla,DT Christian,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,MS Bisla,DT Christian,JH Kallis,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,MS Bisla,I Sharma,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,JH Kallis,I Sharma,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3,MS Bisla,I Sharma,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,4,MS Bisla,I Sharma,JH Kallis,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,JH Kallis,I Sharma,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,6,JH Kallis,I Sharma,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,7,1,JH Kallis,A Mishra,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,MS Bisla,A Mishra,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,JH Kallis,A Mishra,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,JH Kallis,A Mishra,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,MS Bisla,A Mishra,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,MS Bisla,A Mishra,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,JH Kallis,PP Ojha,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,JH Kallis,PP Ojha,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,JH Kallis,PP Ojha,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,JH Kallis,PP Ojha,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,JH Kallis,PP Ojha,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,MS Bisla,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,MS Bisla,A Mishra,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,MS Bisla,A Mishra,JH Kallis,0,0,0,,0,0,0,0,0,True,lbw,MS Bisla,,middle
+1,Kolkata Knight Riders,9,3,G Gambhir,A Mishra,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,JH Kallis,A Mishra,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,JH Kallis,A Mishra,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,JH Kallis,A Mishra,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,JH Kallis,PP Ojha,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,JH Kallis,PP Ojha,G Gambhir,0,4,4,byes,0,0,4,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,JH Kallis,PP Ojha,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,JH Kallis,PP Ojha,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,JH Kallis,PP Ojha,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,JH Kallis,PP Ojha,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,G Gambhir,DB Ravi Teja,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,JH Kallis,DB Ravi Teja,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,G Gambhir,DB Ravi Teja,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,G Gambhir,DB Ravi Teja,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,G Gambhir,DB Ravi Teja,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,G Gambhir,DB Ravi Teja,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,G Gambhir,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,JH Kallis,PP Ojha,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,3,G Gambhir,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,JH Kallis,PP Ojha,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,JH Kallis,PP Ojha,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,JH Kallis,PP Ojha,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,1,G Gambhir,JP Duminy,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,JH Kallis,JP Duminy,G Gambhir,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,JH Kallis,JP Duminy,G Gambhir,0,0,0,,0,0,0,0,0,True,caught,JH Kallis,S Dhawan,middle
+1,Kolkata Knight Riders,13,4,MK Tiwary,JP Duminy,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,MK Tiwary,JP Duminy,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,MK Tiwary,JP Duminy,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,MK Tiwary,DT Christian,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,2,MK Tiwary,DT Christian,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3.wides,MK Tiwary,DT Christian,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,MK Tiwary,DT Christian,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,4,MK Tiwary,DT Christian,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,MK Tiwary,DT Christian,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,G Gambhir,DT Christian,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,MK Tiwary,JP Duminy,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,MK Tiwary,JP Duminy,G Gambhir,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,MK Tiwary,JP Duminy,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,MK Tiwary,JP Duminy,G Gambhir,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,5,MK Tiwary,JP Duminy,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,6,G Gambhir,JP Duminy,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,MK Tiwary,PP Ojha,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,G Gambhir,PP Ojha,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3.wides,G Gambhir,PP Ojha,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,G Gambhir,PP Ojha,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,MK Tiwary,PP Ojha,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,5,MK Tiwary,PP Ojha,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,G Gambhir,PP Ojha,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,G Gambhir,A Mishra,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,G Gambhir,A Mishra,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3,G Gambhir,A Mishra,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,MK Tiwary,A Mishra,G Gambhir,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kolkata Knight Riders,17,5,G Gambhir,A Mishra,MK Tiwary,0,0,0,,0,0,0,0,0,True,bowled,G Gambhir,,death
+1,Kolkata Knight Riders,17,6,YK Pathan,A Mishra,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,1,MK Tiwary,DW Steyn,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,YK Pathan,DW Steyn,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3.wides,YK Pathan,DW Steyn,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,YK Pathan,DW Steyn,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,YK Pathan,DW Steyn,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,YK Pathan,DW Steyn,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,MK Tiwary,DW Steyn,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,YK Pathan,A Mishra,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2,YK Pathan,A Mishra,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,3,YK Pathan,A Mishra,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4,YK Pathan,A Mishra,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,MK Tiwary,A Mishra,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,YK Pathan,A Mishra,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,YK Pathan,DW Steyn,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,YK Pathan,DW Steyn,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,MK Tiwary,DW Steyn,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,4,YK Pathan,DW Steyn,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,YK Pathan,DW Steyn,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,YK Pathan,DW Steyn,MK Tiwary,0,0,0,,0,0,0,0,0,True,caught,YK Pathan,IR Jaggi,death
+2,Deccan Chargers,1,1,S Dhawan,Iqbal Abdulla,IR Jaggi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,S Dhawan,Iqbal Abdulla,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,3,IR Jaggi,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,IR Jaggi,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,IR Jaggi,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,IR Jaggi,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1.wides,S Dhawan,L Balaji,IR Jaggi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1,S Dhawan,L Balaji,IR Jaggi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,S Dhawan,L Balaji,IR Jaggi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,3,S Dhawan,L Balaji,IR Jaggi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,S Dhawan,L Balaji,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,IR Jaggi,L Balaji,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,6,IR Jaggi,L Balaji,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,IR Jaggi,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,2,IR Jaggi,Iqbal Abdulla,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,IR Jaggi,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,True,bowled,IR Jaggi,,powerplay
+2,Deccan Chargers,3,4,B Chipli,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,5,B Chipli,Iqbal Abdulla,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,B Chipli,Iqbal Abdulla,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,S Dhawan,L Balaji,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,B Chipli,L Balaji,S Dhawan,0,0,0,,0,0,0,0,0,True,run out,S Dhawan,EJG Morgan,powerplay
+2,Deccan Chargers,4,3,B Chipli,L Balaji,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,B Chipli,L Balaji,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,KC Sangakkara,L Balaji,B Chipli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,KC Sangakkara,L Balaji,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,KC Sangakkara,YK Pathan,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,B Chipli,YK Pathan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,3,B Chipli,YK Pathan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,4,B Chipli,YK Pathan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,B Chipli,YK Pathan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,6,KC Sangakkara,YK Pathan,B Chipli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,B Chipli,JD Unadkat,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2,B Chipli,JD Unadkat,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,3,B Chipli,JD Unadkat,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,4,KC Sangakkara,JD Unadkat,B Chipli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,5,B Chipli,JD Unadkat,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,6,B Chipli,JD Unadkat,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,7,1,B Chipli,R Bhatia,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2,KC Sangakkara,R Bhatia,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,B Chipli,R Bhatia,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,KC Sangakkara,R Bhatia,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,B Chipli,R Bhatia,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,B Chipli,R Bhatia,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,B Chipli,YK Pathan,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,2,B Chipli,YK Pathan,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,KC Sangakkara,YK Pathan,B Chipli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,KC Sangakkara,YK Pathan,B Chipli,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,KC Sangakkara,YK Pathan,B Chipli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Deccan Chargers,8,6,B Chipli,YK Pathan,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,1,KC Sangakkara,R Bhatia,B Chipli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,KC Sangakkara,R Bhatia,B Chipli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3,KC Sangakkara,R Bhatia,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,4,B Chipli,R Bhatia,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,KC Sangakkara,R Bhatia,B Chipli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,KC Sangakkara,R Bhatia,B Chipli,0,0,0,,0,0,0,0,0,True,caught,KC Sangakkara,JH Kallis,middle
+2,Deccan Chargers,10,1,JP Duminy,YK Pathan,B Chipli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,2,JP Duminy,YK Pathan,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,B Chipli,YK Pathan,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,B Chipli,YK Pathan,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,JP Duminy,YK Pathan,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,6,B Chipli,YK Pathan,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,1,JP Duminy,RN ten Doeschate,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2.wides,B Chipli,RN ten Doeschate,JP Duminy,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,B Chipli,RN ten Doeschate,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,JP Duminy,RN ten Doeschate,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,B Chipli,RN ten Doeschate,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,5,JP Duminy,RN ten Doeschate,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,B Chipli,RN ten Doeschate,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,B Chipli,R Bhatia,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,B Chipli,R Bhatia,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,B Chipli,R Bhatia,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,JP Duminy,R Bhatia,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,5,B Chipli,R Bhatia,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,6,B Chipli,R Bhatia,JP Duminy,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Deccan Chargers,13,1,B Chipli,Iqbal Abdulla,JP Duminy,0,1,1,byes,0,0,1,0,0,False,,,,middle
+2,Deccan Chargers,13,2,JP Duminy,Iqbal Abdulla,B Chipli,0,0,0,,0,0,0,0,0,True,caught,JP Duminy,JH Kallis,middle
+2,Deccan Chargers,13,3,B Chipli,Iqbal Abdulla,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,4,DT Christian,Iqbal Abdulla,B Chipli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,5,DT Christian,Iqbal Abdulla,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,6,B Chipli,Iqbal Abdulla,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,1,B Chipli,R Bhatia,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,2,DT Christian,R Bhatia,B Chipli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,3,DT Christian,R Bhatia,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,4,B Chipli,R Bhatia,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,5,DT Christian,R Bhatia,B Chipli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,6,B Chipli,R Bhatia,DT Christian,0,0,0,,0,0,0,0,0,True,caught,B Chipli,JH Kallis,middle
+2,Deccan Chargers,15,1,DT Christian,L Balaji,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,2,DB Ravi Teja,L Balaji,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,3,DB Ravi Teja,L Balaji,DT Christian,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,4,DB Ravi Teja,L Balaji,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,5,DT Christian,L Balaji,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,6,DT Christian,L Balaji,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,16,1,DT Christian,JD Unadkat,DB Ravi Teja,3,0,3,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,DB Ravi Teja,JD Unadkat,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,DT Christian,JD Unadkat,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,4,DB Ravi Teja,JD Unadkat,DT Christian,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,DB Ravi Teja,JD Unadkat,DT Christian,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,DB Ravi Teja,JD Unadkat,DT Christian,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Deccan Chargers,17,1,DB Ravi Teja,Iqbal Abdulla,DT Christian,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,DT Christian,Iqbal Abdulla,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3,DT Christian,Iqbal Abdulla,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,DT Christian,Iqbal Abdulla,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,caught,DT Christian,RN ten Doeschate,death
+2,Deccan Chargers,17,5,DB Ravi Teja,Iqbal Abdulla,DW Steyn,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,DW Steyn,Iqbal Abdulla,DB Ravi Teja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,1,DB Ravi Teja,JD Unadkat,DW Steyn,0,0,0,,0,0,0,0,0,True,caught,DB Ravi Teja,JH Kallis,death
+2,Deccan Chargers,18,2,DW Steyn,JD Unadkat,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,A Mishra,JD Unadkat,DW Steyn,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,4.wides,DW Steyn,JD Unadkat,A Mishra,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,4,DW Steyn,JD Unadkat,A Mishra,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,5,DW Steyn,JD Unadkat,A Mishra,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,6,DW Steyn,JD Unadkat,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,1,DW Steyn,L Balaji,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,2,A Mishra,L Balaji,DW Steyn,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,3,A Mishra,L Balaji,DW Steyn,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,4,DW Steyn,L Balaji,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,5,A Mishra,L Balaji,DW Steyn,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Deccan Chargers,19,6,DW Steyn,L Balaji,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,1,DW Steyn,JD Unadkat,A Mishra,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,2,DW Steyn,JD Unadkat,A Mishra,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,3,DW Steyn,JD Unadkat,A Mishra,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,4,DW Steyn,JD Unadkat,A Mishra,0,0,0,,0,0,0,0,0,True,bowled,DW Steyn,,death
+2,Deccan Chargers,20,5,I Sharma,JD Unadkat,A Mishra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,6.wides,A Mishra,JD Unadkat,I Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,6,A Mishra,JD Unadkat,I Sharma,6,0,6,,0,0,0,0,0,False,,,,death

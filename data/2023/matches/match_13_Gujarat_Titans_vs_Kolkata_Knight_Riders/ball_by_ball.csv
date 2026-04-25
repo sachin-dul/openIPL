@@ -1,0 +1,251 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Gujarat Titans,1,1,WP Saha,UT Yadav,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,2,WP Saha,UT Yadav,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,3,Shubman Gill,UT Yadav,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,4,WP Saha,UT Yadav,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,5,WP Saha,UT Yadav,Shubman Gill,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,1,6,Shubman Gill,UT Yadav,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,1,Shubman Gill,SN Thakur,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,2,WP Saha,SN Thakur,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,3,WP Saha,SN Thakur,Shubman Gill,0,1,1,byes,0,0,1,0,0,False,,,,powerplay
+1,Gujarat Titans,2,4,Shubman Gill,SN Thakur,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,5.wides,WP Saha,SN Thakur,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,5,WP Saha,SN Thakur,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,6,Shubman Gill,SN Thakur,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,1,WP Saha,UT Yadav,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,2,Shubman Gill,UT Yadav,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,3,WP Saha,UT Yadav,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,4,WP Saha,UT Yadav,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,5.wides,WP Saha,UT Yadav,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,5,WP Saha,UT Yadav,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,6,WP Saha,UT Yadav,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,1,Shubman Gill,LH Ferguson,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,2,Shubman Gill,LH Ferguson,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,3,WP Saha,LH Ferguson,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,4,WP Saha,LH Ferguson,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,5.wides,WP Saha,LH Ferguson,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,5,WP Saha,LH Ferguson,Shubman Gill,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,4,6,Shubman Gill,LH Ferguson,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,1,WP Saha,SP Narine,Shubman Gill,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,2,WP Saha,SP Narine,Shubman Gill,0,0,0,,0,0,0,0,0,True,caught,WP Saha,N Jagadeesan,powerplay
+1,Gujarat Titans,5,3.wides,B Sai Sudharsan,SP Narine,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,3,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,4,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,5,B Sai Sudharsan,SP Narine,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,6,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,1,Shubman Gill,CV Varun,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,2,B Sai Sudharsan,CV Varun,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,3,Shubman Gill,CV Varun,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,4.wides,Shubman Gill,CV Varun,B Sai Sudharsan,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,4,Shubman Gill,CV Varun,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,5,Shubman Gill,CV Varun,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,6,Shubman Gill,CV Varun,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,7,1,Shubman Gill,SP Narine,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,2,B Sai Sudharsan,SP Narine,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,3,Shubman Gill,SP Narine,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,4,Shubman Gill,SP Narine,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,5,B Sai Sudharsan,SP Narine,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,6,Shubman Gill,SP Narine,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,1,B Sai Sudharsan,Suyash Sharma,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,2,Shubman Gill,Suyash Sharma,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,3,Shubman Gill,Suyash Sharma,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,4,B Sai Sudharsan,Suyash Sharma,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,5,B Sai Sudharsan,Suyash Sharma,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,6,B Sai Sudharsan,Suyash Sharma,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,1,Shubman Gill,CV Varun,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,2,B Sai Sudharsan,CV Varun,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,3,Shubman Gill,CV Varun,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,4,B Sai Sudharsan,CV Varun,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,5,Shubman Gill,CV Varun,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,6,B Sai Sudharsan,CV Varun,Shubman Gill,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,1,Shubman Gill,Suyash Sharma,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,2,Shubman Gill,Suyash Sharma,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,3.wides,Shubman Gill,Suyash Sharma,B Sai Sudharsan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,3,Shubman Gill,Suyash Sharma,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,4,B Sai Sudharsan,Suyash Sharma,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,5,Shubman Gill,Suyash Sharma,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,6,B Sai Sudharsan,Suyash Sharma,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,1,B Sai Sudharsan,LH Ferguson,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,2,B Sai Sudharsan,LH Ferguson,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,3,B Sai Sudharsan,LH Ferguson,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,4,Shubman Gill,LH Ferguson,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,5,Shubman Gill,LH Ferguson,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,6,B Sai Sudharsan,LH Ferguson,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,1,B Sai Sudharsan,SP Narine,Shubman Gill,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,2,B Sai Sudharsan,SP Narine,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,3,Shubman Gill,SP Narine,B Sai Sudharsan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,4,Shubman Gill,SP Narine,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,caught,Shubman Gill,UT Yadav,middle
+1,Gujarat Titans,12,5,A Manohar,SP Narine,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,6,A Manohar,SP Narine,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,1,A Manohar,UT Yadav,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,2,A Manohar,UT Yadav,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,3,A Manohar,UT Yadav,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,4,A Manohar,UT Yadav,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,5,A Manohar,UT Yadav,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,6,B Sai Sudharsan,UT Yadav,A Manohar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,1,B Sai Sudharsan,Suyash Sharma,A Manohar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,2,B Sai Sudharsan,Suyash Sharma,A Manohar,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,3,A Manohar,Suyash Sharma,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,bowled,A Manohar,,middle
+1,Gujarat Titans,14,4,V Shankar,Suyash Sharma,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,5,B Sai Sudharsan,Suyash Sharma,V Shankar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,6,B Sai Sudharsan,Suyash Sharma,V Shankar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,1,V Shankar,SN Thakur,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,2,B Sai Sudharsan,SN Thakur,V Shankar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,3,B Sai Sudharsan,SN Thakur,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,4,B Sai Sudharsan,SN Thakur,V Shankar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,5,B Sai Sudharsan,SN Thakur,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,6,V Shankar,SN Thakur,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,16,1,V Shankar,Suyash Sharma,B Sai Sudharsan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,2,V Shankar,Suyash Sharma,B Sai Sudharsan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,3,V Shankar,Suyash Sharma,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,4,V Shankar,Suyash Sharma,B Sai Sudharsan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,5,V Shankar,Suyash Sharma,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,6,B Sai Sudharsan,Suyash Sharma,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,1,B Sai Sudharsan,LH Ferguson,V Shankar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,2,B Sai Sudharsan,LH Ferguson,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,3,V Shankar,LH Ferguson,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,4,B Sai Sudharsan,LH Ferguson,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,5,V Shankar,LH Ferguson,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,6,B Sai Sudharsan,LH Ferguson,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,1,B Sai Sudharsan,SP Narine,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,2,V Shankar,SP Narine,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,3,B Sai Sudharsan,SP Narine,V Shankar,0,0,0,,0,0,0,0,0,True,caught,B Sai Sudharsan,AS Roy,death
+1,Gujarat Titans,18,4,DA Miller,SP Narine,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,5,V Shankar,SP Narine,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,6,V Shankar,SP Narine,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,1.noballs,V Shankar,LH Ferguson,DA Miller,4,1,5,noballs,0,1,0,0,0,False,,,,death
+1,Gujarat Titans,19,1,V Shankar,LH Ferguson,DA Miller,2,0,2,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,2,V Shankar,LH Ferguson,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,3,V Shankar,LH Ferguson,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,4,V Shankar,LH Ferguson,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,5,DA Miller,LH Ferguson,V Shankar,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Gujarat Titans,19,6,V Shankar,LH Ferguson,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,1,DA Miller,SN Thakur,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,2,V Shankar,SN Thakur,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,3,V Shankar,SN Thakur,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,4,V Shankar,SN Thakur,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,5,V Shankar,SN Thakur,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,6,V Shankar,SN Thakur,DA Miller,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,1,1,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,N Jagadeesan,J Little,Rahmanullah Gurbaz,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,N Jagadeesan,J Little,Rahmanullah Gurbaz,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,N Jagadeesan,J Little,Rahmanullah Gurbaz,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,Rahmanullah Gurbaz,J Little,N Jagadeesan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,Rahmanullah Gurbaz,J Little,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,Rahmanullah Gurbaz,J Little,N Jagadeesan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,Rahmanullah Gurbaz,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,True,caught,Rahmanullah Gurbaz,Yash Dayal,powerplay
+2,Kolkata Knight Riders,3,4,VR Iyer,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,VR Iyer,Mohammed Shami,N Jagadeesan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,VR Iyer,Mohammed Shami,N Jagadeesan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,N Jagadeesan,J Little,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,VR Iyer,J Little,N Jagadeesan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,N Jagadeesan,J Little,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,N Jagadeesan,J Little,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,N Jagadeesan,J Little,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,N Jagadeesan,J Little,VR Iyer,0,0,0,,0,0,0,0,0,True,caught,N Jagadeesan,A Manohar,powerplay
+2,Kolkata Knight Riders,5,1,VR Iyer,Mohammed Shami,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,VR Iyer,Mohammed Shami,N Rana,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,N Rana,Mohammed Shami,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,VR Iyer,Mohammed Shami,N Rana,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,VR Iyer,Mohammed Shami,N Rana,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,N Rana,Mohammed Shami,VR Iyer,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,VR Iyer,AS Joseph,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,VR Iyer,AS Joseph,N Rana,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,VR Iyer,AS Joseph,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,4,VR Iyer,AS Joseph,N Rana,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,5,N Rana,AS Joseph,VR Iyer,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,6,VR Iyer,AS Joseph,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,7,1,N Rana,Yash Dayal,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,VR Iyer,Yash Dayal,N Rana,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,VR Iyer,Yash Dayal,N Rana,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,VR Iyer,Yash Dayal,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,N Rana,Yash Dayal,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,N Rana,Yash Dayal,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,N Rana,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,N Rana,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,N Rana,AS Joseph,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,N Rana,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,N Rana,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,N Rana,AS Joseph,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,VR Iyer,Rashid Khan,N Rana,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,VR Iyer,Rashid Khan,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,N Rana,Rashid Khan,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,VR Iyer,Rashid Khan,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,N Rana,Rashid Khan,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,N Rana,Rashid Khan,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,N Rana,Yash Dayal,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,VR Iyer,Yash Dayal,N Rana,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,VR Iyer,Yash Dayal,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,N Rana,Yash Dayal,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,N Rana,Yash Dayal,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,VR Iyer,Yash Dayal,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,VR Iyer,Rashid Khan,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,N Rana,Rashid Khan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,N Rana,Rashid Khan,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,VR Iyer,Rashid Khan,N Rana,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,VR Iyer,Rashid Khan,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,N Rana,Rashid Khan,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,1,VR Iyer,Yash Dayal,N Rana,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,VR Iyer,Yash Dayal,N Rana,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,VR Iyer,Yash Dayal,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,N Rana,Yash Dayal,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,5,N Rana,Yash Dayal,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,6,N Rana,Yash Dayal,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,1,VR Iyer,Rashid Khan,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,2,N Rana,Rashid Khan,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,3,N Rana,Rashid Khan,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,4,N Rana,Rashid Khan,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,5,N Rana,Rashid Khan,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,6,VR Iyer,Rashid Khan,N Rana,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,1,N Rana,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,True,caught,N Rana,Mohammed Shami,middle
+2,Kolkata Knight Riders,14,2,RK Singh,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,3,RK Singh,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,4,RK Singh,AS Joseph,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,5,VR Iyer,AS Joseph,RK Singh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,14,6,VR Iyer,AS Joseph,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,1,VR Iyer,J Little,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,2,RK Singh,J Little,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,3.wides,VR Iyer,J Little,RK Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,3,VR Iyer,J Little,RK Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,4,VR Iyer,J Little,RK Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,5,VR Iyer,J Little,RK Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,15,6,VR Iyer,J Little,RK Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,16,1,RK Singh,AS Joseph,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,RK Singh,AS Joseph,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,VR Iyer,AS Joseph,RK Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,VR Iyer,AS Joseph,RK Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,VR Iyer,AS Joseph,RK Singh,0,0,0,,0,0,0,0,0,True,caught,VR Iyer,Shubman Gill,death
+2,Kolkata Knight Riders,16,6,AD Russell,AS Joseph,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,AD Russell,Rashid Khan,RK Singh,0,0,0,,0,0,0,0,0,True,caught,AD Russell,KS Bharat,death
+2,Kolkata Knight Riders,17,2,SP Narine,Rashid Khan,RK Singh,0,0,0,,0,0,0,0,0,True,caught,SP Narine,J Yadav,death
+2,Kolkata Knight Riders,17,3,SN Thakur,Rashid Khan,RK Singh,0,0,0,,0,0,0,0,0,True,lbw,SN Thakur,,death
+2,Kolkata Knight Riders,17,4,UT Yadav,Rashid Khan,RK Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5,UT Yadav,Rashid Khan,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,RK Singh,Rashid Khan,UT Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1,RK Singh,Mohammed Shami,UT Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2,RK Singh,Mohammed Shami,UT Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,3,UT Yadav,Mohammed Shami,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,4,RK Singh,Mohammed Shami,UT Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,5,UT Yadav,Mohammed Shami,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,RK Singh,Mohammed Shami,UT Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1.wides,RK Singh,J Little,UT Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1.wides,RK Singh,J Little,UT Yadav,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1,RK Singh,J Little,UT Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,2,UT Yadav,J Little,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,3,RK Singh,J Little,UT Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,4,RK Singh,J Little,UT Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,5,RK Singh,J Little,UT Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,6,RK Singh,J Little,UT Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,1,UT Yadav,Yash Dayal,RK Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,2,RK Singh,Yash Dayal,UT Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,3,RK Singh,Yash Dayal,UT Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,4,RK Singh,Yash Dayal,UT Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,5,RK Singh,Yash Dayal,UT Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,20,6,RK Singh,Yash Dayal,UT Yadav,6,0,6,,0,0,0,0,0,False,,,,death

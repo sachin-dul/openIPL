@@ -1,0 +1,248 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,V Kohli,Sandeep Sharma,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,V Kohli,Sandeep Sharma,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,D Padikkal,Sandeep Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,V Kohli,Sandeep Sharma,D Padikkal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,V Kohli,Sandeep Sharma,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,V Kohli,Sandeep Sharma,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,V Kohli,JO Holder,D Padikkal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,V Kohli,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,True,caught,V Kohli,SP Goswami,powerplay
+1,Royal Challengers Bangalore,2,3,AJ Finch,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4.wides,AJ Finch,JO Holder,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,AJ Finch,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,AJ Finch,JO Holder,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,AJ Finch,JO Holder,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,AJ Finch,Sandeep Sharma,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,AJ Finch,Sandeep Sharma,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,D Padikkal,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,D Padikkal,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,D Padikkal,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,D Padikkal,Sandeep Sharma,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,AJ Finch,JO Holder,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,AJ Finch,JO Holder,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,D Padikkal,JO Holder,AJ Finch,0,0,0,,0,0,0,0,0,True,caught,D Padikkal,PK Garg,powerplay
+1,Royal Challengers Bangalore,4,4,AB de Villiers,JO Holder,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,AB de Villiers,JO Holder,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,AB de Villiers,JO Holder,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,AJ Finch,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,AB de Villiers,Sandeep Sharma,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,AJ Finch,Sandeep Sharma,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,AJ Finch,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,AB de Villiers,Sandeep Sharma,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,AJ Finch,Sandeep Sharma,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,AB de Villiers,T Natarajan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,AJ Finch,T Natarajan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,AB de Villiers,T Natarajan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,AJ Finch,T Natarajan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,AB de Villiers,T Natarajan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,AJ Finch,T Natarajan,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,AJ Finch,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,AJ Finch,S Nadeem,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,AJ Finch,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,AB de Villiers,Rashid Khan,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,AB de Villiers,Rashid Khan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,AJ Finch,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,AJ Finch,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,AJ Finch,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,AJ Finch,Rashid Khan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,AJ Finch,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,AJ Finch,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,AJ Finch,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,AB de Villiers,Rashid Khan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,AJ Finch,Rashid Khan,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,AJ Finch,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,AJ Finch,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,AJ Finch,Rashid Khan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,AB de Villiers,Rashid Khan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1.wides,AB de Villiers,S Nadeem,AJ Finch,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,AB de Villiers,S Nadeem,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,AJ Finch,S Nadeem,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,AJ Finch,Abdul Samad,middle
+1,Royal Challengers Bangalore,11,3,AB de Villiers,S Nadeem,MM Ali,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4.noballs,AB de Villiers,S Nadeem,MM Ali,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,MM Ali,S Nadeem,AB de Villiers,0,0,0,,0,0,0,0,0,True,run out,MM Ali,,middle
+1,Royal Challengers Bangalore,11,5,AB de Villiers,S Nadeem,S Dube,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,AB de Villiers,S Nadeem,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,AB de Villiers,Rashid Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,S Dube,Rashid Khan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,AB de Villiers,Rashid Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,S Dube,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,S Dube,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,S Dube,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,AB de Villiers,S Nadeem,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,AB de Villiers,S Nadeem,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,S Dube,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,AB de Villiers,S Nadeem,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,S Dube,S Nadeem,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,AB de Villiers,S Nadeem,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,S Dube,T Natarajan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,AB de Villiers,T Natarajan,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,AB de Villiers,T Natarajan,S Dube,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,AB de Villiers,T Natarajan,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,S Dube,T Natarajan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,S Dube,T Natarajan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,S Dube,Rashid Khan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,AB de Villiers,Rashid Khan,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,AB de Villiers,Rashid Khan,S Dube,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,AB de Villiers,Rashid Khan,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,AB de Villiers,Rashid Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,S Dube,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,AB de Villiers,JO Holder,S Dube,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,AB de Villiers,JO Holder,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,S Dube,JO Holder,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4.wides,S Dube,JO Holder,AB de Villiers,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,S Dube,JO Holder,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,S Dube,DA Warner,death
+1,Royal Challengers Bangalore,16,5,Washington Sundar,JO Holder,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,AB de Villiers,JO Holder,Washington Sundar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,Washington Sundar,Sandeep Sharma,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,Washington Sundar,Sandeep Sharma,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,Washington Sundar,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,AB de Villiers,Sandeep Sharma,Washington Sundar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,Washington Sundar,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,AB de Villiers,Sandeep Sharma,Washington Sundar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,Washington Sundar,T Natarajan,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,Washington Sundar,Abdul Samad,death
+1,Royal Challengers Bangalore,18,2,AB de Villiers,T Natarajan,Navdeep Saini,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,Navdeep Saini,T Natarajan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,Navdeep Saini,T Natarajan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,AB de Villiers,T Natarajan,Navdeep Saini,0,0,0,,0,0,0,0,0,True,bowled,AB de Villiers,,death
+1,Royal Challengers Bangalore,18,6,Mohammed Siraj,T Natarajan,Navdeep Saini,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,Navdeep Saini,JO Holder,Mohammed Siraj,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,Mohammed Siraj,JO Holder,Navdeep Saini,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,Navdeep Saini,JO Holder,Mohammed Siraj,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,Mohammed Siraj,JO Holder,Navdeep Saini,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,Mohammed Siraj,JO Holder,Navdeep Saini,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,Navdeep Saini,JO Holder,Mohammed Siraj,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,Navdeep Saini,T Natarajan,Mohammed Siraj,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,Navdeep Saini,T Natarajan,Mohammed Siraj,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,Navdeep Saini,T Natarajan,Mohammed Siraj,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,Mohammed Siraj,T Natarajan,Navdeep Saini,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,Mohammed Siraj,T Natarajan,Navdeep Saini,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,Mohammed Siraj,T Natarajan,Navdeep Saini,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1.wides,DA Warner,Mohammed Siraj,SP Goswami,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,1,DA Warner,Mohammed Siraj,SP Goswami,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,SP Goswami,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,SP Goswami,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,SP Goswami,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,True,caught,SP Goswami,AB de Villiers,powerplay
+2,Sunrisers Hyderabad,1,5,MK Pandey,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,MK Pandey,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,DA Warner,Navdeep Saini,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,DA Warner,Navdeep Saini,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,MK Pandey,Navdeep Saini,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,DA Warner,Navdeep Saini,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,DA Warner,Navdeep Saini,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,DA Warner,Navdeep Saini,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1.wides,MK Pandey,Mohammed Siraj,DA Warner,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1.wides,MK Pandey,Mohammed Siraj,DA Warner,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,MK Pandey,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,MK Pandey,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,MK Pandey,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,MK Pandey,Mohammed Siraj,DA Warner,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,MK Pandey,Mohammed Siraj,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,DA Warner,Mohammed Siraj,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,MK Pandey,Navdeep Saini,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,MK Pandey,Navdeep Saini,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,MK Pandey,Navdeep Saini,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,DA Warner,Navdeep Saini,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,MK Pandey,Navdeep Saini,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,MK Pandey,Navdeep Saini,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,DA Warner,Washington Sundar,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2.noballs,DA Warner,Washington Sundar,MK Pandey,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,DA Warner,Washington Sundar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,MK Pandey,Washington Sundar,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,MK Pandey,Washington Sundar,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,DA Warner,Washington Sundar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,DA Warner,Washington Sundar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,DA Warner,Mohammed Siraj,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,DA Warner,Mohammed Siraj,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,DA Warner,Mohammed Siraj,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,DA Warner,Mohammed Siraj,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,DA Warner,AB de Villiers,powerplay
+2,Sunrisers Hyderabad,6,5,KS Williamson,Mohammed Siraj,MK Pandey,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,6,KS Williamson,Mohammed Siraj,MK Pandey,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Sunrisers Hyderabad,7,1,KS Williamson,A Zampa,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,KS Williamson,A Zampa,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,KS Williamson,A Zampa,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,KS Williamson,A Zampa,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,KS Williamson,A Zampa,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,MK Pandey,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,KS Williamson,YS Chahal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,MK Pandey,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,KS Williamson,YS Chahal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,MK Pandey,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,MK Pandey,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,KS Williamson,YS Chahal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,KS Williamson,A Zampa,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,MK Pandey,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,MK Pandey,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,AB de Villiers,middle
+2,Sunrisers Hyderabad,9,4,PK Garg,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,PK Garg,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,PK Garg,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,KS Williamson,YS Chahal,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,PK Garg,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,PK Garg,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,PK Garg,YS Chahal,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,PK Garg,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,PK Garg,YS Chahal,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,KS Williamson,A Zampa,PK Garg,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,KS Williamson,A Zampa,PK Garg,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3.wides,KS Williamson,A Zampa,PK Garg,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,KS Williamson,A Zampa,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,PK Garg,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,PK Garg,A Zampa,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,PK Garg,A Zampa,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,KS Williamson,YS Chahal,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,PK Garg,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,KS Williamson,YS Chahal,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,PK Garg,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,PK Garg,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,True,caught,PK Garg,A Zampa,middle
+2,Sunrisers Hyderabad,12,6,KS Williamson,YS Chahal,JO Holder,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,KS Williamson,MM Ali,JO Holder,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,KS Williamson,MM Ali,JO Holder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3,KS Williamson,MM Ali,JO Holder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,KS Williamson,MM Ali,JO Holder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,KS Williamson,MM Ali,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,6,JO Holder,MM Ali,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,1,JO Holder,Washington Sundar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,2,JO Holder,Washington Sundar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,3,JO Holder,Washington Sundar,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,4,KS Williamson,Washington Sundar,JO Holder,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,5,KS Williamson,Washington Sundar,JO Holder,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,6,KS Williamson,Washington Sundar,JO Holder,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,1,JO Holder,A Zampa,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,2,KS Williamson,A Zampa,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,3,JO Holder,A Zampa,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,4,KS Williamson,A Zampa,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,5,JO Holder,A Zampa,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,6,KS Williamson,A Zampa,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,1,KS Williamson,YS Chahal,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,JO Holder,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,KS Williamson,YS Chahal,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,JO Holder,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,JO Holder,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,KS Williamson,YS Chahal,JO Holder,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,JO Holder,S Dube,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,KS Williamson,S Dube,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,JO Holder,S Dube,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,JO Holder,S Dube,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,KS Williamson,S Dube,JO Holder,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,KS Williamson,S Dube,JO Holder,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,JO Holder,Navdeep Saini,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,KS Williamson,Navdeep Saini,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,JO Holder,Navdeep Saini,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,KS Williamson,Navdeep Saini,JO Holder,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,KS Williamson,Navdeep Saini,JO Holder,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,KS Williamson,Navdeep Saini,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,KS Williamson,Mohammed Siraj,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,JO Holder,Mohammed Siraj,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,JO Holder,Mohammed Siraj,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,KS Williamson,Mohammed Siraj,JO Holder,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,KS Williamson,Mohammed Siraj,JO Holder,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,6,KS Williamson,Mohammed Siraj,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,1,KS Williamson,Navdeep Saini,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,2,JO Holder,Navdeep Saini,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,3,JO Holder,Navdeep Saini,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,4,JO Holder,Navdeep Saini,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,death

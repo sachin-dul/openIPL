@@ -1,0 +1,256 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1.wides,PA Patel,SM Pollock,ML Hayden,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,1,PA Patel,SM Pollock,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,PA Patel,SM Pollock,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,PA Patel,SM Pollock,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,PA Patel,SM Pollock,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,PA Patel,SM Pollock,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,PA Patel,SM Pollock,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,ML Hayden,A Nehra,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,ML Hayden,A Nehra,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,PA Patel,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,PA Patel,A Nehra,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,PA Patel,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,PA Patel,A Nehra,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,ML Hayden,SM Pollock,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,ML Hayden,SM Pollock,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,ML Hayden,SM Pollock,PA Patel,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,ML Hayden,SM Pollock,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,ML Hayden,SM Pollock,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,ML Hayden,SM Pollock,PA Patel,0,4,4,byes,0,0,4,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,PA Patel,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,True,caught,PA Patel,L Ronchi,powerplay
+1,Chennai Super Kings,4,2,MEK Hussey,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,MEK Hussey,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,MEK Hussey,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,MEK Hussey,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,MEK Hussey,A Nehra,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,MEK Hussey,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,MEK Hussey,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,MEK Hussey,DS Kulkarni,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,MEK Hussey,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,True,bowled,MEK Hussey,,powerplay
+1,Chennai Super Kings,5,5,SK Raina,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,SK Raina,DS Kulkarni,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,SK Raina,A Nehra,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2.wides,ML Hayden,A Nehra,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,ML Hayden,A Nehra,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,ML Hayden,A Nehra,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,ML Hayden,A Nehra,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5.wides,SK Raina,A Nehra,ML Hayden,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,SK Raina,A Nehra,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,ML Hayden,A Nehra,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,SK Raina,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,SK Raina,DS Kulkarni,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,ML Hayden,DS Kulkarni,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,SK Raina,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,SK Raina,DS Kulkarni,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6.noballs,ML Hayden,DS Kulkarni,SK Raina,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,SK Raina,DS Kulkarni,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,SK Raina,Harbhajan Singh,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,SK Raina,Harbhajan Singh,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,ML Hayden,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,SK Raina,Harbhajan Singh,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,ML Hayden,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,SK Raina,Harbhajan Singh,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,SK Raina,DJ Bravo,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,SK Raina,DJ Bravo,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,SK Raina,DJ Bravo,ML Hayden,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,9,4,ML Hayden,DJ Bravo,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,ML Hayden,DJ Bravo,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,SK Raina,DJ Bravo,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,ML Hayden,Harbhajan Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,ML Hayden,Harbhajan Singh,SK Raina,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,10,3,SK Raina,Harbhajan Singh,ML Hayden,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,SK Raina,Harbhajan Singh,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,ML Hayden,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,SK Raina,Harbhajan Singh,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,SK Raina,DJ Bravo,ML Hayden,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,SK Raina,DJ Bravo,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,ML Hayden,DJ Bravo,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,SK Raina,DJ Bravo,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,ML Hayden,DJ Bravo,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,ML Hayden,DJ Bravo,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,ML Hayden,VS Yeligati,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,ML Hayden,VS Yeligati,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,SK Raina,VS Yeligati,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,SK Raina,VS Yeligati,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5.wides,SK Raina,VS Yeligati,ML Hayden,0,5,5,wides,5,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,SK Raina,VS Yeligati,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,ML Hayden,VS Yeligati,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,ML Hayden,SM Pollock,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,SK Raina,SM Pollock,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,SK Raina,SM Pollock,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,ML Hayden,SM Pollock,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,ML Hayden,SM Pollock,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,SK Raina,SM Pollock,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,ML Hayden,AM Nayar,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,ML Hayden,AM Nayar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,SK Raina,AM Nayar,ML Hayden,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,SK Raina,AM Nayar,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,SK Raina,AM Nayar,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,ML Hayden,AM Nayar,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,SK Raina,MA Khote,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,SK Raina,MA Khote,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,ML Hayden,MA Khote,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,SK Raina,MA Khote,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,SK Raina,MA Khote,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,SK Raina,MA Khote,ML Hayden,0,0,0,,0,0,0,0,0,True,caught,SK Raina,DJ Bravo,middle
+1,Chennai Super Kings,16,1.wides,MS Dhoni,DJ Bravo,ML Hayden,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,MS Dhoni,DJ Bravo,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,MS Dhoni,DJ Bravo,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,MS Dhoni,DJ Bravo,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,MS Dhoni,DJ Bravo,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,ML Hayden,DJ Bravo,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,ML Hayden,DJ Bravo,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,ML Hayden,MA Khote,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,ML Hayden,MA Khote,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,MS Dhoni,MA Khote,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,ML Hayden,MA Khote,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,MS Dhoni,MA Khote,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,MA Khote,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,MS Dhoni,DS Kulkarni,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,MS Dhoni,DS Kulkarni,ML Hayden,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,ML Hayden,DS Kulkarni,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,ML Hayden,DS Kulkarni,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,ML Hayden,DS Kulkarni,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,MS Dhoni,DS Kulkarni,ML Hayden,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,ML Hayden,A Nehra,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2.noballs,ML Hayden,A Nehra,MS Dhoni,4,1,5,noballs,0,1,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,ML Hayden,A Nehra,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,ML Hayden,A Nehra,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,MS Dhoni,A Nehra,ML Hayden,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,MS Dhoni,A Nehra,ML Hayden,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,MS Dhoni,A Nehra,ML Hayden,0,0,0,,0,0,0,0,0,True,run out,ML Hayden,Harbhajan Singh,death
+1,Chennai Super Kings,20,1,MS Dhoni,MA Khote,JDP Oram,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,MS Dhoni,MA Khote,JDP Oram,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Chennai Super Kings,20,3,JDP Oram,MA Khote,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,JDP Oram,MA Khote,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,MS Dhoni,MA Khote,JDP Oram,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,DJ Bravo,death
+1,Chennai Super Kings,20,6,S Badrinath,MA Khote,JDP Oram,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,1,1,L Ronchi,JDP Oram,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2.wides,L Ronchi,JDP Oram,ST Jayasuriya,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,L Ronchi,JDP Oram,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,ST Jayasuriya,JDP Oram,L Ronchi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4.wides,ST Jayasuriya,JDP Oram,L Ronchi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4,ST Jayasuriya,JDP Oram,L Ronchi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,L Ronchi,JDP Oram,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,ST Jayasuriya,JDP Oram,L Ronchi,0,0,0,,0,0,0,0,0,True,run out,L Ronchi,S Badrinath,powerplay
+2,Mumbai Indians,2,1,RV Uthappa,MS Gony,ST Jayasuriya,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Mumbai Indians,2,2,RV Uthappa,MS Gony,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,RV Uthappa,MS Gony,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,RV Uthappa,MS Gony,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,RV Uthappa,MS Gony,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,6,RV Uthappa,MS Gony,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,ST Jayasuriya,JDP Oram,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,RV Uthappa,JDP Oram,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,ST Jayasuriya,JDP Oram,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,4,ST Jayasuriya,JDP Oram,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,5,ST Jayasuriya,JDP Oram,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,ST Jayasuriya,JDP Oram,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,RV Uthappa,MS Gony,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,2,ST Jayasuriya,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,ST Jayasuriya,MS Gony,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,4,ST Jayasuriya,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,ST Jayasuriya,Joginder Sharma,powerplay
+2,Mumbai Indians,4,5,RV Uthappa,MS Gony,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6,RV Uthappa,MS Gony,SM Pollock,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Mumbai Indians,5,1,RV Uthappa,JDP Oram,SM Pollock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,2,RV Uthappa,JDP Oram,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,3,RV Uthappa,JDP Oram,SM Pollock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4,RV Uthappa,JDP Oram,SM Pollock,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,RV Uthappa,JDP Oram,SM Pollock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,RV Uthappa,JDP Oram,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,RV Uthappa,MS Gony,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,2,RV Uthappa,MS Gony,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,RV Uthappa,MS Gony,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,4,RV Uthappa,MS Gony,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,5,SM Pollock,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,6,SM Pollock,MS Gony,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,7,1,SM Pollock,Joginder Sharma,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,RV Uthappa,Joginder Sharma,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,RV Uthappa,Joginder Sharma,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,SM Pollock,Joginder Sharma,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,RV Uthappa,Joginder Sharma,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,RV Uthappa,Joginder Sharma,SM Pollock,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,1,SM Pollock,MS Gony,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2.noballs,RV Uthappa,MS Gony,SM Pollock,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,SM Pollock,MS Gony,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,RV Uthappa,MS Gony,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,4,SM Pollock,MS Gony,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5,RV Uthappa,MS Gony,SM Pollock,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,RV Uthappa,MS Gony,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1,RV Uthappa,P Amarnath,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,SM Pollock,P Amarnath,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,RV Uthappa,P Amarnath,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,RV Uthappa,P Amarnath,SM Pollock,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,5,RV Uthappa,P Amarnath,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,RV Uthappa,P Amarnath,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,RV Uthappa,Joginder Sharma,SM Pollock,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,RV Uthappa,Joginder Sharma,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,SM Pollock,Joginder Sharma,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,4,RV Uthappa,Joginder Sharma,SM Pollock,0,0,0,,0,0,0,0,0,True,bowled,RV Uthappa,,middle
+2,Mumbai Indians,10,5,DJ Bravo,Joginder Sharma,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6,SM Pollock,Joginder Sharma,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1.wides,SM Pollock,M Muralitharan,DJ Bravo,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1.wides,SM Pollock,M Muralitharan,DJ Bravo,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1.wides,SM Pollock,M Muralitharan,DJ Bravo,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,SM Pollock,M Muralitharan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,DJ Bravo,M Muralitharan,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,SM Pollock,M Muralitharan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,DJ Bravo,M Muralitharan,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,DJ Bravo,M Muralitharan,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,6,SM Pollock,M Muralitharan,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,DJ Bravo,P Amarnath,SM Pollock,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,DJ Bravo,P Amarnath,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,3,SM Pollock,P Amarnath,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,SM Pollock,P Amarnath,DJ Bravo,0,0,0,,0,0,0,0,0,True,bowled,SM Pollock,,middle
+2,Mumbai Indians,12,5,AM Nayar,P Amarnath,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6,DJ Bravo,P Amarnath,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1,DJ Bravo,M Muralitharan,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2.wides,DJ Bravo,M Muralitharan,AM Nayar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2,DJ Bravo,M Muralitharan,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,3,AM Nayar,M Muralitharan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,4,DJ Bravo,M Muralitharan,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,5,DJ Bravo,M Muralitharan,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,6,AM Nayar,M Muralitharan,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,1,AM Nayar,P Amarnath,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,2,AM Nayar,P Amarnath,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,3,AM Nayar,P Amarnath,DJ Bravo,5,0,5,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,4,DJ Bravo,P Amarnath,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,5,DJ Bravo,P Amarnath,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,6,DJ Bravo,P Amarnath,AM Nayar,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,1,DJ Bravo,Joginder Sharma,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,2,DJ Bravo,Joginder Sharma,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,DJ Bravo,JDP Oram,middle
+2,Mumbai Indians,15,3,MA Khote,Joginder Sharma,AM Nayar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,4,MA Khote,Joginder Sharma,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,5,AM Nayar,Joginder Sharma,MA Khote,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,6,MA Khote,Joginder Sharma,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,16,1,AM Nayar,M Muralitharan,MA Khote,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,MA Khote,M Muralitharan,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,MA Khote,M Muralitharan,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,MA Khote,SK Raina,death
+2,Mumbai Indians,16,4,AM Nayar,M Muralitharan,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,AM Nayar,M Muralitharan,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,Harbhajan Singh,M Muralitharan,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,1,Harbhajan Singh,P Amarnath,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,Harbhajan Singh,P Amarnath,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,3,Harbhajan Singh,P Amarnath,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,AM Nayar,P Amarnath,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,AM Nayar,P Amarnath,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,6,AM Nayar,P Amarnath,Harbhajan Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,1,Harbhajan Singh,JDP Oram,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,Harbhajan Singh,JDP Oram,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,Harbhajan Singh,JDP Oram,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,Harbhajan Singh,JDP Oram,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,Harbhajan Singh,JDP Oram,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,Harbhajan Singh,JDP Oram,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,Harbhajan Singh,M Muralitharan,AM Nayar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,2,Harbhajan Singh,M Muralitharan,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,3,AM Nayar,M Muralitharan,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,Harbhajan Singh,M Muralitharan,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,5,Harbhajan Singh,M Muralitharan,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,Harbhajan Singh,S Badrinath,death
+2,Mumbai Indians,19,6,AM Nayar,M Muralitharan,A Nehra,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,1,AM Nayar,Joginder Sharma,A Nehra,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,2,AM Nayar,Joginder Sharma,A Nehra,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,3.noballs,AM Nayar,Joginder Sharma,A Nehra,1,1,2,noballs,0,1,0,0,0,False,,,,death
+2,Mumbai Indians,20,3,A Nehra,Joginder Sharma,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,4,A Nehra,Joginder Sharma,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,5,AM Nayar,Joginder Sharma,A Nehra,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,6,AM Nayar,Joginder Sharma,A Nehra,1,0,1,,0,0,0,0,0,False,,,,death

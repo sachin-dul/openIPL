@@ -1,0 +1,248 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,CH Gayle,MG Johnson,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,CH Gayle,MG Johnson,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,CH Gayle,MG Johnson,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,TM Dilshan,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,TM Dilshan,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,TM Dilshan,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,CH Gayle,MM Patel,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,CH Gayle,MM Patel,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,TM Dilshan,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,TM Dilshan,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,TM Dilshan,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,TM Dilshan,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,CH Gayle,MG Johnson,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,TM Dilshan,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,True,bowled,TM Dilshan,,powerplay
+1,Royal Challengers Bangalore,3,3,V Kohli,MG Johnson,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,V Kohli,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,V Kohli,MG Johnson,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6.wides,CH Gayle,MG Johnson,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,CH Gayle,MG Johnson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,V Kohli,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,V Kohli,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,V Kohli,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,V Kohli,MM Patel,CH Gayle,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,V Kohli,MM Patel,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,V Kohli,MM Patel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,V Kohli,JJ Bumrah,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,V Kohli,JJ Bumrah,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,V Kohli,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,V Kohli,JJ Bumrah,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,V Kohli,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,True,lbw,V Kohli,,powerplay
+1,Royal Challengers Bangalore,5,6,MA Agarwal,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1.wides,CH Gayle,JDP Oram,MA Agarwal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,CH Gayle,JDP Oram,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,MA Agarwal,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,MA Agarwal,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,MA Agarwal,JDP Oram,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,CH Gayle,JDP Oram,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,CH Gayle,JDP Oram,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,MA Agarwal,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,SR Tendulkar,middle
+1,Royal Challengers Bangalore,7,2,DT Christian,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,DT Christian,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,DT Christian,JJ Bumrah,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,CH Gayle,JJ Bumrah,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,CH Gayle,JJ Bumrah,DT Christian,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,DT Christian,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,DT Christian,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3.wides,DT Christian,JDP Oram,CH Gayle,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,DT Christian,JDP Oram,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,CH Gayle,JDP Oram,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,CH Gayle,JDP Oram,DT Christian,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,CH Gayle,JDP Oram,DT Christian,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,DT Christian,JJ Bumrah,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,CH Gayle,JJ Bumrah,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,CH Gayle,JJ Bumrah,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,CH Gayle,JJ Bumrah,DT Christian,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,CH Gayle,JJ Bumrah,DT Christian,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,CH Gayle,JJ Bumrah,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,CH Gayle,Harbhajan Singh,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,DT Christian,Harbhajan Singh,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,DT Christian,Harbhajan Singh,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,DT Christian,Harbhajan Singh,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,CH Gayle,Harbhajan Singh,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,DT Christian,Harbhajan Singh,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,CH Gayle,KA Pollard,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,CH Gayle,KA Pollard,DT Christian,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,CH Gayle,KA Pollard,DT Christian,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,CH Gayle,KA Pollard,DT Christian,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,CH Gayle,KA Pollard,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,DT Christian,KA Pollard,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,CH Gayle,Harbhajan Singh,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,CH Gayle,Harbhajan Singh,DT Christian,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,CH Gayle,Harbhajan Singh,DT Christian,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,DT Christian,Harbhajan Singh,CH Gayle,0,0,0,,0,0,0,0,0,True,caught,DT Christian,MG Johnson,middle
+1,Royal Challengers Bangalore,12,5,KK Nair,Harbhajan Singh,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,KK Nair,Harbhajan Singh,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,CH Gayle,JJ Bumrah,KK Nair,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,CH Gayle,JJ Bumrah,KK Nair,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,CH Gayle,JJ Bumrah,KK Nair,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,KK Nair,JJ Bumrah,CH Gayle,0,0,0,,0,0,0,0,0,True,lbw,KK Nair,,middle
+1,Royal Challengers Bangalore,13,5,KB Arun Karthik,JJ Bumrah,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,CH Gayle,JJ Bumrah,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2.wides,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,CH Gayle,Harbhajan Singh,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,CH Gayle,Harbhajan Singh,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,KB Arun Karthik,Harbhajan Singh,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,CH Gayle,Harbhajan Singh,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1.wides,KB Arun Karthik,MG Johnson,CH Gayle,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,KB Arun Karthik,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,KB Arun Karthik,MG Johnson,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,CH Gayle,MG Johnson,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,CH Gayle,MG Johnson,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,KB Arun Karthik,MG Johnson,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,KB Arun Karthik,MG Johnson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,CH Gayle,Harbhajan Singh,KB Arun Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,CH Gayle,Harbhajan Singh,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,KB Arun Karthik,JDP Oram,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,KB Arun Karthik,JDP Oram,CH Gayle,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,KB Arun Karthik,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,KB Arun Karthik,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,KB Arun Karthik,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,KB Arun Karthik,JDP Oram,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,KB Arun Karthik,MM Patel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,CH Gayle,MM Patel,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,CH Gayle,MM Patel,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,KB Arun Karthik,MM Patel,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,CH Gayle,MM Patel,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,CH Gayle,MM Patel,KB Arun Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,KB Arun Karthik,JDP Oram,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,KB Arun Karthik,JDP Oram,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,KB Arun Karthik,JDP Oram,CH Gayle,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,CH Gayle,JDP Oram,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,KB Arun Karthik,JDP Oram,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,CH Gayle,JDP Oram,KB Arun Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,CH Gayle,MM Patel,KB Arun Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,CH Gayle,MM Patel,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,CH Gayle,MM Patel,KB Arun Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,KB Arun Karthik,MM Patel,CH Gayle,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,CH Gayle,MM Patel,KB Arun Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,CH Gayle,MM Patel,KB Arun Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,1,1,RT Ponting,JD Unadkat,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,RT Ponting,JD Unadkat,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,RT Ponting,JD Unadkat,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4,SR Tendulkar,JD Unadkat,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,SR Tendulkar,JD Unadkat,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,RT Ponting,JD Unadkat,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,1,SR Tendulkar,DT Christian,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,2,RT Ponting,DT Christian,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,RT Ponting,DT Christian,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,RT Ponting,DT Christian,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,RT Ponting,DT Christian,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,6,SR Tendulkar,DT Christian,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,RT Ponting,JD Unadkat,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,RT Ponting,JD Unadkat,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,SR Tendulkar,JD Unadkat,RT Ponting,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Mumbai Indians,3,4,RT Ponting,JD Unadkat,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,5,SR Tendulkar,JD Unadkat,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,SR Tendulkar,JD Unadkat,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,RT Ponting,DT Christian,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,2,RT Ponting,DT Christian,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,RT Ponting,DT Christian,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,4,RT Ponting,DT Christian,SR Tendulkar,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,5,RT Ponting,DT Christian,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6,SR Tendulkar,DT Christian,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,1,SR Tendulkar,R Vinay Kumar,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,2,RT Ponting,R Vinay Kumar,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,3,RT Ponting,R Vinay Kumar,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4,SR Tendulkar,R Vinay Kumar,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,SR Tendulkar,R Vinay Kumar,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,SR Tendulkar,R Vinay Kumar,RT Ponting,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,RT Ponting,M Muralitharan,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,2,RT Ponting,M Muralitharan,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,RT Ponting,M Muralitharan,SR Tendulkar,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Mumbai Indians,6,4,SR Tendulkar,M Muralitharan,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,5,SR Tendulkar,M Muralitharan,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,6,SR Tendulkar,M Muralitharan,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,7,1,RT Ponting,R Vinay Kumar,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,SR Tendulkar,R Vinay Kumar,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,SR Tendulkar,R Vinay Kumar,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,SR Tendulkar,R Vinay Kumar,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,RT Ponting,R Vinay Kumar,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,RT Ponting,R Vinay Kumar,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,1,RT Ponting,M Kartik,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,RT Ponting,M Kartik,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,SR Tendulkar,M Kartik,RT Ponting,0,0,0,,0,0,0,0,0,True,run out,SR Tendulkar,"JD Unadkat, KB Arun Karthik",middle
+2,Mumbai Indians,8,4,KD Karthik,M Kartik,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5,KD Karthik,M Kartik,RT Ponting,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,KD Karthik,M Kartik,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1,RT Ponting,M Muralitharan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,RT Ponting,M Muralitharan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,KD Karthik,M Muralitharan,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,RT Ponting,M Muralitharan,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Mumbai Indians,9,5,KD Karthik,M Muralitharan,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,RT Ponting,M Muralitharan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,KD Karthik,M Kartik,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2.wides,RT Ponting,M Kartik,KD Karthik,0,2,2,wides,2,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,KD Karthik,M Kartik,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,RT Ponting,M Kartik,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,4,RT Ponting,M Kartik,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,5,RT Ponting,M Kartik,KD Karthik,0,0,0,,0,0,0,0,0,True,stumped,RT Ponting,KB Arun Karthik,middle
+2,Mumbai Indians,10,6,RG Sharma,M Kartik,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,KD Karthik,M Muralitharan,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,KD Karthik,M Muralitharan,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,RG Sharma,M Muralitharan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,RG Sharma,M Muralitharan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,KD Karthik,M Muralitharan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,6,KD Karthik,M Muralitharan,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,KD Karthik,M Kartik,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,RG Sharma,M Kartik,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,3,RG Sharma,M Kartik,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,KD Karthik,M Kartik,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,5,KD Karthik,M Kartik,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6,RG Sharma,M Kartik,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1,KD Karthik,JD Unadkat,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2,KD Karthik,JD Unadkat,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,3,RG Sharma,JD Unadkat,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,4,RG Sharma,JD Unadkat,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,5,KD Karthik,JD Unadkat,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,6,KD Karthik,JD Unadkat,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,1,KD Karthik,R Vinay Kumar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,2,RG Sharma,R Vinay Kumar,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,3,RG Sharma,R Vinay Kumar,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,4,RG Sharma,R Vinay Kumar,KD Karthik,0,0,0,,0,0,0,0,0,True,bowled,RG Sharma,,middle
+2,Mumbai Indians,14,5,AT Rayudu,R Vinay Kumar,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,6,KD Karthik,R Vinay Kumar,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,1,AT Rayudu,DT Christian,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Mumbai Indians,15,2,KD Karthik,DT Christian,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,3,AT Rayudu,DT Christian,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,4,KD Karthik,DT Christian,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,5,AT Rayudu,DT Christian,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,6,AT Rayudu,DT Christian,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,16,1,AT Rayudu,M Kartik,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,AT Rayudu,M Kartik,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,KD Karthik,M Kartik,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,4,AT Rayudu,M Kartik,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,AT Rayudu,M Kartik,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,KD Karthik,M Kartik,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,1,KD Karthik,DT Christian,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,KD Karthik,DT Christian,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,3,KD Karthik,DT Christian,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,KD Karthik,DT Christian,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,KD Karthik,DT Christian,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,6.noballs,KD Karthik,DT Christian,AT Rayudu,4,1,5,noballs,0,1,0,0,0,False,,,,death
+2,Mumbai Indians,17,6,KD Karthik,DT Christian,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,1,KD Karthik,M Muralitharan,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,KD Karthik,M Muralitharan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,AT Rayudu,M Muralitharan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,KD Karthik,M Muralitharan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,AT Rayudu,M Muralitharan,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,AT Rayudu,M Muralitharan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,AT Rayudu,JD Unadkat,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,2,KD Karthik,JD Unadkat,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,3,AT Rayudu,JD Unadkat,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,KD Karthik,JD Unadkat,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,5,AT Rayudu,JD Unadkat,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,6,AT Rayudu,JD Unadkat,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,1,AT Rayudu,R Vinay Kumar,KD Karthik,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Mumbai Indians,20,2,KD Karthik,R Vinay Kumar,AT Rayudu,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,MA Agarwal,death
+2,Mumbai Indians,20,3,AT Rayudu,R Vinay Kumar,KA Pollard,0,0,0,,0,0,0,0,0,True,bowled,AT Rayudu,,death
+2,Mumbai Indians,20,4,Harbhajan Singh,R Vinay Kumar,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,5,KA Pollard,R Vinay Kumar,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,6,KA Pollard,R Vinay Kumar,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death

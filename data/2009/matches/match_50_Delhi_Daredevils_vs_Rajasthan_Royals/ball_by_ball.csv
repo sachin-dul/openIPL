@@ -1,0 +1,252 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,G Gambhir,MM Patel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,G Gambhir,MM Patel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,G Gambhir,MM Patel,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,V Sehwag,MM Patel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5.noballs,V Sehwag,MM Patel,G Gambhir,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5.noballs,V Sehwag,MM Patel,G Gambhir,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,V Sehwag,MM Patel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,V Sehwag,MM Patel,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,V Sehwag,A Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,V Sehwag,A Singh,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,G Gambhir,A Singh,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,G Gambhir,A Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,G Gambhir,A Singh,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,G Gambhir,A Singh,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,G Gambhir,MM Patel,V Sehwag,0,0,0,,0,0,0,0,0,True,caught and bowled,G Gambhir,,powerplay
+1,Delhi Daredevils,3,2,AB de Villiers,MM Patel,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,AB de Villiers,MM Patel,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,AB de Villiers,MM Patel,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,V Sehwag,MM Patel,AB de Villiers,0,0,0,,0,0,0,0,0,True,lbw,V Sehwag,,powerplay
+1,Delhi Daredevils,3,6,TM Dilshan,MM Patel,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,AB de Villiers,A Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,AB de Villiers,A Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,TM Dilshan,A Singh,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,TM Dilshan,A Singh,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,TM Dilshan,A Singh,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,TM Dilshan,A Singh,AB de Villiers,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,TM Dilshan,MM Patel,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,TM Dilshan,MM Patel,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,TM Dilshan,MM Patel,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,TM Dilshan,MM Patel,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,AB de Villiers,MM Patel,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,AB de Villiers,MM Patel,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,TM Dilshan,SK Trivedi,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,TM Dilshan,SK Trivedi,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,AB de Villiers,SK Trivedi,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,AB de Villiers,SK Trivedi,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,AB de Villiers,SK Trivedi,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,AB de Villiers,SK Trivedi,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1.wides,TM Dilshan,J Botha,AB de Villiers,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,TM Dilshan,J Botha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,AB de Villiers,J Botha,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,AB de Villiers,J Botha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,TM Dilshan,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,TM Dilshan,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,TM Dilshan,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,AB de Villiers,SK Warne,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,AB de Villiers,SK Warne,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,TM Dilshan,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,AB de Villiers,SK Warne,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,TM Dilshan,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,AB de Villiers,SK Warne,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,TM Dilshan,J Botha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,AB de Villiers,J Botha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,TM Dilshan,J Botha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,AB de Villiers,J Botha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,TM Dilshan,J Botha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,AB de Villiers,J Botha,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,TM Dilshan,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,AB de Villiers,SK Warne,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,TM Dilshan,SK Warne,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,TM Dilshan,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,AB de Villiers,SK Warne,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,TM Dilshan,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,TM Dilshan,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,TM Dilshan,J Botha,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,TM Dilshan,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,TM Dilshan,J Botha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,AB de Villiers,J Botha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,TM Dilshan,J Botha,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,AB de Villiers,SK Warne,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,AB de Villiers,SK Warne,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,AB de Villiers,SK Warne,TM Dilshan,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,TM Dilshan,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,AB de Villiers,SK Warne,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,AB de Villiers,SK Warne,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,AB de Villiers,RA Jadeja,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,AB de Villiers,RA Jadeja,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,AB de Villiers,RA Jadeja,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,TM Dilshan,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,AB de Villiers,RA Jadeja,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,AB de Villiers,RA Jadeja,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,AB de Villiers,AS Raut,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,AB de Villiers,AS Raut,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,TM Dilshan,AS Raut,AB de Villiers,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Delhi Daredevils,14,4,AB de Villiers,AS Raut,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,AB de Villiers,AS Raut,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,AB de Villiers,AS Raut,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,AB de Villiers,RA Jadeja,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,TM Dilshan,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,AB de Villiers,RA Jadeja,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,TM Dilshan,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,AB de Villiers,RA Jadeja,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,TM Dilshan,RA Jadeja,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,TM Dilshan,YK Pathan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,TM Dilshan,YK Pathan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,AB de Villiers,YK Pathan,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,TM Dilshan,YK Pathan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,TM Dilshan,YK Pathan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,AB de Villiers,YK Pathan,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,AB de Villiers,J Botha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,TM Dilshan,J Botha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,AB de Villiers,J Botha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,TM Dilshan,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,True,bowled,TM Dilshan,,death
+1,Delhi Daredevils,17,5,KD Karthik,J Botha,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,KD Karthik,J Botha,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,AB de Villiers,A Singh,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,AB de Villiers,A Singh,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,AB de Villiers,A Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,KD Karthik,A Singh,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,AB de Villiers,A Singh,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,AB de Villiers,A Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,AB de Villiers,MM Patel,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2.noballs,AB de Villiers,MM Patel,KD Karthik,6,1,7,noballs,0,1,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,AB de Villiers,MM Patel,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,AB de Villiers,MM Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,KD Karthik,MM Patel,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,KD Karthik,MM Patel,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,KD Karthik,MM Patel,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,KD Karthik,SK Warne,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,2,AB de Villiers,SK Warne,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,KD Karthik,SK Warne,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,4,KD Karthik,SK Warne,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,KD Karthik,SK Warne,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,KD Karthik,SK Warne,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,RJ Quiney,A Nehra,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,RJ Quiney,A Nehra,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,RJ Quiney,A Nehra,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,RJ Quiney,A Nehra,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,RJ Quiney,A Nehra,GC Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6.wides,GC Smith,A Nehra,RJ Quiney,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,GC Smith,A Nehra,RJ Quiney,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,RJ Quiney,DP Nannes,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,RJ Quiney,DP Nannes,GC Smith,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,GC Smith,DP Nannes,RJ Quiney,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,GC Smith,DP Nannes,RJ Quiney,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,GC Smith,DP Nannes,RJ Quiney,0,0,0,,0,0,0,0,0,True,caught,GC Smith,AM Salvi,powerplay
+2,Rajasthan Royals,2,6,RJ Quiney,DP Nannes,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,RJ Quiney,A Nehra,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,RJ Quiney,A Nehra,NV Ojha,0,0,0,,0,0,0,0,0,True,caught,RJ Quiney,DP Nannes,powerplay
+2,Rajasthan Royals,3,3,NV Ojha,A Nehra,J Botha,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,NV Ojha,A Nehra,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,NV Ojha,A Nehra,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,NV Ojha,A Nehra,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,J Botha,DP Nannes,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2.wides,J Botha,DP Nannes,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,J Botha,DP Nannes,NV Ojha,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,NV Ojha,DP Nannes,J Botha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4.wides,J Botha,DP Nannes,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,J Botha,DP Nannes,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,J Botha,DP Nannes,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,J Botha,DP Nannes,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,NV Ojha,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,NV Ojha,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,NV Ojha,AM Salvi,J Botha,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,J Botha,AM Salvi,NV Ojha,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,J Botha,AM Salvi,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,NV Ojha,AM Salvi,J Botha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,NV Ojha,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,NV Ojha,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,NV Ojha,MF Maharoof,J Botha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,NV Ojha,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,NV Ojha,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,NV Ojha,MF Maharoof,J Botha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,7,1,NV Ojha,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,NV Ojha,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,True,caught,NV Ojha,V Sehwag,middle
+2,Rajasthan Royals,7,3,J Botha,AM Salvi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4.wides,RA Jadeja,AM Salvi,J Botha,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,RA Jadeja,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,RA Jadeja,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,RA Jadeja,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,J Botha,MF Maharoof,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,RA Jadeja,MF Maharoof,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,J Botha,MF Maharoof,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,RA Jadeja,MF Maharoof,J Botha,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,J Botha,MF Maharoof,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,J Botha,MF Maharoof,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,J Botha,AM Salvi,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,J Botha,AM Salvi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,J Botha,AM Salvi,RA Jadeja,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+2,Rajasthan Royals,9,4,J Botha,AM Salvi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,RA Jadeja,AM Salvi,J Botha,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,RA Jadeja,AM Salvi,J Botha,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,J Botha,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,RA Jadeja,A Mishra,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3.noballs,J Botha,A Mishra,RA Jadeja,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,RA Jadeja,A Mishra,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,RA Jadeja,A Mishra,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,J Botha,A Mishra,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,J Botha,A Mishra,RA Jadeja,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,J Botha,TM Dilshan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,RA Jadeja,TM Dilshan,J Botha,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,RA Jadeja,TM Dilshan,J Botha,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,11,4,J Botha,TM Dilshan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,RA Jadeja,TM Dilshan,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,RA Jadeja,TM Dilshan,J Botha,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,J Botha,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,RA Jadeja,A Mishra,J Botha,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,RA Jadeja,A Mishra,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,J Botha,A Mishra,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,RA Jadeja,A Mishra,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,J Botha,A Mishra,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,RA Jadeja,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,KD Karthik,middle
+2,Rajasthan Royals,13,2,YK Pathan,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,YK Pathan,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,YK Pathan,AM Salvi,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,5,YK Pathan,AM Salvi,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,6,J Botha,AM Salvi,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,1,J Botha,MF Maharoof,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,2,YK Pathan,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,True,caught,YK Pathan,KD Karthik,middle
+2,Rajasthan Royals,14,3,J Botha,MF Maharoof,AS Raut,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,4,AS Raut,MF Maharoof,J Botha,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,5,AS Raut,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,6,AS Raut,MF Maharoof,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,1,AS Raut,A Mishra,J Botha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,2,J Botha,A Mishra,AS Raut,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,3,AS Raut,A Mishra,J Botha,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,4,AS Raut,A Mishra,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,5,AS Raut,A Mishra,J Botha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,6,AS Raut,A Mishra,J Botha,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,16,1,AS Raut,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,AS Raut,MF Maharoof,J Botha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,AS Raut,MF Maharoof,J Botha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,J Botha,MF Maharoof,AS Raut,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,J Botha,MF Maharoof,AS Raut,0,0,0,,0,0,0,0,0,True,caught,J Botha,V Sehwag,death
+2,Rajasthan Royals,16,6,AS Raut,MF Maharoof,SK Warne,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,AS Raut,A Mishra,SK Warne,0,0,0,,0,0,0,0,0,True,bowled,AS Raut,,death
+2,Rajasthan Royals,17,2,A Singh,A Mishra,SK Warne,0,0,0,,0,0,0,0,0,True,stumped,A Singh,KD Karthik,death
+2,Rajasthan Royals,17,3.noballs,SK Trivedi,A Mishra,SK Warne,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,SK Trivedi,A Mishra,SK Warne,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,SK Warne,A Mishra,SK Trivedi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,SK Warne,A Mishra,SK Trivedi,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,SK Warne,A Mishra,SK Trivedi,0,0,0,,0,0,0,0,0,True,stumped,SK Warne,KD Karthik,death
+2,Rajasthan Royals,18,1.wides,SK Trivedi,DP Nannes,MM Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,SK Trivedi,DP Nannes,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,MM Patel,DP Nannes,SK Trivedi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,SK Trivedi,DP Nannes,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,MM Patel,DP Nannes,SK Trivedi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,MM Patel,DP Nannes,SK Trivedi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,MM Patel,DP Nannes,SK Trivedi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,SK Trivedi,A Nehra,MM Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,SK Trivedi,A Nehra,MM Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,SK Trivedi,A Nehra,MM Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4,MM Patel,A Nehra,SK Trivedi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,SK Trivedi,A Nehra,MM Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,6,SK Trivedi,A Nehra,MM Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,1,MM Patel,DP Nannes,SK Trivedi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,2,MM Patel,DP Nannes,SK Trivedi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,3,MM Patel,DP Nannes,SK Trivedi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,4,MM Patel,DP Nannes,SK Trivedi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,5,MM Patel,DP Nannes,SK Trivedi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,6,SK Trivedi,DP Nannes,MM Patel,0,0,0,,0,0,0,0,0,False,,,,death

@@ -1,0 +1,251 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,F du Plessis,Mustafizur Rahman,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,F du Plessis,Mustafizur Rahman,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,F du Plessis,Mustafizur Rahman,Anuj Rawat,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,F du Plessis,Mustafizur Rahman,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,F du Plessis,Mustafizur Rahman,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6.wides,F du Plessis,Mustafizur Rahman,Anuj Rawat,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,F du Plessis,Mustafizur Rahman,Anuj Rawat,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,Anuj Rawat,SN Thakur,F du Plessis,0,0,0,,0,0,0,0,0,True,lbw,Anuj Rawat,,powerplay
+1,Royal Challengers Bangalore,2,2,V Kohli,SN Thakur,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,V Kohli,SN Thakur,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,F du Plessis,SN Thakur,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,F du Plessis,SN Thakur,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,F du Plessis,SN Thakur,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,V Kohli,KK Ahmed,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,F du Plessis,KK Ahmed,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,F du Plessis,KK Ahmed,V Kohli,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,AR Patel,powerplay
+1,Royal Challengers Bangalore,3,4,GJ Maxwell,KK Ahmed,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,GJ Maxwell,KK Ahmed,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,GJ Maxwell,KK Ahmed,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,V Kohli,AR Patel,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,GJ Maxwell,AR Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,V Kohli,AR Patel,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,GJ Maxwell,AR Patel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,GJ Maxwell,AR Patel,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,GJ Maxwell,AR Patel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,V Kohli,KK Ahmed,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,GJ Maxwell,KK Ahmed,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,V Kohli,KK Ahmed,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,V Kohli,KK Ahmed,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,V Kohli,KK Ahmed,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,V Kohli,KK Ahmed,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,GJ Maxwell,Mustafizur Rahman,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,GJ Maxwell,Mustafizur Rahman,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,GJ Maxwell,Mustafizur Rahman,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,V Kohli,Mustafizur Rahman,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,V Kohli,Mustafizur Rahman,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,GJ Maxwell,Mustafizur Rahman,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,V Kohli,SN Thakur,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,V Kohli,SN Thakur,GJ Maxwell,0,0,0,,0,0,0,0,0,True,run out,V Kohli,Lalit Yadav,middle
+1,Royal Challengers Bangalore,7,3,SS Prabhudessai,SN Thakur,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,GJ Maxwell,SN Thakur,SS Prabhudessai,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,GJ Maxwell,SN Thakur,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,SS Prabhudessai,SN Thakur,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,GJ Maxwell,AR Patel,SS Prabhudessai,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,GJ Maxwell,AR Patel,SS Prabhudessai,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,GJ Maxwell,AR Patel,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,SS Prabhudessai,AR Patel,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,GJ Maxwell,AR Patel,SS Prabhudessai,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,GJ Maxwell,AR Patel,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,GJ Maxwell,Kuldeep Yadav,SS Prabhudessai,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,GJ Maxwell,Kuldeep Yadav,SS Prabhudessai,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,GJ Maxwell,Kuldeep Yadav,SS Prabhudessai,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,GJ Maxwell,Kuldeep Yadav,SS Prabhudessai,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,GJ Maxwell,Kuldeep Yadav,SS Prabhudessai,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,GJ Maxwell,Kuldeep Yadav,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,GJ Maxwell,AR Patel,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,SS Prabhudessai,AR Patel,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,SS Prabhudessai,AR Patel,GJ Maxwell,0,0,0,,0,0,0,0,0,True,caught,SS Prabhudessai,Kuldeep Yadav,middle
+1,Royal Challengers Bangalore,10,4,Shahbaz Ahmed,AR Patel,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,Shahbaz Ahmed,AR Patel,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6.wides,Shahbaz Ahmed,AR Patel,GJ Maxwell,0,2,2,wides,2,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,GJ Maxwell,AR Patel,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,GJ Maxwell,SN Thakur,Shahbaz Ahmed,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,GJ Maxwell,SN Thakur,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3.wides,GJ Maxwell,SN Thakur,Shahbaz Ahmed,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,GJ Maxwell,SN Thakur,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,GJ Maxwell,SN Thakur,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,GJ Maxwell,SN Thakur,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,GJ Maxwell,SN Thakur,Shahbaz Ahmed,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,Shahbaz Ahmed,Kuldeep Yadav,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,GJ Maxwell,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,Lalit Yadav,middle
+1,Royal Challengers Bangalore,12,3,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,KD Karthik,AR Patel,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,Shahbaz Ahmed,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,KD Karthik,AR Patel,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,Shahbaz Ahmed,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,KD Karthik,AR Patel,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,KD Karthik,AR Patel,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,Shahbaz Ahmed,KK Ahmed,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,Shahbaz Ahmed,KK Ahmed,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,Shahbaz Ahmed,KK Ahmed,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,KD Karthik,KK Ahmed,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,Shahbaz Ahmed,KK Ahmed,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,KD Karthik,KK Ahmed,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,Shahbaz Ahmed,Mustafizur Rahman,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,Shahbaz Ahmed,Mustafizur Rahman,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,Shahbaz Ahmed,Mustafizur Rahman,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,Shahbaz Ahmed,Mustafizur Rahman,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,Shahbaz Ahmed,KK Ahmed,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,KD Karthik,KK Ahmed,Shahbaz Ahmed,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,KD Karthik,KK Ahmed,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,KD Karthik,KK Ahmed,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,KD Karthik,KK Ahmed,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,Shahbaz Ahmed,KK Ahmed,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,KD Karthik,Mustafizur Rahman,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,Shahbaz Ahmed,SN Thakur,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,KD Karthik,SN Thakur,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,KD Karthik,SN Thakur,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,KD Karthik,SN Thakur,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,KD Karthik,SN Thakur,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,Shahbaz Ahmed,SN Thakur,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,KD Karthik,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5.wides,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6.wides,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6.wides,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,Shahbaz Ahmed,Kuldeep Yadav,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,1,1,PP Shaw,GJ Maxwell,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,2,DA Warner,GJ Maxwell,PP Shaw,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,3,DA Warner,GJ Maxwell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,4,DA Warner,GJ Maxwell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,5,DA Warner,GJ Maxwell,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,6,PP Shaw,GJ Maxwell,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,1,PP Shaw,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,2,PP Shaw,Mohammed Siraj,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,3,PP Shaw,Mohammed Siraj,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,4,DA Warner,Mohammed Siraj,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,5,PP Shaw,Mohammed Siraj,DA Warner,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,6,PP Shaw,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,1,DA Warner,JR Hazlewood,PP Shaw,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,2,DA Warner,JR Hazlewood,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,3,DA Warner,JR Hazlewood,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,4,PP Shaw,JR Hazlewood,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,5,PP Shaw,JR Hazlewood,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,6,PP Shaw,JR Hazlewood,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,1,DA Warner,Shahbaz Ahmed,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,2,DA Warner,Shahbaz Ahmed,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,3,PP Shaw,Shahbaz Ahmed,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,4,PP Shaw,Shahbaz Ahmed,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,5.wides,DA Warner,Shahbaz Ahmed,PP Shaw,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,5,DA Warner,Shahbaz Ahmed,PP Shaw,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,6.wides,DA Warner,Shahbaz Ahmed,PP Shaw,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,6,DA Warner,Shahbaz Ahmed,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,1,DA Warner,Mohammed Siraj,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,2,DA Warner,Mohammed Siraj,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,3,DA Warner,Mohammed Siraj,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,4,PP Shaw,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,True,caught,PP Shaw,Anuj Rawat,powerplay
+2,Delhi Capitals,5,5,MR Marsh,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,6,MR Marsh,Mohammed Siraj,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,1,DA Warner,JR Hazlewood,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,2,DA Warner,JR Hazlewood,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,3,DA Warner,JR Hazlewood,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,4,MR Marsh,JR Hazlewood,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,5,DA Warner,JR Hazlewood,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,6,DA Warner,JR Hazlewood,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,7,1,DA Warner,HV Patel,MR Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,2,DA Warner,HV Patel,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,3,DA Warner,HV Patel,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,4,MR Marsh,HV Patel,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,5,MR Marsh,HV Patel,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,6,DA Warner,HV Patel,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,1,DA Warner,PWH de Silva,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,2,MR Marsh,PWH de Silva,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,3,MR Marsh,PWH de Silva,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,4,DA Warner,PWH de Silva,MR Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,5,DA Warner,PWH de Silva,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,6,DA Warner,PWH de Silva,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,1,MR Marsh,GJ Maxwell,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,2,DA Warner,GJ Maxwell,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,3,MR Marsh,GJ Maxwell,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,4,MR Marsh,GJ Maxwell,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,5,DA Warner,GJ Maxwell,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,6,DA Warner,GJ Maxwell,MR Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,1,MR Marsh,Shahbaz Ahmed,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,2,MR Marsh,Shahbaz Ahmed,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,3,DA Warner,Shahbaz Ahmed,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,4,MR Marsh,Shahbaz Ahmed,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,5,DA Warner,Shahbaz Ahmed,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,6,MR Marsh,Shahbaz Ahmed,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,1,DA Warner,HV Patel,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,2,MR Marsh,HV Patel,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,3,DA Warner,HV Patel,MR Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,4,DA Warner,HV Patel,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,5,MR Marsh,HV Patel,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,6,DA Warner,HV Patel,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,1,MR Marsh,PWH de Silva,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,2,MR Marsh,PWH de Silva,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,3,DA Warner,PWH de Silva,MR Marsh,0,0,0,,0,0,0,0,0,True,lbw,DA Warner,,middle
+2,Delhi Capitals,12,4,RR Pant,PWH de Silva,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,5,RR Pant,PWH de Silva,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,6,MR Marsh,PWH de Silva,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,1,RR Pant,Mohammed Siraj,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,2,MR Marsh,Mohammed Siraj,RR Pant,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,3,MR Marsh,Mohammed Siraj,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,4,RR Pant,Mohammed Siraj,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,5,MR Marsh,Mohammed Siraj,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,6,MR Marsh,Mohammed Siraj,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,1,RR Pant,PWH de Silva,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,2,RR Pant,PWH de Silva,MR Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,3,RR Pant,PWH de Silva,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,4,MR Marsh,PWH de Silva,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,5,RR Pant,PWH de Silva,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,6,RR Pant,PWH de Silva,MR Marsh,0,0,0,,0,0,0,0,0,True,run out,MR Marsh,PWH de Silva,middle
+2,Delhi Capitals,15,1,R Powell,JR Hazlewood,RR Pant,0,0,0,,0,0,0,0,0,True,caught,R Powell,KD Karthik,middle
+2,Delhi Capitals,15,2,Lalit Yadav,JR Hazlewood,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,3,Lalit Yadav,JR Hazlewood,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,4,Lalit Yadav,JR Hazlewood,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,5,RR Pant,JR Hazlewood,Lalit Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,6.wides,Lalit Yadav,JR Hazlewood,RR Pant,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,6,Lalit Yadav,JR Hazlewood,RR Pant,0,0,0,,0,0,0,0,0,True,caught,Lalit Yadav,SS Prabhudessai,middle
+2,Delhi Capitals,16,1,RR Pant,PWH de Silva,SN Thakur,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Delhi Capitals,16,2,SN Thakur,PWH de Silva,RR Pant,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,3,SN Thakur,PWH de Silva,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,4,RR Pant,PWH de Silva,SN Thakur,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,5,RR Pant,PWH de Silva,SN Thakur,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,6,RR Pant,PWH de Silva,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,1,RR Pant,Mohammed Siraj,SN Thakur,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,2,RR Pant,Mohammed Siraj,SN Thakur,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,3,RR Pant,Mohammed Siraj,SN Thakur,0,0,0,,0,0,0,0,0,True,caught,RR Pant,V Kohli,death
+2,Delhi Capitals,17,4,AR Patel,Mohammed Siraj,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,5,SN Thakur,Mohammed Siraj,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,6,SN Thakur,Mohammed Siraj,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,1,AR Patel,HV Patel,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,2.wides,SN Thakur,HV Patel,AR Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,2,SN Thakur,HV Patel,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,3,AR Patel,HV Patel,SN Thakur,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,4,SN Thakur,HV Patel,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,5,SN Thakur,HV Patel,AR Patel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,6,SN Thakur,HV Patel,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,1,SN Thakur,JR Hazlewood,AR Patel,0,0,0,,0,0,0,0,0,True,caught,SN Thakur,KD Karthik,death
+2,Delhi Capitals,19,2,Kuldeep Yadav,JR Hazlewood,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,3,Kuldeep Yadav,JR Hazlewood,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,4,AR Patel,JR Hazlewood,Kuldeep Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,5,AR Patel,JR Hazlewood,Kuldeep Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,6,AR Patel,JR Hazlewood,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,1,Kuldeep Yadav,HV Patel,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,2,Kuldeep Yadav,HV Patel,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,3,Kuldeep Yadav,HV Patel,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,4,Kuldeep Yadav,HV Patel,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,5,Kuldeep Yadav,HV Patel,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,6,AR Patel,HV Patel,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death

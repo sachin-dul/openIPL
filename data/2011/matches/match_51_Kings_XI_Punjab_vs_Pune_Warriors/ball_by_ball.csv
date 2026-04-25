@@ -1,0 +1,230 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,AC Gilchrist,B Kumar,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,AC Gilchrist,B Kumar,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,AC Gilchrist,B Kumar,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,PC Valthaty,B Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,PC Valthaty,B Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,PC Valthaty,B Kumar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,AC Gilchrist,SB Wagh,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,PC Valthaty,SB Wagh,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,PC Valthaty,SB Wagh,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,PC Valthaty,SB Wagh,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,PC Valthaty,SB Wagh,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,PC Valthaty,SB Wagh,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,AC Gilchrist,WD Parnell,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,PC Valthaty,WD Parnell,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,PC Valthaty,WD Parnell,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,PC Valthaty,WD Parnell,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,PC Valthaty,WD Parnell,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,PC Valthaty,WD Parnell,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,PC Valthaty,R Sharma,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,AC Gilchrist,R Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,AC Gilchrist,R Sharma,PC Valthaty,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,PC Valthaty,R Sharma,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,PC Valthaty,R Sharma,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,AC Gilchrist,R Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,AA Jhunjhunwala,powerplay
+1,Kings XI Punjab,5,1,PC Valthaty,WD Parnell,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,SE Marsh,WD Parnell,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,SE Marsh,WD Parnell,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,SE Marsh,WD Parnell,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,PC Valthaty,WD Parnell,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,SE Marsh,WD Parnell,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,SE Marsh,SB Wagh,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,SE Marsh,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,SE Marsh,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,SE Marsh,SB Wagh,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,PC Valthaty,SB Wagh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,PC Valthaty,SB Wagh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,SE Marsh,Yuvraj Singh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,SE Marsh,Yuvraj Singh,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,PC Valthaty,Yuvraj Singh,SE Marsh,0,1,1,byes,0,0,1,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,SE Marsh,Yuvraj Singh,PC Valthaty,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,SE Marsh,Yuvraj Singh,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,SE Marsh,Yuvraj Singh,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,SE Marsh,R Sharma,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,SE Marsh,R Sharma,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,SE Marsh,R Sharma,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,PC Valthaty,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,True,caught,PC Valthaty,B Kumar,middle
+1,Kings XI Punjab,8,5,KD Karthik,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,KD Karthik,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,KD Karthik,MR Marsh,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,KD Karthik,MR Marsh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,SE Marsh,MR Marsh,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,SE Marsh,MR Marsh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,KD Karthik,MR Marsh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,SE Marsh,MR Marsh,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,KD Karthik,AA Jhunjhunwala,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,KD Karthik,AA Jhunjhunwala,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,SE Marsh,AA Jhunjhunwala,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,SE Marsh,AA Jhunjhunwala,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,KD Karthik,AA Jhunjhunwala,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,KD Karthik,AA Jhunjhunwala,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,KD Karthik,MR Marsh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,KD Karthik,MR Marsh,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,KD Karthik,MR Marsh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,SE Marsh,MR Marsh,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,SE Marsh,MR Marsh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,KD Karthik,MR Marsh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,SE Marsh,R Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,SE Marsh,R Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,SE Marsh,R Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,KD Karthik,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,KD Karthik,R Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,KD Karthik,R Sharma,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,KD Karthik,B Kumar,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,KD Karthik,B Kumar,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,SE Marsh,B Kumar,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,SE Marsh,B Kumar,KD Karthik,0,0,0,,0,0,0,0,0,True,bowled,SE Marsh,,middle
+1,Kings XI Punjab,13,5,DJ Hussey,B Kumar,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,KD Karthik,B Kumar,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,KD Karthik,Yuvraj Singh,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,2,DJ Hussey,Yuvraj Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,3,KD Karthik,Yuvraj Singh,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,4,KD Karthik,Yuvraj Singh,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,5,DJ Hussey,Yuvraj Singh,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,6,DJ Hussey,Yuvraj Singh,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,1,KD Karthik,B Kumar,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,2,KD Karthik,B Kumar,DJ Hussey,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,15,3,DJ Hussey,B Kumar,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,DJ Hussey,RV Uthappa,middle
+1,Kings XI Punjab,15,4,Mandeep Singh,B Kumar,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,5,Mandeep Singh,B Kumar,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,6,KD Karthik,B Kumar,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1,KD Karthik,MR Marsh,Mandeep Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,16,2,Mandeep Singh,MR Marsh,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,Mandeep Singh,MR Marsh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,KD Karthik,MR Marsh,Mandeep Singh,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,AA Jhunjhunwala,death
+1,Kings XI Punjab,16,5,Mandeep Singh,MR Marsh,SD Chitnis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,SD Chitnis,MR Marsh,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,SD Chitnis,R Sharma,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,SD Chitnis,R Sharma,Mandeep Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,SD Chitnis,R Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,Mandeep Singh,R Sharma,SD Chitnis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,Mandeep Singh,R Sharma,SD Chitnis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6,SD Chitnis,R Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,SD Chitnis,WD Parnell,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,2,SD Chitnis,WD Parnell,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3,Mandeep Singh,WD Parnell,SD Chitnis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,Mandeep Singh,WD Parnell,SD Chitnis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,Mandeep Singh,WD Parnell,SD Chitnis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,Mandeep Singh,WD Parnell,SD Chitnis,0,0,0,,0,0,0,0,0,True,caught,Mandeep Singh,Yuvraj Singh,death
+1,Kings XI Punjab,19,1,RJ Harris,MR Marsh,SD Chitnis,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,RJ Harris,MR Marsh,SD Chitnis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,RJ Harris,MR Marsh,SD Chitnis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,RJ Harris,MR Marsh,SD Chitnis,0,0,0,,0,0,0,0,0,True,caught,RJ Harris,Yuvraj Singh,death
+1,Kings XI Punjab,19,5,P Kumar,MR Marsh,SD Chitnis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,SD Chitnis,MR Marsh,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,1,SD Chitnis,WD Parnell,P Kumar,0,0,0,,0,0,0,0,0,True,caught,SD Chitnis,AA Jhunjhunwala,death
+1,Kings XI Punjab,20,2,P Kumar,WD Parnell,SJ Srivastava,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,P Kumar,WD Parnell,SJ Srivastava,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,P Kumar,WD Parnell,SJ Srivastava,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,SJ Srivastava,WD Parnell,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,P Kumar,WD Parnell,SJ Srivastava,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,1,1,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,2,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,3,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,4,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,5,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,6,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,1.wides,MK Pandey,RJ Harris,JD Ryder,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,1.wides,MK Pandey,RJ Harris,JD Ryder,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,1,MK Pandey,RJ Harris,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,2,MK Pandey,RJ Harris,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,3,MK Pandey,RJ Harris,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,4,MK Pandey,RJ Harris,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,5,MK Pandey,RJ Harris,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,6,MK Pandey,RJ Harris,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,1,JD Ryder,P Kumar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,2,MK Pandey,P Kumar,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,3,JD Ryder,P Kumar,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,4,JD Ryder,P Kumar,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,5,JD Ryder,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,6,JD Ryder,P Kumar,MK Pandey,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Pune Warriors,4,1,JD Ryder,SJ Srivastava,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,2,JD Ryder,SJ Srivastava,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,3,JD Ryder,SJ Srivastava,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,4,JD Ryder,SJ Srivastava,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,5,MK Pandey,SJ Srivastava,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,6,MK Pandey,SJ Srivastava,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,1,JD Ryder,BA Bhatt,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,2,MK Pandey,BA Bhatt,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,3,JD Ryder,BA Bhatt,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,4,JD Ryder,BA Bhatt,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,JD Ryder,DJ Hussey,powerplay
+2,Pune Warriors,5,5,MK Pandey,BA Bhatt,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,6,MK Pandey,BA Bhatt,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,1,RV Uthappa,SJ Srivastava,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,2,RV Uthappa,SJ Srivastava,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,3,RV Uthappa,SJ Srivastava,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,4,RV Uthappa,SJ Srivastava,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,5,RV Uthappa,SJ Srivastava,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,6,RV Uthappa,SJ Srivastava,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,1,MK Pandey,BA Bhatt,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,2,RV Uthappa,BA Bhatt,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,3,RV Uthappa,BA Bhatt,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,4,MK Pandey,BA Bhatt,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,5,RV Uthappa,BA Bhatt,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,6,MK Pandey,BA Bhatt,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,1,MK Pandey,RJ Harris,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,2.wides,MK Pandey,RJ Harris,RV Uthappa,0,2,2,wides,2,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,2,RV Uthappa,RJ Harris,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,3,MK Pandey,RJ Harris,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,4,MK Pandey,RJ Harris,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,5,RV Uthappa,RJ Harris,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,6,RV Uthappa,RJ Harris,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,1,MK Pandey,BA Bhatt,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,2,RV Uthappa,BA Bhatt,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,3,MK Pandey,BA Bhatt,RV Uthappa,0,4,4,byes,0,0,4,0,0,False,,,,middle
+2,Pune Warriors,9,4,MK Pandey,BA Bhatt,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,5,RV Uthappa,BA Bhatt,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,6,RV Uthappa,BA Bhatt,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,1,RV Uthappa,RJ Harris,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,2,MK Pandey,RJ Harris,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,3,MK Pandey,RJ Harris,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,4,RV Uthappa,RJ Harris,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,5,RV Uthappa,RJ Harris,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,SJ Srivastava,middle
+2,Pune Warriors,10,6,MK Pandey,RJ Harris,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,1,Yuvraj Singh,P Kumar,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,2,Yuvraj Singh,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,3,Yuvraj Singh,P Kumar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,4,MK Pandey,P Kumar,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,5,Yuvraj Singh,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,6,Yuvraj Singh,P Kumar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,1,MK Pandey,PC Valthaty,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,2,Yuvraj Singh,PC Valthaty,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,3,Yuvraj Singh,PC Valthaty,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,4,MK Pandey,PC Valthaty,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,5,MK Pandey,PC Valthaty,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,6,MK Pandey,PC Valthaty,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,1,MK Pandey,P Kumar,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,bowled,MK Pandey,,death
+2,Pune Warriors,13,2,CJ Ferguson,P Kumar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,3,CJ Ferguson,P Kumar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,4,CJ Ferguson,P Kumar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,5,CJ Ferguson,P Kumar,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,6,Yuvraj Singh,P Kumar,CJ Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,1,CJ Ferguson,PC Valthaty,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,2,CJ Ferguson,PC Valthaty,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,3,Yuvraj Singh,PC Valthaty,CJ Ferguson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,4,Yuvraj Singh,PC Valthaty,CJ Ferguson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,5,CJ Ferguson,PC Valthaty,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,6,CJ Ferguson,PC Valthaty,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,15,1,CJ Ferguson,BA Bhatt,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,15,2.wides,CJ Ferguson,BA Bhatt,Yuvraj Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Pune Warriors,15,2,CJ Ferguson,BA Bhatt,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,15,3,Yuvraj Singh,BA Bhatt,CJ Ferguson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,15,4,Yuvraj Singh,BA Bhatt,CJ Ferguson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,15,5,Yuvraj Singh,BA Bhatt,CJ Ferguson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,15,6,Yuvraj Singh,BA Bhatt,CJ Ferguson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,1,CJ Ferguson,SJ Srivastava,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,2,CJ Ferguson,SJ Srivastava,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,3.wides,Yuvraj Singh,SJ Srivastava,CJ Ferguson,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Pune Warriors,16,3,Yuvraj Singh,SJ Srivastava,CJ Ferguson,0,0,0,,0,0,0,0,0,True,caught and bowled,Yuvraj Singh,,death
+2,Pune Warriors,16,4,AA Jhunjhunwala,SJ Srivastava,CJ Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,5.noballs,AA Jhunjhunwala,SJ Srivastava,CJ Ferguson,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Pune Warriors,16,5,AA Jhunjhunwala,SJ Srivastava,CJ Ferguson,0,0,0,,0,0,0,0,0,True,caught,AA Jhunjhunwala,AC Gilchrist,death
+2,Pune Warriors,16,6,MR Marsh,SJ Srivastava,CJ Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,1,CJ Ferguson,RJ Harris,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,2,MR Marsh,RJ Harris,CJ Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,3,MR Marsh,RJ Harris,CJ Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,4,MR Marsh,RJ Harris,CJ Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,5,MR Marsh,RJ Harris,CJ Ferguson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,6,CJ Ferguson,RJ Harris,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,1,MR Marsh,PC Valthaty,CJ Ferguson,1,0,1,,0,0,0,0,0,False,,,,death

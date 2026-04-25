@@ -1,0 +1,238 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,Q de Kock,AS Rajpoot,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2.wides,Q de Kock,AS Rajpoot,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,Q de Kock,AS Rajpoot,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,Q de Kock,AS Rajpoot,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,RG Sharma,AS Rajpoot,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,RG Sharma,AS Rajpoot,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,RG Sharma,AS Rajpoot,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,Q de Kock,S Gopal,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,RG Sharma,S Gopal,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,RG Sharma,S Gopal,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,Q de Kock,S Gopal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,Q de Kock,S Gopal,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,RG Sharma,S Gopal,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,RG Sharma,AS Rajpoot,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,RG Sharma,AS Rajpoot,Q de Kock,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,RG Sharma,AS Rajpoot,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,RG Sharma,AS Rajpoot,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,Q de Kock,AS Rajpoot,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,Q de Kock,AS Rajpoot,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,RG Sharma,JC Archer,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,Q de Kock,JC Archer,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,Q de Kock,JC Archer,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,Q de Kock,JC Archer,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,Q de Kock,JC Archer,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,Q de Kock,JC Archer,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,Q de Kock,Kartik Tyagi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,RG Sharma,Kartik Tyagi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,RG Sharma,Kartik Tyagi,Q de Kock,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,RG Sharma,Kartik Tyagi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,Q de Kock,Kartik Tyagi,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,Q de Kock,JC Buttler,powerplay
+1,Mumbai Indians,5,6,SA Yadav,Kartik Tyagi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,SA Yadav,TK Curran,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,RG Sharma,TK Curran,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,RG Sharma,TK Curran,SA Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Mumbai Indians,6,4,SA Yadav,TK Curran,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,SA Yadav,TK Curran,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6.wides,SA Yadav,TK Curran,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,SA Yadav,TK Curran,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,RG Sharma,Kartik Tyagi,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,RG Sharma,Kartik Tyagi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,SA Yadav,Kartik Tyagi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,SA Yadav,Kartik Tyagi,RG Sharma,0,1,1,byes,0,0,1,0,0,False,,,,middle
+1,Mumbai Indians,7,5.wides,RG Sharma,Kartik Tyagi,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,RG Sharma,Kartik Tyagi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6.wides,SA Yadav,Kartik Tyagi,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,SA Yadav,Kartik Tyagi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,SA Yadav,S Gopal,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,SA Yadav,S Gopal,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,SA Yadav,S Gopal,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,RG Sharma,S Gopal,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,RG Sharma,S Gopal,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,RG Sharma,S Gopal,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,SA Yadav,Kartik Tyagi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,SA Yadav,Kartik Tyagi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,SA Yadav,Kartik Tyagi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,SA Yadav,Kartik Tyagi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,SA Yadav,Kartik Tyagi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,SA Yadav,Kartik Tyagi,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,RG Sharma,S Gopal,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,R Tewatia,middle
+1,Mumbai Indians,10,2,Ishan Kishan,S Gopal,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,Ishan Kishan,SV Samson,middle
+1,Mumbai Indians,10,3,SA Yadav,S Gopal,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,SA Yadav,S Gopal,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,KH Pandya,S Gopal,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,KH Pandya,S Gopal,SA Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,11,1,KH Pandya,R Tewatia,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,KH Pandya,R Tewatia,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,KH Pandya,R Tewatia,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,SA Yadav,R Tewatia,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,KH Pandya,R Tewatia,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,KH Pandya,R Tewatia,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,SA Yadav,S Gopal,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,SA Yadav,S Gopal,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,SA Yadav,S Gopal,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,SA Yadav,S Gopal,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,KH Pandya,S Gopal,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,KH Pandya,S Gopal,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,KH Pandya,R Tewatia,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,KH Pandya,R Tewatia,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,SA Yadav,R Tewatia,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,KH Pandya,R Tewatia,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,SA Yadav,R Tewatia,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,KH Pandya,R Tewatia,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,KH Pandya,JC Archer,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,SA Yadav,JC Archer,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,SA Yadav,JC Archer,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,KH Pandya,JC Archer,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,KH Pandya,JC Archer,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,KH Pandya,JC Archer,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,KH Pandya,S Gopal,middle
+1,Mumbai Indians,15,1,SA Yadav,Kartik Tyagi,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2.wides,HH Pandya,Kartik Tyagi,SA Yadav,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,HH Pandya,Kartik Tyagi,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,HH Pandya,Kartik Tyagi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,SA Yadav,Kartik Tyagi,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,SA Yadav,Kartik Tyagi,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,SA Yadav,Kartik Tyagi,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,SA Yadav,TK Curran,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,SA Yadav,TK Curran,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,HH Pandya,TK Curran,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,SA Yadav,TK Curran,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,SA Yadav,TK Curran,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,HH Pandya,TK Curran,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,HH Pandya,JC Archer,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,HH Pandya,JC Archer,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,HH Pandya,JC Archer,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,SA Yadav,JC Archer,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,SA Yadav,JC Archer,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,SA Yadav,JC Archer,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,HH Pandya,TK Curran,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,HH Pandya,TK Curran,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,HH Pandya,TK Curran,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,HH Pandya,TK Curran,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,SA Yadav,TK Curran,HH Pandya,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,SA Yadav,TK Curran,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,"1.byes, noballs",HH Pandya,JC Archer,SA Yadav,0,5,5,"byes, noballs",0,1,4,0,0,False,,,,death
+1,Mumbai Indians,19,1,HH Pandya,JC Archer,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,HH Pandya,JC Archer,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,HH Pandya,JC Archer,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,SA Yadav,JC Archer,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,SA Yadav,JC Archer,HH Pandya,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,SA Yadav,JC Archer,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,SA Yadav,AS Rajpoot,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2.noballs,HH Pandya,AS Rajpoot,SA Yadav,2,1,3,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,HH Pandya,AS Rajpoot,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,SA Yadav,AS Rajpoot,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,SA Yadav,AS Rajpoot,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,HH Pandya,AS Rajpoot,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,HH Pandya,AS Rajpoot,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,YBK Jaiswal,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,YBK Jaiswal,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,YBK Jaiswal,Q de Kock,powerplay
+2,Rajasthan Royals,1,3,SPD Smith,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,SPD Smith,TA Boult,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,SPD Smith,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,SPD Smith,TA Boult,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,SPD Smith,JJ Bumrah,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,SPD Smith,JJ Bumrah,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,JC Buttler,JJ Bumrah,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,SPD Smith,JJ Bumrah,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,SPD Smith,Q de Kock,powerplay
+2,Rajasthan Royals,2,5,SV Samson,JJ Bumrah,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,SV Samson,JJ Bumrah,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,JC Buttler,TA Boult,SV Samson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,JC Buttler,TA Boult,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,JC Buttler,TA Boult,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,JC Buttler,TA Boult,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,SV Samson,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,SV Samson,RG Sharma,powerplay
+2,Rajasthan Royals,3,6,MK Lomror,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,JC Buttler,JJ Bumrah,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,JC Buttler,JJ Bumrah,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,JC Buttler,JJ Bumrah,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,JC Buttler,JJ Bumrah,MK Lomror,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,JC Buttler,JJ Bumrah,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,JC Buttler,JJ Bumrah,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,MK Lomror,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,MK Lomror,TA Boult,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,MK Lomror,TA Boult,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,JC Buttler,TA Boult,MK Lomror,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,JC Buttler,TA Boult,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,MK Lomror,TA Boult,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,MK Lomror,JL Pattinson,JC Buttler,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,MK Lomror,JL Pattinson,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,MK Lomror,JL Pattinson,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,MK Lomror,JL Pattinson,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,5,JC Buttler,JL Pattinson,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,6,JC Buttler,JL Pattinson,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,1,JC Buttler,RD Chahar,MK Lomror,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,JC Buttler,RD Chahar,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,JC Buttler,RD Chahar,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,JC Buttler,RD Chahar,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,JC Buttler,RD Chahar,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,MK Lomror,RD Chahar,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,MK Lomror,JL Pattinson,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,JC Buttler,JL Pattinson,MK Lomror,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,JC Buttler,JL Pattinson,MK Lomror,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,JC Buttler,JL Pattinson,MK Lomror,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,JC Buttler,JL Pattinson,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,MK Lomror,JL Pattinson,JC Buttler,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,9,1,MK Lomror,RD Chahar,JC Buttler,0,0,0,,0,0,0,0,0,True,caught,MK Lomror,AS Roy,middle
+2,Rajasthan Royals,9,2,JC Buttler,RD Chahar,TK Curran,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,JC Buttler,RD Chahar,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,TK Curran,RD Chahar,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,TK Curran,RD Chahar,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,JC Buttler,RD Chahar,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,JC Buttler,KH Pandya,TK Curran,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,JC Buttler,KH Pandya,TK Curran,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,JC Buttler,KH Pandya,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,TK Curran,KH Pandya,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,JC Buttler,KH Pandya,TK Curran,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,JC Buttler,KH Pandya,TK Curran,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,TK Curran,RD Chahar,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2.wides,TK Curran,RD Chahar,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,TK Curran,RD Chahar,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,JC Buttler,RD Chahar,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,TK Curran,RD Chahar,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,JC Buttler,RD Chahar,TK Curran,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,JC Buttler,RD Chahar,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,JC Buttler,KH Pandya,TK Curran,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,JC Buttler,KH Pandya,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,TK Curran,KH Pandya,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,JC Buttler,KH Pandya,TK Curran,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,JC Buttler,KH Pandya,TK Curran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,TK Curran,KH Pandya,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,1,TK Curran,KA Pollard,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,2,JC Buttler,KA Pollard,TK Curran,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,3,JC Buttler,KA Pollard,TK Curran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,4,JC Buttler,KA Pollard,TK Curran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,5,JC Buttler,KA Pollard,TK Curran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,6,TK Curran,KA Pollard,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,TK Curran,JL Pattinson,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,2,TK Curran,JL Pattinson,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,JC Buttler,JL Pattinson,TK Curran,0,0,0,,0,0,0,0,0,True,caught,JC Buttler,KA Pollard,death
+2,Rajasthan Royals,14,4,R Tewatia,JL Pattinson,TK Curran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,R Tewatia,JL Pattinson,TK Curran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,R Tewatia,JL Pattinson,TK Curran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,TK Curran,KA Pollard,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,TK Curran,KA Pollard,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,TK Curran,KA Pollard,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,TK Curran,KA Pollard,R Tewatia,0,0,0,,0,0,0,0,0,True,caught,TK Curran,HH Pandya,death
+2,Rajasthan Royals,15,5,R Tewatia,KA Pollard,JC Archer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,JC Archer,KA Pollard,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,R Tewatia,JJ Bumrah,JC Archer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,R Tewatia,JJ Bumrah,JC Archer,0,0,0,,0,0,0,0,0,True,bowled,R Tewatia,,death
+2,Rajasthan Royals,16,3,S Gopal,JJ Bumrah,JC Archer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,JC Archer,JJ Bumrah,S Gopal,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,S Gopal,JJ Bumrah,JC Archer,0,0,0,,0,0,0,0,0,True,caught,S Gopal,Q de Kock,death
+2,Rajasthan Royals,16,6,AS Rajpoot,JJ Bumrah,JC Archer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,JC Archer,TA Boult,AS Rajpoot,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,JC Archer,TA Boult,AS Rajpoot,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,JC Archer,TA Boult,AS Rajpoot,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,AS Rajpoot,TA Boult,JC Archer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,AS Rajpoot,TA Boult,JC Archer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,JC Archer,TA Boult,AS Rajpoot,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,JC Archer,JJ Bumrah,AS Rajpoot,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,AS Rajpoot,JJ Bumrah,JC Archer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,JC Archer,JJ Bumrah,AS Rajpoot,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,JC Archer,JJ Bumrah,AS Rajpoot,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,JC Archer,JJ Bumrah,AS Rajpoot,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,JC Archer,JJ Bumrah,AS Rajpoot,0,0,0,,0,0,0,0,0,True,caught,JC Archer,KA Pollard,death
+2,Rajasthan Royals,19,1,AS Rajpoot,JL Pattinson,Kartik Tyagi,0,0,0,,0,0,0,0,0,True,caught,AS Rajpoot,RG Sharma,death

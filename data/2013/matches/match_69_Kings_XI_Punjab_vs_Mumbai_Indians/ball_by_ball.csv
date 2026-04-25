@@ -1,0 +1,243 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,AC Gilchrist,NM Coulter-Nile,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,AC Gilchrist,NM Coulter-Nile,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,AC Gilchrist,NM Coulter-Nile,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,Mandeep Singh,NM Coulter-Nile,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,AC Gilchrist,NM Coulter-Nile,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,AC Gilchrist,NM Coulter-Nile,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,Mandeep Singh,R Dhawan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,Mandeep Singh,R Dhawan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,Mandeep Singh,R Dhawan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,Mandeep Singh,R Dhawan,AC Gilchrist,0,0,0,,0,0,0,0,0,True,caught,Mandeep Singh,KA Pollard,powerplay
+1,Kings XI Punjab,2,5,Azhar Mahmood,R Dhawan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,Azhar Mahmood,R Dhawan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,AC Gilchrist,NM Coulter-Nile,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,AC Gilchrist,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,True,bowled,AC Gilchrist,,powerplay
+1,Kings XI Punjab,3,3,SE Marsh,NM Coulter-Nile,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,SE Marsh,NM Coulter-Nile,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,SE Marsh,R Dhawan,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,SE Marsh,R Dhawan,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,SE Marsh,R Dhawan,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,SE Marsh,R Dhawan,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,SE Marsh,R Dhawan,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,Azhar Mahmood,R Dhawan,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,SE Marsh,NM Coulter-Nile,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4.wides,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,SE Marsh,NM Coulter-Nile,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,SE Marsh,NM Coulter-Nile,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,SE Marsh,DS Kulkarni,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,SE Marsh,DS Kulkarni,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,SE Marsh,DS Kulkarni,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,SE Marsh,DS Kulkarni,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,SE Marsh,RG Sharma,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,Azhar Mahmood,RG Sharma,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,SE Marsh,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,SE Marsh,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,SE Marsh,Harbhajan Singh,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,SE Marsh,Harbhajan Singh,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1.wides,Azhar Mahmood,SL Malinga,SE Marsh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,Azhar Mahmood,SL Malinga,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,Azhar Mahmood,SL Malinga,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,Azhar Mahmood,SL Malinga,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,Azhar Mahmood,SL Malinga,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,Azhar Mahmood,SL Malinga,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,Azhar Mahmood,SL Malinga,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,SE Marsh,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,SE Marsh,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,Azhar Mahmood,Harbhajan Singh,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,Azhar Mahmood,KA Pollard,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,Azhar Mahmood,KA Pollard,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,SE Marsh,KA Pollard,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,SE Marsh,KA Pollard,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,SE Marsh,KA Pollard,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,SE Marsh,KA Pollard,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,SE Marsh,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,Azhar Mahmood,Harbhajan Singh,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,SE Marsh,Harbhajan Singh,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,SE Marsh,Harbhajan Singh,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,SE Marsh,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,SE Marsh,SL Malinga,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,Azhar Mahmood,SL Malinga,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,Azhar Mahmood,SL Malinga,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,Azhar Mahmood,SL Malinga,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,SE Marsh,SL Malinga,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,SE Marsh,SL Malinga,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,SE Marsh,GJ Maxwell,Azhar Mahmood,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,SE Marsh,GJ Maxwell,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,Azhar Mahmood,GJ Maxwell,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,Azhar Mahmood,GJ Maxwell,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,Azhar Mahmood,GJ Maxwell,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,Azhar Mahmood,GJ Maxwell,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,Azhar Mahmood,R Dhawan,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,2,Azhar Mahmood,R Dhawan,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,3,SE Marsh,R Dhawan,Azhar Mahmood,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,14,4,Azhar Mahmood,R Dhawan,SE Marsh,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,14,5,SE Marsh,R Dhawan,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,6,SE Marsh,R Dhawan,Azhar Mahmood,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,1,Azhar Mahmood,NM Coulter-Nile,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,2,SE Marsh,NM Coulter-Nile,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,3,Azhar Mahmood,NM Coulter-Nile,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,4,SE Marsh,NM Coulter-Nile,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,5,Azhar Mahmood,NM Coulter-Nile,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,6,Azhar Mahmood,NM Coulter-Nile,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1.wides,SE Marsh,R Dhawan,Azhar Mahmood,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1,SE Marsh,R Dhawan,Azhar Mahmood,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,SE Marsh,R Dhawan,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,Azhar Mahmood,R Dhawan,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,Azhar Mahmood,R Dhawan,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,Azhar Mahmood,R Dhawan,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6.wides,Azhar Mahmood,R Dhawan,SE Marsh,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,Azhar Mahmood,R Dhawan,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,Azhar Mahmood,Harbhajan Singh,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,Azhar Mahmood,Harbhajan Singh,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,Azhar Mahmood,Harbhajan Singh,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,SE Marsh,Harbhajan Singh,Azhar Mahmood,0,0,0,,0,0,0,0,0,True,bowled,SE Marsh,,death
+1,Kings XI Punjab,17,5,DA Miller,Harbhajan Singh,Azhar Mahmood,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6,Azhar Mahmood,Harbhajan Singh,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,Azhar Mahmood,SL Malinga,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,2,Azhar Mahmood,SL Malinga,DA Miller,0,0,0,,0,0,0,0,0,True,lbw,Azhar Mahmood,,death
+1,Kings XI Punjab,18,3,M Vohra,SL Malinga,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,M Vohra,SL Malinga,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,M Vohra,SL Malinga,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,M Vohra,SL Malinga,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,DA Miller,KA Pollard,M Vohra,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,DA Miller,KA Pollard,M Vohra,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,DA Miller,KA Pollard,M Vohra,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,M Vohra,KA Pollard,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,M Vohra,KA Pollard,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,DA Miller,KA Pollard,M Vohra,0,0,0,,0,0,0,0,0,True,caught,DA Miller,NM Coulter-Nile,death
+1,Kings XI Punjab,20,1,Gurkeerat Singh,SL Malinga,M Vohra,0,0,0,,0,0,0,0,0,True,lbw,Gurkeerat Singh,,death
+1,Kings XI Punjab,20,2,PP Chawla,SL Malinga,M Vohra,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,20,3,M Vohra,SL Malinga,PP Chawla,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,M Vohra,SL Malinga,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,PP Chawla,SL Malinga,M Vohra,1,0,1,,0,0,0,0,0,True,run out,PP Chawla,"GJ Maxwell, KD Karthik",death
+1,Kings XI Punjab,20,6,P Kumar,SL Malinga,M Vohra,0,0,0,,0,0,0,0,0,True,bowled,P Kumar,,death
+2,Mumbai Indians,1,1,GJ Maxwell,P Kumar,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,GJ Maxwell,P Kumar,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,GJ Maxwell,P Kumar,AP Tare,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,M Vohra,powerplay
+2,Mumbai Indians,1,4,AP Tare,P Kumar,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,AP Tare,P Kumar,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,AT Rayudu,P Kumar,AP Tare,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,1,AT Rayudu,Azhar Mahmood,AP Tare,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,2,AP Tare,Azhar Mahmood,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,AP Tare,Azhar Mahmood,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,AP Tare,Azhar Mahmood,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,AP Tare,Azhar Mahmood,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,6,AP Tare,Azhar Mahmood,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,AT Rayudu,P Kumar,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,AT Rayudu,P Kumar,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,AT Rayudu,P Kumar,AP Tare,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,4,AT Rayudu,P Kumar,AP Tare,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,5,AP Tare,P Kumar,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,AP Tare,P Kumar,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,AT Rayudu,Sandeep Sharma,AP Tare,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,2,AP Tare,Sandeep Sharma,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,AT Rayudu,Sandeep Sharma,AP Tare,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,4,AP Tare,Sandeep Sharma,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,5,AP Tare,Sandeep Sharma,AT Rayudu,0,0,0,,0,0,0,0,0,True,bowled,AP Tare,,powerplay
+2,Mumbai Indians,4,6,RG Sharma,Sandeep Sharma,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,1,AT Rayudu,P Kumar,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,2,AT Rayudu,P Kumar,RG Sharma,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+2,Mumbai Indians,5,3,AT Rayudu,P Kumar,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4.wides,AT Rayudu,P Kumar,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4,AT Rayudu,P Kumar,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,AT Rayudu,P Kumar,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,AT Rayudu,P Kumar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,AT Rayudu,Sandeep Sharma,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,2,AT Rayudu,Sandeep Sharma,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,AT Rayudu,Sandeep Sharma,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,4,RG Sharma,Sandeep Sharma,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,5,RG Sharma,Sandeep Sharma,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,6,6,RG Sharma,Sandeep Sharma,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,1,RG Sharma,P Awana,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,RG Sharma,P Awana,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,AT Rayudu,P Awana,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,RG Sharma,P Awana,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,AT Rayudu,P Awana,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,RG Sharma,P Awana,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,1,RG Sharma,PP Chawla,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,RG Sharma,PP Chawla,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,RG Sharma,PP Chawla,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,4,RG Sharma,PP Chawla,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5,RG Sharma,PP Chawla,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,AT Rayudu,PP Chawla,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1,RG Sharma,P Awana,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,AT Rayudu,P Awana,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,RG Sharma,P Awana,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,AT Rayudu,P Awana,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,AT Rayudu,AC Gilchrist,middle
+2,Mumbai Indians,9,5,KD Karthik,P Awana,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,KD Karthik,P Awana,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,RG Sharma,PP Chawla,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,RG Sharma,PP Chawla,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,KD Karthik,PP Chawla,RG Sharma,0,0,0,,0,0,0,0,0,True,caught and bowled,KD Karthik,,middle
+2,Mumbai Indians,10,4,KA Pollard,PP Chawla,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,5,KA Pollard,PP Chawla,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6,KA Pollard,PP Chawla,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,RG Sharma,Azhar Mahmood,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,KA Pollard,Azhar Mahmood,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,KA Pollard,Azhar Mahmood,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,KA Pollard,Azhar Mahmood,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,RG Sharma,Azhar Mahmood,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,6,RG Sharma,Azhar Mahmood,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,RG Sharma,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,RG Sharma,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,3,RG Sharma,PP Chawla,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,KA Pollard,PP Chawla,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,5,RG Sharma,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6,RG Sharma,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,True,bowled,RG Sharma,,middle
+2,Mumbai Indians,13,1,KA Pollard,P Awana,R Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2,KA Pollard,P Awana,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,3,R Dhawan,P Awana,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,4,R Dhawan,P Awana,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,5,R Dhawan,P Awana,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,6,R Dhawan,P Awana,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,1,KA Pollard,PP Chawla,R Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,2.wides,KA Pollard,PP Chawla,R Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,2,KA Pollard,PP Chawla,R Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,3,KA Pollard,PP Chawla,R Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,4,KA Pollard,PP Chawla,R Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,5,KA Pollard,PP Chawla,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,6,R Dhawan,PP Chawla,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,1,KA Pollard,P Awana,R Dhawan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,2,KA Pollard,P Awana,R Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,3,KA Pollard,P Awana,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,4,R Dhawan,P Awana,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,5,R Dhawan,P Awana,KA Pollard,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,6,R Dhawan,P Awana,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,1,R Dhawan,Sandeep Sharma,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,KA Pollard,Sandeep Sharma,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,R Dhawan,Sandeep Sharma,KA Pollard,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+2,Mumbai Indians,16,4,R Dhawan,Sandeep Sharma,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5.noballs,KA Pollard,Sandeep Sharma,R Dhawan,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,KA Pollard,Sandeep Sharma,R Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,KA Pollard,Sandeep Sharma,R Dhawan,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,DA Miller,death
+2,Mumbai Indians,17,1,R Dhawan,Azhar Mahmood,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,R Dhawan,Azhar Mahmood,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,3,R Dhawan,Azhar Mahmood,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,Harbhajan Singh,Azhar Mahmood,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,R Dhawan,Azhar Mahmood,Harbhajan Singh,0,0,0,,0,0,0,0,0,True,lbw,R Dhawan,,death
+2,Mumbai Indians,17,6,NM Coulter-Nile,Azhar Mahmood,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,1,NM Coulter-Nile,Sandeep Sharma,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,NM Coulter-Nile,Sandeep Sharma,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,Harbhajan Singh,Sandeep Sharma,NM Coulter-Nile,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,NM Coulter-Nile,Sandeep Sharma,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,Harbhajan Singh,Sandeep Sharma,NM Coulter-Nile,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,NM Coulter-Nile,Sandeep Sharma,Harbhajan Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,Harbhajan Singh,Azhar Mahmood,NM Coulter-Nile,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,2,NM Coulter-Nile,Azhar Mahmood,Harbhajan Singh,0,0,0,,0,0,0,0,0,True,bowled,NM Coulter-Nile,,death
+2,Mumbai Indians,19,3,SL Malinga,Azhar Mahmood,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,Harbhajan Singh,Azhar Mahmood,SL Malinga,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,5,Harbhajan Singh,Azhar Mahmood,SL Malinga,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,6,Harbhajan Singh,Azhar Mahmood,SL Malinga,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,1,Harbhajan Singh,AC Gilchrist,SL Malinga,0,0,0,,0,0,0,0,0,True,caught,Harbhajan Singh,Gurkeerat Singh,death

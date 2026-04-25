@@ -1,0 +1,255 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,Anuj Rawat,PVD Chameera,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,Anuj Rawat,PVD Chameera,F du Plessis,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3.wides,Anuj Rawat,PVD Chameera,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,Anuj Rawat,PVD Chameera,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,Anuj Rawat,PVD Chameera,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,Anuj Rawat,PVD Chameera,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,Anuj Rawat,KL Rahul,powerplay
+1,Royal Challengers Bangalore,1,6,V Kohli,PVD Chameera,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,V Kohli,DJ Hooda,powerplay
+1,Royal Challengers Bangalore,2,1,F du Plessis,Avesh Khan,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,F du Plessis,Avesh Khan,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,F du Plessis,Avesh Khan,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,F du Plessis,Avesh Khan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,GJ Maxwell,Avesh Khan,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,GJ Maxwell,Avesh Khan,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,F du Plessis,PVD Chameera,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,F du Plessis,PVD Chameera,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,GJ Maxwell,PVD Chameera,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,GJ Maxwell,PVD Chameera,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,GJ Maxwell,PVD Chameera,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,GJ Maxwell,PVD Chameera,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,F du Plessis,KH Pandya,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,F du Plessis,KH Pandya,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,F du Plessis,KH Pandya,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,GJ Maxwell,KH Pandya,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,GJ Maxwell,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,F du Plessis,KH Pandya,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,F du Plessis,Avesh Khan,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,F du Plessis,Avesh Khan,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,F du Plessis,Avesh Khan,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,F du Plessis,Avesh Khan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,GJ Maxwell,Avesh Khan,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,GJ Maxwell,Avesh Khan,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,F du Plessis,KH Pandya,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,GJ Maxwell,KH Pandya,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,JO Holder,powerplay
+1,Royal Challengers Bangalore,6,3,SS Prabhudessai,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,F du Plessis,KH Pandya,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,SS Prabhudessai,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,F du Plessis,KH Pandya,SS Prabhudessai,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1.wides,SS Prabhudessai,Ravi Bishnoi,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,SS Prabhudessai,Ravi Bishnoi,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,F du Plessis,Ravi Bishnoi,SS Prabhudessai,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,SS Prabhudessai,Ravi Bishnoi,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4.noballs,SS Prabhudessai,Ravi Bishnoi,F du Plessis,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,SS Prabhudessai,Ravi Bishnoi,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,SS Prabhudessai,Ravi Bishnoi,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,F du Plessis,Ravi Bishnoi,SS Prabhudessai,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,SS Prabhudessai,JO Holder,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,SS Prabhudessai,JO Holder,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,SS Prabhudessai,KH Pandya,middle
+1,Royal Challengers Bangalore,8,3,Shahbaz Ahmed,JO Holder,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,Shahbaz Ahmed,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,F du Plessis,JO Holder,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,Shahbaz Ahmed,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,Shahbaz Ahmed,MP Stoinis,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,Shahbaz Ahmed,MP Stoinis,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,Shahbaz Ahmed,MP Stoinis,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,F du Plessis,MP Stoinis,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,F du Plessis,MP Stoinis,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6.wides,Shahbaz Ahmed,MP Stoinis,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,Shahbaz Ahmed,MP Stoinis,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,Shahbaz Ahmed,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,F du Plessis,JO Holder,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,F du Plessis,JO Holder,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,F du Plessis,JO Holder,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5.wides,Shahbaz Ahmed,JO Holder,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,Shahbaz Ahmed,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,F du Plessis,JO Holder,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,Shahbaz Ahmed,KH Pandya,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,Shahbaz Ahmed,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,F du Plessis,KH Pandya,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,Shahbaz Ahmed,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,F du Plessis,KH Pandya,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,Shahbaz Ahmed,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,Shahbaz Ahmed,Ravi Bishnoi,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,F du Plessis,PVD Chameera,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,Shahbaz Ahmed,PVD Chameera,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,F du Plessis,PVD Chameera,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,F du Plessis,PVD Chameera,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,Shahbaz Ahmed,PVD Chameera,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,Shahbaz Ahmed,PVD Chameera,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,Shahbaz Ahmed,Ravi Bishnoi,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,F du Plessis,Ravi Bishnoi,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,Shahbaz Ahmed,Ravi Bishnoi,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,Shahbaz Ahmed,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,F du Plessis,KH Pandya,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,F du Plessis,KH Pandya,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,F du Plessis,KH Pandya,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,Shahbaz Ahmed,KH Pandya,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,F du Plessis,KH Pandya,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1.wides,Shahbaz Ahmed,JO Holder,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,Shahbaz Ahmed,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,F du Plessis,JO Holder,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,True,run out,Shahbaz Ahmed,"KL Rahul, JO Holder",death
+1,Royal Challengers Bangalore,16,3,F du Plessis,JO Holder,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,F du Plessis,JO Holder,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,KD Karthik,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,F du Plessis,JO Holder,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,KD Karthik,Avesh Khan,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,F du Plessis,Avesh Khan,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,F du Plessis,Avesh Khan,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,F du Plessis,Avesh Khan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,KD Karthik,Avesh Khan,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,F du Plessis,Avesh Khan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,F du Plessis,Ravi Bishnoi,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,F du Plessis,Ravi Bishnoi,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,F du Plessis,Ravi Bishnoi,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,F du Plessis,Ravi Bishnoi,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,F du Plessis,Ravi Bishnoi,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,F du Plessis,Ravi Bishnoi,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,KD Karthik,Avesh Khan,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,F du Plessis,Avesh Khan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,KD Karthik,Avesh Khan,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4.wides,F du Plessis,Avesh Khan,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,F du Plessis,Avesh Khan,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,F du Plessis,Avesh Khan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,KD Karthik,Avesh Khan,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,F du Plessis,JO Holder,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,KD Karthik,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,F du Plessis,JO Holder,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,KD Karthik,JO Holder,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,F du Plessis,JO Holder,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,MP Stoinis,death
+1,Royal Challengers Bangalore,20,6,HV Patel,JO Holder,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,1,1,Q de Kock,Mohammed Siraj,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,2,Q de Kock,Mohammed Siraj,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,3,KL Rahul,Mohammed Siraj,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,4,KL Rahul,Mohammed Siraj,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,5,KL Rahul,Mohammed Siraj,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,6,KL Rahul,Mohammed Siraj,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,1,Q de Kock,GJ Maxwell,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,2.wides,KL Rahul,GJ Maxwell,Q de Kock,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,2,KL Rahul,GJ Maxwell,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,3,KL Rahul,GJ Maxwell,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,4,KL Rahul,GJ Maxwell,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,5,KL Rahul,GJ Maxwell,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,6,KL Rahul,GJ Maxwell,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,1,KL Rahul,JR Hazlewood,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,2,Q de Kock,JR Hazlewood,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,3,KL Rahul,JR Hazlewood,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,4,KL Rahul,JR Hazlewood,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,5,Q de Kock,JR Hazlewood,KL Rahul,0,0,0,,0,0,0,0,0,True,caught,Q de Kock,GJ Maxwell,powerplay
+2,Lucknow Super Giants,3,6,MK Pandey,JR Hazlewood,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,1,KL Rahul,Shahbaz Ahmed,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,2,MK Pandey,Shahbaz Ahmed,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,3,KL Rahul,Shahbaz Ahmed,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,4,MK Pandey,Shahbaz Ahmed,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,5,MK Pandey,Shahbaz Ahmed,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,6,MK Pandey,Shahbaz Ahmed,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,1,KL Rahul,JR Hazlewood,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,2,MK Pandey,JR Hazlewood,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,3,KL Rahul,JR Hazlewood,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,4,KL Rahul,JR Hazlewood,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,5,MK Pandey,JR Hazlewood,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,6,MK Pandey,JR Hazlewood,KL Rahul,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,HV Patel,powerplay
+2,Lucknow Super Giants,6,1,KL Rahul,Mohammed Siraj,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,2,KH Pandya,Mohammed Siraj,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,3,KL Rahul,Mohammed Siraj,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,4,KH Pandya,Mohammed Siraj,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,5,KH Pandya,Mohammed Siraj,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,6,KH Pandya,Mohammed Siraj,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,7,1,KL Rahul,Shahbaz Ahmed,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,2,KL Rahul,Shahbaz Ahmed,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,3,KH Pandya,Shahbaz Ahmed,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,4,KH Pandya,Shahbaz Ahmed,KL Rahul,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,5,KH Pandya,Shahbaz Ahmed,KL Rahul,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,6,KH Pandya,Shahbaz Ahmed,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,1,KH Pandya,HV Patel,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,2,KH Pandya,HV Patel,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,3,KH Pandya,HV Patel,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,4,KL Rahul,HV Patel,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,5,KL Rahul,HV Patel,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,6.wides,KL Rahul,HV Patel,KH Pandya,0,5,5,wides,5,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,6,KL Rahul,HV Patel,KH Pandya,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,KD Karthik,middle
+2,Lucknow Super Giants,9,1,KH Pandya,Shahbaz Ahmed,DJ Hooda,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Lucknow Super Giants,9,2,DJ Hooda,Shahbaz Ahmed,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,3,KH Pandya,Shahbaz Ahmed,DJ Hooda,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,4,KH Pandya,Shahbaz Ahmed,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,5,KH Pandya,Shahbaz Ahmed,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,6,KH Pandya,Shahbaz Ahmed,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,1,DJ Hooda,PWH de Silva,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,2,DJ Hooda,PWH de Silva,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,3,DJ Hooda,PWH de Silva,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,4,DJ Hooda,PWH de Silva,KH Pandya,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Lucknow Super Giants,10,5,KH Pandya,PWH de Silva,DJ Hooda,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,6,KH Pandya,PWH de Silva,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,1,DJ Hooda,Shahbaz Ahmed,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,2,DJ Hooda,Shahbaz Ahmed,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,3,DJ Hooda,Shahbaz Ahmed,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,4,DJ Hooda,Shahbaz Ahmed,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,5,KH Pandya,Shahbaz Ahmed,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,6,DJ Hooda,Shahbaz Ahmed,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,1,DJ Hooda,HV Patel,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,2,DJ Hooda,HV Patel,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,3,KH Pandya,HV Patel,DJ Hooda,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,4.wides,KH Pandya,HV Patel,DJ Hooda,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,4,KH Pandya,HV Patel,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,5,DJ Hooda,HV Patel,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,6,KH Pandya,HV Patel,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,1,KH Pandya,Mohammed Siraj,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,2,KH Pandya,Mohammed Siraj,DJ Hooda,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Lucknow Super Giants,13,3,DJ Hooda,Mohammed Siraj,KH Pandya,0,0,0,,0,0,0,0,0,True,caught,DJ Hooda,SS Prabhudessai,middle
+2,Lucknow Super Giants,13,4,A Badoni,Mohammed Siraj,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,5,A Badoni,Mohammed Siraj,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,13,6,A Badoni,Mohammed Siraj,KH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,1,KH Pandya,GJ Maxwell,A Badoni,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,2,KH Pandya,GJ Maxwell,A Badoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,3,KH Pandya,GJ Maxwell,A Badoni,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,4,KH Pandya,GJ Maxwell,A Badoni,0,0,0,,0,0,0,0,0,True,caught,KH Pandya,Shahbaz Ahmed,middle
+2,Lucknow Super Giants,14,5,MP Stoinis,GJ Maxwell,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,14,6,A Badoni,GJ Maxwell,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,1,A Badoni,Mohammed Siraj,MP Stoinis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,2,A Badoni,Mohammed Siraj,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,3,A Badoni,Mohammed Siraj,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,4,A Badoni,Mohammed Siraj,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,5,A Badoni,Mohammed Siraj,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,6.wides,MP Stoinis,Mohammed Siraj,A Badoni,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,15,6,MP Stoinis,Mohammed Siraj,A Badoni,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,16,1,MP Stoinis,PWH de Silva,A Badoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,2,A Badoni,PWH de Silva,MP Stoinis,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Lucknow Super Giants,16,3,MP Stoinis,PWH de Silva,A Badoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,4,A Badoni,PWH de Silva,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,5,MP Stoinis,PWH de Silva,A Badoni,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,6,MP Stoinis,PWH de Silva,A Badoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,1,MP Stoinis,JR Hazlewood,A Badoni,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,2,MP Stoinis,JR Hazlewood,A Badoni,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,3,A Badoni,JR Hazlewood,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,4,A Badoni,JR Hazlewood,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,A Badoni,KD Karthik,death
+2,Lucknow Super Giants,17,5.wides,JO Holder,JR Hazlewood,MP Stoinis,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,5,JO Holder,JR Hazlewood,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,6,MP Stoinis,JR Hazlewood,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,1,MP Stoinis,HV Patel,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,2,JO Holder,HV Patel,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,3.wides,MP Stoinis,HV Patel,JO Holder,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,3,MP Stoinis,HV Patel,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,4,JO Holder,HV Patel,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,5,MP Stoinis,HV Patel,JO Holder,4,0,4,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,6,MP Stoinis,HV Patel,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,1,MP Stoinis,JR Hazlewood,JO Holder,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,2,MP Stoinis,JR Hazlewood,JO Holder,0,0,0,,0,0,0,0,0,True,bowled,MP Stoinis,,death
+2,Lucknow Super Giants,19,3,PVD Chameera,JR Hazlewood,JO Holder,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,4,PVD Chameera,JR Hazlewood,JO Holder,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,5.wides,PVD Chameera,JR Hazlewood,JO Holder,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,5,PVD Chameera,JR Hazlewood,JO Holder,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,19,6,JO Holder,JR Hazlewood,PVD Chameera,1,0,1,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,1,JO Holder,HV Patel,PVD Chameera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,2,JO Holder,HV Patel,PVD Chameera,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,3,JO Holder,HV Patel,PVD Chameera,0,0,0,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,4,JO Holder,HV Patel,PVD Chameera,6,0,6,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,20,5,JO Holder,HV Patel,PVD Chameera,0,0,0,,0,0,0,0,0,True,caught,JO Holder,Mohammed Siraj,death
+2,Lucknow Super Giants,20,6,Ravi Bishnoi,HV Patel,PVD Chameera,0,0,0,,0,0,0,0,0,False,,,,death

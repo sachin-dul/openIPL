@@ -1,0 +1,247 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,L Ronchi,P Kumar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,L Ronchi,P Kumar,ST Jayasuriya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,L Ronchi,P Kumar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,L Ronchi,P Kumar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,L Ronchi,P Kumar,ST Jayasuriya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,L Ronchi,P Kumar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,ST Jayasuriya,Z Khan,L Ronchi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,L Ronchi,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,L Ronchi,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,L Ronchi,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,L Ronchi,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,True,caught,L Ronchi,V Kohli,powerplay
+1,Mumbai Indians,2,6,DJ Thornely,Z Khan,ST Jayasuriya,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Mumbai Indians,3,1,ST Jayasuriya,P Kumar,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,ST Jayasuriya,P Kumar,DJ Thornely,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,ST Jayasuriya,P Kumar,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,ST Jayasuriya,P Kumar,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,DJ Thornely,P Kumar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6.wides,DJ Thornely,P Kumar,ST Jayasuriya,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,DJ Thornely,P Kumar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,ST Jayasuriya,Z Khan,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,ST Jayasuriya,Z Khan,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,DJ Thornely,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,DJ Thornely,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,True,retired hurt,DJ Thornely,,powerplay
+1,Mumbai Indians,4,5,RV Uthappa,Z Khan,ST Jayasuriya,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,RV Uthappa,Z Khan,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1.wides,ST Jayasuriya,JH Kallis,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,ST Jayasuriya,JH Kallis,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,ST Jayasuriya,JH Kallis,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,ST Jayasuriya,JH Kallis,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,ST Jayasuriya,JH Kallis,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,ST Jayasuriya,JH Kallis,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,ST Jayasuriya,JH Kallis,RV Uthappa,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,RV Uthappa,Z Khan,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,ST Jayasuriya,Z Khan,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,ST Jayasuriya,Z Khan,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,ST Jayasuriya,Z Khan,RV Uthappa,0,0,0,,0,0,0,0,0,True,run out,ST Jayasuriya,Z Khan,powerplay
+1,Mumbai Indians,6,5,RV Uthappa,Z Khan,PR Shah,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,PR Shah,Z Khan,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,RV Uthappa,R Vinay Kumar,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,PR Shah,R Vinay Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,PR Shah,R Vinay Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,RV Uthappa,R Vinay Kumar,PR Shah,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,RV Uthappa,R Vinay Kumar,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,PR Shah,R Vinay Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,RV Uthappa,B Akhil,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,RV Uthappa,B Akhil,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,PR Shah,B Akhil,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,RV Uthappa,B Akhil,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,PR Shah,B Akhil,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,RV Uthappa,B Akhil,PR Shah,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,PR Shah,JH Kallis,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,9,2,RV Uthappa,JH Kallis,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,PR Shah,JH Kallis,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,RV Uthappa,JH Kallis,PR Shah,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,RV Uthappa,JH Kallis,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,PR Shah,JH Kallis,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,RV Uthappa,R Vinay Kumar,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,RV Uthappa,R Vinay Kumar,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,PR Shah,R Vinay Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,PR Shah,R Vinay Kumar,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,10,5,RV Uthappa,R Vinay Kumar,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,RV Uthappa,R Vinay Kumar,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,PR Shah,SB Joshi,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,RV Uthappa,SB Joshi,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,PR Shah,SB Joshi,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,PR Shah,SB Joshi,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,RV Uthappa,SB Joshi,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,RV Uthappa,SB Joshi,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,PR Shah,R Vinay Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,PR Shah,R Vinay Kumar,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,PR Shah,R Vinay Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,RV Uthappa,R Vinay Kumar,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,RV Uthappa,R Vinay Kumar,PR Shah,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,RV Uthappa,R Vinay Kumar,PR Shah,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,PR Shah,SB Joshi,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,PR Shah,SB Joshi,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,RV Uthappa,SB Joshi,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,RV Uthappa,SB Joshi,PR Shah,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,RV Uthappa,SB Joshi,PR Shah,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,PR Shah,SB Joshi,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,PR Shah,B Akhil,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,PR Shah,B Akhil,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,PR Shah,B Akhil,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,PR Shah,V Kohli,middle
+1,Mumbai Indians,14,4,RV Uthappa,B Akhil,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,AM Nayar,B Akhil,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,AM Nayar,B Akhil,RV Uthappa,0,1,1,byes,0,0,1,0,0,False,,,,middle
+1,Mumbai Indians,15,1,AM Nayar,P Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,RV Uthappa,P Kumar,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,AM Nayar,P Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,RV Uthappa,P Kumar,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,RV Uthappa,P Kumar,AM Nayar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,RV Uthappa,P Kumar,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,RV Uthappa,JH Kallis,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,AM Nayar,JH Kallis,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,RV Uthappa,JH Kallis,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4.wides,AM Nayar,JH Kallis,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,AM Nayar,JH Kallis,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,RV Uthappa,JH Kallis,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,RV Uthappa,JH Kallis,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,AM Nayar,B Akhil,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,RV Uthappa,B Akhil,AM Nayar,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Mumbai Indians,17,3,AM Nayar,B Akhil,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,AM Nayar,B Akhil,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,RV Uthappa,B Akhil,AM Nayar,0,0,0,,0,0,0,0,0,True,stumped,RV Uthappa,MV Boucher,death
+1,Mumbai Indians,17,6,SM Pollock,B Akhil,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,AM Nayar,R Vinay Kumar,SM Pollock,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,AM Nayar,R Vinay Kumar,SM Pollock,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,AM Nayar,R Vinay Kumar,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,SM Pollock,R Vinay Kumar,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,SM Pollock,R Vinay Kumar,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,SM Pollock,R Vinay Kumar,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,SM Pollock,P Kumar,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,AM Nayar,P Kumar,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,SM Pollock,P Kumar,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,SM Pollock,P Kumar,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,AM Nayar,P Kumar,SM Pollock,0,0,0,,0,0,0,0,0,True,caught,AM Nayar,Z Khan,death
+1,Mumbai Indians,19,6,SM Pollock,P Kumar,Harbhajan Singh,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,Harbhajan Singh,Z Khan,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,SM Pollock,Z Khan,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,SM Pollock,Z Khan,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,SM Pollock,Z Khan,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,Harbhajan Singh,Z Khan,SM Pollock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,SM Pollock,Z Khan,Harbhajan Singh,0,0,0,,0,0,0,0,0,True,bowled,SM Pollock,,death
+2,Royal Challengers Bangalore,1,1,S Chanderpaul,A Nehra,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,S Chanderpaul,A Nehra,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,R Dravid,A Nehra,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,R Dravid,A Nehra,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,S Chanderpaul,A Nehra,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,S Chanderpaul,A Nehra,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,R Dravid,SM Pollock,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,R Dravid,SM Pollock,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,R Dravid,SM Pollock,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,R Dravid,SM Pollock,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,R Dravid,SM Pollock,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,R Dravid,SM Pollock,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,R Dravid,A Nehra,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,R Dravid,A Nehra,S Chanderpaul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,R Dravid,A Nehra,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,S Chanderpaul,A Nehra,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,R Dravid,A Nehra,S Chanderpaul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,R Dravid,A Nehra,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,R Dravid,SM Pollock,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,R Dravid,SM Pollock,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,3,S Chanderpaul,SM Pollock,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,4,R Dravid,SM Pollock,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,S Chanderpaul,SM Pollock,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,R Dravid,SM Pollock,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,R Dravid,DS Kulkarni,S Chanderpaul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,2,R Dravid,DS Kulkarni,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3,S Chanderpaul,DS Kulkarni,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,4,S Chanderpaul,DS Kulkarni,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,5.wides,S Chanderpaul,DS Kulkarni,R Dravid,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,5,S Chanderpaul,DS Kulkarni,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,6,S Chanderpaul,DS Kulkarni,R Dravid,0,0,0,,0,0,0,0,0,True,caught,S Chanderpaul,AM Nayar,powerplay
+2,Royal Challengers Bangalore,6,1,LRPL Taylor,SM Pollock,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,2,R Dravid,SM Pollock,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,3,R Dravid,SM Pollock,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,4,R Dravid,SM Pollock,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,5,LRPL Taylor,SM Pollock,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,6,R Dravid,SM Pollock,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,LRPL Taylor,DS Kulkarni,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,R Dravid,DS Kulkarni,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,R Dravid,DS Kulkarni,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,R Dravid,DS Kulkarni,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,5,R Dravid,DS Kulkarni,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,R Dravid,DS Kulkarni,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,R Dravid,ST Jayasuriya,LRPL Taylor,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,2,R Dravid,ST Jayasuriya,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,LRPL Taylor,ST Jayasuriya,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,4,R Dravid,ST Jayasuriya,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,LRPL Taylor,ST Jayasuriya,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,R Dravid,ST Jayasuriya,LRPL Taylor,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,LRPL Taylor,Harbhajan Singh,R Dravid,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,LRPL Taylor,Harbhajan Singh,R Dravid,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3.wides,LRPL Taylor,Harbhajan Singh,R Dravid,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,LRPL Taylor,Harbhajan Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,LRPL Taylor,Harbhajan Singh,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,R Dravid,Harbhajan Singh,LRPL Taylor,0,0,0,,0,0,0,0,0,True,caught and bowled,R Dravid,,middle
+2,Royal Challengers Bangalore,9,6,JH Kallis,Harbhajan Singh,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,1,JH Kallis,ST Jayasuriya,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,2,LRPL Taylor,ST Jayasuriya,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,3,LRPL Taylor,ST Jayasuriya,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,4,JH Kallis,ST Jayasuriya,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,5,JH Kallis,ST Jayasuriya,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,6,LRPL Taylor,ST Jayasuriya,JH Kallis,0,0,0,,0,0,0,0,0,True,caught,LRPL Taylor,AM Nayar,middle
+2,Royal Challengers Bangalore,11,1,V Kohli,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,2,JH Kallis,Harbhajan Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,3,V Kohli,Harbhajan Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,4,V Kohli,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,5,JH Kallis,Harbhajan Singh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,6,JH Kallis,Harbhajan Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,1,JH Kallis,ST Jayasuriya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,2,V Kohli,ST Jayasuriya,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,3,V Kohli,ST Jayasuriya,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,4,JH Kallis,ST Jayasuriya,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,5,V Kohli,ST Jayasuriya,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,6,V Kohli,ST Jayasuriya,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,1,V Kohli,AM Nayar,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,2,V Kohli,AM Nayar,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,3,V Kohli,AM Nayar,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,4,V Kohli,AM Nayar,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,5,V Kohli,AM Nayar,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,6,JH Kallis,AM Nayar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,1,JH Kallis,A Nehra,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,2.wides,V Kohli,A Nehra,JH Kallis,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,2,V Kohli,A Nehra,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,3,V Kohli,A Nehra,JH Kallis,0,0,0,,0,0,0,0,0,True,caught,V Kohli,L Ronchi,death
+2,Royal Challengers Bangalore,14,4,MV Boucher,A Nehra,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,5.wides,MV Boucher,A Nehra,JH Kallis,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,5,MV Boucher,A Nehra,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,6,MV Boucher,A Nehra,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,1,JH Kallis,Harbhajan Singh,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,2,MV Boucher,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,3,JH Kallis,Harbhajan Singh,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,4,MV Boucher,Harbhajan Singh,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,5,MV Boucher,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,6,JH Kallis,Harbhajan Singh,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,1,JH Kallis,SM Pollock,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,2,MV Boucher,SM Pollock,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,3,MV Boucher,SM Pollock,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,4,JH Kallis,SM Pollock,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,5,JH Kallis,SM Pollock,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,6,MV Boucher,SM Pollock,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,1,MV Boucher,ST Jayasuriya,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,2,MV Boucher,ST Jayasuriya,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,3,JH Kallis,ST Jayasuriya,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,4,MV Boucher,ST Jayasuriya,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,5,JH Kallis,ST Jayasuriya,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,6,MV Boucher,ST Jayasuriya,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,1,JH Kallis,A Nehra,MV Boucher,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,2,JH Kallis,A Nehra,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,3,MV Boucher,A Nehra,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,4,JH Kallis,A Nehra,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,5,MV Boucher,A Nehra,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,6,MV Boucher,A Nehra,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,1,JH Kallis,Harbhajan Singh,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,2,MV Boucher,Harbhajan Singh,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,3,MV Boucher,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,4,JH Kallis,Harbhajan Singh,MV Boucher,0,0,0,,0,0,0,0,0,True,caught,JH Kallis,AM Nayar,death
+2,Royal Challengers Bangalore,19,5,B Akhil,Harbhajan Singh,MV Boucher,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,6,B Akhil,Harbhajan Singh,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,1,MV Boucher,DS Kulkarni,B Akhil,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,2.wides,B Akhil,DS Kulkarni,MV Boucher,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,2,B Akhil,DS Kulkarni,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,3,B Akhil,DS Kulkarni,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,4,B Akhil,DS Kulkarni,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death

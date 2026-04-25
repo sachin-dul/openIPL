@@ -1,0 +1,249 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Deccan Chargers,1,1,PA Patel,A Nehra,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2,PA Patel,A Nehra,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3,PA Patel,A Nehra,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,4,PA Patel,A Nehra,S Dhawan,0,3,3,legbyes,0,0,0,3,0,False,,,,powerplay
+1,Deccan Chargers,1,5,S Dhawan,A Nehra,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,6,S Dhawan,A Nehra,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,1,S Dhawan,AC Thomas,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,2,PA Patel,AC Thomas,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,3,S Dhawan,AC Thomas,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,4,S Dhawan,AC Thomas,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5,PA Patel,AC Thomas,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,6,PA Patel,AC Thomas,S Dhawan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Deccan Chargers,3,1,PA Patel,MN Samuels,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,2,S Dhawan,MN Samuels,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,3,S Dhawan,MN Samuels,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,4,PA Patel,MN Samuels,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,5,S Dhawan,MN Samuels,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,6,S Dhawan,MN Samuels,PA Patel,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,1,PA Patel,B Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,2,S Dhawan,B Kumar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,3,PA Patel,B Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,4,S Dhawan,B Kumar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,5,PA Patel,B Kumar,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6,PA Patel,B Kumar,S Dhawan,0,0,0,,0,0,0,0,0,True,run out,S Dhawan,"MK Pandey, RV Uthappa",powerplay
+1,Deccan Chargers,5,1,PA Patel,AC Thomas,CL White,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,2,PA Patel,AC Thomas,CL White,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Deccan Chargers,5,3,CL White,AC Thomas,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4,CL White,AC Thomas,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,5,CL White,AC Thomas,PA Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,6,CL White,AC Thomas,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,1,PA Patel,B Kumar,CL White,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,2,PA Patel,B Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,3,CL White,B Kumar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4,CL White,B Kumar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,5,CL White,B Kumar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,6,PA Patel,B Kumar,CL White,0,0,0,,0,0,0,0,0,True,caught,PA Patel,MK Pandey,powerplay
+1,Deccan Chargers,7,1,CL White,R Sharma,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,2,KC Sangakkara,R Sharma,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,3,KC Sangakkara,R Sharma,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,4,KC Sangakkara,R Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,5,CL White,R Sharma,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,6,KC Sangakkara,R Sharma,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1,CL White,A Nehra,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,2,KC Sangakkara,A Nehra,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,3,KC Sangakkara,A Nehra,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,4,CL White,A Nehra,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,5,KC Sangakkara,A Nehra,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,6,CL White,A Nehra,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,1,CL White,R Sharma,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,2,CL White,R Sharma,KC Sangakkara,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,3,CL White,R Sharma,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,4,CL White,R Sharma,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,5,CL White,R Sharma,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,6,CL White,R Sharma,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1.wides,KC Sangakkara,MN Samuels,CL White,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1,KC Sangakkara,MN Samuels,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,2,CL White,MN Samuels,KC Sangakkara,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,3,CL White,MN Samuels,KC Sangakkara,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,4,CL White,MN Samuels,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,5,KC Sangakkara,MN Samuels,CL White,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,6,KC Sangakkara,MN Samuels,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,1,CL White,B Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,2,KC Sangakkara,B Kumar,CL White,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,3,KC Sangakkara,B Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,4,CL White,B Kumar,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,5,KC Sangakkara,B Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,6,CL White,B Kumar,KC Sangakkara,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,1,KC Sangakkara,R Sharma,CL White,0,0,0,,0,0,0,0,0,True,bowled,KC Sangakkara,,middle
+1,Deccan Chargers,12,2,JP Duminy,R Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,3,CL White,R Sharma,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,4,CL White,R Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,5,JP Duminy,R Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,6,CL White,R Sharma,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,1,JP Duminy,A Nehra,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,2,JP Duminy,A Nehra,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,3,CL White,A Nehra,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,4,JP Duminy,A Nehra,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,5,CL White,A Nehra,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,6,JP Duminy,A Nehra,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,1,JP Duminy,MN Samuels,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,2,CL White,MN Samuels,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,3,JP Duminy,MN Samuels,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,4,CL White,MN Samuels,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,5,CL White,MN Samuels,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,6,CL White,MN Samuels,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,1,CL White,AC Thomas,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,2,JP Duminy,AC Thomas,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,3,JP Duminy,AC Thomas,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4,CL White,AC Thomas,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,5,CL White,AC Thomas,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,6,JP Duminy,AC Thomas,CL White,0,4,4,byes,0,0,4,0,0,False,,,,middle
+1,Deccan Chargers,16,1,CL White,R Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,2,JP Duminy,R Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,3,CL White,R Sharma,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,4,CL White,R Sharma,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,5,CL White,R Sharma,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6,CL White,R Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,1,CL White,B Kumar,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,2,JP Duminy,B Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,3,CL White,B Kumar,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,4,JP Duminy,B Kumar,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,5,CL White,B Kumar,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,6,CL White,B Kumar,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,1,JP Duminy,MN Samuels,CL White,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,2,JP Duminy,MN Samuels,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,3,CL White,MN Samuels,JP Duminy,0,0,0,,0,0,0,0,0,True,caught,CL White,AC Thomas,death
+1,Deccan Chargers,18,4,JP Duminy,MN Samuels,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5.wides,IR Jaggi,MN Samuels,JP Duminy,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5,IR Jaggi,MN Samuels,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,6,JP Duminy,MN Samuels,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1,JP Duminy,A Nehra,IR Jaggi,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,2,JP Duminy,A Nehra,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,3,IR Jaggi,A Nehra,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,4,IR Jaggi,A Nehra,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,5,JP Duminy,A Nehra,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,6,IR Jaggi,A Nehra,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,1,IR Jaggi,AC Thomas,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,2,JP Duminy,AC Thomas,IR Jaggi,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,3,JP Duminy,AC Thomas,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,4,IR Jaggi,AC Thomas,JP Duminy,3,0,3,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,5,JP Duminy,AC Thomas,IR Jaggi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,6,IR Jaggi,AC Thomas,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,1,1,MK Pandey,Ankit Sharma,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,2,MK Pandey,Ankit Sharma,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,3,JD Ryder,Ankit Sharma,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,4,MK Pandey,Ankit Sharma,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,5,MK Pandey,Ankit Sharma,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,6,MK Pandey,Ankit Sharma,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,1,MK Pandey,JP Duminy,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,2,JD Ryder,JP Duminy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,3,MK Pandey,JP Duminy,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,4,JD Ryder,JP Duminy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,5,MK Pandey,JP Duminy,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,6,MK Pandey,JP Duminy,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,1,JD Ryder,Ankit Sharma,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,2,JD Ryder,Ankit Sharma,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,3,JD Ryder,Ankit Sharma,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,JD Ryder,DJ Harris,powerplay
+2,Pune Warriors,3,4,SC Ganguly,Ankit Sharma,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,5,SC Ganguly,Ankit Sharma,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,6,SC Ganguly,Ankit Sharma,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,1,MK Pandey,JP Duminy,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,2,MK Pandey,JP Duminy,SC Ganguly,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,3,MK Pandey,JP Duminy,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,4.wides,MK Pandey,JP Duminy,SC Ganguly,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,4,MK Pandey,JP Duminy,SC Ganguly,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,5,MK Pandey,JP Duminy,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,6,SC Ganguly,JP Duminy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,1,SC Ganguly,MS Gony,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,2,MK Pandey,MS Gony,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,3,MK Pandey,MS Gony,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,4,MK Pandey,MS Gony,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,5.wides,MK Pandey,MS Gony,SC Ganguly,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,5,MK Pandey,MS Gony,SC Ganguly,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Pune Warriors,5,6,SC Ganguly,MS Gony,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,1,MK Pandey,J Theron,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,2,MK Pandey,J Theron,SC Ganguly,0,0,0,,0,0,0,0,0,True,bowled,MK Pandey,,powerplay
+2,Pune Warriors,6,3,RV Uthappa,J Theron,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,4,RV Uthappa,J Theron,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,5,RV Uthappa,J Theron,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,6,6,SC Ganguly,J Theron,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,7,1,RV Uthappa,A Mishra,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,2,RV Uthappa,A Mishra,SC Ganguly,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,3,RV Uthappa,A Mishra,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,4,SC Ganguly,A Mishra,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,5,SC Ganguly,A Mishra,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,6,RV Uthappa,A Mishra,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,1,RV Uthappa,JP Duminy,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,2,RV Uthappa,JP Duminy,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,3,SC Ganguly,JP Duminy,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,4,SC Ganguly,JP Duminy,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,5,SC Ganguly,JP Duminy,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,6,SC Ganguly,JP Duminy,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,1,RV Uthappa,A Mishra,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,2,SC Ganguly,A Mishra,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,3,SC Ganguly,A Mishra,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Pune Warriors,9,4,RV Uthappa,A Mishra,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,5,RV Uthappa,A Mishra,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,6.wides,SC Ganguly,A Mishra,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,6,SC Ganguly,A Mishra,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,1,SC Ganguly,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,2,SC Ganguly,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,3,SC Ganguly,MS Gony,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,4,RV Uthappa,MS Gony,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,10,5,SC Ganguly,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,SC Ganguly,DJ Harris,middle
+2,Pune Warriors,10,6,MN Samuels,MS Gony,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,1,RV Uthappa,A Mishra,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,2,RV Uthappa,A Mishra,MN Samuels,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,3,RV Uthappa,A Mishra,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,4,MN Samuels,A Mishra,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Pune Warriors,11,5,RV Uthappa,A Mishra,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,11,6,RV Uthappa,A Mishra,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,1,RV Uthappa,A Ashish Reddy,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,2,MN Samuels,A Ashish Reddy,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,3,RV Uthappa,A Ashish Reddy,MN Samuels,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,4,RV Uthappa,A Ashish Reddy,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,5,RV Uthappa,A Ashish Reddy,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,12,6,RV Uthappa,A Ashish Reddy,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,13,1,RV Uthappa,J Theron,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,13,2,RV Uthappa,J Theron,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,13,3,MN Samuels,J Theron,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,13,4,MN Samuels,J Theron,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,13,5,MN Samuels,J Theron,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,13,6,RV Uthappa,J Theron,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,14,1,RV Uthappa,A Ashish Reddy,MN Samuels,0,0,0,,0,0,0,0,0,True,bowled,RV Uthappa,,middle
+2,Pune Warriors,14,2,SPD Smith,A Ashish Reddy,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,14,3,MN Samuels,A Ashish Reddy,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,14,4,SPD Smith,A Ashish Reddy,MN Samuels,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,14,5,SPD Smith,A Ashish Reddy,MN Samuels,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,14,6,MN Samuels,A Ashish Reddy,SPD Smith,0,0,0,,0,0,0,0,0,True,caught,MN Samuels,KC Sangakkara,middle
+2,Pune Warriors,15,1,SPD Smith,MS Gony,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,15,2,M Manhas,MS Gony,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,15,3,M Manhas,MS Gony,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,15,4,SPD Smith,MS Gony,M Manhas,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,15,5,SPD Smith,MS Gony,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,15,6,M Manhas,MS Gony,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,16,1,M Manhas,A Ashish Reddy,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,2,SPD Smith,A Ashish Reddy,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,3,M Manhas,A Ashish Reddy,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,4,SPD Smith,A Ashish Reddy,M Manhas,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,5,SPD Smith,A Ashish Reddy,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,16,6,M Manhas,A Ashish Reddy,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,1.noballs,SPD Smith,J Theron,M Manhas,6,1,7,noballs,0,1,0,0,0,False,,,,death
+2,Pune Warriors,17,1,SPD Smith,J Theron,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,2,M Manhas,J Theron,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,3,SPD Smith,J Theron,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,4,M Manhas,J Theron,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,17,5.wides,SPD Smith,J Theron,M Manhas,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Pune Warriors,17,5,SPD Smith,J Theron,M Manhas,0,0,0,,0,0,0,0,0,True,caught,SPD Smith,JP Duminy,death
+2,Pune Warriors,17,6,M Manhas,J Theron,AC Thomas,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,1,AC Thomas,A Ashish Reddy,M Manhas,2,0,2,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,2,AC Thomas,A Ashish Reddy,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,3,M Manhas,A Ashish Reddy,AC Thomas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,4,AC Thomas,A Ashish Reddy,M Manhas,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,5,AC Thomas,A Ashish Reddy,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,18,6,M Manhas,A Ashish Reddy,AC Thomas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,19,1,M Manhas,J Theron,AC Thomas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,19,2,AC Thomas,J Theron,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,19,3,AC Thomas,J Theron,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,19,4.wides,M Manhas,J Theron,AC Thomas,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Pune Warriors,19,4,M Manhas,J Theron,AC Thomas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,19,5,AC Thomas,J Theron,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,19,6,M Manhas,J Theron,AC Thomas,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,20,1,AC Thomas,MS Gony,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,20,2,AC Thomas,MS Gony,M Manhas,0,0,0,,0,0,0,0,0,True,run out,AC Thomas,PA Patel,death
+2,Pune Warriors,20,3,B Kumar,MS Gony,M Manhas,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,20,4,B Kumar,MS Gony,M Manhas,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,20,5,B Kumar,MS Gony,M Manhas,2,0,2,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,20,6,B Kumar,MS Gony,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death

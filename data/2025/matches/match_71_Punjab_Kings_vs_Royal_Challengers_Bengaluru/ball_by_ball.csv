@@ -1,0 +1,148 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,Priyansh Arya,B Kumar,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,Priyansh Arya,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,Priyansh Arya,B Kumar,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,4,Priyansh Arya,B Kumar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,P Simran Singh,B Kumar,Priyansh Arya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,P Simran Singh,B Kumar,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1,P Simran Singh,Yash Dayal,Priyansh Arya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,Priyansh Arya,Yash Dayal,P Simran Singh,0,0,0,,0,0,0,0,0,True,caught,Priyansh Arya,KH Pandya,powerplay
+1,Punjab Kings,2,3,JP Inglis,Yash Dayal,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,P Simran Singh,Yash Dayal,JP Inglis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,P Simran Singh,Yash Dayal,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,P Simran Singh,Yash Dayal,JP Inglis,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,1,JP Inglis,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,JP Inglis,B Kumar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,P Simran Singh,B Kumar,JP Inglis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,4,P Simran Singh,B Kumar,JP Inglis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,5,P Simran Singh,B Kumar,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,6,P Simran Singh,B Kumar,JP Inglis,0,0,0,,0,0,0,0,0,True,caught,P Simran Singh,JM Sharma,powerplay
+1,Punjab Kings,4,1,JP Inglis,JR Hazlewood,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,SS Iyer,JR Hazlewood,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,SS Iyer,JR Hazlewood,JP Inglis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,SS Iyer,JR Hazlewood,JP Inglis,0,0,0,,0,0,0,0,0,True,caught,SS Iyer,JM Sharma,powerplay
+1,Punjab Kings,4,5,N Wadhera,JR Hazlewood,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,6,N Wadhera,JR Hazlewood,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1.noballs,N Wadhera,Yash Dayal,JP Inglis,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,N Wadhera,Yash Dayal,JP Inglis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,N Wadhera,Yash Dayal,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,N Wadhera,Yash Dayal,JP Inglis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,5,4,N Wadhera,Yash Dayal,JP Inglis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,5,5,JP Inglis,Yash Dayal,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,5,6,JP Inglis,Yash Dayal,N Wadhera,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,6,1,JP Inglis,JR Hazlewood,N Wadhera,0,0,0,,0,0,0,0,0,True,caught,JP Inglis,B Kumar,middle
+1,Punjab Kings,6,2,MP Stoinis,JR Hazlewood,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,6,3,MP Stoinis,JR Hazlewood,N Wadhera,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,6,4,MP Stoinis,JR Hazlewood,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,6,5,MP Stoinis,JR Hazlewood,N Wadhera,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,6,6,MP Stoinis,JR Hazlewood,N Wadhera,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,1,N Wadhera,Yash Dayal,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,N Wadhera,Yash Dayal,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,3,N Wadhera,Yash Dayal,MP Stoinis,0,0,0,,0,0,0,0,0,True,bowled,N Wadhera,,middle
+1,Punjab Kings,7,4,Shashank Singh,Yash Dayal,MP Stoinis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,Shashank Singh,Yash Dayal,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,Shashank Singh,Yash Dayal,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,MP Stoinis,JR Hazlewood,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,MP Stoinis,JR Hazlewood,Shashank Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,3,MP Stoinis,JR Hazlewood,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,Shashank Singh,JR Hazlewood,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,5,MP Stoinis,JR Hazlewood,Shashank Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,MP Stoinis,JR Hazlewood,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,1,MP Stoinis,Suyash Sharma,Shashank Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,Shashank Singh,Suyash Sharma,MP Stoinis,0,0,0,,0,0,0,0,0,True,bowled,Shashank Singh,,middle
+1,Punjab Kings,9,3,Musheer Khan,Suyash Sharma,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,Musheer Khan,Suyash Sharma,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,Musheer Khan,Suyash Sharma,MP Stoinis,0,0,0,,0,0,0,0,0,True,lbw,Musheer Khan,,middle
+1,Punjab Kings,9,6,Azmatullah Omarzai,Suyash Sharma,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,1,Azmatullah Omarzai,KH Pandya,MP Stoinis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,Azmatullah Omarzai,KH Pandya,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,10,3,MP Stoinis,KH Pandya,Azmatullah Omarzai,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,10,4,MP Stoinis,KH Pandya,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,10,5,MP Stoinis,KH Pandya,Azmatullah Omarzai,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,10,6,MP Stoinis,KH Pandya,Azmatullah Omarzai,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,11,1.wides,MP Stoinis,Suyash Sharma,Azmatullah Omarzai,0,5,5,wides,5,0,0,0,0,False,,,,death
+1,Punjab Kings,11,1,MP Stoinis,Suyash Sharma,Azmatullah Omarzai,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Punjab Kings,11,2,Azmatullah Omarzai,Suyash Sharma,MP Stoinis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,11,3,MP Stoinis,Suyash Sharma,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,True,bowled,MP Stoinis,,death
+1,Punjab Kings,11,4,Harpreet Brar,Suyash Sharma,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,11,5,Harpreet Brar,Suyash Sharma,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,11,6,Harpreet Brar,Suyash Sharma,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,12,1,Azmatullah Omarzai,Yash Dayal,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,12,2,Harpreet Brar,Yash Dayal,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,12,3,Harpreet Brar,Yash Dayal,Azmatullah Omarzai,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,12,4,Harpreet Brar,Yash Dayal,Azmatullah Omarzai,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,12,5,Azmatullah Omarzai,Yash Dayal,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,12,6,Harpreet Brar,Yash Dayal,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,1,Azmatullah Omarzai,Suyash Sharma,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,2,Harpreet Brar,Suyash Sharma,Azmatullah Omarzai,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,3,Azmatullah Omarzai,Suyash Sharma,Harpreet Brar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,4,Azmatullah Omarzai,Suyash Sharma,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,5,Harpreet Brar,Suyash Sharma,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,6,Harpreet Brar,Suyash Sharma,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,1,Azmatullah Omarzai,R Shepherd,Harpreet Brar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,2,Azmatullah Omarzai,R Shepherd,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,3,Harpreet Brar,R Shepherd,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,True,bowled,Harpreet Brar,,death
+1,Punjab Kings,14,4,KA Jamieson,R Shepherd,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,5,KA Jamieson,R Shepherd,Azmatullah Omarzai,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+1,Punjab Kings,14,6,KA Jamieson,R Shepherd,Azmatullah Omarzai,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,15,1,Azmatullah Omarzai,JR Hazlewood,KA Jamieson,0,0,0,,0,0,0,0,0,True,caught,Azmatullah Omarzai,JM Sharma,death
+2,Royal Challengers Bengaluru,1,1,PD Salt,Arshdeep Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,2,V Kohli,Arshdeep Singh,PD Salt,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,3,V Kohli,Arshdeep Singh,PD Salt,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,4,V Kohli,Arshdeep Singh,PD Salt,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,5,V Kohli,Arshdeep Singh,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,6,PD Salt,Arshdeep Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,1,PD Salt,KA Jamieson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,2,PD Salt,KA Jamieson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,3,V Kohli,KA Jamieson,PD Salt,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,4,V Kohli,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,5,V Kohli,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,6,V Kohli,KA Jamieson,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,1,V Kohli,Arshdeep Singh,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,2,PD Salt,Arshdeep Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,3,V Kohli,Arshdeep Singh,PD Salt,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,4,PD Salt,Arshdeep Singh,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,5,PD Salt,Arshdeep Singh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,6,PD Salt,Arshdeep Singh,V Kohli,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,1,V Kohli,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,4,2,V Kohli,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,True,caught,V Kohli,JP Inglis,middle
+2,Royal Challengers Bengaluru,4,3,MA Agarwal,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,4,4,MA Agarwal,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,4,5,MA Agarwal,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,4,6,MA Agarwal,KA Jamieson,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,5,1,PD Salt,Azmatullah Omarzai,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,5,2,PD Salt,Azmatullah Omarzai,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,5,3,PD Salt,Azmatullah Omarzai,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,5,4,PD Salt,Azmatullah Omarzai,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,5,5,PD Salt,Azmatullah Omarzai,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,5,6,PD Salt,Azmatullah Omarzai,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,1,MA Agarwal,KA Jamieson,PD Salt,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,2,MA Agarwal,KA Jamieson,PD Salt,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,3,PD Salt,KA Jamieson,MA Agarwal,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,4,PD Salt,KA Jamieson,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,5,PD Salt,KA Jamieson,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,6,PD Salt,KA Jamieson,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,1,MA Agarwal,Harpreet Brar,PD Salt,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,2,PD Salt,Harpreet Brar,MA Agarwal,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,3,PD Salt,Harpreet Brar,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,4,MA Agarwal,Harpreet Brar,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,7,5,PD Salt,Harpreet Brar,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,7,6,MA Agarwal,Harpreet Brar,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,8,1,MA Agarwal,Musheer Khan,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,8,2,PD Salt,Musheer Khan,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,8,3,MA Agarwal,Musheer Khan,PD Salt,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,8,4,MA Agarwal,Musheer Khan,PD Salt,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,8,5,MA Agarwal,Musheer Khan,PD Salt,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,SS Iyer,death
+2,Royal Challengers Bengaluru,8,6,RM Patidar,Musheer Khan,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,9,1,RM Patidar,Harpreet Brar,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,9,2,PD Salt,Harpreet Brar,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,9,3,RM Patidar,Harpreet Brar,PD Salt,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,9,4,RM Patidar,Harpreet Brar,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,9,5,PD Salt,Harpreet Brar,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,9,6,PD Salt,Harpreet Brar,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,10,1,RM Patidar,Musheer Khan,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,10,2,PD Salt,Musheer Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,10,3,RM Patidar,Musheer Khan,PD Salt,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,10,4,RM Patidar,Musheer Khan,PD Salt,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,10,5,PD Salt,Musheer Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,10,6,RM Patidar,Musheer Khan,PD Salt,6,0,6,,0,0,0,0,0,False,,,,death

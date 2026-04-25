@@ -1,0 +1,249 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,SM Curran,Sandeep Sharma,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,SM Curran,Sandeep Sharma,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,SM Curran,Sandeep Sharma,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,SM Curran,Sandeep Sharma,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,SM Curran,Sandeep Sharma,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,SM Curran,Sandeep Sharma,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1.wides,SM Curran,KK Ahmed,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,SM Curran,KK Ahmed,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,SM Curran,KK Ahmed,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,SM Curran,KK Ahmed,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,SM Curran,KK Ahmed,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,SM Curran,KK Ahmed,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,SM Curran,KK Ahmed,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,F du Plessis,Sandeep Sharma,SM Curran,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,JM Bairstow,powerplay
+1,Chennai Super Kings,3,2,SR Watson,Sandeep Sharma,SM Curran,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,SM Curran,Sandeep Sharma,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,SM Curran,Sandeep Sharma,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,SM Curran,Sandeep Sharma,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,SR Watson,Sandeep Sharma,SM Curran,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,SM Curran,KK Ahmed,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,SM Curran,KK Ahmed,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,SM Curran,KK Ahmed,SR Watson,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,SM Curran,KK Ahmed,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,SR Watson,KK Ahmed,SM Curran,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,SM Curran,KK Ahmed,SR Watson,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,SR Watson,Sandeep Sharma,SM Curran,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,SR Watson,Sandeep Sharma,SM Curran,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,SR Watson,Sandeep Sharma,SM Curran,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,SM Curran,Sandeep Sharma,SR Watson,0,0,0,,0,0,0,0,0,True,bowled,SM Curran,,powerplay
+1,Chennai Super Kings,5,5,AT Rayudu,Sandeep Sharma,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,AT Rayudu,Sandeep Sharma,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,SR Watson,S Nadeem,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,SR Watson,S Nadeem,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,SR Watson,S Nadeem,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,AT Rayudu,S Nadeem,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,AT Rayudu,S Nadeem,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,AT Rayudu,S Nadeem,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,SR Watson,T Natarajan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,SR Watson,T Natarajan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,AT Rayudu,T Natarajan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,SR Watson,T Natarajan,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,SR Watson,T Natarajan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,SR Watson,T Natarajan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,SR Watson,S Nadeem,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,SR Watson,S Nadeem,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,SR Watson,S Nadeem,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,AT Rayudu,Rashid Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,SR Watson,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,AT Rayudu,Rashid Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,SR Watson,Rashid Khan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,SR Watson,S Nadeem,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,SR Watson,S Nadeem,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,SR Watson,S Nadeem,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,SR Watson,S Nadeem,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,AT Rayudu,Rashid Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,SR Watson,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,AT Rayudu,Rashid Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,SR Watson,Rashid Khan,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,SR Watson,S Nadeem,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,SR Watson,S Nadeem,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,AT Rayudu,S Nadeem,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,SR Watson,S Nadeem,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,AT Rayudu,S Nadeem,SR Watson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,SR Watson,Rashid Khan,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,SR Watson,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,AT Rayudu,Rashid Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,SR Watson,Rashid Khan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,SR Watson,Rashid Khan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,AT Rayudu,T Natarajan,SR Watson,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,AT Rayudu,T Natarajan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,SR Watson,T Natarajan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,AT Rayudu,T Natarajan,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,AT Rayudu,T Natarajan,SR Watson,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,14,6,SR Watson,T Natarajan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,SR Watson,Rashid Khan,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,SR Watson,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,AT Rayudu,Rashid Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,AT Rayudu,Rashid Khan,SR Watson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,AT Rayudu,Rashid Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,AT Rayudu,KK Ahmed,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,AT Rayudu,KK Ahmed,SR Watson,0,0,0,,0,0,0,0,0,True,caught,AT Rayudu,DA Warner,death
+1,Chennai Super Kings,16,3,MS Dhoni,KK Ahmed,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,SR Watson,KK Ahmed,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,MS Dhoni,KK Ahmed,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,MS Dhoni,KK Ahmed,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,MS Dhoni,T Natarajan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,SR Watson,T Natarajan,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,SR Watson,MK Pandey,death
+1,Chennai Super Kings,17,3,RA Jadeja,T Natarajan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,MS Dhoni,T Natarajan,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,MS Dhoni,T Natarajan,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,T Natarajan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,RA Jadeja,Sandeep Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,MS Dhoni,Sandeep Sharma,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,RA Jadeja,Sandeep Sharma,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,RA Jadeja,Sandeep Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,MS Dhoni,Sandeep Sharma,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,MS Dhoni,Sandeep Sharma,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1.wides,RA Jadeja,T Natarajan,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,RA Jadeja,T Natarajan,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,RA Jadeja,T Natarajan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,MS Dhoni,T Natarajan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,RA Jadeja,T Natarajan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,MS Dhoni,T Natarajan,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,MS Dhoni,T Natarajan,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,KS Williamson,death
+1,Chennai Super Kings,20,1,DJ Bravo,KK Ahmed,RA Jadeja,0,0,0,,0,0,0,0,0,True,bowled,DJ Bravo,,death
+1,Chennai Super Kings,20,2,DL Chahar,KK Ahmed,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,DL Chahar,KK Ahmed,RA Jadeja,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Chennai Super Kings,20,4,RA Jadeja,KK Ahmed,DL Chahar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,RA Jadeja,KK Ahmed,DL Chahar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,RA Jadeja,KK Ahmed,DL Chahar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1,DA Warner,DL Chahar,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,DA Warner,DL Chahar,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,DA Warner,DL Chahar,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4.wides,JM Bairstow,DL Chahar,DA Warner,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,JM Bairstow,DL Chahar,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,JM Bairstow,DL Chahar,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,DA Warner,DL Chahar,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,DA Warner,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,DA Warner,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,DA Warner,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,DA Warner,SM Curran,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,JM Bairstow,SM Curran,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,JM Bairstow,SM Curran,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,JM Bairstow,DL Chahar,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,JM Bairstow,DL Chahar,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,DA Warner,DL Chahar,JM Bairstow,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4.wides,JM Bairstow,DL Chahar,DA Warner,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,JM Bairstow,DL Chahar,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,JM Bairstow,DL Chahar,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,DA Warner,DL Chahar,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,DA Warner,SM Curran,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,DA Warner,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,DA Warner,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,True,caught and bowled,DA Warner,,powerplay
+2,Sunrisers Hyderabad,4,4,MK Pandey,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,MK Pandey,SM Curran,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,MK Pandey,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,True,run out,MK Pandey,,powerplay
+2,Sunrisers Hyderabad,5,1,KS Williamson,DL Chahar,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,KS Williamson,DL Chahar,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,JM Bairstow,DL Chahar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,JM Bairstow,DL Chahar,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,KS Williamson,DL Chahar,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,KS Williamson,DL Chahar,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,KS Williamson,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,KS Williamson,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,KS Williamson,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,KS Williamson,SM Curran,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,KS Williamson,SM Curran,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,6,KS Williamson,SM Curran,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,7,1,JM Bairstow,DL Chahar,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,KS Williamson,DL Chahar,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,KS Williamson,DL Chahar,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,JM Bairstow,DL Chahar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,JM Bairstow,DL Chahar,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,JM Bairstow,DL Chahar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,KS Williamson,RA Jadeja,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,KS Williamson,RA Jadeja,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,KS Williamson,RA Jadeja,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,JM Bairstow,RA Jadeja,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,JM Bairstow,RA Jadeja,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,JM Bairstow,RA Jadeja,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,JM Bairstow,SN Thakur,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,KS Williamson,SN Thakur,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,JM Bairstow,SN Thakur,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,KS Williamson,SN Thakur,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,KS Williamson,SN Thakur,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,JM Bairstow,SN Thakur,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,JM Bairstow,RA Jadeja,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,KS Williamson,RA Jadeja,JM Bairstow,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,JM Bairstow,RA Jadeja,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,JM Bairstow,RA Jadeja,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,JM Bairstow,RA Jadeja,KS Williamson,0,0,0,,0,0,0,0,0,True,bowled,JM Bairstow,,middle
+2,Sunrisers Hyderabad,10,6,PK Garg,RA Jadeja,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,PK Garg,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,KS Williamson,KV Sharma,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,PK Garg,KV Sharma,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,PK Garg,KV Sharma,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,PK Garg,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,KS Williamson,KV Sharma,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,KS Williamson,RA Jadeja,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,PK Garg,RA Jadeja,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,KS Williamson,RA Jadeja,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,PK Garg,RA Jadeja,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,KS Williamson,RA Jadeja,PK Garg,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,KS Williamson,RA Jadeja,PK Garg,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,PK Garg,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,KS Williamson,KV Sharma,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3.wides,PK Garg,KV Sharma,KS Williamson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3,PK Garg,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,KS Williamson,KV Sharma,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,PK Garg,KV Sharma,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,6,PK Garg,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,1,PK Garg,DJ Bravo,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,2,PK Garg,DJ Bravo,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,3,PK Garg,DJ Bravo,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,4,PK Garg,DJ Bravo,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,5,KS Williamson,DJ Bravo,PK Garg,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,6,KS Williamson,DJ Bravo,PK Garg,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,1,PK Garg,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,2,KS Williamson,KV Sharma,PK Garg,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3.wides,PK Garg,KV Sharma,KS Williamson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3.wides,PK Garg,KV Sharma,KS Williamson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3,PK Garg,KV Sharma,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,4,PK Garg,KV Sharma,KS Williamson,0,0,0,,0,0,0,0,0,True,caught,PK Garg,RA Jadeja,middle
+2,Sunrisers Hyderabad,15,5,V Shankar,KV Sharma,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,6,KS Williamson,KV Sharma,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,16,1,KS Williamson,PP Chawla,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,V Shankar,PP Chawla,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,V Shankar,PP Chawla,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,KS Williamson,PP Chawla,V Shankar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,KS Williamson,PP Chawla,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,V Shankar,PP Chawla,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,V Shankar,DJ Bravo,KS Williamson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,V Shankar,DJ Bravo,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,KS Williamson,DJ Bravo,V Shankar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,V Shankar,DJ Bravo,KS Williamson,0,0,0,,0,0,0,0,0,True,caught,V Shankar,RA Jadeja,death
+2,Sunrisers Hyderabad,17,5,KS Williamson,DJ Bravo,Rashid Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,KS Williamson,DJ Bravo,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,KS Williamson,KV Sharma,Rashid Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,KS Williamson,KV Sharma,Rashid Khan,0,0,0,,0,0,0,0,0,True,caught,KS Williamson,SN Thakur,death
+2,Sunrisers Hyderabad,18,3,Rashid Khan,KV Sharma,S Nadeem,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,Rashid Khan,KV Sharma,S Nadeem,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,Rashid Khan,KV Sharma,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,S Nadeem,KV Sharma,Rashid Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,Rashid Khan,SN Thakur,S Nadeem,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2.wides,Rashid Khan,SN Thakur,S Nadeem,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,Rashid Khan,SN Thakur,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,Rashid Khan,SN Thakur,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,S Nadeem,SN Thakur,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,Rashid Khan,SN Thakur,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,6,Rashid Khan,SN Thakur,S Nadeem,0,0,0,,0,0,0,0,0,True,hit wicket,Rashid Khan,,death
+2,Sunrisers Hyderabad,20,1,S Nadeem,DJ Bravo,Sandeep Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,2,S Nadeem,DJ Bravo,Sandeep Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,3,S Nadeem,DJ Bravo,Sandeep Sharma,0,0,0,,0,0,0,0,0,True,caught and bowled,S Nadeem,,death
+2,Sunrisers Hyderabad,20,4,Sandeep Sharma,DJ Bravo,T Natarajan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,5,Sandeep Sharma,DJ Bravo,T Natarajan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,6,T Natarajan,DJ Bravo,Sandeep Sharma,0,0,0,,0,0,0,0,0,False,,,,death

@@ -1,0 +1,253 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Rising Pune Supergiants,1,1,AM Rahane,P Kumar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,1,2,AM Rahane,P Kumar,SS Tiwary,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,1,3,AM Rahane,P Kumar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,1,4,AM Rahane,P Kumar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,1,5,AM Rahane,P Kumar,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,1,6,SS Tiwary,P Kumar,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,1,AM Rahane,DS Kulkarni,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,2.wides,AM Rahane,DS Kulkarni,SS Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,2,AM Rahane,DS Kulkarni,SS Tiwary,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,3,AM Rahane,DS Kulkarni,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,4,AM Rahane,DS Kulkarni,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,5,SS Tiwary,DS Kulkarni,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,2,6,AM Rahane,DS Kulkarni,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,3,1,AM Rahane,P Kumar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,3,2,AM Rahane,P Kumar,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,3,3,AM Rahane,P Kumar,SS Tiwary,0,0,0,,0,0,0,0,0,True,run out,SS Tiwary,SK Raina,powerplay
+1,Rising Pune Supergiants,3,4,SPD Smith,P Kumar,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,3,5,SPD Smith,P Kumar,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,3,6,SPD Smith,P Kumar,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,4,1,SPD Smith,DS Kulkarni,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,4,2,AM Rahane,DS Kulkarni,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,4,3,AM Rahane,DS Kulkarni,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,4,4,SPD Smith,DS Kulkarni,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,4,5,AM Rahane,DS Kulkarni,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,4,6,AM Rahane,DS Kulkarni,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,5,1,AM Rahane,P Kumar,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,5,2,SPD Smith,P Kumar,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,5,3,SPD Smith,P Kumar,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,5,4,SPD Smith,P Kumar,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,5,5,SPD Smith,P Kumar,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,5,6,AM Rahane,P Kumar,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,6,1,AM Rahane,DS Kulkarni,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,6,2,AM Rahane,DS Kulkarni,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,6,3,SPD Smith,DS Kulkarni,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,6,4,AM Rahane,DS Kulkarni,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,6,5,AM Rahane,DS Kulkarni,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,6,6,SPD Smith,DS Kulkarni,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiants,7,1,AM Rahane,RA Jadeja,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,7,2,SPD Smith,RA Jadeja,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,7,3,AM Rahane,RA Jadeja,SPD Smith,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+1,Rising Pune Supergiants,7,4,AM Rahane,RA Jadeja,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,7,5,SPD Smith,RA Jadeja,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,7,6,SPD Smith,RA Jadeja,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,8,1,AM Rahane,S Kaushik,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,8,2,AM Rahane,S Kaushik,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,8,3,SPD Smith,S Kaushik,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,8,4,SPD Smith,S Kaushik,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,8,5,SPD Smith,S Kaushik,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,8,6,SPD Smith,S Kaushik,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,9,1,SPD Smith,RA Jadeja,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,9,2,SPD Smith,RA Jadeja,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,9,3,AM Rahane,RA Jadeja,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,9,4,SPD Smith,RA Jadeja,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,9,5,AM Rahane,RA Jadeja,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,9,6,SPD Smith,RA Jadeja,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,1,SPD Smith,S Kaushik,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,2,SPD Smith,S Kaushik,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,3,AM Rahane,S Kaushik,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,4,AM Rahane,S Kaushik,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,5,AM Rahane,S Kaushik,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,6.noballs,SPD Smith,S Kaushik,AM Rahane,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,10,6,SPD Smith,S Kaushik,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,11,1,AM Rahane,JP Faulkner,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,11,2,AM Rahane,JP Faulkner,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,11,3,SPD Smith,JP Faulkner,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,11,4,AM Rahane,JP Faulkner,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,11,5,AM Rahane,JP Faulkner,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,11,6,SPD Smith,JP Faulkner,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,12,1,SPD Smith,DJ Bravo,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,12,2,AM Rahane,DJ Bravo,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,12,3,AM Rahane,DJ Bravo,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,12,4,AM Rahane,DJ Bravo,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,12,5,AM Rahane,DJ Bravo,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,12,6,SPD Smith,DJ Bravo,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,13,1,SPD Smith,JP Faulkner,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,13,2,AM Rahane,JP Faulkner,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,13,3,SPD Smith,JP Faulkner,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,13,4,SPD Smith,JP Faulkner,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,13,5,SPD Smith,JP Faulkner,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,13,6,AM Rahane,JP Faulkner,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,14,1,AM Rahane,DJ Bravo,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,14,2.wides,AM Rahane,DJ Bravo,SPD Smith,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,14,2,AM Rahane,DJ Bravo,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,14,3,SPD Smith,DJ Bravo,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,14,4,SPD Smith,DJ Bravo,AM Rahane,0,0,0,,0,0,0,0,0,True,run out,AM Rahane,DJ Bravo,middle
+1,Rising Pune Supergiants,14,5,SPD Smith,DJ Bravo,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,14,6,MS Dhoni,DJ Bravo,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,15,1,MS Dhoni,RA Jadeja,SPD Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,15,2,MS Dhoni,RA Jadeja,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,15,3,SPD Smith,RA Jadeja,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,15,4,SPD Smith,RA Jadeja,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,15,5,SPD Smith,RA Jadeja,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,15,6,SPD Smith,RA Jadeja,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiants,16,1,MS Dhoni,S Kaushik,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,16,2,MS Dhoni,S Kaushik,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,16,3,SPD Smith,S Kaushik,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,16,4,MS Dhoni,S Kaushik,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,16,5,SPD Smith,S Kaushik,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,16,6,SPD Smith,S Kaushik,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,1.wides,MS Dhoni,RA Jadeja,SPD Smith,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,1,MS Dhoni,RA Jadeja,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,2,SPD Smith,RA Jadeja,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,3,MS Dhoni,RA Jadeja,SPD Smith,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,4,MS Dhoni,RA Jadeja,SPD Smith,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,5.wides,MS Dhoni,RA Jadeja,SPD Smith,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,5,MS Dhoni,RA Jadeja,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,17,6,MS Dhoni,RA Jadeja,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,18,1,SPD Smith,DJ Bravo,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,18,2,MS Dhoni,DJ Bravo,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,18,3,SPD Smith,DJ Bravo,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,18,4,SPD Smith,DJ Bravo,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,18,5,MS Dhoni,DJ Bravo,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,18,6,MS Dhoni,DJ Bravo,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,19,1,SPD Smith,P Kumar,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,19,2,MS Dhoni,P Kumar,SPD Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,19,3,MS Dhoni,P Kumar,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,19,4,SPD Smith,P Kumar,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,19,5,SPD Smith,P Kumar,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,19,6,SPD Smith,P Kumar,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,20,1,MS Dhoni,DJ Bravo,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,20,2,SPD Smith,DJ Bravo,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,20,3,SPD Smith,DJ Bravo,MS Dhoni,0,0,0,,0,0,0,0,0,True,bowled,SPD Smith,,death
+1,Rising Pune Supergiants,20,4,NLTC Perera,DJ Bravo,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,20,5,NLTC Perera,DJ Bravo,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiants,20,6,MS Dhoni,DJ Bravo,NLTC Perera,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,1,1,DR Smith,JA Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,2,DR Smith,JA Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,3,DR Smith,JA Morkel,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,4,DR Smith,JA Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,5,DR Smith,JA Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,6,DR Smith,JA Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,1,BB McCullum,AB Dinda,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,2,BB McCullum,AB Dinda,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,3,DR Smith,AB Dinda,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,4,BB McCullum,AB Dinda,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,5,BB McCullum,AB Dinda,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,6,DR Smith,AB Dinda,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,1,BB McCullum,JA Morkel,DR Smith,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,2,BB McCullum,JA Morkel,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,3.wides,BB McCullum,JA Morkel,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,3,BB McCullum,JA Morkel,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,4.wides,BB McCullum,JA Morkel,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,4,BB McCullum,JA Morkel,DR Smith,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,5,BB McCullum,JA Morkel,DR Smith,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,6,BB McCullum,JA Morkel,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,1,DR Smith,AB Dinda,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,2,DR Smith,AB Dinda,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,3,DR Smith,AB Dinda,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,4.wides,DR Smith,AB Dinda,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,4,DR Smith,AB Dinda,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,5,DR Smith,AB Dinda,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,6,DR Smith,AB Dinda,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,1,BB McCullum,NLTC Perera,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,2,BB McCullum,NLTC Perera,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,3,BB McCullum,NLTC Perera,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,4,DR Smith,NLTC Perera,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,5,DR Smith,NLTC Perera,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,6,BB McCullum,NLTC Perera,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,1,DR Smith,R Ashwin,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,2,DR Smith,R Ashwin,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,3,DR Smith,R Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,4,DR Smith,R Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,5.wides,DR Smith,R Ashwin,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,5,DR Smith,R Ashwin,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,6,BB McCullum,R Ashwin,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,7,1,DR Smith,R Bhatia,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,2,DR Smith,R Bhatia,BB McCullum,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,3,BB McCullum,R Bhatia,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,4,BB McCullum,R Bhatia,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,5,DR Smith,R Bhatia,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,6,BB McCullum,R Bhatia,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,1,BB McCullum,M Ashwin,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,2,DR Smith,M Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,3,DR Smith,M Ashwin,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,4,BB McCullum,M Ashwin,DR Smith,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,5,BB McCullum,M Ashwin,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,6,DR Smith,M Ashwin,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,1,BB McCullum,R Bhatia,DR Smith,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,JA Morkel,middle
+2,Gujarat Lions,9,2,DR Smith,R Bhatia,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,3,DR Smith,R Bhatia,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,4,SK Raina,R Bhatia,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,5,SK Raina,R Bhatia,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,6,DR Smith,R Bhatia,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,1,DR Smith,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,2,SK Raina,R Ashwin,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,3,DR Smith,R Ashwin,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,4,DR Smith,R Ashwin,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,5,DR Smith,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,6,SK Raina,R Ashwin,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,1,SK Raina,NLTC Perera,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,2,DR Smith,NLTC Perera,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,3,DR Smith,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,4,SK Raina,NLTC Perera,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,5,DR Smith,NLTC Perera,SK Raina,0,0,0,,0,0,0,0,0,True,bowled,DR Smith,,middle
+2,Gujarat Lions,11,6,KD Karthik,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,1,KD Karthik,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,2,SK Raina,R Ashwin,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,3,SK Raina,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,4,KD Karthik,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,5,SK Raina,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,6,KD Karthik,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,1,KD Karthik,R Bhatia,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,2,SK Raina,R Bhatia,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,3,KD Karthik,R Bhatia,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,4,SK Raina,R Bhatia,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,5,KD Karthik,R Bhatia,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,13,6,KD Karthik,R Bhatia,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,1,KD Karthik,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,2,SK Raina,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,3,KD Karthik,R Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,4,SK Raina,R Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,5,KD Karthik,R Ashwin,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,14,6,KD Karthik,R Ashwin,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,1,SK Raina,M Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,2,KD Karthik,M Ashwin,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,3,KD Karthik,M Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,4,SK Raina,M Ashwin,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,5,KD Karthik,M Ashwin,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,15,6,KD Karthik,M Ashwin,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,16,1,SK Raina,NLTC Perera,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,2,SK Raina,NLTC Perera,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,3,KD Karthik,NLTC Perera,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,4,KD Karthik,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,5,SK Raina,NLTC Perera,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,6,SK Raina,NLTC Perera,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,1.wides,KD Karthik,AB Dinda,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,1,KD Karthik,AB Dinda,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,2,KD Karthik,AB Dinda,SK Raina,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,AM Rahane,death
+2,Gujarat Lions,17,3,SK Raina,AB Dinda,DJ Bravo,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,4,SK Raina,AB Dinda,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,5.wides,DJ Bravo,AB Dinda,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,5,DJ Bravo,AB Dinda,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,6,DJ Bravo,AB Dinda,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,1,SK Raina,M Ashwin,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,2,SK Raina,M Ashwin,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,3,SK Raina,M Ashwin,DJ Bravo,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,4,SK Raina,M Ashwin,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,5,DJ Bravo,M Ashwin,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,6,DJ Bravo,M Ashwin,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,1,DJ Bravo,AB Dinda,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,2,DJ Bravo,AB Dinda,SK Raina,0,0,0,,0,0,0,0,0,True,caught,DJ Bravo,MS Dhoni,death
+2,Gujarat Lions,19,3,RA Jadeja,AB Dinda,SK Raina,0,0,0,,0,0,0,0,0,True,run out,RA Jadeja,MS Dhoni,death
+2,Gujarat Lions,19,4,JP Faulkner,AB Dinda,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,5,SK Raina,AB Dinda,JP Faulkner,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,19,6,SK Raina,AB Dinda,JP Faulkner,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,1,JP Faulkner,NLTC Perera,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,2.wides,JP Faulkner,NLTC Perera,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,2,JP Faulkner,NLTC Perera,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,3,SK Raina,NLTC Perera,JP Faulkner,0,0,0,,0,0,0,0,0,True,bowled,SK Raina,,death
+2,Gujarat Lions,20,4,Ishan Kishan,NLTC Perera,JP Faulkner,0,0,0,,0,0,0,0,0,True,run out,Ishan Kishan,SS Tiwary,death
+2,Gujarat Lions,20,5,JP Faulkner,NLTC Perera,P Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,20,6,JP Faulkner,NLTC Perera,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death

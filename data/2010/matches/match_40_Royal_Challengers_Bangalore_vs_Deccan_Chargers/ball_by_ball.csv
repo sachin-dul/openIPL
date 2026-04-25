@@ -1,0 +1,252 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,MK Pandey,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2.wides,MK Pandey,RJ Harris,JH Kallis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,MK Pandey,RJ Harris,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3.wides,JH Kallis,RJ Harris,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,JH Kallis,RJ Harris,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,JH Kallis,RJ Harris,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,JH Kallis,RJ Harris,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,MK Pandey,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1.wides,JH Kallis,Harmeet Singh,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,JH Kallis,Harmeet Singh,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,JH Kallis,Harmeet Singh,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,JH Kallis,Harmeet Singh,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,JH Kallis,Harmeet Singh,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,JH Kallis,Harmeet Singh,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6.wides,MK Pandey,Harmeet Singh,JH Kallis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,MK Pandey,Harmeet Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,JH Kallis,RJ Harris,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,MK Pandey,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,MK Pandey,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,True,bowled,MK Pandey,,powerplay
+1,Royal Challengers Bangalore,3,4,R Dravid,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,R Dravid,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,R Dravid,RJ Harris,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,JH Kallis,RP Singh,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,R Dravid,RP Singh,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,R Dravid,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4.wides,R Dravid,RP Singh,JH Kallis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,R Dravid,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,R Dravid,RP Singh,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,R Dravid,RP Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,R Dravid,MR Marsh,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,R Dravid,MR Marsh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,R Dravid,MR Marsh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4.wides,JH Kallis,MR Marsh,R Dravid,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,JH Kallis,MR Marsh,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,JH Kallis,MR Marsh,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,JH Kallis,MR Marsh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,R Dravid,RP Singh,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,R Dravid,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,R Dravid,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,R Dravid,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,R Dravid,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,R Dravid,RP Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,R Dravid,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,JH Kallis,PP Ojha,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,JH Kallis,PP Ojha,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,R Dravid,PP Ojha,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,R Dravid,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,JH Kallis,PP Ojha,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,JH Kallis,A Symonds,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,R Dravid,A Symonds,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,JH Kallis,A Symonds,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,R Dravid,A Symonds,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,R Dravid,A Symonds,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,JH Kallis,A Symonds,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,R Dravid,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,JH Kallis,PP Ojha,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,JH Kallis,PP Ojha,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,R Dravid,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,True,caught,R Dravid,RG Sharma,middle
+1,Royal Challengers Bangalore,9,5,RV Uthappa,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,RV Uthappa,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,RV Uthappa,A Symonds,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,JH Kallis,A Symonds,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,RV Uthappa,A Symonds,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,RV Uthappa,A Symonds,JH Kallis,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,AC Gilchrist,middle
+1,Royal Challengers Bangalore,10,5,LRPL Taylor,A Symonds,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,JH Kallis,A Symonds,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,LRPL Taylor,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,True,lbw,LRPL Taylor,,middle
+1,Royal Challengers Bangalore,11,2,V Kohli,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,V Kohli,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,V Kohli,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,V Kohli,PP Ojha,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,V Kohli,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,V Kohli,MR Marsh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,JH Kallis,MR Marsh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,JH Kallis,MR Marsh,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,JH Kallis,MR Marsh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,V Kohli,MR Marsh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,V Kohli,MR Marsh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,JH Kallis,PP Ojha,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,JH Kallis,PP Ojha,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,JH Kallis,PP Ojha,V Kohli,5,0,5,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,V Kohli,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,JH Kallis,PP Ojha,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,V Kohli,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,V Kohli,MR Marsh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,V Kohli,MR Marsh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3.wides,JH Kallis,MR Marsh,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,JH Kallis,MR Marsh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4.wides,JH Kallis,MR Marsh,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,JH Kallis,MR Marsh,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,JH Kallis,MR Marsh,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,V Kohli,MR Marsh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,V Kohli,RJ Harris,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,JH Kallis,RJ Harris,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,JH Kallis,RJ Harris,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,JH Kallis,RJ Harris,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5.wides,V Kohli,RJ Harris,JH Kallis,0,5,5,wides,5,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,V Kohli,RJ Harris,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,JH Kallis,RJ Harris,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,JH Kallis,RP Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,V Kohli,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,V Kohli,RP Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,JH Kallis,RP Singh,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,JH Kallis,RP Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,V Kohli,RP Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,V Kohli,A Symonds,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,V Kohli,A Symonds,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3.wides,V Kohli,A Symonds,JH Kallis,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,V Kohli,A Symonds,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,V Kohli,A Symonds,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,V Kohli,A Symonds,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,V Kohli,A Symonds,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,JH Kallis,RP Singh,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,JH Kallis,RP Singh,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,JH Kallis,RP Singh,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,V Kohli,RP Singh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,V Kohli,RP Singh,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,V Kohli,RP Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,V Kohli,MR Marsh,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,V Kohli,MR Marsh,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,V Kohli,MR Marsh,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,V Kohli,MR Marsh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,JH Kallis,MR Marsh,V Kohli,0,0,0,,0,0,0,0,0,True,caught,JH Kallis,RJ Harris,death
+1,Royal Challengers Bangalore,19,6,V Kohli,MR Marsh,CL White,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,CL White,RJ Harris,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,V Kohli,RJ Harris,CL White,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,V Kohli,RJ Harris,CL White,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,V Kohli,RJ Harris,CL White,0,0,0,,0,0,0,0,0,True,caught,V Kohli,A Symonds,death
+1,Royal Challengers Bangalore,20,5,CL White,RJ Harris,P Kumar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,CL White,RJ Harris,P Kumar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,1,1,AC Gilchrist,P Kumar,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,MD Mishra,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,3,MD Mishra,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,MD Mishra,P Kumar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,MD Mishra,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,MD Mishra,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1,AC Gilchrist,A Kumble,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,MD Mishra,A Kumble,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,3,MD Mishra,A Kumble,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,MD Mishra,A Kumble,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,MD Mishra,A Kumble,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,6,MD Mishra,A Kumble,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,MD Mishra,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,True,caught,MD Mishra,RV Uthappa,powerplay
+2,Deccan Chargers,3,2,TL Suman,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,TL Suman,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,4,TL Suman,P Kumar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,5,TL Suman,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,TL Suman,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,AC Gilchrist,DW Steyn,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,AC Gilchrist,DW Steyn,TL Suman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,3,AC Gilchrist,DW Steyn,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,TL Suman,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,TL Suman,DW Steyn,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6.wides,AC Gilchrist,DW Steyn,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,AC Gilchrist,DW Steyn,TL Suman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,TL Suman,P Kumar,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,AC Gilchrist,P Kumar,TL Suman,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Deccan Chargers,5,3,TL Suman,P Kumar,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,4,AC Gilchrist,P Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,TL Suman,P Kumar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,6,TL Suman,P Kumar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,AC Gilchrist,JH Kallis,TL Suman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2,TL Suman,JH Kallis,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,3,TL Suman,JH Kallis,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,4,TL Suman,JH Kallis,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,5,TL Suman,JH Kallis,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,6,AC Gilchrist,JH Kallis,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,1,TL Suman,R Vinay Kumar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2,TL Suman,R Vinay Kumar,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,TL Suman,R Vinay Kumar,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,TL Suman,R Vinay Kumar,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,AC Gilchrist,R Vinay Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,TL Suman,R Vinay Kumar,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,TL Suman,JH Kallis,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,2,TL Suman,JH Kallis,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,AC Gilchrist,JH Kallis,TL Suman,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,AC Gilchrist,JH Kallis,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,AC Gilchrist,JH Kallis,TL Suman,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,6,AC Gilchrist,JH Kallis,TL Suman,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,1,TL Suman,A Kumble,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,TL Suman,A Kumble,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3.wides,TL Suman,A Kumble,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3,TL Suman,A Kumble,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,4,TL Suman,A Kumble,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,TL Suman,A Kumble,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,TL Suman,A Kumble,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,1,TL Suman,DW Steyn,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,2,AC Gilchrist,DW Steyn,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3.wides,TL Suman,DW Steyn,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,TL Suman,DW Steyn,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4.wides,AC Gilchrist,DW Steyn,TL Suman,0,2,2,wides,2,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,TL Suman,DW Steyn,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,TL Suman,DW Steyn,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,6,TL Suman,DW Steyn,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,1,AC Gilchrist,A Kumble,TL Suman,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,AC Gilchrist,A Kumble,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,TL Suman,A Kumble,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,AC Gilchrist,A Kumble,TL Suman,0,0,0,,0,0,0,0,0,True,stumped,AC Gilchrist,RV Uthappa,middle
+2,Deccan Chargers,11,5,RG Sharma,A Kumble,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,RG Sharma,A Kumble,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,RG Sharma,R Vinay Kumar,TL Suman,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,RG Sharma,R Vinay Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,TL Suman,R Vinay Kumar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,RG Sharma,R Vinay Kumar,TL Suman,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,DW Steyn,middle
+2,Deccan Chargers,12,5,A Symonds,R Vinay Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,6,TL Suman,R Vinay Kumar,A Symonds,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Deccan Chargers,13,1,TL Suman,JH Kallis,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,2,A Symonds,JH Kallis,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,3,TL Suman,JH Kallis,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,4,A Symonds,JH Kallis,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,5,TL Suman,JH Kallis,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,6,TL Suman,JH Kallis,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,1,TL Suman,DW Steyn,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,2,TL Suman,DW Steyn,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,3,A Symonds,DW Steyn,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,4,A Symonds,DW Steyn,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,5,A Symonds,DW Steyn,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,6,A Symonds,DW Steyn,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,1,A Symonds,A Kumble,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,2,A Symonds,A Kumble,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,3,TL Suman,A Kumble,A Symonds,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,4,TL Suman,A Kumble,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,5,TL Suman,A Kumble,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,6,A Symonds,A Kumble,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,1,A Symonds,R Vinay Kumar,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,A Symonds,R Vinay Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,TL Suman,R Vinay Kumar,A Symonds,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,4,TL Suman,R Vinay Kumar,A Symonds,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,TL Suman,R Vinay Kumar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,A Symonds,R Vinay Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,1,A Symonds,P Kumar,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,A Symonds,P Kumar,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3.wides,A Symonds,P Kumar,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3,A Symonds,P Kumar,TL Suman,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,A Symonds,P Kumar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,5,TL Suman,P Kumar,A Symonds,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,TL Suman,P Kumar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,1,TL Suman,DW Steyn,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,2,A Symonds,DW Steyn,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,TL Suman,DW Steyn,A Symonds,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,4,TL Suman,DW Steyn,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,5,A Symonds,DW Steyn,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,6,TL Suman,DW Steyn,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,1,TL Suman,JH Kallis,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,2,TL Suman,JH Kallis,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,3,A Symonds,JH Kallis,TL Suman,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,4,A Symonds,JH Kallis,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,5,TL Suman,JH Kallis,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,6,A Symonds,JH Kallis,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,1,A Symonds,R Vinay Kumar,TL Suman,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,2,A Symonds,R Vinay Kumar,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death

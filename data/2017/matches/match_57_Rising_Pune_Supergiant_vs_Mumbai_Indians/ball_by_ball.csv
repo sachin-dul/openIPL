@@ -1,0 +1,253 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Rising Pune Supergiant,1,1,AM Rahane,MJ McClenaghan,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,1,2,AM Rahane,MJ McClenaghan,RA Tripathi,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,1,3,AM Rahane,MJ McClenaghan,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,1,4,RA Tripathi,MJ McClenaghan,AM Rahane,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Rising Pune Supergiant,1,5.wides,AM Rahane,MJ McClenaghan,RA Tripathi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,1,5,AM Rahane,MJ McClenaghan,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,1,6,RA Tripathi,MJ McClenaghan,AM Rahane,0,0,0,,0,0,0,0,0,True,bowled,RA Tripathi,,powerplay
+1,Rising Pune Supergiant,2,1,AM Rahane,SL Malinga,SPD Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,2,2,AM Rahane,SL Malinga,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,2,3,SPD Smith,SL Malinga,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,2,4,AM Rahane,SL Malinga,SPD Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,2,5,SPD Smith,SL Malinga,AM Rahane,0,0,0,,0,0,0,0,0,True,caught,SPD Smith,HH Pandya,powerplay
+1,Rising Pune Supergiant,2,6,MK Tiwary,SL Malinga,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,3,1,AM Rahane,MJ McClenaghan,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,3,2,AM Rahane,MJ McClenaghan,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,3,3,AM Rahane,MJ McClenaghan,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,3,4,AM Rahane,MJ McClenaghan,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,3,5,AM Rahane,MJ McClenaghan,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,3,6,AM Rahane,MJ McClenaghan,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,4,1,MK Tiwary,JJ Bumrah,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,4,2,AM Rahane,JJ Bumrah,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,4,3,MK Tiwary,JJ Bumrah,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,4,4,MK Tiwary,JJ Bumrah,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,4,5,AM Rahane,JJ Bumrah,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,4,6,MK Tiwary,JJ Bumrah,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,5,1,MK Tiwary,KV Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,5,2,MK Tiwary,KV Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,5,3,MK Tiwary,KV Sharma,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,5,4,AM Rahane,KV Sharma,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,5,5,AM Rahane,KV Sharma,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,5,6,MK Tiwary,KV Sharma,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,6,1,MK Tiwary,SL Malinga,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,6,2,MK Tiwary,SL Malinga,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,6,3,AM Rahane,SL Malinga,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,6,4,AM Rahane,SL Malinga,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,6,5,AM Rahane,SL Malinga,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,6,6,AM Rahane,SL Malinga,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rising Pune Supergiant,7,1,AM Rahane,KV Sharma,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,7,2,MK Tiwary,KV Sharma,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,7,3,MK Tiwary,KV Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,7,4,MK Tiwary,KV Sharma,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,7,5,AM Rahane,KV Sharma,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,7,6,MK Tiwary,KV Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,8,1,AM Rahane,KH Pandya,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,8,2,AM Rahane,KH Pandya,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,8,3,AM Rahane,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,8,4,MK Tiwary,KH Pandya,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,8,5,MK Tiwary,KH Pandya,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,8,6,MK Tiwary,KH Pandya,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,9,1,AM Rahane,HH Pandya,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,9,2,AM Rahane,HH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,9,3,MK Tiwary,HH Pandya,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,9,4,AM Rahane,HH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,9,5,MK Tiwary,HH Pandya,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,9,6,MK Tiwary,HH Pandya,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,10,1,AM Rahane,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,10,2,MK Tiwary,KH Pandya,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,10,3,MK Tiwary,KH Pandya,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,10,4,AM Rahane,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,10,5,MK Tiwary,KH Pandya,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,10,6,AM Rahane,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,11,1,AM Rahane,SL Malinga,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,11,2,AM Rahane,SL Malinga,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,11,3,AM Rahane,SL Malinga,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,11,4,MK Tiwary,SL Malinga,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,11,5,MK Tiwary,SL Malinga,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,11,6,AM Rahane,SL Malinga,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,12,1,AM Rahane,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,12,2,MK Tiwary,KH Pandya,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,12,3,MK Tiwary,KH Pandya,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,12,4,MK Tiwary,KH Pandya,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,12,5,AM Rahane,KH Pandya,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,12,6,AM Rahane,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,13,1,AM Rahane,KV Sharma,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,13,2,AM Rahane,KV Sharma,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,13,3,AM Rahane,KV Sharma,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,13,4,AM Rahane,KV Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,True,lbw,AM Rahane,,middle
+1,Rising Pune Supergiant,13,5,MS Dhoni,KV Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,13,6,MS Dhoni,KV Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,14,1,MK Tiwary,JJ Bumrah,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,14,2,MS Dhoni,JJ Bumrah,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,14,3,MK Tiwary,JJ Bumrah,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,14,4,MS Dhoni,JJ Bumrah,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,14,5,MK Tiwary,JJ Bumrah,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,14,6,MK Tiwary,JJ Bumrah,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,15,1,MK Tiwary,KV Sharma,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,15,2,MK Tiwary,KV Sharma,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,15,3,MS Dhoni,KV Sharma,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,15,4,MS Dhoni,KV Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,15,5,MS Dhoni,KV Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,15,6,MS Dhoni,KV Sharma,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rising Pune Supergiant,16,1,MS Dhoni,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,16,2,MK Tiwary,KH Pandya,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,16,3,MK Tiwary,KH Pandya,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,16,4,MS Dhoni,KH Pandya,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,16,5,MS Dhoni,KH Pandya,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,16,6,MK Tiwary,KH Pandya,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,1.wides,MS Dhoni,MJ McClenaghan,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,1,MS Dhoni,MJ McClenaghan,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,2,MS Dhoni,MJ McClenaghan,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,3,MK Tiwary,MJ McClenaghan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,4,MS Dhoni,MJ McClenaghan,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,5,MK Tiwary,MJ McClenaghan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,17,6,MK Tiwary,MJ McClenaghan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,18,1,MK Tiwary,JJ Bumrah,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,18,2,MK Tiwary,JJ Bumrah,MS Dhoni,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Rising Pune Supergiant,18,3,MS Dhoni,JJ Bumrah,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,18,4,MS Dhoni,JJ Bumrah,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,18,5,MS Dhoni,JJ Bumrah,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,18,6,MK Tiwary,JJ Bumrah,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,1.noballs,MK Tiwary,MJ McClenaghan,MS Dhoni,4,1,5,noballs,0,1,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,1,MK Tiwary,MJ McClenaghan,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,2,MK Tiwary,MJ McClenaghan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,3,MS Dhoni,MJ McClenaghan,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,4,MS Dhoni,MJ McClenaghan,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,5.wides,MS Dhoni,MJ McClenaghan,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,5.wides,MS Dhoni,MJ McClenaghan,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,5,MS Dhoni,MJ McClenaghan,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,19,6,MS Dhoni,MJ McClenaghan,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,20,1,MK Tiwary,JJ Bumrah,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,20,2,MS Dhoni,JJ Bumrah,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,20,3,MS Dhoni,JJ Bumrah,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,20,4,MS Dhoni,JJ Bumrah,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,20,5,MS Dhoni,JJ Bumrah,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rising Pune Supergiant,20,6,MS Dhoni,JJ Bumrah,MK Tiwary,0,0,0,,0,0,0,0,0,True,run out,MK Tiwary,JJ Bumrah,death
+2,Mumbai Indians,1,1,LMP Simmons,JD Unadkat,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,LMP Simmons,JD Unadkat,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,LMP Simmons,JD Unadkat,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4,LMP Simmons,JD Unadkat,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,PA Patel,JD Unadkat,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,PA Patel,JD Unadkat,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,1,LMP Simmons,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,2,LMP Simmons,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,LMP Simmons,Washington Sundar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,PA Patel,Washington Sundar,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,PA Patel,Washington Sundar,LMP Simmons,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,6,PA Patel,Washington Sundar,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,PA Patel,JD Unadkat,LMP Simmons,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,PA Patel,JD Unadkat,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,LMP Simmons,JD Unadkat,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,4,PA Patel,JD Unadkat,LMP Simmons,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,5,PA Patel,JD Unadkat,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,LMP Simmons,JD Unadkat,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1.wides,LMP Simmons,LH Ferguson,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,LMP Simmons,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,2,LMP Simmons,LH Ferguson,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,PA Patel,LH Ferguson,LMP Simmons,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,4,PA Patel,LH Ferguson,LMP Simmons,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,5,LMP Simmons,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6.wides,LMP Simmons,LH Ferguson,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6,LMP Simmons,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,1,PA Patel,SN Thakur,LMP Simmons,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,2,PA Patel,SN Thakur,LMP Simmons,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,3,PA Patel,SN Thakur,LMP Simmons,0,0,0,,0,0,0,0,0,True,run out,LMP Simmons,SN Thakur,powerplay
+2,Mumbai Indians,5,4,PA Patel,SN Thakur,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,RG Sharma,SN Thakur,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,PA Patel,SN Thakur,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,RG Sharma,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,True,lbw,RG Sharma,,powerplay
+2,Mumbai Indians,6,2,AT Rayudu,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,AT Rayudu,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,4,AT Rayudu,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,True,caught,AT Rayudu,SPD Smith,powerplay
+2,Mumbai Indians,6,5,KA Pollard,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,6,KA Pollard,Washington Sundar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,7,1,KA Pollard,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,KA Pollard,LH Ferguson,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,PA Patel,LH Ferguson,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,KA Pollard,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,KA Pollard,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,KA Pollard,LH Ferguson,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,1,PA Patel,Washington Sundar,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,PA Patel,Washington Sundar,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,KA Pollard,Washington Sundar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,4,PA Patel,Washington Sundar,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,5,KA Pollard,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,KA Pollard,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,SPD Smith,middle
+2,Mumbai Indians,9,1,PA Patel,SN Thakur,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,HH Pandya,SN Thakur,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,PA Patel,SN Thakur,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,PA Patel,SN Thakur,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,5,PA Patel,SN Thakur,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,HH Pandya,SN Thakur,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,PA Patel,A Zampa,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,HH Pandya,A Zampa,PA Patel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,HH Pandya,A Zampa,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,4,HH Pandya,A Zampa,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,5,PA Patel,A Zampa,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6,HH Pandya,A Zampa,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,PA Patel,DT Christian,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,HH Pandya,DT Christian,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,HH Pandya,DT Christian,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,PA Patel,DT Christian,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,HH Pandya,DT Christian,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,6,PA Patel,DT Christian,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,HH Pandya,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,DT Christian,middle
+2,Mumbai Indians,12,2.wides,KH Pandya,LH Ferguson,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,KH Pandya,LH Ferguson,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,3,KH Pandya,LH Ferguson,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4.wides,PA Patel,LH Ferguson,KH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,PA Patel,LH Ferguson,KH Pandya,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Mumbai Indians,12,5,KH Pandya,LH Ferguson,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6.wides,PA Patel,LH Ferguson,KH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6,PA Patel,LH Ferguson,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1,KH Pandya,Washington Sundar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2,PA Patel,Washington Sundar,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,3,KH Pandya,Washington Sundar,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,4,KH Pandya,Washington Sundar,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,5,PA Patel,Washington Sundar,KH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,6,PA Patel,Washington Sundar,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,1,PA Patel,DT Christian,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,2,KH Pandya,DT Christian,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,3,PA Patel,DT Christian,KH Pandya,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Mumbai Indians,14,4,KH Pandya,DT Christian,PA Patel,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,5,KH Pandya,DT Christian,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,14,6,KH Pandya,DT Christian,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,1,PA Patel,SN Thakur,KH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,2,PA Patel,SN Thakur,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,3,KH Pandya,SN Thakur,PA Patel,0,0,0,,0,0,0,0,0,True,caught,KH Pandya,DT Christian,middle
+2,Mumbai Indians,15,4.wides,MJ McClenaghan,SN Thakur,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,4,MJ McClenaghan,SN Thakur,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,5,PA Patel,SN Thakur,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,15,6,PA Patel,SN Thakur,MJ McClenaghan,0,0,0,,0,0,0,0,0,True,caught,PA Patel,DT Christian,middle
+2,Mumbai Indians,16,1.wides,KV Sharma,DT Christian,MJ McClenaghan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,16,1,KV Sharma,DT Christian,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,MJ McClenaghan,DT Christian,KV Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,MJ McClenaghan,DT Christian,KV Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,4,KV Sharma,DT Christian,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,KV Sharma,DT Christian,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,KV Sharma,DT Christian,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,1,KV Sharma,JD Unadkat,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,MJ McClenaghan,JD Unadkat,KV Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,3,MJ McClenaghan,JD Unadkat,KV Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,KV Sharma,JD Unadkat,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,MJ McClenaghan,JD Unadkat,KV Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,6,KV Sharma,JD Unadkat,MJ McClenaghan,0,0,0,,0,0,0,0,0,True,caught,KV Sharma,MS Dhoni,death
+2,Mumbai Indians,18,1,JJ Bumrah,DT Christian,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,MJ McClenaghan,DT Christian,JJ Bumrah,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,JJ Bumrah,DT Christian,MJ McClenaghan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,JJ Bumrah,DT Christian,MJ McClenaghan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,JJ Bumrah,DT Christian,MJ McClenaghan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,JJ Bumrah,DT Christian,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,JJ Bumrah,JD Unadkat,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,2,MJ McClenaghan,JD Unadkat,JJ Bumrah,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,3,JJ Bumrah,JD Unadkat,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,JJ Bumrah,JD Unadkat,MJ McClenaghan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,5,JJ Bumrah,JD Unadkat,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,6,MJ McClenaghan,JD Unadkat,JJ Bumrah,6,0,6,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,1,JJ Bumrah,SN Thakur,MJ McClenaghan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,2,MJ McClenaghan,SN Thakur,JJ Bumrah,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,3,MJ McClenaghan,SN Thakur,JJ Bumrah,0,0,0,,0,0,0,0,0,True,caught,MJ McClenaghan,JD Unadkat,death
+2,Mumbai Indians,20,4,SL Malinga,SN Thakur,JJ Bumrah,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,5,JJ Bumrah,SN Thakur,SL Malinga,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,20,6,SL Malinga,SN Thakur,JJ Bumrah,6,0,6,,0,0,0,0,0,False,,,,death

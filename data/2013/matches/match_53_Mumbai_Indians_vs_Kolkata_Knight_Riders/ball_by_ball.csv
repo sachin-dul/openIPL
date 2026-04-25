@@ -1,0 +1,237 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,SR Tendulkar,R McLaren,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,DR Smith,R McLaren,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3.wides,DR Smith,R McLaren,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,DR Smith,R McLaren,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,DR Smith,R McLaren,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,DR Smith,R McLaren,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,DR Smith,R McLaren,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,DR Smith,L Balaji,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,SR Tendulkar,L Balaji,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,SR Tendulkar,L Balaji,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,SR Tendulkar,R McLaren,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,SR Tendulkar,R McLaren,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,SR Tendulkar,R McLaren,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,SR Tendulkar,R McLaren,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,SR Tendulkar,R McLaren,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,SR Tendulkar,R McLaren,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,DR Smith,L Balaji,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,SR Tendulkar,L Balaji,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,SR Tendulkar,L Balaji,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4.wides,SR Tendulkar,L Balaji,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,SR Tendulkar,L Balaji,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,DR Smith,L Balaji,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6.wides,DR Smith,L Balaji,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,DR Smith,L Balaji,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,DR Smith,SP Narine,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,DR Smith,SP Narine,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,DR Smith,SP Narine,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,DR Smith,SP Narine,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,DR Smith,SP Narine,SR Tendulkar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,DR Smith,SP Narine,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,DR Smith,JH Kallis,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,DR Smith,JH Kallis,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3.wides,DR Smith,JH Kallis,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,DR Smith,JH Kallis,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,DR Smith,JH Kallis,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,SR Tendulkar,JH Kallis,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,SR Tendulkar,JH Kallis,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,SR Tendulkar,Iqbal Abdulla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,DR Smith,Iqbal Abdulla,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,DR Smith,Iqbal Abdulla,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,SR Tendulkar,JH Kallis,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,DR Smith,JH Kallis,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,SR Tendulkar,JH Kallis,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,DR Smith,JH Kallis,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,DR Smith,JH Kallis,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,DR Smith,JH Kallis,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,DR Smith,Iqbal Abdulla,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,SR Tendulkar,Iqbal Abdulla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,DR Smith,Iqbal Abdulla,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,SR Tendulkar,JH Kallis,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,DR Smith,JH Kallis,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,SR Tendulkar,JH Kallis,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,DR Smith,JH Kallis,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,DR Smith,JH Kallis,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,SR Tendulkar,JH Kallis,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,DR Smith,Iqbal Abdulla,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,SR Tendulkar,Iqbal Abdulla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,DR Smith,Iqbal Abdulla,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,DR Smith,Iqbal Abdulla,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,SR Tendulkar,Iqbal Abdulla,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,SR Tendulkar,Iqbal Abdulla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,DR Smith,R Bhatia,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,SR Tendulkar,R Bhatia,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,SR Tendulkar,R Bhatia,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,SR Tendulkar,R Bhatia,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,DR Smith,R Bhatia,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,SR Tendulkar,R Bhatia,DR Smith,0,0,0,,0,0,0,0,0,True,bowled,SR Tendulkar,,middle
+1,Mumbai Indians,14,1,DR Smith,Iqbal Abdulla,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,DR Smith,Iqbal Abdulla,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,DR Smith,Iqbal Abdulla,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,DR Smith,R McLaren,middle
+1,Mumbai Indians,14,4,RG Sharma,Iqbal Abdulla,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,KD Karthik,Iqbal Abdulla,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,RG Sharma,Iqbal Abdulla,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,KD Karthik,SP Narine,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,KD Karthik,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,RG Sharma,SP Narine,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,KD Karthik,SP Narine,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,KD Karthik,SP Narine,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,KD Karthik,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,KD Karthik,R Bhatia,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,RG Sharma,R Bhatia,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,KD Karthik,R Bhatia,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,RG Sharma,R Bhatia,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,RG Sharma,R Bhatia,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,RG Sharma,R Bhatia,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,KD Karthik,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,KD Karthik,SP Narine,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,RG Sharma,SP Narine,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,RG Sharma,SP Narine,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,RG Sharma,SP Narine,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,KD Karthik,SP Narine,RG Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,RG Sharma,R McLaren,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,EJG Morgan,death
+1,Mumbai Indians,18,2,KA Pollard,R McLaren,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,KA Pollard,R McLaren,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,KA Pollard,R McLaren,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,KA Pollard,R McLaren,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,SP Narine,death
+1,Mumbai Indians,18,6,KD Karthik,R McLaren,AT Rayudu,1,0,1,,0,0,0,0,0,True,run out,AT Rayudu,"L Balaji, MS Bisla",death
+1,Mumbai Indians,19,1,KD Karthik,SP Narine,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2.wides,KD Karthik,SP Narine,Harbhajan Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,KD Karthik,SP Narine,Harbhajan Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,KD Karthik,SP Narine,Harbhajan Singh,0,0,0,,0,0,0,0,0,True,run out,Harbhajan Singh,YK Pathan,death
+1,Mumbai Indians,19,4,MG Johnson,SP Narine,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,MG Johnson,SP Narine,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,MG Johnson,SP Narine,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,MG Johnson,R McLaren,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,KD Karthik,R McLaren,MG Johnson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,KD Karthik,R McLaren,MG Johnson,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,KD Karthik,R McLaren,MG Johnson,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,20,5,MG Johnson,R McLaren,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6.wides,MG Johnson,R McLaren,KD Karthik,0,5,5,wides,5,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,MG Johnson,R McLaren,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,1,1,MS Bisla,MG Johnson,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,MS Bisla,MG Johnson,G Gambhir,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,G Gambhir,MG Johnson,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,G Gambhir,MG Johnson,MS Bisla,0,0,0,,0,0,0,0,0,True,bowled,G Gambhir,,powerplay
+2,Kolkata Knight Riders,1,5,JH Kallis,MG Johnson,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,MS Bisla,MG Johnson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,JH Kallis,AN Ahmed,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,JH Kallis,AN Ahmed,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,JH Kallis,AN Ahmed,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,JH Kallis,AN Ahmed,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,JH Kallis,AN Ahmed,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,JH Kallis,AN Ahmed,MS Bisla,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,MS Bisla,MG Johnson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,MS Bisla,MG Johnson,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,JH Kallis,MG Johnson,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,JH Kallis,MG Johnson,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,MS Bisla,MG Johnson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,MS Bisla,MG Johnson,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,JH Kallis,PP Ojha,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,JH Kallis,PP Ojha,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,MS Bisla,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,MS Bisla,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,JH Kallis,PP Ojha,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,MS Bisla,PP Ojha,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,JH Kallis,MG Johnson,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,JH Kallis,MG Johnson,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,JH Kallis,MG Johnson,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,MS Bisla,MG Johnson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,MS Bisla,MG Johnson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,MS Bisla,MG Johnson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,JH Kallis,SL Malinga,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,MS Bisla,SL Malinga,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,MS Bisla,SL Malinga,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,4,MS Bisla,SL Malinga,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5,MS Bisla,SL Malinga,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,MS Bisla,SL Malinga,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,MS Bisla,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,True,stumped,MS Bisla,KD Karthik,middle
+2,Kolkata Knight Riders,7,2,YK Pathan,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,JH Kallis,PP Ojha,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,JH Kallis,PP Ojha,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,YK Pathan,PP Ojha,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,YK Pathan,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,1,JH Kallis,AN Ahmed,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,JH Kallis,AN Ahmed,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,YK Pathan,AN Ahmed,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,YK Pathan,AN Ahmed,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,YK Pathan,AN Ahmed,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,JH Kallis,AN Ahmed,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,YK Pathan,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,JH Kallis,PP Ojha,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,YK Pathan,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,True,bowled,YK Pathan,,middle
+2,Kolkata Knight Riders,9,4,EJG Morgan,PP Ojha,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,EJG Morgan,PP Ojha,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,JH Kallis,PP Ojha,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,EJG Morgan,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,JH Kallis,Harbhajan Singh,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,EJG Morgan,Harbhajan Singh,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,JH Kallis,Harbhajan Singh,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,JH Kallis,Harbhajan Singh,EJG Morgan,0,0,0,,0,0,0,0,0,True,caught,JH Kallis,AN Ahmed,middle
+2,Kolkata Knight Riders,10,6,EJG Morgan,Harbhajan Singh,DB Das,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,DB Das,PP Ojha,EJG Morgan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,DB Das,PP Ojha,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,DB Das,PP Ojha,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,EJG Morgan,PP Ojha,DB Das,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,DB Das,PP Ojha,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,DB Das,PP Ojha,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,1,EJG Morgan,Harbhajan Singh,DB Das,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,DB Das,Harbhajan Singh,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,DB Das,Harbhajan Singh,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,EJG Morgan,Harbhajan Singh,DB Das,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,5,DB Das,Harbhajan Singh,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,6,DB Das,Harbhajan Singh,EJG Morgan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,1,EJG Morgan,AN Ahmed,DB Das,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,2,EJG Morgan,AN Ahmed,DB Das,0,0,0,,0,0,0,0,0,True,caught,EJG Morgan,RG Sharma,death
+2,Kolkata Knight Riders,13,3,R McLaren,AN Ahmed,DB Das,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,DB Das,AN Ahmed,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,DB Das,AN Ahmed,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,R McLaren,AN Ahmed,DB Das,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,DB Das,Harbhajan Singh,R McLaren,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,DB Das,Harbhajan Singh,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,DB Das,Harbhajan Singh,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4,DB Das,Harbhajan Singh,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5,DB Das,Harbhajan Singh,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,DB Das,Harbhajan Singh,R McLaren,0,0,0,,0,0,0,0,0,True,caught and bowled,DB Das,,death
+2,Kolkata Knight Riders,15,1,R McLaren,SL Malinga,R Bhatia,0,0,0,,0,0,0,0,0,True,run out,R McLaren,"RG Sharma, KD Karthik",death
+2,Kolkata Knight Riders,15,2,Iqbal Abdulla,SL Malinga,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,Iqbal Abdulla,SL Malinga,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,4,R Bhatia,SL Malinga,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,5,R Bhatia,SL Malinga,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,6,Iqbal Abdulla,SL Malinga,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,1,Iqbal Abdulla,Harbhajan Singh,R Bhatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,2,Iqbal Abdulla,Harbhajan Singh,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,3,R Bhatia,Harbhajan Singh,Iqbal Abdulla,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,R Bhatia,Harbhajan Singh,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,Iqbal Abdulla,Harbhajan Singh,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,6,R Bhatia,Harbhajan Singh,Iqbal Abdulla,0,0,0,,0,0,0,0,0,True,caught,R Bhatia,SL Malinga,death
+2,Kolkata Knight Riders,17,1,SP Narine,SL Malinga,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,2,SP Narine,SL Malinga,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,Iqbal Abdulla,SL Malinga,SP Narine,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,4,Iqbal Abdulla,SL Malinga,SP Narine,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,5,SP Narine,SL Malinga,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,Iqbal Abdulla,SL Malinga,SP Narine,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1,SP Narine,MG Johnson,Iqbal Abdulla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2,Iqbal Abdulla,MG Johnson,SP Narine,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,18,3,SP Narine,MG Johnson,Iqbal Abdulla,0,2,2,legbyes,0,0,0,2,0,False,,,,death
+2,Kolkata Knight Riders,18,4,SP Narine,MG Johnson,Iqbal Abdulla,0,0,0,,0,0,0,0,0,True,caught,SP Narine,KD Karthik,death
+2,Kolkata Knight Riders,18,5,L Balaji,MG Johnson,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,L Balaji,MG Johnson,Iqbal Abdulla,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1,Iqbal Abdulla,SL Malinga,L Balaji,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,2,L Balaji,SL Malinga,Iqbal Abdulla,0,0,0,,0,0,0,0,0,True,bowled,L Balaji,,death

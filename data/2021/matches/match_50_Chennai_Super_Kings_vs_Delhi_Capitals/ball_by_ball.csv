@@ -1,0 +1,251 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,RD Gaikwad,A Nortje,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2.wides,RD Gaikwad,A Nortje,F du Plessis,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,RD Gaikwad,A Nortje,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3.wides,RD Gaikwad,A Nortje,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,RD Gaikwad,A Nortje,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,RD Gaikwad,A Nortje,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,RD Gaikwad,A Nortje,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,RD Gaikwad,A Nortje,F du Plessis,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,F du Plessis,Avesh Khan,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2.wides,F du Plessis,Avesh Khan,RD Gaikwad,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,F du Plessis,Avesh Khan,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,F du Plessis,Avesh Khan,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,F du Plessis,Avesh Khan,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,F du Plessis,Avesh Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,RD Gaikwad,Avesh Khan,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,F du Plessis,AR Patel,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,RD Gaikwad,AR Patel,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,F du Plessis,AR Patel,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,F du Plessis,AR Patel,RD Gaikwad,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,SS Iyer,powerplay
+1,Chennai Super Kings,3,5,RV Uthappa,AR Patel,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,RD Gaikwad,AR Patel,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,RD Gaikwad,K Rabada,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,RD Gaikwad,K Rabada,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,RD Gaikwad,K Rabada,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,RV Uthappa,K Rabada,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,RV Uthappa,K Rabada,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,RV Uthappa,K Rabada,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,RV Uthappa,A Nortje,RD Gaikwad,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,RV Uthappa,A Nortje,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,RV Uthappa,A Nortje,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,RD Gaikwad,A Nortje,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,RD Gaikwad,R Ashwin,powerplay
+1,Chennai Super Kings,5,5,RV Uthappa,A Nortje,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,RV Uthappa,A Nortje,MM Ali,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,MM Ali,K Rabada,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,MM Ali,K Rabada,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,RV Uthappa,K Rabada,MM Ali,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,RV Uthappa,K Rabada,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,RV Uthappa,K Rabada,MM Ali,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,MM Ali,K Rabada,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,MM Ali,R Ashwin,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2.wides,MM Ali,R Ashwin,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2.wides,MM Ali,R Ashwin,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,MM Ali,R Ashwin,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,RV Uthappa,R Ashwin,MM Ali,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,MM Ali,R Ashwin,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,RV Uthappa,R Ashwin,MM Ali,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,RV Uthappa,R Ashwin,MM Ali,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,RV Uthappa,AR Patel,MM Ali,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,MM Ali,AR Patel,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,RV Uthappa,AR Patel,MM Ali,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,MM Ali,AR Patel,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,MM Ali,SS Iyer,middle
+1,Chennai Super Kings,8,5,RV Uthappa,AR Patel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,AT Rayudu,AR Patel,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,AT Rayudu,R Ashwin,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,AT Rayudu,R Ashwin,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,RV Uthappa,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,True,caught and bowled,RV Uthappa,,middle
+1,Chennai Super Kings,9,4,MS Dhoni,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,MS Dhoni,R Ashwin,AT Rayudu,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,MS Dhoni,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,MS Dhoni,AR Patel,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,MS Dhoni,AR Patel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,AT Rayudu,AR Patel,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,MS Dhoni,AR Patel,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,MS Dhoni,AR Patel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,AT Rayudu,AR Patel,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,AT Rayudu,R Ashwin,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,AT Rayudu,R Ashwin,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,MS Dhoni,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,MS Dhoni,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,AT Rayudu,R Ashwin,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,MS Dhoni,R Ashwin,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,AT Rayudu,Avesh Khan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,AT Rayudu,Avesh Khan,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,AT Rayudu,Avesh Khan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,AT Rayudu,Avesh Khan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,AT Rayudu,Avesh Khan,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,AT Rayudu,Avesh Khan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,MS Dhoni,AR Patel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,AT Rayudu,AR Patel,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,MS Dhoni,AR Patel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,AT Rayudu,AR Patel,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,AT Rayudu,AR Patel,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,MS Dhoni,AR Patel,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,MS Dhoni,K Rabada,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,MS Dhoni,K Rabada,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,MS Dhoni,K Rabada,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,MS Dhoni,K Rabada,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,AT Rayudu,K Rabada,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,MS Dhoni,K Rabada,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,MS Dhoni,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,AT Rayudu,R Ashwin,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,MS Dhoni,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,AT Rayudu,R Ashwin,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,AT Rayudu,R Ashwin,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,MS Dhoni,R Ashwin,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,MS Dhoni,A Nortje,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,AT Rayudu,A Nortje,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,MS Dhoni,A Nortje,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,AT Rayudu,A Nortje,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,MS Dhoni,A Nortje,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,AT Rayudu,A Nortje,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,AT Rayudu,K Rabada,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,AT Rayudu,K Rabada,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,AT Rayudu,K Rabada,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,AT Rayudu,K Rabada,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,AT Rayudu,K Rabada,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,K Rabada,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,AT Rayudu,Avesh Khan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,AT Rayudu,Avesh Khan,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,AT Rayudu,Avesh Khan,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4.wides,AT Rayudu,Avesh Khan,MS Dhoni,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,AT Rayudu,Avesh Khan,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,AT Rayudu,Avesh Khan,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,AT Rayudu,Avesh Khan,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,AT Rayudu,A Nortje,MS Dhoni,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,AT Rayudu,A Nortje,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,AT Rayudu,A Nortje,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,MS Dhoni,A Nortje,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,AT Rayudu,A Nortje,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,AT Rayudu,A Nortje,MS Dhoni,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,MS Dhoni,Avesh Khan,AT Rayudu,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,RR Pant,death
+1,Chennai Super Kings,20,2,RA Jadeja,Avesh Khan,AT Rayudu,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Chennai Super Kings,20,3,AT Rayudu,Avesh Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,RA Jadeja,Avesh Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,AT Rayudu,Avesh Khan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,AT Rayudu,Avesh Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,1,1,PP Shaw,DL Chahar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,2,PP Shaw,DL Chahar,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,3.wides,PP Shaw,DL Chahar,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,3,PP Shaw,DL Chahar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,4,S Dhawan,DL Chahar,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,5,S Dhawan,DL Chahar,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,6,S Dhawan,DL Chahar,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,1,PP Shaw,JR Hazlewood,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,2,PP Shaw,JR Hazlewood,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,3,PP Shaw,JR Hazlewood,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,4,PP Shaw,JR Hazlewood,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,5,PP Shaw,JR Hazlewood,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,6,PP Shaw,JR Hazlewood,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,1.wides,PP Shaw,DL Chahar,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,1,PP Shaw,DL Chahar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,2,PP Shaw,DL Chahar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,3,PP Shaw,DL Chahar,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,PP Shaw,F du Plessis,powerplay
+2,Delhi Capitals,3,4,SS Iyer,DL Chahar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,5,SS Iyer,DL Chahar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,6,SS Iyer,DL Chahar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,1,S Dhawan,JR Hazlewood,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,2,S Dhawan,JR Hazlewood,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,3,SS Iyer,JR Hazlewood,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,4,SS Iyer,JR Hazlewood,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,5,S Dhawan,JR Hazlewood,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,6,S Dhawan,JR Hazlewood,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,1,S Dhawan,DL Chahar,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,2,S Dhawan,DL Chahar,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,3,S Dhawan,DL Chahar,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,4,S Dhawan,DL Chahar,SS Iyer,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,5,S Dhawan,DL Chahar,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,6,S Dhawan,DL Chahar,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,1,S Dhawan,JR Hazlewood,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,2,SS Iyer,JR Hazlewood,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,3,S Dhawan,JR Hazlewood,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,4,S Dhawan,JR Hazlewood,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,5,SS Iyer,JR Hazlewood,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,SS Iyer,RD Gaikwad,powerplay
+2,Delhi Capitals,6,6,RR Pant,JR Hazlewood,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,1,S Dhawan,RA Jadeja,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,2,S Dhawan,RA Jadeja,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,3,RR Pant,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,4,RR Pant,RA Jadeja,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,5,RR Pant,RA Jadeja,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,6,S Dhawan,RA Jadeja,RR Pant,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Delhi Capitals,8,1,S Dhawan,MM Ali,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,2,S Dhawan,MM Ali,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,3,RR Pant,MM Ali,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,4,RR Pant,MM Ali,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,5,RR Pant,MM Ali,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,6,RR Pant,MM Ali,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,1,S Dhawan,RA Jadeja,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,2,RR Pant,RA Jadeja,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,3.wides,RR Pant,RA Jadeja,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,3,RR Pant,RA Jadeja,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,4,RR Pant,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,5,RR Pant,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,RR Pant,MM Ali,middle
+2,Delhi Capitals,9,6,RV Patel,RA Jadeja,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,1,RV Patel,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,2,RV Patel,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,3,RV Patel,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,4,RV Patel,SN Thakur,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,5,S Dhawan,SN Thakur,RV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,6,RV Patel,SN Thakur,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,1,RV Patel,RA Jadeja,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,2,RV Patel,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,3,RV Patel,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,4,RV Patel,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,5,RV Patel,RA Jadeja,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,6,RV Patel,RA Jadeja,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,1,RV Patel,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,2,RV Patel,SN Thakur,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,3,S Dhawan,SN Thakur,RV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,4,RV Patel,SN Thakur,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,5,RV Patel,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,6,RV Patel,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,1,S Dhawan,RA Jadeja,RV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,2,RV Patel,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,3,RV Patel,RA Jadeja,S Dhawan,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,4,S Dhawan,RA Jadeja,RV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,5,RV Patel,RA Jadeja,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,RV Patel,DL Chahar,death
+2,Delhi Capitals,13,6,S Dhawan,RA Jadeja,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,1,S Dhawan,MM Ali,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,2,R Ashwin,MM Ali,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,3,S Dhawan,MM Ali,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,4,S Dhawan,MM Ali,R Ashwin,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,5,S Dhawan,MM Ali,R Ashwin,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,6,R Ashwin,MM Ali,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,1,R Ashwin,SN Thakur,S Dhawan,0,0,0,,0,0,0,0,0,True,bowled,R Ashwin,,death
+2,Delhi Capitals,15,2,SO Hetmyer,SN Thakur,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,3,S Dhawan,SN Thakur,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,4,S Dhawan,SN Thakur,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,5,S Dhawan,SN Thakur,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,6,S Dhawan,SN Thakur,SO Hetmyer,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,MM Ali,death
+2,Delhi Capitals,16,1,SO Hetmyer,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,2,SO Hetmyer,MM Ali,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,3,SO Hetmyer,MM Ali,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,4,AR Patel,MM Ali,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,5,SO Hetmyer,MM Ali,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,6,SO Hetmyer,MM Ali,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,1,SO Hetmyer,SN Thakur,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,2,AR Patel,SN Thakur,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,3,SO Hetmyer,SN Thakur,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,4,AR Patel,SN Thakur,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,5,AR Patel,SN Thakur,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,6,SO Hetmyer,SN Thakur,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,1.wides,SO Hetmyer,DJ Bravo,AR Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,1,SO Hetmyer,DJ Bravo,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,2,SO Hetmyer,DJ Bravo,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,3.wides,SO Hetmyer,DJ Bravo,AR Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,3,SO Hetmyer,DJ Bravo,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,4,SO Hetmyer,DJ Bravo,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,5,AR Patel,DJ Bravo,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,6,AR Patel,DJ Bravo,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,1,AR Patel,JR Hazlewood,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,2,AR Patel,JR Hazlewood,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,3,SO Hetmyer,JR Hazlewood,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,4,SO Hetmyer,JR Hazlewood,AR Patel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,5,SO Hetmyer,JR Hazlewood,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,6,SO Hetmyer,JR Hazlewood,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,1,SO Hetmyer,DJ Bravo,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,2.wides,SO Hetmyer,DJ Bravo,AR Patel,0,2,2,wides,2,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,2,AR Patel,DJ Bravo,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,3,AR Patel,DJ Bravo,SO Hetmyer,0,0,0,,0,0,0,0,0,True,caught,AR Patel,MM Ali,death
+2,Delhi Capitals,20,4,K Rabada,DJ Bravo,SO Hetmyer,4,0,4,,0,0,0,0,0,False,,,,death

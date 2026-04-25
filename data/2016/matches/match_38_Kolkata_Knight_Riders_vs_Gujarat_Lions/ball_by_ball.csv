@@ -1,0 +1,233 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,RV Uthappa,P Kumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,RV Uthappa,P Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,G Gambhir,P Kumar,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,G Gambhir,P Kumar,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,G Gambhir,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,G Gambhir,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,RV Uthappa,DS Kulkarni,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,G Gambhir,DS Kulkarni,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,RV Uthappa,DS Kulkarni,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,RV Uthappa,DS Kulkarni,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,RV Uthappa,DS Kulkarni,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,RV Uthappa,DS Kulkarni,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,G Gambhir,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,True,bowled,G Gambhir,,powerplay
+1,Kolkata Knight Riders,3,2,MK Pandey,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,MK Pandey,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,KD Karthik,powerplay
+1,Kolkata Knight Riders,3,4,SA Yadav,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,SA Yadav,P Kumar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,SA Yadav,P Kumar,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,RV Uthappa,DS Kulkarni,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,RV Uthappa,DS Kulkarni,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,RV Uthappa,DS Kulkarni,SA Yadav,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,KD Karthik,powerplay
+1,Kolkata Knight Riders,4,4,Shakib Al Hasan,DS Kulkarni,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,Shakib Al Hasan,DS Kulkarni,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,Shakib Al Hasan,DS Kulkarni,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,SA Yadav,P Kumar,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,SA Yadav,P Kumar,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,SA Yadav,P Kumar,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,SA Yadav,P Kumar,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,SA Yadav,P Kumar,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,SA Yadav,P Kumar,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,Shakib Al Hasan,DR Smith,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,Shakib Al Hasan,DR Smith,SA Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3,SA Yadav,DR Smith,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,4,SA Yadav,DR Smith,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,SA Yadav,DR Smith,Shakib Al Hasan,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,SK Raina,powerplay
+1,Kolkata Knight Riders,6,6,YK Pathan,DR Smith,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,7,1,Shakib Al Hasan,DS Kulkarni,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,Shakib Al Hasan,DS Kulkarni,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,YK Pathan,DS Kulkarni,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,YK Pathan,DS Kulkarni,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,Shakib Al Hasan,DS Kulkarni,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,Shakib Al Hasan,DS Kulkarni,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,Shakib Al Hasan,DR Smith,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2.wides,Shakib Al Hasan,DR Smith,YK Pathan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,Shakib Al Hasan,DR Smith,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,Shakib Al Hasan,DR Smith,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,YK Pathan,DR Smith,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,Shakib Al Hasan,DR Smith,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,Shakib Al Hasan,DR Smith,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,Shakib Al Hasan,DJ Bravo,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,Shakib Al Hasan,DJ Bravo,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,3,YK Pathan,DJ Bravo,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,YK Pathan,DJ Bravo,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,YK Pathan,DJ Bravo,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,Shakib Al Hasan,DJ Bravo,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,YK Pathan,S Kaushik,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,Shakib Al Hasan,S Kaushik,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,YK Pathan,S Kaushik,Shakib Al Hasan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,YK Pathan,S Kaushik,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,YK Pathan,S Kaushik,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,Shakib Al Hasan,S Kaushik,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,Shakib Al Hasan,RA Jadeja,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,Shakib Al Hasan,RA Jadeja,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,Shakib Al Hasan,RA Jadeja,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,YK Pathan,RA Jadeja,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,YK Pathan,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,Shakib Al Hasan,RA Jadeja,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,Shakib Al Hasan,PV Tambe,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,Shakib Al Hasan,PV Tambe,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,3,YK Pathan,PV Tambe,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,YK Pathan,PV Tambe,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,YK Pathan,PV Tambe,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,Shakib Al Hasan,PV Tambe,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,1,YK Pathan,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,Shakib Al Hasan,RA Jadeja,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,YK Pathan,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,4,Shakib Al Hasan,RA Jadeja,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,YK Pathan,RA Jadeja,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,YK Pathan,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,YK Pathan,PV Tambe,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,2,YK Pathan,PV Tambe,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,YK Pathan,PV Tambe,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,4,Shakib Al Hasan,PV Tambe,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,Shakib Al Hasan,PV Tambe,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,YK Pathan,PV Tambe,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,YK Pathan,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,Shakib Al Hasan,RA Jadeja,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,YK Pathan,RA Jadeja,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,Shakib Al Hasan,RA Jadeja,YK Pathan,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kolkata Knight Riders,15,5,YK Pathan,RA Jadeja,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,6,YK Pathan,RA Jadeja,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,Shakib Al Hasan,DJ Bravo,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,Shakib Al Hasan,DJ Bravo,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,YK Pathan,DJ Bravo,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,YK Pathan,DJ Bravo,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,5,Shakib Al Hasan,DJ Bravo,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,YK Pathan,DJ Bravo,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,YK Pathan,DS Kulkarni,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,YK Pathan,DS Kulkarni,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3.wides,YK Pathan,DS Kulkarni,Shakib Al Hasan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3,YK Pathan,DS Kulkarni,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,YK Pathan,DS Kulkarni,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5,Shakib Al Hasan,DS Kulkarni,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6,YK Pathan,DS Kulkarni,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,1,Shakib Al Hasan,DJ Bravo,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,Shakib Al Hasan,DJ Bravo,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,Shakib Al Hasan,DJ Bravo,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,YK Pathan,DJ Bravo,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,YK Pathan,DJ Bravo,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,Shakib Al Hasan,DJ Bravo,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,YK Pathan,P Kumar,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2,Shakib Al Hasan,P Kumar,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,3,Shakib Al Hasan,P Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4,YK Pathan,P Kumar,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,Shakib Al Hasan,P Kumar,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,Shakib Al Hasan,P Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,Shakib Al Hasan,DJ Bravo,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,YK Pathan,DJ Bravo,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,Shakib Al Hasan,DJ Bravo,YK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,4,Shakib Al Hasan,DJ Bravo,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,Shakib Al Hasan,DJ Bravo,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6.wides,YK Pathan,DJ Bravo,Shakib Al Hasan,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,Shakib Al Hasan,DJ Bravo,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,1,1,DR Smith,AD Russell,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,2,DR Smith,AD Russell,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,3,BB McCullum,AD Russell,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,4,BB McCullum,AD Russell,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,5,BB McCullum,AD Russell,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,6,BB McCullum,AD Russell,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,1,DR Smith,M Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,2,DR Smith,M Morkel,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,3,BB McCullum,M Morkel,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,4,BB McCullum,M Morkel,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,5,BB McCullum,M Morkel,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,6,BB McCullum,M Morkel,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,1,DR Smith,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,2,DR Smith,Shakib Al Hasan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,3,DR Smith,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,4,DR Smith,Shakib Al Hasan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,5,DR Smith,Shakib Al Hasan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,6,BB McCullum,Shakib Al Hasan,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,1,DR Smith,AD Russell,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,2,DR Smith,AD Russell,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,3,BB McCullum,AD Russell,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,4.wides,DR Smith,AD Russell,BB McCullum,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,4,DR Smith,AD Russell,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,5,DR Smith,AD Russell,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,6,DR Smith,AD Russell,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,1,BB McCullum,PP Chawla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,2,BB McCullum,PP Chawla,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,3,DR Smith,PP Chawla,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,4,BB McCullum,PP Chawla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,5,BB McCullum,PP Chawla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,6,BB McCullum,PP Chawla,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,1,DR Smith,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,2,DR Smith,Shakib Al Hasan,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,3,DR Smith,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,True,bowled,DR Smith,,middle
+2,Gujarat Lions,6,4,SK Raina,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,6,5,SK Raina,Shakib Al Hasan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,6,6,SK Raina,Shakib Al Hasan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,1,BB McCullum,M Morkel,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,2,BB McCullum,M Morkel,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,3,BB McCullum,M Morkel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,4,BB McCullum,M Morkel,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,5,BB McCullum,M Morkel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,6,BB McCullum,M Morkel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,1,BB McCullum,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,2,SK Raina,PP Chawla,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,3,BB McCullum,PP Chawla,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,4,SK Raina,PP Chawla,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,5,BB McCullum,PP Chawla,SK Raina,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,MK Pandey,middle
+2,Gujarat Lions,8,6,KD Karthik,PP Chawla,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,1,SK Raina,GB Hogg,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,2,SK Raina,GB Hogg,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,3,KD Karthik,GB Hogg,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,4,KD Karthik,GB Hogg,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,5,KD Karthik,GB Hogg,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,6,KD Karthik,GB Hogg,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,1,KD Karthik,UT Yadav,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,2,KD Karthik,UT Yadav,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,3,KD Karthik,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,4,SK Raina,UT Yadav,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,5,KD Karthik,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,6,SK Raina,UT Yadav,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,1,SK Raina,M Morkel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,2,KD Karthik,M Morkel,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,3,KD Karthik,M Morkel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,4,SK Raina,M Morkel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,5,KD Karthik,M Morkel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,6,SK Raina,M Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,1,KD Karthik,UT Yadav,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,2,KD Karthik,UT Yadav,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,3,KD Karthik,UT Yadav,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,4,SK Raina,UT Yadav,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,5,SK Raina,UT Yadav,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,12,6,KD Karthik,UT Yadav,SK Raina,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,1,SK Raina,M Morkel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,2,KD Karthik,M Morkel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,3,SK Raina,M Morkel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,4,KD Karthik,M Morkel,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,5,KD Karthik,M Morkel,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,6,SK Raina,M Morkel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,1,KD Karthik,AD Russell,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,2,KD Karthik,AD Russell,SK Raina,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,3,KD Karthik,AD Russell,SK Raina,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,4,KD Karthik,AD Russell,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,5,SK Raina,AD Russell,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,SK Raina,GB Hogg,death
+2,Gujarat Lions,14,6,KD Karthik,AD Russell,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,1,AJ Finch,Shakib Al Hasan,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,2,AJ Finch,Shakib Al Hasan,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,3,AJ Finch,Shakib Al Hasan,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,4,AJ Finch,Shakib Al Hasan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,5,KD Karthik,Shakib Al Hasan,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,6,AJ Finch,Shakib Al Hasan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,1,AJ Finch,PP Chawla,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,2,KD Karthik,PP Chawla,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,3,AJ Finch,PP Chawla,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,4,AJ Finch,PP Chawla,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,5,AJ Finch,PP Chawla,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,6,AJ Finch,PP Chawla,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,1,KD Karthik,GB Hogg,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,2,KD Karthik,GB Hogg,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,3,KD Karthik,GB Hogg,AJ Finch,0,0,0,,0,0,0,0,0,True,stumped,KD Karthik,RV Uthappa,death
+2,Gujarat Lions,17,4,RA Jadeja,GB Hogg,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,5,RA Jadeja,GB Hogg,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,6,RA Jadeja,GB Hogg,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,1,RA Jadeja,PP Chawla,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,2,RA Jadeja,PP Chawla,AJ Finch,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,3,RA Jadeja,PP Chawla,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,4,RA Jadeja,PP Chawla,AJ Finch,0,0,0,,0,0,0,0,0,True,run out,AJ Finch,MK Pandey,death
+2,Gujarat Lions,18,5,RA Jadeja,PP Chawla,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,6,RA Jadeja,PP Chawla,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,death

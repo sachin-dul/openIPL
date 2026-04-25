@@ -1,0 +1,252 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,SC Ganguly,KAJ Roach,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,SC Ganguly,KAJ Roach,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,SC Ganguly,KAJ Roach,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,SC Ganguly,KAJ Roach,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,SC Ganguly,KAJ Roach,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,SC Ganguly,KAJ Roach,CH Gayle,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,CH Gayle,Jaskaran Singh,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,CH Gayle,Jaskaran Singh,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,CH Gayle,Jaskaran Singh,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,CH Gayle,Jaskaran Singh,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,CH Gayle,Jaskaran Singh,SC Ganguly,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,SC Ganguly,Jaskaran Singh,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,CH Gayle,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,CH Gayle,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,KAJ Roach,powerplay
+1,Kolkata Knight Riders,3,3,SC Ganguly,A Symonds,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,SC Ganguly,A Symonds,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,CA Pujara,A Symonds,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,CA Pujara,A Symonds,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,SC Ganguly,Jaskaran Singh,CA Pujara,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,CA Pujara,Jaskaran Singh,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,CA Pujara,Jaskaran Singh,SC Ganguly,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,4,CA Pujara,Jaskaran Singh,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,CA Pujara,Jaskaran Singh,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,SC Ganguly,Jaskaran Singh,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,SC Ganguly,Harmeet Singh,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,SC Ganguly,Harmeet Singh,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,CA Pujara,Harmeet Singh,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4.wides,CA Pujara,Harmeet Singh,SC Ganguly,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,CA Pujara,Harmeet Singh,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,CA Pujara,Harmeet Singh,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,SC Ganguly,Harmeet Singh,CA Pujara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,CA Pujara,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,CA Pujara,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3,CA Pujara,A Symonds,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,4,SC Ganguly,A Symonds,CA Pujara,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,SC Ganguly,A Symonds,CA Pujara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,6,CA Pujara,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,True,caught,CA Pujara,PP Ojha,powerplay
+1,Kolkata Knight Riders,7,1,SC Ganguly,KAJ Roach,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,SC Ganguly,KAJ Roach,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,MK Tiwary,KAJ Roach,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,SC Ganguly,KAJ Roach,MK Tiwary,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,SC Ganguly,KAJ Roach,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6.wides,SC Ganguly,KAJ Roach,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,SC Ganguly,KAJ Roach,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,MK Tiwary,RG Sharma,SC Ganguly,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,MK Tiwary,RG Sharma,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,SC Ganguly,RG Sharma,MK Tiwary,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,SC Ganguly,RG Sharma,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,MK Tiwary,RG Sharma,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,SC Ganguly,RG Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,MK Tiwary,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,MK Tiwary,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,3,MK Tiwary,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,True,bowled,MK Tiwary,,middle
+1,Kolkata Knight Riders,9,4,DJ Hussey,PP Ojha,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,SC Ganguly,PP Ojha,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,SC Ganguly,PP Ojha,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,SC Ganguly,Harmeet Singh,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,SC Ganguly,Harmeet Singh,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,SC Ganguly,Harmeet Singh,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,SC Ganguly,Harmeet Singh,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,SC Ganguly,Harmeet Singh,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,SC Ganguly,Harmeet Singh,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,DJ Hussey,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,DJ Hussey,PP Ojha,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,SC Ganguly,PP Ojha,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,SC Ganguly,PP Ojha,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,DJ Hussey,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,DJ Hussey,PP Ojha,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,DJ Hussey,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,DJ Hussey,A Symonds,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,3,SC Ganguly,A Symonds,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,SC Ganguly,A Symonds,DJ Hussey,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,DJ Hussey,A Symonds,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,SC Ganguly,A Symonds,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,1,DJ Hussey,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,DJ Hussey,PP Ojha,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,SC Ganguly,PP Ojha,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,4,DJ Hussey,PP Ojha,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,SC Ganguly,PP Ojha,DJ Hussey,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,SC Ganguly,PP Ojha,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,DJ Hussey,RG Sharma,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,2,SC Ganguly,RG Sharma,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,DJ Hussey,RG Sharma,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,4,SC Ganguly,RG Sharma,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5.wides,DJ Hussey,RG Sharma,SC Ganguly,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,DJ Hussey,RG Sharma,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,SC Ganguly,RG Sharma,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,SC Ganguly,Y Venugopal Rao,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,DJ Hussey,Y Venugopal Rao,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,SC Ganguly,Y Venugopal Rao,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,SC Ganguly,Y Venugopal Rao,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,5,SC Ganguly,Y Venugopal Rao,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,6,SC Ganguly,Y Venugopal Rao,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,DJ Hussey,A Symonds,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,DJ Hussey,A Symonds,SC Ganguly,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,DJ Hussey,A Symonds,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,SC Ganguly,A Symonds,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,5,SC Ganguly,A Symonds,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,DJ Hussey,A Symonds,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,DJ Hussey,PP Ojha,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,DJ Hussey,PP Ojha,SC Ganguly,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kolkata Knight Riders,17,3,SC Ganguly,PP Ojha,DJ Hussey,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4.wides,SC Ganguly,PP Ojha,DJ Hussey,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,SC Ganguly,PP Ojha,DJ Hussey,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5.wides,SC Ganguly,PP Ojha,DJ Hussey,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5,SC Ganguly,PP Ojha,DJ Hussey,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6,SC Ganguly,PP Ojha,DJ Hussey,0,0,0,,0,0,0,0,0,True,caught,SC Ganguly,RG Sharma,death
+1,Kolkata Knight Riders,18,1,DJ Hussey,KAJ Roach,AD Mathews,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,DJ Hussey,KAJ Roach,AD Mathews,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,AD Mathews,KAJ Roach,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4.noballs,DJ Hussey,KAJ Roach,AD Mathews,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,DJ Hussey,KAJ Roach,AD Mathews,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,AD Mathews,KAJ Roach,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,AD Mathews,KAJ Roach,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,AD Mathews,Jaskaran Singh,DJ Hussey,0,0,0,,0,0,0,0,0,True,caught,AD Mathews,HH Gibbs,death
+1,Kolkata Knight Riders,19,2,DJ Hussey,Jaskaran Singh,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,3,DJ Hussey,Jaskaran Singh,WP Saha,0,0,0,,0,0,0,0,0,True,caught,DJ Hussey,HH Gibbs,death
+1,Kolkata Knight Riders,19,4,WP Saha,Jaskaran Singh,AB Agarkar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,AB Agarkar,Jaskaran Singh,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,WP Saha,Jaskaran Singh,AB Agarkar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,AB Agarkar,KAJ Roach,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,AB Agarkar,KAJ Roach,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,WP Saha,KAJ Roach,AB Agarkar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,4,WP Saha,KAJ Roach,AB Agarkar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,AB Agarkar,KAJ Roach,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,AB Agarkar,KAJ Roach,WP Saha,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,1,1,HH Gibbs,MB Parmar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2.wides,HH Gibbs,MB Parmar,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,HH Gibbs,MB Parmar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,3,HH Gibbs,MB Parmar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,HH Gibbs,MB Parmar,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,HH Gibbs,MB Parmar,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,HH Gibbs,MB Parmar,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1,HH Gibbs,SE Bond,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,HH Gibbs,SE Bond,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,3,HH Gibbs,SE Bond,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,AC Gilchrist,SE Bond,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5.wides,HH Gibbs,SE Bond,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,HH Gibbs,SE Bond,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,6,HH Gibbs,SE Bond,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,AC Gilchrist,AB Agarkar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,2,AC Gilchrist,AB Agarkar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,AC Gilchrist,AB Agarkar,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,4,AC Gilchrist,AB Agarkar,HH Gibbs,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,CA Pujara,powerplay
+2,Deccan Chargers,3,5,HH Gibbs,AB Agarkar,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,MD Mishra,AB Agarkar,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,HH Gibbs,SE Bond,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,MD Mishra,SE Bond,HH Gibbs,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,3,MD Mishra,SE Bond,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,HH Gibbs,SE Bond,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,HH Gibbs,SE Bond,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,MD Mishra,SE Bond,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,HH Gibbs,AB Agarkar,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,HH Gibbs,AB Agarkar,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,3,HH Gibbs,AB Agarkar,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,4,MD Mishra,AB Agarkar,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,MD Mishra,AB Agarkar,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,6,MD Mishra,AB Agarkar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,HH Gibbs,M Kartik,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2,HH Gibbs,M Kartik,MD Mishra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,3,HH Gibbs,M Kartik,MD Mishra,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Deccan Chargers,6,4,MD Mishra,M Kartik,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,5,MD Mishra,M Kartik,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,6,MD Mishra,M Kartik,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,7,1,HH Gibbs,AD Mathews,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2.wides,HH Gibbs,AD Mathews,MD Mishra,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2,HH Gibbs,AD Mathews,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,HH Gibbs,AD Mathews,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,MD Mishra,AD Mathews,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,MD Mishra,AD Mathews,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,MD Mishra,AD Mathews,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,HH Gibbs,M Kartik,MD Mishra,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,2,HH Gibbs,M Kartik,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,HH Gibbs,M Kartik,MD Mishra,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,HH Gibbs,M Kartik,MD Mishra,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,HH Gibbs,M Kartik,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,6,MD Mishra,M Kartik,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,1,MD Mishra,AD Mathews,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,HH Gibbs,AD Mathews,MD Mishra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3,MD Mishra,AD Mathews,HH Gibbs,0,0,0,,0,0,0,0,0,True,caught,MD Mishra,MK Tiwary,middle
+2,Deccan Chargers,9,4,HH Gibbs,AD Mathews,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,A Symonds,AD Mathews,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,A Symonds,AD Mathews,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,1,HH Gibbs,M Kartik,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,2,A Symonds,M Kartik,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,HH Gibbs,M Kartik,A Symonds,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,HH Gibbs,M Kartik,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,HH Gibbs,M Kartik,A Symonds,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Deccan Chargers,10,6,A Symonds,M Kartik,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,1,HH Gibbs,AD Mathews,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,A Symonds,AD Mathews,HH Gibbs,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,A Symonds,AD Mathews,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,HH Gibbs,AD Mathews,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,5,A Symonds,AD Mathews,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,HH Gibbs,AD Mathews,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,A Symonds,MB Parmar,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,A Symonds,MB Parmar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,HH Gibbs,MB Parmar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,A Symonds,MB Parmar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,5,HH Gibbs,MB Parmar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,6,A Symonds,MB Parmar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,1,A Symonds,AB Agarkar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,2,HH Gibbs,AB Agarkar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,3,A Symonds,AB Agarkar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,4,HH Gibbs,AB Agarkar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,5,A Symonds,AB Agarkar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,6,A Symonds,AB Agarkar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,1,A Symonds,MB Parmar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,2,A Symonds,MB Parmar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,3,A Symonds,MB Parmar,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,4,A Symonds,MB Parmar,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,5,A Symonds,MB Parmar,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,6,HH Gibbs,MB Parmar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,1,HH Gibbs,SE Bond,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,2,HH Gibbs,SE Bond,A Symonds,0,0,0,,0,0,0,0,0,True,caught,HH Gibbs,DJ Hussey,middle
+2,Deccan Chargers,15,3,RG Sharma,SE Bond,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,4.wides,A Symonds,SE Bond,RG Sharma,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,4,A Symonds,SE Bond,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,5,RG Sharma,SE Bond,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,6,RG Sharma,SE Bond,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,16,1,RG Sharma,M Kartik,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,RG Sharma,M Kartik,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,RG Sharma,M Kartik,A Symonds,0,0,0,,0,0,0,0,0,True,bowled,RG Sharma,,death
+2,Deccan Chargers,16,4,TL Suman,M Kartik,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,A Symonds,M Kartik,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,TL Suman,M Kartik,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,1,TL Suman,AD Mathews,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,A Symonds,AD Mathews,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3,A Symonds,AD Mathews,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,A Symonds,AD Mathews,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,5,TL Suman,AD Mathews,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,TL Suman,AD Mathews,A Symonds,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,1,A Symonds,AB Agarkar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,2,TL Suman,AB Agarkar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3.wides,A Symonds,AB Agarkar,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,A Symonds,AB Agarkar,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,4,A Symonds,AB Agarkar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,5,TL Suman,AB Agarkar,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,6,A Symonds,AB Agarkar,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,1,A Symonds,SE Bond,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,2,A Symonds,SE Bond,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,3,A Symonds,SE Bond,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,4,A Symonds,SE Bond,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,5,A Symonds,SE Bond,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,6,A Symonds,SE Bond,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,1,TL Suman,CH Gayle,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,2,A Symonds,CH Gayle,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,3,TL Suman,CH Gayle,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,4,A Symonds,CH Gayle,TL Suman,0,0,0,,0,0,0,0,0,True,caught,A Symonds,M Kartik,death
+2,Deccan Chargers,20,5,TL Suman,CH Gayle,Y Venugopal Rao,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,6,TL Suman,CH Gayle,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,death

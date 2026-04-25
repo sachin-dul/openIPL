@@ -1,0 +1,254 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,M Vijay,Sandeep Sharma,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,KP Pietersen,Sandeep Sharma,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,KP Pietersen,Sandeep Sharma,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,KP Pietersen,Sandeep Sharma,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,M Vijay,Sandeep Sharma,KP Pietersen,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,M Vijay,Sandeep Sharma,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,KP Pietersen,BE Hendricks,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,KP Pietersen,BE Hendricks,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,KP Pietersen,BE Hendricks,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,M Vijay,BE Hendricks,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,M Vijay,BE Hendricks,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,M Vijay,BE Hendricks,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,KP Pietersen,Sandeep Sharma,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2.wides,M Vijay,Sandeep Sharma,KP Pietersen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,M Vijay,Sandeep Sharma,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,M Vijay,Sandeep Sharma,KP Pietersen,0,0,0,,0,0,0,0,0,True,caught,M Vijay,BE Hendricks,powerplay
+1,Delhi Daredevils,3,4.wides,KP Pietersen,Sandeep Sharma,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,KP Pietersen,Sandeep Sharma,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,KP Pietersen,Sandeep Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,KP Pietersen,Sandeep Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,KP Pietersen,BE Hendricks,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,KP Pietersen,BE Hendricks,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,KP Pietersen,BE Hendricks,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,KP Pietersen,BE Hendricks,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,KP Pietersen,BE Hendricks,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,KP Pietersen,BE Hendricks,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1.wides,KD Karthik,Sandeep Sharma,KP Pietersen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,KD Karthik,Sandeep Sharma,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,KP Pietersen,Sandeep Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,KP Pietersen,Sandeep Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,KD Karthik,Sandeep Sharma,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,KD Karthik,Sandeep Sharma,KP Pietersen,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,KD Karthik,Sandeep Sharma,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1.wides,KD Karthik,AR Patel,KP Pietersen,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,KD Karthik,AR Patel,KP Pietersen,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,KD Karthik,AR Patel,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,KP Pietersen,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,KD Karthik,AR Patel,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,KP Pietersen,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,KP Pietersen,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,KD Karthik,R Dhawan,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,KD Karthik,R Dhawan,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,KD Karthik,R Dhawan,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,KP Pietersen,R Dhawan,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,KP Pietersen,R Dhawan,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,KP Pietersen,R Dhawan,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,KD Karthik,AR Patel,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,KD Karthik,AR Patel,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,KP Pietersen,AR Patel,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,KP Pietersen,AR Patel,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,KD Karthik,AR Patel,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,KD Karthik,AR Patel,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,KD Karthik,R Dhawan,KP Pietersen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,KD Karthik,R Dhawan,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,KD Karthik,R Dhawan,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,KD Karthik,R Dhawan,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,KP Pietersen,R Dhawan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,KD Karthik,R Dhawan,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,KD Karthik,Shivam Sharma,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,KD Karthik,Shivam Sharma,KP Pietersen,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,KP Pietersen,Shivam Sharma,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,KP Pietersen,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,KD Karthik,Shivam Sharma,KP Pietersen,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,KD Karthik,Shivam Sharma,KP Pietersen,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,KP Pietersen,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,KP Pietersen,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,KP Pietersen,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,True,bowled,KP Pietersen,,middle
+1,Delhi Daredevils,11,4,JP Duminy,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,JP Duminy,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,JP Duminy,AR Patel,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,KD Karthik,Shivam Sharma,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,KD Karthik,Shivam Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,KD Karthik,Shivam Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,JP Duminy,Shivam Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,JP Duminy,R Dhawan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,KD Karthik,R Dhawan,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,KD Karthik,R Dhawan,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,KD Karthik,R Dhawan,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,KD Karthik,R Dhawan,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,JP Duminy,R Dhawan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,KD Karthik,Shivam Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,KD Karthik,Shivam Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,JP Duminy,Shivam Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,JP Duminy,R Dhawan,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,JP Duminy,R Dhawan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,KD Karthik,R Dhawan,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,KD Karthik,R Dhawan,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,KD Karthik,R Dhawan,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,JP Duminy,R Dhawan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,JP Duminy,Shivam Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,KD Karthik,Shivam Sharma,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,KD Karthik,Shivam Sharma,JP Duminy,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,KD Karthik,Shivam Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,JP Duminy,Shivam Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,JP Duminy,BE Hendricks,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Delhi Daredevils,17,2,KD Karthik,BE Hendricks,JP Duminy,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,KD Karthik,BE Hendricks,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,JP Duminy,BE Hendricks,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,JP Duminy,BE Hendricks,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,JP Duminy,GJ Maxwell,death
+1,Delhi Daredevils,17,6,KD Karthik,BE Hendricks,KM Jadhav,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,KM Jadhav,Sandeep Sharma,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,KM Jadhav,GJ Maxwell,death
+1,Delhi Daredevils,18,2,KD Karthik,Sandeep Sharma,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,KD Karthik,Sandeep Sharma,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,MA Agarwal,Sandeep Sharma,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,MA Agarwal,Sandeep Sharma,KD Karthik,0,0,0,,0,0,0,0,0,True,bowled,MA Agarwal,,death
+1,Delhi Daredevils,18,6,MK Tiwary,Sandeep Sharma,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,KD Karthik,BE Hendricks,MK Tiwary,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,R Dhawan,death
+1,Delhi Daredevils,19,2,MK Tiwary,BE Hendricks,WD Parnell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,WD Parnell,BE Hendricks,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,WD Parnell,BE Hendricks,MK Tiwary,0,0,0,,0,0,0,0,0,True,caught,WD Parnell,GJ Maxwell,death
+1,Delhi Daredevils,19,5,MK Tiwary,BE Hendricks,Mohammed Shami,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,MK Tiwary,BE Hendricks,Mohammed Shami,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,MK Tiwary,AR Patel,Mohammed Shami,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,2,Mohammed Shami,AR Patel,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,Mohammed Shami,AR Patel,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,4,MK Tiwary,AR Patel,Mohammed Shami,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,MK Tiwary,AR Patel,Mohammed Shami,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,MK Tiwary,AR Patel,Mohammed Shami,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,1,1,V Sehwag,WD Parnell,M Vohra,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kings XI Punjab,1,2.wides,M Vohra,WD Parnell,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,2,M Vohra,WD Parnell,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,3,V Sehwag,WD Parnell,M Vohra,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,4,V Sehwag,WD Parnell,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,5,M Vohra,WD Parnell,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,6,M Vohra,WD Parnell,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,1,V Sehwag,Mohammed Shami,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,2,V Sehwag,Mohammed Shami,M Vohra,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kings XI Punjab,2,3.wides,M Vohra,Mohammed Shami,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,3,M Vohra,Mohammed Shami,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,4,V Sehwag,Mohammed Shami,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,5,V Sehwag,Mohammed Shami,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,6,V Sehwag,Mohammed Shami,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1.wides,M Vohra,WD Parnell,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1.wides,M Vohra,WD Parnell,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1,M Vohra,WD Parnell,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,2,M Vohra,WD Parnell,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,3,M Vohra,WD Parnell,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,4,M Vohra,WD Parnell,V Sehwag,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,5,M Vohra,WD Parnell,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,6,M Vohra,WD Parnell,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,1,V Sehwag,Mohammed Shami,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,2,V Sehwag,Mohammed Shami,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,3,V Sehwag,Mohammed Shami,M Vohra,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kings XI Punjab,4,4,M Vohra,Mohammed Shami,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,5,M Vohra,Mohammed Shami,V Sehwag,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,6,M Vohra,Mohammed Shami,V Sehwag,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,1,V Sehwag,JD Unadkat,M Vohra,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,2,V Sehwag,JD Unadkat,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,3,V Sehwag,JD Unadkat,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,4,M Vohra,JD Unadkat,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,5,M Vohra,JD Unadkat,V Sehwag,5,0,5,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6.wides,V Sehwag,JD Unadkat,M Vohra,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6,V Sehwag,JD Unadkat,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,1.wides,M Vohra,Mohammed Shami,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,1,M Vohra,Mohammed Shami,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,2,M Vohra,Mohammed Shami,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,3,M Vohra,Mohammed Shami,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,4,V Sehwag,Mohammed Shami,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,5,V Sehwag,Mohammed Shami,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,6,V Sehwag,Mohammed Shami,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,1,V Sehwag,Imran Tahir,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,2,M Vohra,Imran Tahir,V Sehwag,0,0,0,,0,0,0,0,0,True,caught,M Vohra,M Vijay,middle
+2,Kings XI Punjab,7,3.wides,GJ Maxwell,Imran Tahir,V Sehwag,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,3,GJ Maxwell,Imran Tahir,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,4,GJ Maxwell,Imran Tahir,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,5,GJ Maxwell,Imran Tahir,V Sehwag,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,6,GJ Maxwell,Imran Tahir,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,1,GJ Maxwell,JP Duminy,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,2,V Sehwag,JP Duminy,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,3,GJ Maxwell,JP Duminy,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,4,V Sehwag,JP Duminy,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,5,V Sehwag,JP Duminy,GJ Maxwell,0,0,0,,0,0,0,0,0,True,caught,V Sehwag,MK Tiwary,middle
+2,Kings XI Punjab,8,6,GJ Maxwell,JP Duminy,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,1,GJ Maxwell,Imran Tahir,DA Miller,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,2.wides,GJ Maxwell,Imran Tahir,DA Miller,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,2,GJ Maxwell,Imran Tahir,DA Miller,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kings XI Punjab,9,3,DA Miller,Imran Tahir,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,4,DA Miller,Imran Tahir,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,5,GJ Maxwell,Imran Tahir,DA Miller,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,6,GJ Maxwell,Imran Tahir,DA Miller,0,0,0,,0,0,0,0,0,True,bowled,GJ Maxwell,,middle
+2,Kings XI Punjab,10,1,DA Miller,JP Duminy,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,2,DA Miller,JP Duminy,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,3,WP Saha,JP Duminy,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,4,DA Miller,JP Duminy,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,5,DA Miller,JP Duminy,WP Saha,0,0,0,,0,0,0,0,0,True,bowled,DA Miller,,middle
+2,Kings XI Punjab,10,6,AR Patel,JP Duminy,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,1,AR Patel,JD Unadkat,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,2,AR Patel,JD Unadkat,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,3,AR Patel,JD Unadkat,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,4,AR Patel,JD Unadkat,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,5,AR Patel,JD Unadkat,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,6,AR Patel,JD Unadkat,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1.wides,AR Patel,JP Duminy,WP Saha,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1,AR Patel,JP Duminy,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,2,WP Saha,JP Duminy,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,3,AR Patel,JP Duminy,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,4,WP Saha,JP Duminy,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,5,AR Patel,JP Duminy,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,6,WP Saha,JP Duminy,AR Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,1,WP Saha,JD Unadkat,AR Patel,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,2,AR Patel,JD Unadkat,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,3,AR Patel,JD Unadkat,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,4,WP Saha,JD Unadkat,AR Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,5,WP Saha,JD Unadkat,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,13,6,AR Patel,JD Unadkat,WP Saha,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,1,WP Saha,JP Duminy,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,2,WP Saha,JP Duminy,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,3,AR Patel,JP Duminy,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,4,WP Saha,JP Duminy,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,5,WP Saha,JP Duminy,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,6.wides,WP Saha,JP Duminy,AR Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kings XI Punjab,14,6,WP Saha,JP Duminy,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,1,AR Patel,Mohammed Shami,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,2,AR Patel,Mohammed Shami,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,3,AR Patel,Mohammed Shami,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,4,AR Patel,Mohammed Shami,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,5,AR Patel,Mohammed Shami,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,6.wides,WP Saha,Mohammed Shami,AR Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kings XI Punjab,15,6,WP Saha,Mohammed Shami,AR Patel,0,0,0,,0,0,0,0,0,True,caught,WP Saha,WD Parnell,death
+2,Kings XI Punjab,16,1,AR Patel,WD Parnell,GJ Bailey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,2,AR Patel,WD Parnell,GJ Bailey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,3,AR Patel,WD Parnell,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,4,AR Patel,WD Parnell,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,5,AR Patel,WD Parnell,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,6,AR Patel,WD Parnell,GJ Bailey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,1,GJ Bailey,Imran Tahir,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,2,AR Patel,Imran Tahir,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,3,AR Patel,Imran Tahir,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,4,AR Patel,Imran Tahir,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,5,GJ Bailey,Imran Tahir,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,6,GJ Bailey,Imran Tahir,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,1,GJ Bailey,JD Unadkat,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,2,AR Patel,JD Unadkat,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,3,GJ Bailey,JD Unadkat,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,4,AR Patel,JD Unadkat,GJ Bailey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,5,AR Patel,JD Unadkat,GJ Bailey,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,6,AR Patel,JD Unadkat,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,1,AR Patel,Imran Tahir,GJ Bailey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,2,GJ Bailey,Imran Tahir,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,3,GJ Bailey,Imran Tahir,AR Patel,0,0,0,,0,0,0,0,0,True,caught,GJ Bailey,KM Jadhav,death
+2,Kings XI Punjab,19,4,AR Patel,Imran Tahir,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,5,R Dhawan,Imran Tahir,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,6,R Dhawan,Imran Tahir,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,1,AR Patel,WD Parnell,R Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,2,R Dhawan,WD Parnell,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,3,R Dhawan,WD Parnell,AR Patel,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,4,R Dhawan,WD Parnell,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death

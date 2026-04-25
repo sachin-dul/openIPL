@@ -1,0 +1,244 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,BB McCullum,SM Pollock,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,SC Ganguly,SM Pollock,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,SC Ganguly,SM Pollock,BB McCullum,0,0,0,,0,0,0,0,0,True,caught,SC Ganguly,ST Jayasuriya,powerplay
+1,Kolkata Knight Riders,1,4,RT Ponting,SM Pollock,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,BB McCullum,SM Pollock,RT Ponting,0,0,0,,0,0,0,0,0,True,lbw,BB McCullum,,powerplay
+1,Kolkata Knight Riders,1,6,DB Das,SM Pollock,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,RT Ponting,A Nehra,DB Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,RT Ponting,A Nehra,DB Das,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,DB Das,A Nehra,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,DB Das,A Nehra,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,DB Das,A Nehra,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,DB Das,A Nehra,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,RT Ponting,SM Pollock,DB Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,RT Ponting,SM Pollock,DB Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,RT Ponting,SM Pollock,DB Das,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,DB Das,SM Pollock,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,DB Das,SM Pollock,RT Ponting,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,DB Das,SM Pollock,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,RT Ponting,CRD Fernando,DB Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,RT Ponting,CRD Fernando,DB Das,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3.wides,DB Das,CRD Fernando,RT Ponting,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,DB Das,CRD Fernando,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,4,DB Das,CRD Fernando,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,DB Das,CRD Fernando,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,DB Das,CRD Fernando,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,DB Das,DS Kulkarni,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,DB Das,DS Kulkarni,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,DB Das,DS Kulkarni,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,DB Das,DS Kulkarni,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,DB Das,DS Kulkarni,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,DB Das,DS Kulkarni,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,DB Das,DJ Bravo,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,RT Ponting,DJ Bravo,DB Das,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3,DB Das,DJ Bravo,RT Ponting,0,0,0,,0,0,0,0,0,True,caught,DB Das,RV Uthappa,powerplay
+1,Kolkata Knight Riders,6,4,DJ Hussey,DJ Bravo,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,DJ Hussey,DJ Bravo,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,6,DJ Hussey,DJ Bravo,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,7,1,RT Ponting,DS Kulkarni,DJ Hussey,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,RT Ponting,DS Kulkarni,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,DJ Hussey,DS Kulkarni,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,RT Ponting,DS Kulkarni,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,RT Ponting,DS Kulkarni,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,RT Ponting,DS Kulkarni,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,RT Ponting,DJ Bravo,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,RT Ponting,DJ Bravo,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,RT Ponting,DJ Bravo,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,RT Ponting,DJ Bravo,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,DJ Hussey,DJ Bravo,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,RT Ponting,DJ Bravo,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,DJ Hussey,CRD Fernando,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,RT Ponting,CRD Fernando,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,3,RT Ponting,CRD Fernando,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,DJ Hussey,CRD Fernando,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,DJ Hussey,CRD Fernando,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,DJ Hussey,CRD Fernando,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,RT Ponting,ST Jayasuriya,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,RT Ponting,ST Jayasuriya,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,DJ Hussey,ST Jayasuriya,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,DJ Hussey,ST Jayasuriya,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,DJ Hussey,ST Jayasuriya,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,DJ Hussey,ST Jayasuriya,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,RT Ponting,SM Pollock,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,DJ Hussey,SM Pollock,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,DJ Hussey,SM Pollock,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,RT Ponting,SM Pollock,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,DJ Hussey,SM Pollock,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,DJ Hussey,SM Pollock,RT Ponting,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,RT Ponting,ST Jayasuriya,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,DJ Hussey,ST Jayasuriya,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,3,RT Ponting,ST Jayasuriya,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,RT Ponting,ST Jayasuriya,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,DJ Hussey,ST Jayasuriya,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,DJ Hussey,ST Jayasuriya,RT Ponting,0,0,0,,0,0,0,0,0,True,caught,DJ Hussey,A Nehra,middle
+1,Kolkata Knight Riders,13,1,Mohammad Hafeez,SM Pollock,RT Ponting,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,Mohammad Hafeez,SM Pollock,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,RT Ponting,SM Pollock,Mohammad Hafeez,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,4,RT Ponting,SM Pollock,Mohammad Hafeez,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,Mohammad Hafeez,SM Pollock,RT Ponting,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,RT Ponting,SM Pollock,Mohammad Hafeez,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,Mohammad Hafeez,ST Jayasuriya,RT Ponting,0,0,0,,0,0,0,0,0,True,run out,RT Ponting,"AM Rahane, ST Jayasuriya",middle
+1,Kolkata Knight Riders,14,2,Mohammad Hafeez,ST Jayasuriya,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,Mohammad Hafeez,ST Jayasuriya,LR Shukla,0,0,0,,0,0,0,0,0,True,caught,Mohammad Hafeez,PR Shah,middle
+1,Kolkata Knight Riders,14,4,AB Agarkar,ST Jayasuriya,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,AB Agarkar,ST Jayasuriya,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,AB Agarkar,ST Jayasuriya,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,LR Shukla,DJ Bravo,AB Agarkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,LR Shukla,DJ Bravo,AB Agarkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,AB Agarkar,DJ Bravo,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,LR Shukla,DJ Bravo,AB Agarkar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,5,LR Shukla,DJ Bravo,AB Agarkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,6,LR Shukla,DJ Bravo,AB Agarkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,AB Agarkar,ST Jayasuriya,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,LR Shukla,ST Jayasuriya,AB Agarkar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3.wides,AB Agarkar,ST Jayasuriya,LR Shukla,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,AB Agarkar,ST Jayasuriya,LR Shukla,0,0,0,,0,0,0,0,0,True,caught,AB Agarkar,A Nehra,death
+1,Kolkata Knight Riders,16,4,LR Shukla,ST Jayasuriya,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,5,M Kartik,ST Jayasuriya,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,LR Shukla,ST Jayasuriya,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,LR Shukla,DJ Bravo,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,M Kartik,DJ Bravo,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3,M Kartik,DJ Bravo,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4.wides,LR Shukla,DJ Bravo,M Kartik,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,LR Shukla,DJ Bravo,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5,M Kartik,DJ Bravo,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6,LR Shukla,DJ Bravo,M Kartik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,1,M Kartik,CRD Fernando,LR Shukla,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,M Kartik,CRD Fernando,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,LR Shukla,CRD Fernando,M Kartik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,LR Shukla,CRD Fernando,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,M Kartik,CRD Fernando,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,LR Shukla,CRD Fernando,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,LR Shukla,DS Kulkarni,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2,M Kartik,DS Kulkarni,LR Shukla,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kolkata Knight Riders,19,3,LR Shukla,DS Kulkarni,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4.wides,M Kartik,DS Kulkarni,LR Shukla,0,3,3,wides,3,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4,M Kartik,DS Kulkarni,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,M Kartik,DS Kulkarni,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,LR Shukla,DS Kulkarni,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,LR Shukla,CRD Fernando,M Kartik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,LR Shukla,CRD Fernando,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,M Kartik,CRD Fernando,LR Shukla,0,0,0,,0,0,0,0,0,True,caught,M Kartik,ST Jayasuriya,death
+1,Kolkata Knight Riders,20,4,LR Shukla,CRD Fernando,I Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,LR Shukla,CRD Fernando,I Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6.wides,LR Shukla,CRD Fernando,I Sharma,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,LR Shukla,CRD Fernando,I Sharma,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Mumbai Indians,1,1,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2.wides,AM Rahane,AB Agarkar,ST Jayasuriya,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,2,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3.wides,AM Rahane,AB Agarkar,ST Jayasuriya,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,3,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,4,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,5,AM Rahane,AB Agarkar,ST Jayasuriya,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,1,6,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,1,ST Jayasuriya,I Sharma,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,2,ST Jayasuriya,I Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,3,ST Jayasuriya,I Sharma,AM Rahane,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,4,ST Jayasuriya,I Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,5,ST Jayasuriya,I Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,2,6,ST Jayasuriya,I Sharma,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,1,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,2,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,3,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,4,AM Rahane,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,DJ Hussey,powerplay
+2,Mumbai Indians,3,5,MK Pandey,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6.wides,MK Pandey,AB Agarkar,ST Jayasuriya,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,3,6,MK Pandey,AB Agarkar,ST Jayasuriya,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,1,ST Jayasuriya,I Sharma,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,2,ST Jayasuriya,I Sharma,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,3,ST Jayasuriya,I Sharma,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,4,ST Jayasuriya,I Sharma,MK Pandey,0,0,0,,0,0,0,0,0,True,bowled,ST Jayasuriya,,powerplay
+2,Mumbai Indians,4,5,RV Uthappa,I Sharma,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,4,6,RV Uthappa,I Sharma,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,1,MK Pandey,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,True,bowled,MK Pandey,,powerplay
+2,Mumbai Indians,5,2,DJ Bravo,AB Dinda,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,3,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,4,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,5,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,5,6,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,1,RV Uthappa,I Sharma,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,2,RV Uthappa,I Sharma,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,3,RV Uthappa,I Sharma,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,4,DJ Bravo,I Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Mumbai Indians,6,5,DJ Bravo,I Sharma,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,6,6,DJ Bravo,I Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,1,RV Uthappa,AB Dinda,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,2,RV Uthappa,AB Dinda,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,3,RV Uthappa,AB Dinda,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,4,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,5,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,7,6,DJ Bravo,AB Dinda,RV Uthappa,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+2,Mumbai Indians,8,1,RV Uthappa,M Kartik,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,2,DJ Bravo,M Kartik,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,3,DJ Bravo,M Kartik,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,4,DJ Bravo,M Kartik,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Mumbai Indians,8,5,RV Uthappa,M Kartik,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,8,6,DJ Bravo,M Kartik,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,1,DJ Bravo,Mohammad Hafeez,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,2,DJ Bravo,Mohammad Hafeez,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,3,RV Uthappa,Mohammad Hafeez,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,4,DJ Bravo,Mohammad Hafeez,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,5.wides,RV Uthappa,Mohammad Hafeez,DJ Bravo,0,5,5,wides,5,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,5,RV Uthappa,Mohammad Hafeez,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,9,6,RV Uthappa,Mohammad Hafeez,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,1,DJ Bravo,M Kartik,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,2,RV Uthappa,M Kartik,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,3,RV Uthappa,M Kartik,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,4,RV Uthappa,M Kartik,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,5,RV Uthappa,M Kartik,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6.wides,RV Uthappa,M Kartik,DJ Bravo,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Mumbai Indians,10,6,RV Uthappa,M Kartik,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,1,DJ Bravo,SC Ganguly,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,2,RV Uthappa,SC Ganguly,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,3,DJ Bravo,SC Ganguly,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,4,RV Uthappa,SC Ganguly,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,5,DJ Bravo,SC Ganguly,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,11,6,RV Uthappa,SC Ganguly,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,1,RV Uthappa,M Kartik,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,2,DJ Bravo,M Kartik,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,3,DJ Bravo,M Kartik,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,4,DJ Bravo,M Kartik,RV Uthappa,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,5,DJ Bravo,M Kartik,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,12,6,DJ Bravo,M Kartik,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,1,RV Uthappa,SC Ganguly,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Mumbai Indians,13,2,DJ Bravo,SC Ganguly,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,3,DJ Bravo,SC Ganguly,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,4,RV Uthappa,SC Ganguly,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,5,RV Uthappa,SC Ganguly,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,13,6,DJ Bravo,SC Ganguly,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,1,DJ Bravo,AB Dinda,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,2,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,3,DJ Bravo,AB Dinda,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,4,RV Uthappa,AB Dinda,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,5,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,14,6,DJ Bravo,AB Dinda,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,1,RV Uthappa,AB Agarkar,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,2,DJ Bravo,AB Agarkar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,3,DJ Bravo,AB Agarkar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,4,RV Uthappa,AB Agarkar,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,5,RV Uthappa,AB Agarkar,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,15,6,DJ Bravo,AB Agarkar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,1,DJ Bravo,LR Shukla,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,2,DJ Bravo,LR Shukla,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,3,DJ Bravo,LR Shukla,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,4,RV Uthappa,LR Shukla,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,5,RV Uthappa,LR Shukla,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,16,6,DJ Bravo,LR Shukla,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,1,DJ Bravo,AB Agarkar,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,2.noballs,DJ Bravo,AB Agarkar,RV Uthappa,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Mumbai Indians,17,2,DJ Bravo,AB Agarkar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,3,RV Uthappa,AB Agarkar,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,4,RV Uthappa,AB Agarkar,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,5,DJ Bravo,AB Agarkar,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,17,6,DJ Bravo,AB Agarkar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,1,DJ Bravo,AB Dinda,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,2,RV Uthappa,AB Dinda,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,3,DJ Bravo,AB Dinda,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,4,RV Uthappa,AB Dinda,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,5,RV Uthappa,AB Dinda,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,18,6,RV Uthappa,AB Dinda,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,1,DJ Bravo,I Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,2,DJ Bravo,I Sharma,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,3,DJ Bravo,I Sharma,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,death
+2,Mumbai Indians,19,4,DJ Bravo,I Sharma,RV Uthappa,2,0,2,,0,0,0,0,0,False,,,,death

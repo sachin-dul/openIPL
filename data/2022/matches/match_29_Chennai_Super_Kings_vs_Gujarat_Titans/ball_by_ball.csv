@@ -1,0 +1,247 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,RD Gaikwad,Mohammed Shami,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,RD Gaikwad,Mohammed Shami,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,RD Gaikwad,Mohammed Shami,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4.wides,RV Uthappa,Mohammed Shami,RD Gaikwad,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,RV Uthappa,Mohammed Shami,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,RV Uthappa,Mohammed Shami,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,RV Uthappa,Mohammed Shami,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,RV Uthappa,Yash Dayal,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,RV Uthappa,Yash Dayal,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,RV Uthappa,Yash Dayal,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,RD Gaikwad,Yash Dayal,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,RV Uthappa,Yash Dayal,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6.wides,RV Uthappa,Yash Dayal,RD Gaikwad,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,RV Uthappa,Yash Dayal,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,RV Uthappa,Mohammed Shami,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,RV Uthappa,Mohammed Shami,RD Gaikwad,0,0,0,,0,0,0,0,0,True,lbw,RV Uthappa,,powerplay
+1,Chennai Super Kings,3,3,MM Ali,Mohammed Shami,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4.wides,RD Gaikwad,Mohammed Shami,MM Ali,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,RD Gaikwad,Mohammed Shami,MM Ali,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,RD Gaikwad,Mohammed Shami,MM Ali,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,RD Gaikwad,Mohammed Shami,MM Ali,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,RD Gaikwad,Yash Dayal,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,RD Gaikwad,Yash Dayal,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,RD Gaikwad,Yash Dayal,MM Ali,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,RD Gaikwad,Yash Dayal,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,RD Gaikwad,Yash Dayal,MM Ali,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,RD Gaikwad,Yash Dayal,MM Ali,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,RD Gaikwad,Mohammed Shami,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,RD Gaikwad,Mohammed Shami,MM Ali,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,RD Gaikwad,Mohammed Shami,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,RD Gaikwad,Mohammed Shami,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,RD Gaikwad,Mohammed Shami,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,RD Gaikwad,Mohammed Shami,MM Ali,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,MM Ali,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2.wides,MM Ali,AS Joseph,RD Gaikwad,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,MM Ali,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,True,bowled,MM Ali,,powerplay
+1,Chennai Super Kings,6,3,AT Rayudu,AS Joseph,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,RD Gaikwad,AS Joseph,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,RD Gaikwad,AS Joseph,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,RD Gaikwad,AS Joseph,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,AT Rayudu,LH Ferguson,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,RD Gaikwad,LH Ferguson,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,RD Gaikwad,LH Ferguson,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,AT Rayudu,LH Ferguson,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,RD Gaikwad,LH Ferguson,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,RD Gaikwad,LH Ferguson,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,AT Rayudu,Rashid Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,RD Gaikwad,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,AT Rayudu,Rashid Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,RD Gaikwad,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,AT Rayudu,Rashid Khan,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,AT Rayudu,Rashid Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,AT Rayudu,LH Ferguson,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,RD Gaikwad,LH Ferguson,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,AT Rayudu,LH Ferguson,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,RD Gaikwad,LH Ferguson,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,AT Rayudu,LH Ferguson,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,AT Rayudu,LH Ferguson,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,RD Gaikwad,Rashid Khan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,RD Gaikwad,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,AT Rayudu,Rashid Khan,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,AT Rayudu,Rashid Khan,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,AT Rayudu,Rashid Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,RD Gaikwad,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,RD Gaikwad,AS Joseph,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,RD Gaikwad,AS Joseph,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,AT Rayudu,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,AT Rayudu,AS Joseph,RD Gaikwad,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,AT Rayudu,AS Joseph,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,RD Gaikwad,AS Joseph,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,RD Gaikwad,Yash Dayal,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,AT Rayudu,Yash Dayal,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3.noballs,AT Rayudu,Yash Dayal,RD Gaikwad,1,1,2,noballs,0,1,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,RD Gaikwad,Yash Dayal,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,RD Gaikwad,Yash Dayal,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,AT Rayudu,Yash Dayal,RD Gaikwad,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,AT Rayudu,Yash Dayal,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,AT Rayudu,LH Ferguson,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,RD Gaikwad,LH Ferguson,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,AT Rayudu,LH Ferguson,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,AT Rayudu,LH Ferguson,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,RD Gaikwad,LH Ferguson,AT Rayudu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,RD Gaikwad,LH Ferguson,AT Rayudu,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,AT Rayudu,Rashid Khan,RD Gaikwad,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,AT Rayudu,Rashid Khan,RD Gaikwad,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,AT Rayudu,Rashid Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,RD Gaikwad,Rashid Khan,AT Rayudu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,AT Rayudu,Rashid Khan,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,RD Gaikwad,Rashid Khan,AT Rayudu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,AT Rayudu,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,AT Rayudu,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,AT Rayudu,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,True,caught,AT Rayudu,V Shankar,middle
+1,Chennai Super Kings,15,4,S Dube,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,S Dube,AS Joseph,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,S Dube,AS Joseph,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,S Dube,Mohammed Shami,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,S Dube,Mohammed Shami,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,RD Gaikwad,Mohammed Shami,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,S Dube,Mohammed Shami,RD Gaikwad,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,S Dube,Mohammed Shami,RD Gaikwad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,RD Gaikwad,Mohammed Shami,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,RD Gaikwad,Yash Dayal,S Dube,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,RD Gaikwad,Yash Dayal,S Dube,0,0,0,,0,0,0,0,0,True,caught,RD Gaikwad,A Manohar,death
+1,Chennai Super Kings,17,3,RA Jadeja,Yash Dayal,S Dube,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,RA Jadeja,Yash Dayal,S Dube,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,RA Jadeja,Yash Dayal,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,S Dube,Yash Dayal,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,S Dube,AS Joseph,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,S Dube,AS Joseph,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,RA Jadeja,AS Joseph,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,S Dube,AS Joseph,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,S Dube,AS Joseph,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,RA Jadeja,AS Joseph,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,RA Jadeja,Rashid Khan,S Dube,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,RA Jadeja,Rashid Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,S Dube,Rashid Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,RA Jadeja,Rashid Khan,S Dube,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,RA Jadeja,Rashid Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,S Dube,Rashid Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,S Dube,LH Ferguson,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,S Dube,LH Ferguson,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,S Dube,LH Ferguson,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,RA Jadeja,LH Ferguson,S Dube,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,RA Jadeja,LH Ferguson,S Dube,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,RA Jadeja,LH Ferguson,S Dube,1,0,1,,0,0,0,0,0,True,run out,S Dube,"DA Miller, LH Ferguson",death
+2,Gujarat Titans,1,1,WP Saha,Mukesh Choudhary,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,2,WP Saha,Mukesh Choudhary,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,3,WP Saha,Mukesh Choudhary,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,4,WP Saha,Mukesh Choudhary,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,5,WP Saha,Mukesh Choudhary,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6,Shubman Gill,Mukesh Choudhary,WP Saha,0,0,0,,0,0,0,0,0,True,caught,Shubman Gill,RV Uthappa,powerplay
+2,Gujarat Titans,2,1,WP Saha,M Theekshana,V Shankar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,2,V Shankar,M Theekshana,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,3,V Shankar,M Theekshana,WP Saha,0,0,0,,0,0,0,0,0,True,caught,V Shankar,MS Dhoni,powerplay
+2,Gujarat Titans,2,4,A Manohar,M Theekshana,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,5,WP Saha,M Theekshana,A Manohar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,6,A Manohar,M Theekshana,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,1,A Manohar,Mukesh Choudhary,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,2,A Manohar,Mukesh Choudhary,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,3,A Manohar,Mukesh Choudhary,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,4,A Manohar,Mukesh Choudhary,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,5,A Manohar,Mukesh Choudhary,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,6,A Manohar,Mukesh Choudhary,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,1,A Manohar,M Theekshana,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,2,A Manohar,M Theekshana,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,3,WP Saha,M Theekshana,A Manohar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,4,A Manohar,M Theekshana,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,5,A Manohar,M Theekshana,WP Saha,0,0,0,,0,0,0,0,0,True,caught,A Manohar,MM Ali,powerplay
+2,Gujarat Titans,4,6,DA Miller,M Theekshana,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,1,WP Saha,CJ Jordan,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,2,DA Miller,CJ Jordan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,3,WP Saha,CJ Jordan,DA Miller,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,4,WP Saha,CJ Jordan,DA Miller,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Gujarat Titans,5,5,DA Miller,CJ Jordan,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,6,DA Miller,CJ Jordan,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,1,WP Saha,M Theekshana,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,2,DA Miller,M Theekshana,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,3,WP Saha,M Theekshana,DA Miller,0,4,4,byes,0,0,4,0,0,False,,,,powerplay
+2,Gujarat Titans,6,4,WP Saha,M Theekshana,DA Miller,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,5,DA Miller,M Theekshana,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,6,DA Miller,M Theekshana,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,7,1,DA Miller,Mukesh Choudhary,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,2,WP Saha,Mukesh Choudhary,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,3,WP Saha,Mukesh Choudhary,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,4,DA Miller,Mukesh Choudhary,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,5,DA Miller,Mukesh Choudhary,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,6.wides,DA Miller,Mukesh Choudhary,WP Saha,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,6,DA Miller,Mukesh Choudhary,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,1,DA Miller,RA Jadeja,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,2,WP Saha,RA Jadeja,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,3,DA Miller,RA Jadeja,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,4,DA Miller,RA Jadeja,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,5,DA Miller,RA Jadeja,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,6,WP Saha,RA Jadeja,DA Miller,0,0,0,,0,0,0,0,0,True,caught,WP Saha,RD Gaikwad,middle
+2,Gujarat Titans,9,1,DA Miller,MM Ali,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,2,R Tewatia,MM Ali,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,3,R Tewatia,MM Ali,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,4,R Tewatia,MM Ali,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,5,DA Miller,MM Ali,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,6,DA Miller,MM Ali,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,1,DA Miller,RA Jadeja,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,2,R Tewatia,RA Jadeja,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,3,R Tewatia,RA Jadeja,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,4,R Tewatia,RA Jadeja,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,5,DA Miller,RA Jadeja,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,6,DA Miller,RA Jadeja,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,1,DA Miller,MM Ali,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,2,R Tewatia,MM Ali,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,3,DA Miller,MM Ali,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,4,DA Miller,MM Ali,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,5,R Tewatia,MM Ali,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,6,DA Miller,MM Ali,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,1,R Tewatia,RA Jadeja,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,2,DA Miller,RA Jadeja,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,3,DA Miller,RA Jadeja,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,4,DA Miller,RA Jadeja,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,5,DA Miller,RA Jadeja,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,6,R Tewatia,RA Jadeja,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,1,R Tewatia,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,2,R Tewatia,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,3,R Tewatia,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,4,R Tewatia,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,True,caught,R Tewatia,RA Jadeja,middle
+2,Gujarat Titans,13,5,Rashid Khan,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,6,Rashid Khan,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,1,DA Miller,CJ Jordan,Rashid Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,2,DA Miller,CJ Jordan,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,3,Rashid Khan,CJ Jordan,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,4,DA Miller,CJ Jordan,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,5,Rashid Khan,CJ Jordan,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,6,DA Miller,CJ Jordan,Rashid Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,1,Rashid Khan,DJ Bravo,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,2,DA Miller,DJ Bravo,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,3,Rashid Khan,DJ Bravo,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,4,DA Miller,DJ Bravo,Rashid Khan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,5,DA Miller,DJ Bravo,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,6,DA Miller,DJ Bravo,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,1,Rashid Khan,M Theekshana,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,2,DA Miller,M Theekshana,Rashid Khan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,3,DA Miller,M Theekshana,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,4,Rashid Khan,M Theekshana,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,5,Rashid Khan,M Theekshana,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,6,DA Miller,M Theekshana,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,1,DA Miller,DJ Bravo,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,2,Rashid Khan,DJ Bravo,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,3,DA Miller,DJ Bravo,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,4,Rashid Khan,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,5,Rashid Khan,DJ Bravo,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,6,DA Miller,DJ Bravo,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,1,Rashid Khan,CJ Jordan,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,2,Rashid Khan,CJ Jordan,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,3,Rashid Khan,CJ Jordan,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,4,Rashid Khan,CJ Jordan,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,5,Rashid Khan,CJ Jordan,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,6,DA Miller,CJ Jordan,Rashid Khan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,1,Rashid Khan,DJ Bravo,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,2,Rashid Khan,DJ Bravo,DA Miller,3,0,3,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,3,DA Miller,DJ Bravo,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,4,Rashid Khan,DJ Bravo,DA Miller,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,5,Rashid Khan,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,True,caught,Rashid Khan,MM Ali,death
+2,Gujarat Titans,19,6,AS Joseph,DJ Bravo,DA Miller,0,0,0,,0,0,0,0,0,True,caught,AS Joseph,CJ Jordan,death
+2,Gujarat Titans,20,1,DA Miller,CJ Jordan,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,2,DA Miller,CJ Jordan,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,3,DA Miller,CJ Jordan,LH Ferguson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,4.noballs,DA Miller,CJ Jordan,LH Ferguson,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Gujarat Titans,20,4,DA Miller,CJ Jordan,LH Ferguson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,5,DA Miller,CJ Jordan,LH Ferguson,2,0,2,,0,0,0,0,0,False,,,,death

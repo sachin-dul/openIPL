@@ -1,0 +1,243 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1,A Mhatre,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,A Mhatre,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,A Mhatre,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4.wides,A Mhatre,Mohammed Siraj,DP Conway,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,A Mhatre,Mohammed Siraj,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,A Mhatre,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,A Mhatre,Mohammed Siraj,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,A Mhatre,Arshad Khan,DP Conway,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,A Mhatre,Arshad Khan,DP Conway,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,A Mhatre,Arshad Khan,DP Conway,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,A Mhatre,Arshad Khan,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,A Mhatre,Arshad Khan,DP Conway,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,A Mhatre,Arshad Khan,DP Conway,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,DP Conway,Mohammed Siraj,A Mhatre,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,DP Conway,Mohammed Siraj,A Mhatre,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,DP Conway,Mohammed Siraj,A Mhatre,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,A Mhatre,Mohammed Siraj,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,DP Conway,Mohammed Siraj,A Mhatre,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,DP Conway,Mohammed Siraj,A Mhatre,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,A Mhatre,M Prasidh Krishna,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,A Mhatre,M Prasidh Krishna,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,A Mhatre,M Prasidh Krishna,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,A Mhatre,M Prasidh Krishna,DP Conway,0,0,0,,0,0,0,0,0,True,caught,A Mhatre,Mohammed Siraj,powerplay
+1,Chennai Super Kings,4,5,Urvil Patel,M Prasidh Krishna,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6.wides,DP Conway,M Prasidh Krishna,Urvil Patel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,DP Conway,M Prasidh Krishna,Urvil Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,Urvil Patel,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,Urvil Patel,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,Urvil Patel,Mohammed Siraj,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4.wides,Urvil Patel,Mohammed Siraj,DP Conway,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,Urvil Patel,Mohammed Siraj,DP Conway,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,Urvil Patel,Mohammed Siraj,DP Conway,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,DP Conway,Mohammed Siraj,Urvil Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,DP Conway,M Prasidh Krishna,Urvil Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2.wides,DP Conway,M Prasidh Krishna,Urvil Patel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,DP Conway,M Prasidh Krishna,Urvil Patel,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,Urvil Patel,M Prasidh Krishna,DP Conway,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,Urvil Patel,M Prasidh Krishna,DP Conway,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,DP Conway,M Prasidh Krishna,Urvil Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,DP Conway,M Prasidh Krishna,Urvil Patel,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,Urvil Patel,G Coetzee,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,Urvil Patel,G Coetzee,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,DP Conway,G Coetzee,Urvil Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,DP Conway,G Coetzee,Urvil Patel,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,7,5,Urvil Patel,G Coetzee,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,Urvil Patel,G Coetzee,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,DP Conway,R Sai Kishore,Urvil Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,Urvil Patel,R Sai Kishore,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,DP Conway,R Sai Kishore,Urvil Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,DP Conway,R Sai Kishore,Urvil Patel,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,DP Conway,R Sai Kishore,Urvil Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,Urvil Patel,R Sai Kishore,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,DP Conway,Rashid Khan,Urvil Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,Urvil Patel,Rashid Khan,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,DP Conway,Rashid Khan,Urvil Patel,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,DP Conway,Rashid Khan,Urvil Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,Urvil Patel,Rashid Khan,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,Urvil Patel,Rashid Khan,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,Urvil Patel,R Sai Kishore,DP Conway,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,Urvil Patel,R Sai Kishore,DP Conway,0,0,0,,0,0,0,0,0,True,caught,Urvil Patel,Shubman Gill,middle
+1,Chennai Super Kings,10,3,S Dube,R Sai Kishore,DP Conway,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,S Dube,R Sai Kishore,DP Conway,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,S Dube,R Sai Kishore,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,DP Conway,R Sai Kishore,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,DP Conway,G Coetzee,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,DP Conway,G Coetzee,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,DP Conway,G Coetzee,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,DP Conway,G Coetzee,S Dube,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,DP Conway,G Coetzee,S Dube,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,11,6,S Dube,G Coetzee,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,S Dube,Rashid Khan,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,DP Conway,Rashid Khan,S Dube,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,DP Conway,Rashid Khan,S Dube,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,DP Conway,Rashid Khan,S Dube,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,DP Conway,Rashid Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,S Dube,Rashid Khan,DP Conway,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,DP Conway,M Shahrukh Khan,S Dube,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,S Dube,M Shahrukh Khan,DP Conway,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,S Dube,M Shahrukh Khan,DP Conway,0,0,0,,0,0,0,0,0,True,caught,S Dube,G Coetzee,middle
+1,Chennai Super Kings,13,4,D Brevis,M Shahrukh Khan,DP Conway,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,D Brevis,M Shahrukh Khan,DP Conway,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,DP Conway,M Shahrukh Khan,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,DP Conway,Rashid Khan,D Brevis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,DP Conway,Rashid Khan,D Brevis,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,DP Conway,Rashid Khan,D Brevis,0,0,0,,0,0,0,0,0,True,bowled,DP Conway,,middle
+1,Chennai Super Kings,14,4,RA Jadeja,Rashid Khan,D Brevis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,RA Jadeja,Rashid Khan,D Brevis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,D Brevis,Rashid Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,D Brevis,M Prasidh Krishna,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,D Brevis,M Prasidh Krishna,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,RA Jadeja,M Prasidh Krishna,D Brevis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,RA Jadeja,M Prasidh Krishna,D Brevis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,RA Jadeja,M Prasidh Krishna,D Brevis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,RA Jadeja,M Prasidh Krishna,D Brevis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,D Brevis,Rashid Khan,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,D Brevis,Rashid Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,RA Jadeja,Rashid Khan,D Brevis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,RA Jadeja,Rashid Khan,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,D Brevis,Rashid Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,RA Jadeja,Rashid Khan,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,RA Jadeja,G Coetzee,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,D Brevis,G Coetzee,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,D Brevis,G Coetzee,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,D Brevis,G Coetzee,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,RA Jadeja,G Coetzee,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,D Brevis,G Coetzee,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,D Brevis,Arshad Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,RA Jadeja,Arshad Khan,D Brevis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,RA Jadeja,Arshad Khan,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,D Brevis,Arshad Khan,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,D Brevis,Arshad Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6.wides,RA Jadeja,Arshad Khan,D Brevis,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,RA Jadeja,Arshad Khan,D Brevis,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,D Brevis,Mohammed Siraj,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,D Brevis,Mohammed Siraj,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,D Brevis,Mohammed Siraj,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,D Brevis,Mohammed Siraj,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,RA Jadeja,Mohammed Siraj,D Brevis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,RA Jadeja,Mohammed Siraj,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,RA Jadeja,M Prasidh Krishna,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,D Brevis,M Prasidh Krishna,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,RA Jadeja,M Prasidh Krishna,D Brevis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,D Brevis,M Prasidh Krishna,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,D Brevis,M Prasidh Krishna,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,D Brevis,M Prasidh Krishna,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,D Brevis,JC Buttler,death
+2,Gujarat Titans,1,1,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,2,Shubman Gill,RA Jadeja,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,3,B Sai Sudharsan,RA Jadeja,Shubman Gill,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,4,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,5,Shubman Gill,RA Jadeja,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,1,B Sai Sudharsan,KK Ahmed,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,2.wides,B Sai Sudharsan,KK Ahmed,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,2,B Sai Sudharsan,KK Ahmed,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,3,Shubman Gill,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,4,Shubman Gill,KK Ahmed,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,5,Shubman Gill,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,6,Shubman Gill,KK Ahmed,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,1,Shubman Gill,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,2,Shubman Gill,A Kamboj,B Sai Sudharsan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,3,Shubman Gill,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,caught,Shubman Gill,Urvil Patel,powerplay
+2,Gujarat Titans,3,4,JC Buttler,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,5,JC Buttler,A Kamboj,B Sai Sudharsan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,6,JC Buttler,A Kamboj,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,1,JC Buttler,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,2,JC Buttler,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,3,JC Buttler,KK Ahmed,B Sai Sudharsan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,4,JC Buttler,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,caught,JC Buttler,A Kamboj,powerplay
+2,Gujarat Titans,4,5,SE Rutherford,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,6,SE Rutherford,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,1,B Sai Sudharsan,A Kamboj,SE Rutherford,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,2,SE Rutherford,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,3,SE Rutherford,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,caught,SE Rutherford,A Mhatre,powerplay
+2,Gujarat Titans,5,4,M Shahrukh Khan,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,5,M Shahrukh Khan,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,6,M Shahrukh Khan,A Kamboj,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,1,B Sai Sudharsan,KK Ahmed,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,2,B Sai Sudharsan,KK Ahmed,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,3,B Sai Sudharsan,KK Ahmed,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,4,B Sai Sudharsan,KK Ahmed,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,6,5,B Sai Sudharsan,KK Ahmed,M Shahrukh Khan,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Gujarat Titans,6,6,M Shahrukh Khan,KK Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,1,B Sai Sudharsan,RA Jadeja,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,2,M Shahrukh Khan,RA Jadeja,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,3,B Sai Sudharsan,RA Jadeja,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,4,B Sai Sudharsan,RA Jadeja,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,5,M Shahrukh Khan,RA Jadeja,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,6,B Sai Sudharsan,RA Jadeja,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,1,B Sai Sudharsan,S Dube,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,2,M Shahrukh Khan,S Dube,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,3,B Sai Sudharsan,S Dube,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,4.wides,B Sai Sudharsan,S Dube,M Shahrukh Khan,0,5,5,wides,5,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,4,B Sai Sudharsan,S Dube,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,5,M Shahrukh Khan,S Dube,B Sai Sudharsan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,6,M Shahrukh Khan,S Dube,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,1,M Shahrukh Khan,Noor Ahmad,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,2,B Sai Sudharsan,Noor Ahmad,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,3,M Shahrukh Khan,Noor Ahmad,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,4,B Sai Sudharsan,Noor Ahmad,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,5,B Sai Sudharsan,Noor Ahmad,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,6,M Shahrukh Khan,Noor Ahmad,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,1,B Sai Sudharsan,S Dube,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,2,B Sai Sudharsan,S Dube,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,3,B Sai Sudharsan,S Dube,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,4,M Shahrukh Khan,S Dube,B Sai Sudharsan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,5,M Shahrukh Khan,S Dube,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,6,B Sai Sudharsan,S Dube,M Shahrukh Khan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,1,M Shahrukh Khan,RA Jadeja,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,caught,M Shahrukh Khan,M Pathirana,middle
+2,Gujarat Titans,11,2,R Tewatia,RA Jadeja,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,3,B Sai Sudharsan,RA Jadeja,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,4,B Sai Sudharsan,RA Jadeja,R Tewatia,0,0,0,,0,0,0,0,0,True,caught,B Sai Sudharsan,S Dube,middle
+2,Gujarat Titans,11,5,Rashid Khan,RA Jadeja,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,6,Rashid Khan,RA Jadeja,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,1,R Tewatia,M Pathirana,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,2,R Tewatia,M Pathirana,Rashid Khan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,3,R Tewatia,M Pathirana,Rashid Khan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,4,R Tewatia,M Pathirana,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,5.wides,Rashid Khan,M Pathirana,R Tewatia,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,5,Rashid Khan,M Pathirana,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,6,Rashid Khan,M Pathirana,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,1,Rashid Khan,Noor Ahmad,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,13,2,Rashid Khan,Noor Ahmad,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,13,3,Rashid Khan,Noor Ahmad,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,13,4,R Tewatia,Noor Ahmad,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,13,5,Rashid Khan,Noor Ahmad,R Tewatia,0,0,0,,0,0,0,0,0,True,caught,Rashid Khan,Urvil Patel,death
+2,Gujarat Titans,13,6,G Coetzee,Noor Ahmad,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,1,G Coetzee,M Pathirana,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,2,G Coetzee,M Pathirana,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,3,G Coetzee,M Pathirana,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,4,G Coetzee,M Pathirana,R Tewatia,0,0,0,,0,0,0,0,0,True,bowled,G Coetzee,,death
+2,Gujarat Titans,14,5,Arshad Khan,M Pathirana,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,6,Arshad Khan,M Pathirana,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,1,R Tewatia,DJ Hooda,Arshad Khan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,2,R Tewatia,DJ Hooda,Arshad Khan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,3,R Tewatia,DJ Hooda,Arshad Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,4,Arshad Khan,DJ Hooda,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,5.wides,Arshad Khan,DJ Hooda,R Tewatia,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,5,Arshad Khan,DJ Hooda,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,6,Arshad Khan,DJ Hooda,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,1,Arshad Khan,Noor Ahmad,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,2,Arshad Khan,Noor Ahmad,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,3,R Tewatia,Noor Ahmad,Arshad Khan,0,0,0,,0,0,0,0,0,True,caught,R Tewatia,S Dube,death
+2,Gujarat Titans,16,4,R Sai Kishore,Noor Ahmad,Arshad Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,5,R Sai Kishore,Noor Ahmad,Arshad Khan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,6,R Sai Kishore,Noor Ahmad,Arshad Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,1,R Sai Kishore,M Pathirana,Arshad Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,2,Arshad Khan,M Pathirana,R Sai Kishore,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,3,Arshad Khan,M Pathirana,R Sai Kishore,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,4.wides,Arshad Khan,M Pathirana,R Sai Kishore,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,4,Arshad Khan,M Pathirana,R Sai Kishore,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,5,Arshad Khan,M Pathirana,R Sai Kishore,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,6,Arshad Khan,M Pathirana,R Sai Kishore,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,1,R Sai Kishore,Noor Ahmad,Arshad Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,2,Arshad Khan,Noor Ahmad,R Sai Kishore,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,3,Arshad Khan,Noor Ahmad,R Sai Kishore,0,0,0,,0,0,0,0,0,True,bowled,Arshad Khan,,death
+2,Gujarat Titans,18,4,Mohammed Siraj,Noor Ahmad,R Sai Kishore,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,5.wides,Mohammed Siraj,Noor Ahmad,R Sai Kishore,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,5,Mohammed Siraj,Noor Ahmad,R Sai Kishore,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Gujarat Titans,18,6,R Sai Kishore,Noor Ahmad,Mohammed Siraj,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,1,Mohammed Siraj,A Kamboj,R Sai Kishore,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,2,Mohammed Siraj,A Kamboj,R Sai Kishore,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,3,R Sai Kishore,A Kamboj,Mohammed Siraj,0,0,0,,0,0,0,0,0,True,caught,R Sai Kishore,MS Dhoni,death

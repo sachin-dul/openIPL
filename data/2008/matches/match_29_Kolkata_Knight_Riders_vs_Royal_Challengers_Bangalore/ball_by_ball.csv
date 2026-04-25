@@ -1,0 +1,198 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,A Chopra,DW Steyn,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,A Chopra,DW Steyn,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,BJ Hodge,DW Steyn,A Chopra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,BJ Hodge,DW Steyn,A Chopra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,BJ Hodge,DW Steyn,A Chopra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,A Chopra,DW Steyn,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,BJ Hodge,Z Khan,A Chopra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,A Chopra,Z Khan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,BJ Hodge,Z Khan,A Chopra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,BJ Hodge,Z Khan,A Chopra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,BJ Hodge,Z Khan,A Chopra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6.wides,BJ Hodge,Z Khan,A Chopra,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,BJ Hodge,Z Khan,A Chopra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,A Chopra,DW Steyn,BJ Hodge,0,0,0,,0,0,0,0,0,True,lbw,A Chopra,,powerplay
+1,Kolkata Knight Riders,3,2.wides,SC Ganguly,DW Steyn,BJ Hodge,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,SC Ganguly,DW Steyn,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,SC Ganguly,DW Steyn,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,SC Ganguly,DW Steyn,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,SC Ganguly,DW Steyn,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,BJ Hodge,DW Steyn,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,SC Ganguly,Z Khan,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,BJ Hodge,Z Khan,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,BJ Hodge,Z Khan,SC Ganguly,0,0,0,,0,0,0,0,0,True,caught,BJ Hodge,R Vinay Kumar,powerplay
+1,Kolkata Knight Riders,4,4,SC Ganguly,Z Khan,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,SC Ganguly,Z Khan,DJ Hussey,5,0,5,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,DJ Hussey,Z Khan,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,SC Ganguly,P Kumar,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,SC Ganguly,P Kumar,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,SC Ganguly,P Kumar,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,DJ Hussey,P Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,DJ Hussey,P Kumar,SC Ganguly,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,DJ Hussey,P Kumar,SC Ganguly,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,1,SC Ganguly,R Vinay Kumar,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,2,SC Ganguly,R Vinay Kumar,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,3,SC Ganguly,R Vinay Kumar,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,4,DJ Hussey,R Vinay Kumar,SC Ganguly,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,5,DJ Hussey,R Vinay Kumar,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,6,6,SC Ganguly,R Vinay Kumar,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,1,SC Ganguly,A Kumble,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,SC Ganguly,A Kumble,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,SC Ganguly,A Kumble,DJ Hussey,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,SC Ganguly,A Kumble,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,SC Ganguly,A Kumble,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,SC Ganguly,A Kumble,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,DJ Hussey,R Vinay Kumar,SC Ganguly,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,SC Ganguly,R Vinay Kumar,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,SC Ganguly,R Vinay Kumar,DJ Hussey,0,0,0,,0,0,0,0,0,True,run out,SC Ganguly,CL White,middle
+1,Kolkata Knight Riders,8,4,DJ Hussey,R Vinay Kumar,T Taibu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,T Taibu,R Vinay Kumar,DJ Hussey,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,T Taibu,R Vinay Kumar,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,DJ Hussey,A Kumble,T Taibu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,T Taibu,A Kumble,DJ Hussey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,3,T Taibu,A Kumble,DJ Hussey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,DJ Hussey,A Kumble,T Taibu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,DJ Hussey,A Kumble,T Taibu,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,DJ Hussey,A Kumble,T Taibu,0,1,1,legbyes,0,0,0,1,0,True,run out,DJ Hussey,"DW Steyn, MV Boucher",middle
+1,Kolkata Knight Riders,10,1,T Taibu,P Kumar,LR Shukla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,T Taibu,P Kumar,LR Shukla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,T Taibu,P Kumar,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,LR Shukla,P Kumar,T Taibu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,T Taibu,P Kumar,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,T Taibu,P Kumar,LR Shukla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,LR Shukla,A Kumble,T Taibu,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,LR Shukla,A Kumble,T Taibu,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,T Taibu,A Kumble,LR Shukla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,11,4,T Taibu,A Kumble,LR Shukla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,11,5,LR Shukla,A Kumble,T Taibu,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,11,6,LR Shukla,A Kumble,T Taibu,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,12,1,LR Shukla,DW Steyn,T Taibu,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kolkata Knight Riders,12,2,T Taibu,DW Steyn,LR Shukla,0,0,0,,0,0,0,0,0,True,caught,T Taibu,MV Boucher,death
+1,Kolkata Knight Riders,12,3,LR Shukla,DW Steyn,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,12,4,LR Shukla,DW Steyn,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,12,5,LR Shukla,DW Steyn,WP Saha,0,0,0,,0,0,0,0,0,True,bowled,LR Shukla,,death
+1,Kolkata Knight Riders,12,6,M Kartik,DW Steyn,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,13,1,M Kartik,R Vinay Kumar,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,13,2,M Kartik,R Vinay Kumar,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,13,3,M Kartik,R Vinay Kumar,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,13,4,WP Saha,R Vinay Kumar,M Kartik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,13,5,WP Saha,R Vinay Kumar,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,13,6,M Kartik,R Vinay Kumar,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,14,1,WP Saha,DW Steyn,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,14,2,M Kartik,DW Steyn,WP Saha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,14,3,M Kartik,DW Steyn,WP Saha,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,14,4,M Kartik,DW Steyn,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,14,5,WP Saha,DW Steyn,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,14,6,M Kartik,DW Steyn,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,15,1,M Kartik,Z Khan,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,15,2,M Kartik,Z Khan,WP Saha,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,15,3,M Kartik,Z Khan,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,15,4,WP Saha,Z Khan,M Kartik,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,15,5,WP Saha,Z Khan,M Kartik,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,15,6,WP Saha,Z Khan,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,1,WP Saha,P Kumar,M Kartik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,WP Saha,P Kumar,M Kartik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,WP Saha,P Kumar,M Kartik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,M Kartik,P Kumar,WP Saha,0,0,0,,0,0,0,0,0,True,caught and bowled,M Kartik,,death
+1,Kolkata Knight Riders,16,5,Umar Gul,P Kumar,WP Saha,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,Umar Gul,P Kumar,WP Saha,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,1,1,J Arunkumar,AB Dinda,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,J Arunkumar,AB Dinda,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,J Arunkumar,AB Dinda,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,J Arunkumar,AB Dinda,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,J Arunkumar,AB Dinda,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,J Arunkumar,AB Dinda,S Chanderpaul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,S Chanderpaul,I Sharma,J Arunkumar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,S Chanderpaul,I Sharma,J Arunkumar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,S Chanderpaul,I Sharma,J Arunkumar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,S Chanderpaul,I Sharma,J Arunkumar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,S Chanderpaul,I Sharma,J Arunkumar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,J Arunkumar,I Sharma,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1.wides,S Chanderpaul,AB Dinda,J Arunkumar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,S Chanderpaul,AB Dinda,J Arunkumar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,S Chanderpaul,AB Dinda,J Arunkumar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,J Arunkumar,AB Dinda,S Chanderpaul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,S Chanderpaul,AB Dinda,J Arunkumar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,J Arunkumar,AB Dinda,S Chanderpaul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,J Arunkumar,AB Dinda,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,S Chanderpaul,I Sharma,J Arunkumar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,S Chanderpaul,I Sharma,J Arunkumar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,3,S Chanderpaul,I Sharma,J Arunkumar,0,0,0,,0,0,0,0,0,True,caught,S Chanderpaul,M Kartik,powerplay
+2,Royal Challengers Bangalore,4,4,MV Boucher,I Sharma,J Arunkumar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,J Arunkumar,I Sharma,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,J Arunkumar,I Sharma,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,J Arunkumar,Umar Gul,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,2,J Arunkumar,Umar Gul,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3.wides,J Arunkumar,Umar Gul,MV Boucher,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3,J Arunkumar,Umar Gul,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,4,J Arunkumar,Umar Gul,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,5,J Arunkumar,Umar Gul,MV Boucher,0,0,0,,0,0,0,0,0,True,run out,J Arunkumar,BJ Hodge,powerplay
+2,Royal Challengers Bangalore,5,6,R Dravid,Umar Gul,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,1,MV Boucher,SC Ganguly,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,2,MV Boucher,SC Ganguly,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,3,MV Boucher,SC Ganguly,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,4,R Dravid,SC Ganguly,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,5,MV Boucher,SC Ganguly,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,6,MV Boucher,SC Ganguly,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,MV Boucher,Umar Gul,R Dravid,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,R Dravid,Umar Gul,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,R Dravid,Umar Gul,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,MV Boucher,Umar Gul,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,5,R Dravid,Umar Gul,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,R Dravid,Umar Gul,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,MV Boucher,SC Ganguly,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,2,MV Boucher,SC Ganguly,R Dravid,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,MV Boucher,SC Ganguly,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,4,R Dravid,SC Ganguly,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,MV Boucher,SC Ganguly,R Dravid,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,R Dravid,SC Ganguly,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,MV Boucher,M Kartik,R Dravid,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,R Dravid,M Kartik,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,MV Boucher,M Kartik,R Dravid,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,MV Boucher,M Kartik,R Dravid,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,R Dravid,M Kartik,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,6,MV Boucher,M Kartik,R Dravid,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,1,R Dravid,SC Ganguly,MV Boucher,0,0,0,,0,0,0,0,0,True,bowled,R Dravid,,middle
+2,Royal Challengers Bangalore,10,2,CL White,SC Ganguly,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,3,CL White,SC Ganguly,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,4,CL White,SC Ganguly,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,5,MV Boucher,SC Ganguly,CL White,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,6,MV Boucher,SC Ganguly,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,1,MV Boucher,LR Shukla,CL White,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,2,CL White,LR Shukla,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,3,CL White,LR Shukla,MV Boucher,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,4,CL White,LR Shukla,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,5,MV Boucher,LR Shukla,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,6,CL White,LR Shukla,MV Boucher,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,1,MV Boucher,AB Dinda,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,2,CL White,AB Dinda,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,3,MV Boucher,AB Dinda,CL White,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,4,MV Boucher,AB Dinda,CL White,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,5,MV Boucher,AB Dinda,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,6,CL White,AB Dinda,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,1,CL White,Umar Gul,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,2,CL White,Umar Gul,MV Boucher,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,3,CL White,Umar Gul,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,4,MV Boucher,Umar Gul,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,5,CL White,Umar Gul,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,6.noballs,CL White,Umar Gul,MV Boucher,1,1,2,noballs,0,1,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,6,MV Boucher,Umar Gul,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,1,MV Boucher,I Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,2,CL White,I Sharma,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,3,MV Boucher,I Sharma,CL White,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,4,MV Boucher,I Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,5,CL White,I Sharma,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,6,MV Boucher,I Sharma,CL White,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,1,MV Boucher,M Kartik,CL White,0,0,0,,0,0,0,0,0,True,run out,CL White,M Kartik,death
+2,Royal Challengers Bangalore,15,2,MV Boucher,M Kartik,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,3,MV Boucher,M Kartik,P Kumar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,4,MV Boucher,M Kartik,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,5,MV Boucher,M Kartik,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,15,6,P Kumar,M Kartik,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,1,MV Boucher,I Sharma,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,2,MV Boucher,I Sharma,P Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,3,MV Boucher,I Sharma,P Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,4,MV Boucher,I Sharma,P Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,5,MV Boucher,I Sharma,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,6,P Kumar,I Sharma,MV Boucher,4,0,4,,0,0,0,0,0,False,,,,death

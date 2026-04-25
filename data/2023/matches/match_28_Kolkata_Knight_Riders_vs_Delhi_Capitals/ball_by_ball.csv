@@ -1,0 +1,252 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,JJ Roy,I Sharma,Liton Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,JJ Roy,I Sharma,Liton Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,JJ Roy,I Sharma,Liton Das,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,Liton Das,I Sharma,JJ Roy,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,Liton Das,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,Liton Das,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,JJ Roy,Mukesh Kumar,Liton Das,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,JJ Roy,Mukesh Kumar,Liton Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,JJ Roy,Mukesh Kumar,Liton Das,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,JJ Roy,Mukesh Kumar,Liton Das,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5.wides,JJ Roy,Mukesh Kumar,Liton Das,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,JJ Roy,Mukesh Kumar,Liton Das,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,Liton Das,Mukesh Kumar,JJ Roy,0,0,0,,0,0,0,0,0,True,caught,Liton Das,Lalit Yadav,powerplay
+1,Kolkata Knight Riders,3,1,JJ Roy,I Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,JJ Roy,I Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,JJ Roy,I Sharma,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,JJ Roy,I Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,JJ Roy,I Sharma,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,VR Iyer,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,JJ Roy,A Nortje,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,JJ Roy,A Nortje,VR Iyer,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,VR Iyer,A Nortje,JJ Roy,0,0,0,,0,0,0,0,0,True,caught,VR Iyer,MR Marsh,powerplay
+1,Kolkata Knight Riders,4,4,N Rana,A Nortje,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,N Rana,A Nortje,JJ Roy,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,N Rana,A Nortje,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1.wides,JJ Roy,Mukesh Kumar,N Rana,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,JJ Roy,Mukesh Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,JJ Roy,Mukesh Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,JJ Roy,Mukesh Kumar,N Rana,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,N Rana,Mukesh Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,N Rana,Mukesh Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,N Rana,Mukesh Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,JJ Roy,I Sharma,N Rana,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,N Rana,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,True,caught,N Rana,Mukesh Kumar,powerplay
+1,Kolkata Knight Riders,6,3,Mandeep Singh,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,4,Mandeep Singh,I Sharma,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,JJ Roy,I Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,6,Mandeep Singh,I Sharma,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,7,1,Mandeep Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,Mandeep Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,Mandeep Singh,AR Patel,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,JJ Roy,AR Patel,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,JJ Roy,AR Patel,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,Mandeep Singh,AR Patel,JJ Roy,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,JJ Roy,MR Marsh,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2.wides,JJ Roy,MR Marsh,Mandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,JJ Roy,MR Marsh,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,Mandeep Singh,MR Marsh,JJ Roy,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,Mandeep Singh,MR Marsh,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,Mandeep Singh,MR Marsh,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,JJ Roy,MR Marsh,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,JJ Roy,AR Patel,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,Mandeep Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,True,bowled,Mandeep Singh,,middle
+1,Kolkata Knight Riders,9,3,RK Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,RK Singh,AR Patel,JJ Roy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,RK Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,RK Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,JJ Roy,Kuldeep Yadav,RK Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,JJ Roy,Kuldeep Yadav,RK Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,JJ Roy,Kuldeep Yadav,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,RK Singh,Kuldeep Yadav,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,JJ Roy,Kuldeep Yadav,RK Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,RK Singh,Kuldeep Yadav,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,RK Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,RK Singh,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,True,caught,RK Singh,Lalit Yadav,middle
+1,Kolkata Knight Riders,11,3,SP Narine,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,SP Narine,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,SP Narine,AR Patel,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,SP Narine,AR Patel,JJ Roy,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1.wides,JJ Roy,I Sharma,SP Narine,0,2,2,wides,2,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,SP Narine,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,SP Narine,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,True,caught,SP Narine,DA Warner,middle
+1,Kolkata Knight Riders,12,3,AD Russell,I Sharma,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,JJ Roy,I Sharma,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,AD Russell,I Sharma,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,AD Russell,I Sharma,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,1,AD Russell,A Nortje,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,JJ Roy,A Nortje,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,AD Russell,A Nortje,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,4,AD Russell,A Nortje,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,AD Russell,A Nortje,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,JJ Roy,A Nortje,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,JJ Roy,MR Marsh,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,2,AD Russell,MR Marsh,JJ Roy,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,AD Russell,MR Marsh,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,4,JJ Roy,MR Marsh,AD Russell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,JJ Roy,MR Marsh,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6.wides,AD Russell,MR Marsh,JJ Roy,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,AD Russell,MR Marsh,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,AD Russell,Kuldeep Yadav,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,JJ Roy,Kuldeep Yadav,AD Russell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,JJ Roy,Kuldeep Yadav,AD Russell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,JJ Roy,Kuldeep Yadav,AD Russell,0,0,0,,0,0,0,0,0,True,caught,JJ Roy,Aman Hakim Khan,middle
+1,Kolkata Knight Riders,15,5,AS Roy,Kuldeep Yadav,AD Russell,0,0,0,,0,0,0,0,0,True,lbw,AS Roy,,middle
+1,Kolkata Knight Riders,15,6,UT Yadav,Kuldeep Yadav,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,UT Yadav,A Nortje,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,UT Yadav,A Nortje,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,UT Yadav,A Nortje,AD Russell,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,UT Yadav,A Nortje,AD Russell,0,0,0,,0,0,0,0,0,True,caught and bowled,UT Yadav,,death
+1,Kolkata Knight Riders,16,5,CV Varun,A Nortje,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6.wides,CV Varun,A Nortje,AD Russell,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,CV Varun,A Nortje,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,AD Russell,Mukesh Kumar,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,AD Russell,Mukesh Kumar,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3.wides,AD Russell,Mukesh Kumar,CV Varun,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3,AD Russell,Mukesh Kumar,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,AD Russell,Mukesh Kumar,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5,AD Russell,Mukesh Kumar,CV Varun,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6.wides,CV Varun,Mukesh Kumar,AD Russell,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6,CV Varun,Mukesh Kumar,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,1,AD Russell,A Nortje,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,AD Russell,A Nortje,CV Varun,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,AD Russell,A Nortje,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4.wides,AD Russell,A Nortje,CV Varun,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,AD Russell,A Nortje,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,AD Russell,A Nortje,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,AD Russell,A Nortje,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,CV Varun,Kuldeep Yadav,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2,CV Varun,Kuldeep Yadav,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,3,AD Russell,Kuldeep Yadav,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4.wides,AD Russell,Kuldeep Yadav,CV Varun,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4,AD Russell,Kuldeep Yadav,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,AD Russell,Kuldeep Yadav,CV Varun,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,CV Varun,Kuldeep Yadav,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,AD Russell,Mukesh Kumar,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,AD Russell,Mukesh Kumar,CV Varun,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,AD Russell,Mukesh Kumar,CV Varun,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,4,AD Russell,Mukesh Kumar,CV Varun,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,AD Russell,Mukesh Kumar,CV Varun,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,AD Russell,Mukesh Kumar,CV Varun,1,0,1,,0,0,0,0,0,True,run out,CV Varun,"YV Dhull, PD Salt",death
+2,Delhi Capitals,1,1,DA Warner,UT Yadav,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,2,DA Warner,UT Yadav,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,3,DA Warner,UT Yadav,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,4,PP Shaw,UT Yadav,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,5,DA Warner,UT Yadav,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,6,DA Warner,UT Yadav,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,1,PP Shaw,K Khejroliya,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,2,PP Shaw,K Khejroliya,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,3,DA Warner,K Khejroliya,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,4,DA Warner,K Khejroliya,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,5,DA Warner,K Khejroliya,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,6,DA Warner,K Khejroliya,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,1.noballs,PP Shaw,AD Russell,DA Warner,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,1,DA Warner,AD Russell,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,2,DA Warner,AD Russell,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,3,DA Warner,AD Russell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,4,DA Warner,AD Russell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,5,DA Warner,AD Russell,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,6,DA Warner,AD Russell,PP Shaw,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,1,PP Shaw,SP Narine,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,2,PP Shaw,SP Narine,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,3,DA Warner,SP Narine,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,4,PP Shaw,SP Narine,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,5,PP Shaw,SP Narine,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,4,6,DA Warner,SP Narine,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,1,PP Shaw,CV Varun,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,2,PP Shaw,CV Varun,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,3,PP Shaw,CV Varun,DA Warner,0,0,0,,0,0,0,0,0,True,bowled,PP Shaw,,powerplay
+2,Delhi Capitals,5,4,MR Marsh,CV Varun,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,5,DA Warner,CV Varun,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,5,6,DA Warner,CV Varun,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,1,DA Warner,SP Narine,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,2,DA Warner,SP Narine,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,3,DA Warner,SP Narine,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,4.wides,DA Warner,SP Narine,MR Marsh,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,4,DA Warner,SP Narine,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,5,DA Warner,SP Narine,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,6,DA Warner,SP Narine,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,1,MR Marsh,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,2,MR Marsh,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,3,MR Marsh,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,4,MR Marsh,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,5,MR Marsh,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,7,6,MR Marsh,AS Roy,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,1,MR Marsh,N Rana,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,2,MR Marsh,N Rana,DA Warner,0,0,0,,0,0,0,0,0,True,caught,MR Marsh,D Wiese,middle
+2,Delhi Capitals,8,3,PD Salt,N Rana,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,4,PD Salt,N Rana,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,5,DA Warner,N Rana,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,8,6,DA Warner,N Rana,PD Salt,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,1,PD Salt,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,True,caught and bowled,PD Salt,,middle
+2,Delhi Capitals,9,2,MK Pandey,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,3,MK Pandey,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,4,MK Pandey,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,5,MK Pandey,AS Roy,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,9,6,DA Warner,AS Roy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,1,DA Warner,N Rana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,2,MK Pandey,N Rana,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,3,DA Warner,N Rana,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,4,MK Pandey,N Rana,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,5,DA Warner,N Rana,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,10,6,DA Warner,N Rana,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,1,MK Pandey,AS Roy,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,2,DA Warner,AS Roy,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,3,DA Warner,AS Roy,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,4,DA Warner,AS Roy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,5,MK Pandey,AS Roy,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,11,6,MK Pandey,AS Roy,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,1,DA Warner,CV Varun,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,2,MK Pandey,CV Varun,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,3,DA Warner,CV Varun,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,4,MK Pandey,CV Varun,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,5,MK Pandey,CV Varun,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,6,MK Pandey,CV Varun,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,1,MK Pandey,SP Narine,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,2,DA Warner,SP Narine,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,3,MK Pandey,SP Narine,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,4,DA Warner,SP Narine,MK Pandey,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Delhi Capitals,13,5,MK Pandey,SP Narine,DA Warner,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,13,6,DA Warner,SP Narine,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,1,DA Warner,CV Varun,MK Pandey,0,0,0,,0,0,0,0,0,True,lbw,DA Warner,,death
+2,Delhi Capitals,14,2,AR Patel,CV Varun,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,3,AR Patel,CV Varun,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,4,AR Patel,CV Varun,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,5,AR Patel,CV Varun,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,14,6,AR Patel,CV Varun,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,1,MK Pandey,SP Narine,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,2,MK Pandey,SP Narine,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,3,AR Patel,SP Narine,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,4,MK Pandey,SP Narine,AR Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,5,MK Pandey,SP Narine,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,15,6,AR Patel,SP Narine,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,1,MK Pandey,AS Roy,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,2.wides,AR Patel,AS Roy,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,2,AR Patel,AS Roy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,3,MK Pandey,AS Roy,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,4.wides,AR Patel,AS Roy,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,4,AR Patel,AS Roy,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,16,5,MK Pandey,AS Roy,AR Patel,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,RK Singh,death
+2,Delhi Capitals,16,6,Aman Hakim Khan,AS Roy,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,1,AR Patel,N Rana,Aman Hakim Khan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,2,Aman Hakim Khan,N Rana,AR Patel,0,0,0,,0,0,0,0,0,True,bowled,Aman Hakim Khan,,death
+2,Delhi Capitals,17,3,Lalit Yadav,N Rana,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,4,Lalit Yadav,N Rana,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,5,AR Patel,N Rana,Lalit Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,17,6,Lalit Yadav,N Rana,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,1,AR Patel,CV Varun,Lalit Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Delhi Capitals,18,2,Lalit Yadav,CV Varun,AR Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,3,Lalit Yadav,CV Varun,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,4,AR Patel,CV Varun,Lalit Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,5,AR Patel,CV Varun,Lalit Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,18,6,AR Patel,CV Varun,Lalit Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,1,AR Patel,N Rana,Lalit Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,2,Lalit Yadav,N Rana,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,3,AR Patel,N Rana,Lalit Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,4,Lalit Yadav,N Rana,AR Patel,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,5,AR Patel,N Rana,Lalit Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,19,6,AR Patel,N Rana,Lalit Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,1,AR Patel,K Khejroliya,Lalit Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,20,2.noballs,AR Patel,K Khejroliya,Lalit Yadav,2,1,3,noballs,0,1,0,0,0,False,,,,death
+2,Delhi Capitals,20,2,AR Patel,K Khejroliya,Lalit Yadav,2,0,2,,0,0,0,0,0,False,,,,death

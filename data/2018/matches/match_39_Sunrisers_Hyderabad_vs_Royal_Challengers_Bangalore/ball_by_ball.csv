@@ -1,0 +1,250 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Sunrisers Hyderabad,1,1,AD Hales,MM Ali,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,2,S Dhawan,MM Ali,AD Hales,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,3,AD Hales,MM Ali,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,4,AD Hales,MM Ali,S Dhawan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,5,S Dhawan,MM Ali,AD Hales,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,6,S Dhawan,MM Ali,AD Hales,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,1,S Dhawan,UT Yadav,AD Hales,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,2,S Dhawan,UT Yadav,AD Hales,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,3,S Dhawan,UT Yadav,AD Hales,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4.wides,S Dhawan,UT Yadav,AD Hales,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4,S Dhawan,UT Yadav,AD Hales,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,5,S Dhawan,UT Yadav,AD Hales,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,6,AD Hales,UT Yadav,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,1,S Dhawan,TG Southee,AD Hales,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,2,S Dhawan,TG Southee,AD Hales,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,3,AD Hales,TG Southee,S Dhawan,0,0,0,,0,0,0,0,0,True,bowled,AD Hales,,powerplay
+1,Sunrisers Hyderabad,3,4,KS Williamson,TG Southee,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,5,KS Williamson,TG Southee,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,6,S Dhawan,TG Southee,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,1,KS Williamson,UT Yadav,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,2,S Dhawan,UT Yadav,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,3,KS Williamson,UT Yadav,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,4,KS Williamson,UT Yadav,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,5,S Dhawan,UT Yadav,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,6,KS Williamson,UT Yadav,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,1.wides,KS Williamson,TG Southee,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,1,KS Williamson,TG Southee,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,2,S Dhawan,TG Southee,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,3,KS Williamson,TG Southee,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,4,KS Williamson,TG Southee,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,5,KS Williamson,TG Southee,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,6,S Dhawan,TG Southee,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,1,S Dhawan,Mohammed Siraj,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,2,KS Williamson,Mohammed Siraj,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,3,S Dhawan,Mohammed Siraj,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,4,S Dhawan,Mohammed Siraj,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,5,S Dhawan,Mohammed Siraj,KS Williamson,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,TG Southee,powerplay
+1,Sunrisers Hyderabad,6,6,KS Williamson,Mohammed Siraj,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,7,1,MK Pandey,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,2,KS Williamson,YS Chahal,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,3,KS Williamson,YS Chahal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,4,MK Pandey,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,5,MK Pandey,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,6,KS Williamson,YS Chahal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,1,KS Williamson,MM Ali,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,2,MK Pandey,MM Ali,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,3,MK Pandey,MM Ali,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,4,KS Williamson,MM Ali,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,5,KS Williamson,MM Ali,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,6,MK Pandey,MM Ali,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,1,KS Williamson,YS Chahal,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,2,MK Pandey,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,True,caught,MK Pandey,V Kohli,middle
+1,Sunrisers Hyderabad,9,3,Shakib Al Hasan,YS Chahal,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,4,Shakib Al Hasan,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,5,Shakib Al Hasan,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,6,Shakib Al Hasan,YS Chahal,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,1,KS Williamson,MM Ali,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,2,Shakib Al Hasan,MM Ali,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,3,Shakib Al Hasan,MM Ali,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,4,Shakib Al Hasan,MM Ali,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,5,Shakib Al Hasan,MM Ali,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,6,KS Williamson,MM Ali,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,1,KS Williamson,YS Chahal,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,2,KS Williamson,YS Chahal,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,3,KS Williamson,YS Chahal,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,4,KS Williamson,YS Chahal,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,5,Shakib Al Hasan,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,6.noballs,KS Williamson,YS Chahal,Shakib Al Hasan,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,6,KS Williamson,YS Chahal,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,1,Shakib Al Hasan,C de Grandhomme,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,2,Shakib Al Hasan,C de Grandhomme,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,3,Shakib Al Hasan,C de Grandhomme,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,4,KS Williamson,C de Grandhomme,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,5,Shakib Al Hasan,C de Grandhomme,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,6.wides,Shakib Al Hasan,C de Grandhomme,KS Williamson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,6,Shakib Al Hasan,C de Grandhomme,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,1,Shakib Al Hasan,Mohammed Siraj,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,2,KS Williamson,Mohammed Siraj,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,3,Shakib Al Hasan,Mohammed Siraj,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,4.wides,Shakib Al Hasan,Mohammed Siraj,KS Williamson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,4,Shakib Al Hasan,Mohammed Siraj,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,5,Shakib Al Hasan,Mohammed Siraj,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,6,Shakib Al Hasan,Mohammed Siraj,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,1,Shakib Al Hasan,UT Yadav,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,2,Shakib Al Hasan,UT Yadav,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,3,KS Williamson,UT Yadav,Shakib Al Hasan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,4,KS Williamson,UT Yadav,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,5,KS Williamson,UT Yadav,Shakib Al Hasan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,6.wides,KS Williamson,UT Yadav,Shakib Al Hasan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,6,KS Williamson,UT Yadav,Shakib Al Hasan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,1,Shakib Al Hasan,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,2,KS Williamson,YS Chahal,Shakib Al Hasan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,3,KS Williamson,YS Chahal,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,4,Shakib Al Hasan,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,5,KS Williamson,YS Chahal,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,6,Shakib Al Hasan,YS Chahal,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,16,1,Shakib Al Hasan,UT Yadav,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,2,Shakib Al Hasan,UT Yadav,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,3,KS Williamson,UT Yadav,Shakib Al Hasan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,4,KS Williamson,UT Yadav,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,5,Shakib Al Hasan,UT Yadav,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,6,KS Williamson,UT Yadav,Shakib Al Hasan,0,0,0,,0,0,0,0,0,True,caught,KS Williamson,Mandeep Singh,death
+1,Sunrisers Hyderabad,17,1,YK Pathan,Mohammed Siraj,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,2,Shakib Al Hasan,Mohammed Siraj,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,3,Shakib Al Hasan,Mohammed Siraj,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,4,Shakib Al Hasan,Mohammed Siraj,YK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,5,Shakib Al Hasan,Mohammed Siraj,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,6,YK Pathan,Mohammed Siraj,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,1,YK Pathan,TG Southee,Shakib Al Hasan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,2,Shakib Al Hasan,TG Southee,YK Pathan,0,0,0,,0,0,0,0,0,True,caught,Shakib Al Hasan,UT Yadav,death
+1,Sunrisers Hyderabad,18,3,WP Saha,TG Southee,YK Pathan,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Sunrisers Hyderabad,18,4,YK Pathan,TG Southee,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,5,YK Pathan,TG Southee,WP Saha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,6,YK Pathan,TG Southee,WP Saha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,1,YK Pathan,Mohammed Siraj,WP Saha,0,0,0,,0,0,0,0,0,True,bowled,YK Pathan,,death
+1,Sunrisers Hyderabad,19,2,Rashid Khan,Mohammed Siraj,WP Saha,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Sunrisers Hyderabad,19,3,WP Saha,Mohammed Siraj,Rashid Khan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,4,WP Saha,Mohammed Siraj,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,5,WP Saha,Mohammed Siraj,Rashid Khan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,6,WP Saha,Mohammed Siraj,Rashid Khan,0,0,0,,0,0,0,0,0,True,bowled,WP Saha,,death
+1,Sunrisers Hyderabad,20,1,Rashid Khan,TG Southee,B Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,2,Rashid Khan,TG Southee,B Kumar,1,0,1,,0,0,0,0,0,True,run out,Rashid Khan,,death
+1,Sunrisers Hyderabad,20,3,S Kaul,TG Southee,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,4,B Kumar,TG Southee,S Kaul,0,0,0,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,5,B Kumar,TG Southee,S Kaul,1,0,1,,0,0,0,0,0,True,run out,S Kaul,,death
+1,Sunrisers Hyderabad,20,6,Sandeep Sharma,TG Southee,B Kumar,0,0,0,,0,0,0,0,0,True,lbw,Sandeep Sharma,,death
+2,Royal Challengers Bangalore,1,1.wides,M Vohra,Sandeep Sharma,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,1,M Vohra,Sandeep Sharma,PA Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,PA Patel,Sandeep Sharma,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,PA Patel,Sandeep Sharma,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,M Vohra,Sandeep Sharma,PA Patel,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,M Vohra,Sandeep Sharma,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,M Vohra,Sandeep Sharma,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,PA Patel,B Kumar,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,PA Patel,B Kumar,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,PA Patel,B Kumar,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,PA Patel,B Kumar,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,PA Patel,B Kumar,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,PA Patel,B Kumar,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,PA Patel,Shakib Al Hasan,M Vohra,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,PA Patel,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,PA Patel,Shakib Al Hasan,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,PA Patel,Shakib Al Hasan,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,PA Patel,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,True,lbw,PA Patel,,powerplay
+2,Royal Challengers Bangalore,3,6,V Kohli,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,V Kohli,B Kumar,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,V Kohli,B Kumar,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,3,V Kohli,B Kumar,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,4,M Vohra,B Kumar,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,V Kohli,B Kumar,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,V Kohli,B Kumar,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,V Kohli,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,2,V Kohli,Shakib Al Hasan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,3,V Kohli,Shakib Al Hasan,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,4,V Kohli,Shakib Al Hasan,M Vohra,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,5,V Kohli,Shakib Al Hasan,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,6,V Kohli,Shakib Al Hasan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,1,V Kohli,S Kaul,M Vohra,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,2,V Kohli,S Kaul,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,3,M Vohra,S Kaul,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,4,V Kohli,S Kaul,M Vohra,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,5,V Kohli,S Kaul,M Vohra,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,6,6,M Vohra,S Kaul,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,7,1,M Vohra,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,V Kohli,Rashid Khan,M Vohra,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,3,M Vohra,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,V Kohli,Rashid Khan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,5,V Kohli,Rashid Khan,M Vohra,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,V Kohli,Rashid Khan,M Vohra,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,M Vohra,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,M Vohra,,middle
+2,Royal Challengers Bangalore,8,2,AB de Villiers,Sandeep Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,V Kohli,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,4,AB de Villiers,Sandeep Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,V Kohli,Sandeep Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,AB de Villiers,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,V Kohli,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,V Kohli,Rashid Khan,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,V Kohli,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,V Kohli,Rashid Khan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5.wides,AB de Villiers,Rashid Khan,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,AB de Villiers,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,6,V Kohli,Rashid Khan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,1,AB de Villiers,Shakib Al Hasan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,2,V Kohli,Shakib Al Hasan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,3,AB de Villiers,Shakib Al Hasan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,4,V Kohli,Shakib Al Hasan,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,10,5,V Kohli,Shakib Al Hasan,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,V Kohli,YK Pathan,middle
+2,Royal Challengers Bangalore,10,6,MM Ali,Shakib Al Hasan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,1,MM Ali,Rashid Khan,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,2,MM Ali,Rashid Khan,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,3,AB de Villiers,Rashid Khan,MM Ali,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,4,AB de Villiers,Rashid Khan,MM Ali,0,0,0,,0,0,0,0,0,True,bowled,AB de Villiers,,middle
+2,Royal Challengers Bangalore,11,5,Mandeep Singh,Rashid Khan,MM Ali,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,11,6,Mandeep Singh,Rashid Khan,MM Ali,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,1,MM Ali,S Kaul,Mandeep Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,2,MM Ali,S Kaul,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,3,MM Ali,S Kaul,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,4,MM Ali,S Kaul,Mandeep Singh,0,0,0,,0,0,0,0,0,True,caught,MM Ali,WP Saha,middle
+2,Royal Challengers Bangalore,12,5,C de Grandhomme,S Kaul,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,12,6,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,1,C de Grandhomme,Sandeep Sharma,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,2,C de Grandhomme,Sandeep Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,3,Mandeep Singh,Sandeep Sharma,C de Grandhomme,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,4,Mandeep Singh,Sandeep Sharma,C de Grandhomme,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,5,Mandeep Singh,Sandeep Sharma,C de Grandhomme,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,13,6,Mandeep Singh,Sandeep Sharma,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,1,Mandeep Singh,Shakib Al Hasan,C de Grandhomme,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,2,Mandeep Singh,Shakib Al Hasan,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,3,C de Grandhomme,Shakib Al Hasan,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,4,Mandeep Singh,Shakib Al Hasan,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,5,C de Grandhomme,Shakib Al Hasan,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,14,6,C de Grandhomme,Shakib Al Hasan,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,1,C de Grandhomme,Sandeep Sharma,Mandeep Singh,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,2,C de Grandhomme,Sandeep Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,3,Mandeep Singh,Sandeep Sharma,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,4,C de Grandhomme,Sandeep Sharma,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,5,Mandeep Singh,Sandeep Sharma,C de Grandhomme,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,15,6,Mandeep Singh,Sandeep Sharma,C de Grandhomme,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,16,1,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,2,Mandeep Singh,S Kaul,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,3,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,4,Mandeep Singh,S Kaul,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,5,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,16,6,Mandeep Singh,S Kaul,C de Grandhomme,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,17,1,Mandeep Singh,Rashid Khan,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,2,C de Grandhomme,Rashid Khan,Mandeep Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,3,C de Grandhomme,Rashid Khan,Mandeep Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,4,C de Grandhomme,Rashid Khan,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,5,C de Grandhomme,Rashid Khan,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,6.wides,C de Grandhomme,Rashid Khan,Mandeep Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,17,6,C de Grandhomme,Rashid Khan,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,1,Mandeep Singh,B Kumar,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,2,C de Grandhomme,B Kumar,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,3,C de Grandhomme,B Kumar,Mandeep Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,4,C de Grandhomme,B Kumar,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,5,C de Grandhomme,B Kumar,Mandeep Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,18,6,C de Grandhomme,B Kumar,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,1,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,2,Mandeep Singh,S Kaul,C de Grandhomme,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,3,Mandeep Singh,S Kaul,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,4,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,5,Mandeep Singh,S Kaul,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,19,6,C de Grandhomme,S Kaul,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,1,C de Grandhomme,B Kumar,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,2,Mandeep Singh,B Kumar,C de Grandhomme,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,3,Mandeep Singh,B Kumar,C de Grandhomme,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,4,C de Grandhomme,B Kumar,Mandeep Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,20,5,Mandeep Singh,B Kumar,C de Grandhomme,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bangalore,20,6,C de Grandhomme,B Kumar,Mandeep Singh,0,0,0,,0,0,0,0,0,True,bowled,C de Grandhomme,,death

@@ -1,0 +1,220 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1.wides,DR Smith,JP Duminy,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,1,DR Smith,JP Duminy,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,BB McCullum,JP Duminy,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,DR Smith,JP Duminy,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,BB McCullum,JP Duminy,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,BB McCullum,JP Duminy,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,BB McCullum,JP Duminy,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,DR Smith,Mohammed Shami,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,DR Smith,Mohammed Shami,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,DR Smith,Mohammed Shami,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,DR Smith,Mohammed Shami,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,DR Smith,Mohammed Shami,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,DR Smith,Mohammed Shami,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,BB McCullum,S Nadeem,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,DR Smith,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,BB McCullum,S Nadeem,DR Smith,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,4,BB McCullum,S Nadeem,DR Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,BB McCullum,S Nadeem,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,DR Smith,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,BB McCullum,JD Unadkat,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,BB McCullum,JD Unadkat,DR Smith,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,WD Parnell,powerplay
+1,Chennai Super Kings,4,3,SK Raina,JD Unadkat,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,SK Raina,JD Unadkat,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,DR Smith,JD Unadkat,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,SK Raina,JD Unadkat,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,DR Smith,Mohammed Shami,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,SK Raina,Mohammed Shami,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,SK Raina,Mohammed Shami,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,4,DR Smith,Mohammed Shami,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,SK Raina,Mohammed Shami,DR Smith,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,SK Raina,Mohammed Shami,DR Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,DR Smith,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,DR Smith,JD Unadkat,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,DR Smith,JD Unadkat,SK Raina,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,SK Raina,JD Unadkat,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,DR Smith,JD Unadkat,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,SK Raina,JD Unadkat,DR Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,SK Raina,JDS Neesham,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,SK Raina,JDS Neesham,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,SK Raina,JDS Neesham,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,DR Smith,JDS Neesham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,SK Raina,JDS Neesham,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,DR Smith,JDS Neesham,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,SK Raina,JP Duminy,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,DR Smith,JP Duminy,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,DR Smith,JP Duminy,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,SK Raina,JP Duminy,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,SK Raina,JP Duminy,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,SK Raina,JP Duminy,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,SK Raina,JDS Neesham,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,DR Smith,JDS Neesham,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,DR Smith,JDS Neesham,SK Raina,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Chennai Super Kings,9,4.wides,SK Raina,JDS Neesham,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,SK Raina,JDS Neesham,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,DR Smith,JDS Neesham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,SK Raina,JDS Neesham,DR Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,DR Smith,JP Duminy,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,SK Raina,JP Duminy,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,DR Smith,JP Duminy,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,SK Raina,JP Duminy,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,5,SK Raina,JP Duminy,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,SK Raina,JP Duminy,DR Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,DR Smith,S Nadeem,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,SK Raina,S Nadeem,DR Smith,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,SK Raina,S Nadeem,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,SK Raina,S Nadeem,DR Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,SK Raina,S Nadeem,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,DR Smith,S Nadeem,SK Raina,0,0,0,,0,0,0,0,0,True,bowled,DR Smith,,middle
+1,Chennai Super Kings,12,1,SK Raina,M Vijay,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,SK Raina,M Vijay,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,SK Raina,M Vijay,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,4,SK Raina,M Vijay,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,SK Raina,M Vijay,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,F du Plessis,M Vijay,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,SK Raina,JDS Neesham,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,F du Plessis,JDS Neesham,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,F du Plessis,JDS Neesham,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,F du Plessis,JDS Neesham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,SK Raina,JDS Neesham,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,SK Raina,JDS Neesham,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,F du Plessis,JP Duminy,SK Raina,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,F du Plessis,JP Duminy,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,SK Raina,JP Duminy,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,F du Plessis,JP Duminy,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,SK Raina,JP Duminy,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,SK Raina,JP Duminy,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,F du Plessis,JDS Neesham,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,F du Plessis,JDS Neesham,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,SK Raina,JDS Neesham,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,SK Raina,JDS Neesham,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,SK Raina,M Vijay,middle
+1,Chennai Super Kings,15,5,F du Plessis,JDS Neesham,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,MS Dhoni,JDS Neesham,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,F du Plessis,S Nadeem,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,F du Plessis,S Nadeem,MS Dhoni,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,F du Plessis,S Nadeem,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,MS Dhoni,S Nadeem,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,F du Plessis,S Nadeem,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,MS Dhoni,S Nadeem,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,MS Dhoni,JD Unadkat,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,MS Dhoni,JD Unadkat,F du Plessis,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Chennai Super Kings,17,3,F du Plessis,JD Unadkat,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,MS Dhoni,JD Unadkat,F du Plessis,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,MS Dhoni,JD Unadkat,F du Plessis,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,MS Dhoni,JD Unadkat,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,F du Plessis,Mohammed Shami,MS Dhoni,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,F du Plessis,Mohammed Shami,MS Dhoni,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,M Vijay,death
+1,Chennai Super Kings,18,3,MS Dhoni,Mohammed Shami,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,MS Dhoni,Mohammed Shami,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,MS Dhoni,Mohammed Shami,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,6,MS Dhoni,Mohammed Shami,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,MS Dhoni,JD Unadkat,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,RA Jadeja,JD Unadkat,MS Dhoni,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,MS Dhoni,JD Unadkat,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,4,MS Dhoni,JD Unadkat,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,MS Dhoni,MA Agarwal,death
+1,Chennai Super Kings,19,5,RA Jadeja,JD Unadkat,M Manhas,6,0,6,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,RA Jadeja,JD Unadkat,M Manhas,0,0,0,,0,0,0,0,0,True,caught,RA Jadeja,KD Karthik,death
+1,Chennai Super Kings,20,1,M Manhas,Mohammed Shami,R Ashwin,4,0,4,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2.wides,M Manhas,Mohammed Shami,R Ashwin,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,M Manhas,Mohammed Shami,R Ashwin,3,0,3,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,R Ashwin,Mohammed Shami,M Manhas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,M Manhas,Mohammed Shami,R Ashwin,2,0,2,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,M Manhas,Mohammed Shami,R Ashwin,0,0,0,,0,0,0,0,0,True,run out,R Ashwin,Mohammed Shami,death
+1,Chennai Super Kings,20,6,M Manhas,Mohammed Shami,BW Hilfenhaus,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,1,1,MA Agarwal,IC Pandey,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,2,MA Agarwal,IC Pandey,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,3,M Vijay,IC Pandey,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,4,M Vijay,IC Pandey,MA Agarwal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,5,M Vijay,IC Pandey,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,1,6,M Vijay,IC Pandey,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,1,M Vijay,BW Hilfenhaus,MA Agarwal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,2,M Vijay,BW Hilfenhaus,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,3,MA Agarwal,BW Hilfenhaus,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,4,MA Agarwal,BW Hilfenhaus,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,5,MA Agarwal,BW Hilfenhaus,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,2,6,MA Agarwal,BW Hilfenhaus,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,1,MA Agarwal,IC Pandey,M Vijay,0,0,0,,0,0,0,0,0,True,caught,MA Agarwal,SK Raina,powerplay
+2,Delhi Daredevils,3,2,M Vijay,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,3,M Vijay,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,4,M Vijay,IC Pandey,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,5,KD Karthik,IC Pandey,M Vijay,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,3,6,KD Karthik,IC Pandey,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,1,M Vijay,MM Sharma,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,2,M Vijay,MM Sharma,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,3,M Vijay,MM Sharma,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,M Vijay,F du Plessis,powerplay
+2,Delhi Daredevils,4,4,KD Karthik,MM Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,5,KD Karthik,MM Sharma,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,4,6,KD Karthik,MM Sharma,MK Tiwary,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,1,MK Tiwary,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,2,MK Tiwary,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,MK Tiwary,F du Plessis,powerplay
+2,Delhi Daredevils,5,3,KD Karthik,IC Pandey,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,4,JP Duminy,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Daredevils,5,5,JP Duminy,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,5,6,JP Duminy,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,6,1,KD Karthik,MM Sharma,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,6,2,KD Karthik,MM Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,6,3,JP Duminy,MM Sharma,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,6,4,JP Duminy,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,6,5,KD Karthik,MM Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,6,6,JP Duminy,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,1,JP Duminy,IC Pandey,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,2,JP Duminy,IC Pandey,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,3,JP Duminy,IC Pandey,KD Karthik,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,4,KD Karthik,IC Pandey,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,5,JP Duminy,IC Pandey,KD Karthik,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,7,6,KD Karthik,IC Pandey,JP Duminy,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,1,JP Duminy,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,2,KD Karthik,MM Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,3,JP Duminy,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,4,KD Karthik,MM Sharma,JP Duminy,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,5,JP Duminy,MM Sharma,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,8,6,KD Karthik,MM Sharma,JP Duminy,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,1,JP Duminy,DR Smith,KD Karthik,0,0,0,,0,0,0,0,0,True,lbw,JP Duminy,,middle
+2,Delhi Daredevils,9,2.wides,LRPL Taylor,DR Smith,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,2,LRPL Taylor,DR Smith,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,3,KD Karthik,DR Smith,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,4,LRPL Taylor,DR Smith,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,5,LRPL Taylor,DR Smith,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,9,6,LRPL Taylor,DR Smith,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,1,LRPL Taylor,BW Hilfenhaus,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,2,LRPL Taylor,BW Hilfenhaus,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,LRPL Taylor,MS Dhoni,middle
+2,Delhi Daredevils,10,3,JDS Neesham,BW Hilfenhaus,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,4,JDS Neesham,BW Hilfenhaus,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,5,KD Karthik,BW Hilfenhaus,JDS Neesham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,10,6,KD Karthik,BW Hilfenhaus,JDS Neesham,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,1,JDS Neesham,DR Smith,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Daredevils,11,2,JDS Neesham,DR Smith,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,11,3,KD Karthik,DR Smith,JDS Neesham,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,11,4,KD Karthik,DR Smith,JDS Neesham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,11,5,JDS Neesham,DR Smith,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,11,6,JDS Neesham,DR Smith,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,12,1,KD Karthik,RA Jadeja,JDS Neesham,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,12,2,KD Karthik,RA Jadeja,JDS Neesham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,12,3,JDS Neesham,RA Jadeja,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,12,4,JDS Neesham,RA Jadeja,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,12,5,JDS Neesham,RA Jadeja,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,12,6,JDS Neesham,RA Jadeja,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,13,1,KD Karthik,R Ashwin,JDS Neesham,0,0,0,,0,0,0,0,0,True,bowled,KD Karthik,,death
+2,Delhi Daredevils,13,2,S Nadeem,R Ashwin,JDS Neesham,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,13,3,S Nadeem,R Ashwin,JDS Neesham,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,13,4,S Nadeem,R Ashwin,JDS Neesham,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,13,5,S Nadeem,R Ashwin,JDS Neesham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,13,6,JDS Neesham,R Ashwin,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,14,1,JDS Neesham,RA Jadeja,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,14,2,JDS Neesham,RA Jadeja,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,14,3,S Nadeem,RA Jadeja,JDS Neesham,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,14,4,JDS Neesham,RA Jadeja,S Nadeem,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,14,5,JDS Neesham,RA Jadeja,S Nadeem,0,0,0,,0,0,0,0,0,True,caught,JDS Neesham,SK Raina,death
+2,Delhi Daredevils,14,6,Mohammed Shami,RA Jadeja,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,15,1.wides,Mohammed Shami,R Ashwin,S Nadeem,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Delhi Daredevils,15,1,Mohammed Shami,R Ashwin,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,15,2,Mohammed Shami,R Ashwin,S Nadeem,0,0,0,,0,0,0,0,0,True,caught,Mohammed Shami,BB McCullum,death
+2,Delhi Daredevils,15,3,JD Unadkat,R Ashwin,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,15,4,JD Unadkat,R Ashwin,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,15,5,JD Unadkat,R Ashwin,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,15,6,JD Unadkat,R Ashwin,S Nadeem,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,1,S Nadeem,RA Jadeja,JD Unadkat,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,2,S Nadeem,RA Jadeja,JD Unadkat,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,3,JD Unadkat,RA Jadeja,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Daredevils,16,4,S Nadeem,RA Jadeja,JD Unadkat,0,0,0,,0,0,0,0,0,True,caught,S Nadeem,SK Raina,death

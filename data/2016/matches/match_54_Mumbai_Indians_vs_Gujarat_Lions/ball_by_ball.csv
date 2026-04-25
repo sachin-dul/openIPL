@@ -1,0 +1,237 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,RG Sharma,P Kumar,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,RG Sharma,P Kumar,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,RG Sharma,P Kumar,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,RG Sharma,P Kumar,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,RG Sharma,P Kumar,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,RG Sharma,P Kumar,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,MJ Guptill,DS Kulkarni,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,MJ Guptill,DS Kulkarni,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,MJ Guptill,DS Kulkarni,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,RG Sharma,DS Kulkarni,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,RG Sharma,DS Kulkarni,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,RG Sharma,DS Kulkarni,MJ Guptill,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,MJ Guptill,P Kumar,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,RG Sharma,P Kumar,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,RG Sharma,P Kumar,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,RG Sharma,P Kumar,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,RG Sharma,P Kumar,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,MJ Guptill,P Kumar,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,RG Sharma,DS Kulkarni,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,MJ Guptill,DS Kulkarni,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,RG Sharma,DS Kulkarni,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,RG Sharma,DS Kulkarni,MJ Guptill,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,RG Sharma,DS Kulkarni,MJ Guptill,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,SB Jakati,powerplay
+1,Mumbai Indians,4,6,N Rana,DS Kulkarni,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,MJ Guptill,DR Smith,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,MJ Guptill,DR Smith,N Rana,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,MJ Guptill,DR Smith,N Rana,0,0,0,,0,0,0,0,0,True,caught,MJ Guptill,DJ Bravo,powerplay
+1,Mumbai Indians,5,4,KH Pandya,DR Smith,N Rana,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,KH Pandya,DR Smith,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,KH Pandya,DR Smith,N Rana,0,0,0,,0,0,0,0,0,True,caught,KH Pandya,AJ Finch,powerplay
+1,Mumbai Indians,6,1,JC Buttler,P Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,JC Buttler,P Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,JC Buttler,P Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,JC Buttler,P Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,JC Buttler,P Kumar,N Rana,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,JC Buttler,P Kumar,N Rana,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,N Rana,DR Smith,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,JC Buttler,DR Smith,N Rana,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,JC Buttler,DR Smith,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,N Rana,DR Smith,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5.wides,JC Buttler,DR Smith,N Rana,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,JC Buttler,DR Smith,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,N Rana,DR Smith,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,JC Buttler,SB Jakati,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,N Rana,SB Jakati,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,N Rana,SB Jakati,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,N Rana,SB Jakati,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,JC Buttler,SB Jakati,N Rana,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,JC Buttler,SB Jakati,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,JC Buttler,DR Smith,N Rana,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,JC Buttler,DR Smith,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,N Rana,DR Smith,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,JC Buttler,DR Smith,N Rana,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,JC Buttler,DR Smith,N Rana,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,JC Buttler,DR Smith,N Rana,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,N Rana,DJ Bravo,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,JC Buttler,DJ Bravo,N Rana,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,JC Buttler,DJ Bravo,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,N Rana,DJ Bravo,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,N Rana,DJ Bravo,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,JC Buttler,DJ Bravo,N Rana,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,N Rana,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,JC Buttler,RA Jadeja,N Rana,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,JC Buttler,RA Jadeja,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,N Rana,RA Jadeja,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,N Rana,RA Jadeja,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,JC Buttler,RA Jadeja,N Rana,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1.noballs,N Rana,DR Smith,JC Buttler,4,1,5,noballs,0,1,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,N Rana,DR Smith,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,N Rana,DR Smith,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,JC Buttler,DR Smith,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,N Rana,DR Smith,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,JC Buttler,DR Smith,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6.wides,N Rana,DR Smith,JC Buttler,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,N Rana,DR Smith,JC Buttler,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,JC Buttler,SB Jakati,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,N Rana,SB Jakati,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,JC Buttler,SB Jakati,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,N Rana,SB Jakati,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,JC Buttler,SB Jakati,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,N Rana,SB Jakati,JC Buttler,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,JC Buttler,DJ Bravo,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,N Rana,DJ Bravo,JC Buttler,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,N Rana,DJ Bravo,JC Buttler,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,JC Buttler,DJ Bravo,N Rana,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,JC Buttler,DJ Bravo,N Rana,0,0,0,,0,0,0,0,0,True,caught and bowled,JC Buttler,,middle
+1,Mumbai Indians,14,6,KA Pollard,DJ Bravo,N Rana,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,N Rana,SB Jakati,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,KA Pollard,SB Jakati,N Rana,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,N Rana,SB Jakati,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,N Rana,SB Jakati,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,N Rana,SB Jakati,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,N Rana,SB Jakati,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,KA Pollard,DS Kulkarni,N Rana,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,KA Pollard,DS Kulkarni,N Rana,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,N Rana,DS Kulkarni,KA Pollard,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,N Rana,DS Kulkarni,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,N Rana,DS Kulkarni,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,KA Pollard,DS Kulkarni,N Rana,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,KA Pollard,DJ Bravo,N Rana,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,17,2.wides,N Rana,DJ Bravo,KA Pollard,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,N Rana,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,N Rana,DJ Bravo,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,N Rana,DJ Bravo,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,KA Pollard,DJ Bravo,N Rana,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,17,6,N Rana,DJ Bravo,KA Pollard,0,0,0,,0,0,0,0,0,True,caught,N Rana,DS Kulkarni,death
+1,Mumbai Indians,18,1,HH Pandya,DS Kulkarni,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,KA Pollard,DS Kulkarni,HH Pandya,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,KA Pollard,DS Kulkarni,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,KA Pollard,DS Kulkarni,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,KA Pollard,DS Kulkarni,HH Pandya,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,DR Smith,death
+1,Mumbai Indians,18,6,HH Pandya,DS Kulkarni,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1.wides,Harbhajan Singh,DJ Bravo,HH Pandya,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,Harbhajan Singh,DJ Bravo,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,HH Pandya,DJ Bravo,Harbhajan Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,Harbhajan Singh,DJ Bravo,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,HH Pandya,DJ Bravo,Harbhajan Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,HH Pandya,DJ Bravo,Harbhajan Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,19,6,Harbhajan Singh,DJ Bravo,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,Harbhajan Singh,P Kumar,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,Harbhajan Singh,P Kumar,HH Pandya,0,0,0,,0,0,0,0,0,True,caught,Harbhajan Singh,SK Raina,death
+1,Mumbai Indians,20,3,HH Pandya,P Kumar,R Vinay Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,HH Pandya,P Kumar,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,R Vinay Kumar,P Kumar,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,HH Pandya,P Kumar,R Vinay Kumar,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,RA Jadeja,death
+2,Gujarat Lions,1,1,AJ Finch,R Vinay Kumar,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,2,AJ Finch,R Vinay Kumar,BB McCullum,0,0,0,,0,0,0,0,0,True,lbw,AJ Finch,,powerplay
+2,Gujarat Lions,1,3,SK Raina,R Vinay Kumar,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,4,SK Raina,R Vinay Kumar,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,5,SK Raina,R Vinay Kumar,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,1,6,SK Raina,R Vinay Kumar,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,1.wides,BB McCullum,JJ Bumrah,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,1,BB McCullum,JJ Bumrah,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,2,BB McCullum,JJ Bumrah,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,3,BB McCullum,JJ Bumrah,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,4.wides,BB McCullum,JJ Bumrah,SK Raina,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,4,BB McCullum,JJ Bumrah,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,5,BB McCullum,JJ Bumrah,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,2,6,SK Raina,JJ Bumrah,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,1,SK Raina,MJ McClenaghan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,2,SK Raina,MJ McClenaghan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,3,SK Raina,MJ McClenaghan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,4,SK Raina,MJ McClenaghan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,5,SK Raina,MJ McClenaghan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,3,6,SK Raina,MJ McClenaghan,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,1,BB McCullum,R Vinay Kumar,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,2,BB McCullum,R Vinay Kumar,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,3,BB McCullum,R Vinay Kumar,SK Raina,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,4,BB McCullum,R Vinay Kumar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,5,SK Raina,R Vinay Kumar,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,4,6,BB McCullum,R Vinay Kumar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,1,BB McCullum,KH Pandya,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,2,BB McCullum,KH Pandya,SK Raina,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,3,BB McCullum,KH Pandya,SK Raina,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,4,BB McCullum,KH Pandya,SK Raina,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,5,SK Raina,KH Pandya,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,5,6,BB McCullum,KH Pandya,SK Raina,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,1,SK Raina,JJ Bumrah,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,2,SK Raina,JJ Bumrah,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Lions,6,3,SK Raina,JJ Bumrah,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,6,4,SK Raina,JJ Bumrah,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,6,5,BB McCullum,JJ Bumrah,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,6,6,BB McCullum,JJ Bumrah,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,1,SK Raina,KH Pandya,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,2,SK Raina,KH Pandya,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,3,SK Raina,KH Pandya,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,4,BB McCullum,KH Pandya,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,5,BB McCullum,KH Pandya,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,7,6,SK Raina,KH Pandya,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,1,BB McCullum,Harbhajan Singh,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,2,BB McCullum,Harbhajan Singh,SK Raina,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,3,BB McCullum,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,4,SK Raina,Harbhajan Singh,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,5,SK Raina,Harbhajan Singh,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,8,6,SK Raina,Harbhajan Singh,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,1,SK Raina,MJ McClenaghan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,2,BB McCullum,MJ McClenaghan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,3,SK Raina,MJ McClenaghan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,4,BB McCullum,MJ McClenaghan,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,5,SK Raina,MJ McClenaghan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,9,6,BB McCullum,MJ McClenaghan,SK Raina,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Gujarat Lions,10,1,BB McCullum,Harbhajan Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,2,BB McCullum,Harbhajan Singh,SK Raina,0,0,0,,0,0,0,0,0,True,bowled,BB McCullum,,middle
+2,Gujarat Lions,10,3,KD Karthik,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,4,SK Raina,Harbhajan Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,5,KD Karthik,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,10,6,SK Raina,Harbhajan Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,1,SK Raina,R Vinay Kumar,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,2,SK Raina,R Vinay Kumar,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,3,SK Raina,R Vinay Kumar,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,4,KD Karthik,R Vinay Kumar,SK Raina,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,11,5,SK Raina,R Vinay Kumar,KD Karthik,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Gujarat Lions,11,6,KD Karthik,R Vinay Kumar,SK Raina,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,JC Buttler,middle
+2,Gujarat Lions,12,1,SK Raina,Harbhajan Singh,DR Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,2,DR Smith,Harbhajan Singh,SK Raina,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,3,DR Smith,Harbhajan Singh,SK Raina,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Lions,12,4,DR Smith,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,12,5,SK Raina,Harbhajan Singh,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,12,6,DR Smith,Harbhajan Singh,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,1,DR Smith,JJ Bumrah,SK Raina,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,2,SK Raina,JJ Bumrah,DR Smith,0,0,0,,0,0,0,0,0,True,caught,SK Raina,JC Buttler,death
+2,Gujarat Lions,13,3,DR Smith,JJ Bumrah,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,4,DR Smith,JJ Bumrah,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,5,DR Smith,JJ Bumrah,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,13,6,DR Smith,JJ Bumrah,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,1,RA Jadeja,Harbhajan Singh,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,2,RA Jadeja,Harbhajan Singh,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,3,RA Jadeja,Harbhajan Singh,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,4,DR Smith,Harbhajan Singh,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,5,DR Smith,Harbhajan Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,14,6,DR Smith,Harbhajan Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,1,DR Smith,MJ McClenaghan,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,2,DR Smith,MJ McClenaghan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,3,DR Smith,MJ McClenaghan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,4,DR Smith,MJ McClenaghan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,5,DR Smith,MJ McClenaghan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,15,6,RA Jadeja,MJ McClenaghan,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,1,DR Smith,HH Pandya,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,2,DR Smith,HH Pandya,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,3,DR Smith,HH Pandya,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,4.wides,RA Jadeja,HH Pandya,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,4,RA Jadeja,HH Pandya,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,5,RA Jadeja,HH Pandya,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,16,6,RA Jadeja,HH Pandya,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,1,DR Smith,JJ Bumrah,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,2,RA Jadeja,JJ Bumrah,DR Smith,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,3,RA Jadeja,JJ Bumrah,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,4,RA Jadeja,JJ Bumrah,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,5,DR Smith,JJ Bumrah,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,6.wides,RA Jadeja,JJ Bumrah,DR Smith,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Lions,17,6,RA Jadeja,JJ Bumrah,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,1,DR Smith,MJ McClenaghan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,2,RA Jadeja,MJ McClenaghan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,3,RA Jadeja,MJ McClenaghan,DR Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,4,RA Jadeja,MJ McClenaghan,DR Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Lions,18,5,RA Jadeja,MJ McClenaghan,DR Smith,1,0,1,,0,0,0,0,0,False,,,,death

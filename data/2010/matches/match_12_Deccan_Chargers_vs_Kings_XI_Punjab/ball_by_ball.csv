@@ -1,0 +1,244 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Deccan Chargers,1,1,AC Gilchrist,IK Pathan,VVS Laxman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,2,VVS Laxman,IK Pathan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,3,VVS Laxman,IK Pathan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,4,AC Gilchrist,IK Pathan,VVS Laxman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,5,AC Gilchrist,IK Pathan,VVS Laxman,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,1,6,AC Gilchrist,IK Pathan,VVS Laxman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,1,VVS Laxman,S Sreesanth,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,2,AC Gilchrist,S Sreesanth,VVS Laxman,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,3,AC Gilchrist,S Sreesanth,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,4,AC Gilchrist,S Sreesanth,VVS Laxman,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5.wides,AC Gilchrist,S Sreesanth,VVS Laxman,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,5,AC Gilchrist,S Sreesanth,VVS Laxman,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,2,6,AC Gilchrist,S Sreesanth,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,1,VVS Laxman,SJ Srivastava,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,2,VVS Laxman,SJ Srivastava,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,3,VVS Laxman,SJ Srivastava,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,4,AC Gilchrist,SJ Srivastava,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,5,AC Gilchrist,SJ Srivastava,VVS Laxman,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,3,6,AC Gilchrist,SJ Srivastava,VVS Laxman,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,DPMD Jayawardene,powerplay
+1,Deccan Chargers,4,1,HH Gibbs,S Sreesanth,VVS Laxman,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,2,HH Gibbs,S Sreesanth,VVS Laxman,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,3,VVS Laxman,S Sreesanth,HH Gibbs,1,0,1,,0,0,0,0,0,True,retired hurt,VVS Laxman,,powerplay
+1,Deccan Chargers,4,4,HH Gibbs,S Sreesanth,A Symonds,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,5,HH Gibbs,S Sreesanth,A Symonds,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,4,6,A Symonds,S Sreesanth,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,1,HH Gibbs,SJ Srivastava,A Symonds,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,2,HH Gibbs,SJ Srivastava,A Symonds,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,3,A Symonds,SJ Srivastava,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,4,A Symonds,SJ Srivastava,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,5,HH Gibbs,SJ Srivastava,A Symonds,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,5,6,A Symonds,SJ Srivastava,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,1,HH Gibbs,PP Chawla,A Symonds,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,2,HH Gibbs,PP Chawla,A Symonds,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,3,A Symonds,PP Chawla,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,4,A Symonds,PP Chawla,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,5,A Symonds,PP Chawla,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,6,6,HH Gibbs,PP Chawla,A Symonds,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Deccan Chargers,7,1,HH Gibbs,Bipul Sharma,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,2,HH Gibbs,Bipul Sharma,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,3,A Symonds,Bipul Sharma,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,4,HH Gibbs,Bipul Sharma,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,5,A Symonds,Bipul Sharma,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,7,6,HH Gibbs,Bipul Sharma,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,1,HH Gibbs,PP Chawla,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,2,A Symonds,PP Chawla,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,3,HH Gibbs,PP Chawla,A Symonds,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,4,HH Gibbs,PP Chawla,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,5,A Symonds,PP Chawla,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,8,6,A Symonds,PP Chawla,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,1,A Symonds,IK Pathan,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,2,HH Gibbs,IK Pathan,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,3,HH Gibbs,IK Pathan,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,4,HH Gibbs,IK Pathan,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,5,A Symonds,IK Pathan,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,9,6,A Symonds,IK Pathan,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,1,A Symonds,S Sreesanth,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,2,A Symonds,S Sreesanth,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,3,HH Gibbs,S Sreesanth,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,4,A Symonds,S Sreesanth,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,5,A Symonds,S Sreesanth,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,10,6,A Symonds,S Sreesanth,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,1,HH Gibbs,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,2,HH Gibbs,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,True,bowled,HH Gibbs,,middle
+1,Deccan Chargers,11,3,RG Sharma,Yuvraj Singh,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,4,A Symonds,Yuvraj Singh,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,11,5,RG Sharma,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,True,run out,RG Sharma,DPMD Jayawardene,middle
+1,Deccan Chargers,11,6,A Symonds,Yuvraj Singh,Anirudh Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,1,A Symonds,Bipul Sharma,Anirudh Singh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,2,A Symonds,Bipul Sharma,Anirudh Singh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,3,A Symonds,Bipul Sharma,Anirudh Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,4,Anirudh Singh,Bipul Sharma,A Symonds,0,0,0,,0,0,0,0,0,True,caught,Anirudh Singh,KC Sangakkara,middle
+1,Deccan Chargers,12,5,TL Suman,Bipul Sharma,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,12,6,TL Suman,Bipul Sharma,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,1,TL Suman,Yuvraj Singh,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,2,A Symonds,Yuvraj Singh,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,3,A Symonds,Yuvraj Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,4,TL Suman,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,5,TL Suman,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,13,6,TL Suman,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,1,A Symonds,SJ Srivastava,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,2,A Symonds,SJ Srivastava,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,3,A Symonds,SJ Srivastava,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,4,TL Suman,SJ Srivastava,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,5,A Symonds,SJ Srivastava,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,14,6,TL Suman,SJ Srivastava,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,1,TL Suman,Yuvraj Singh,A Symonds,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,2,TL Suman,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,3,TL Suman,Yuvraj Singh,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,4,TL Suman,Yuvraj Singh,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,5,A Symonds,Yuvraj Singh,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,15,6,A Symonds,Yuvraj Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Deccan Chargers,16,1,A Symonds,PP Chawla,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,2,A Symonds,PP Chawla,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,3,TL Suman,PP Chawla,A Symonds,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,4,TL Suman,PP Chawla,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,5,A Symonds,PP Chawla,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,16,6,TL Suman,PP Chawla,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,1,A Symonds,Yuvraj Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,2,TL Suman,Yuvraj Singh,A Symonds,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,3,TL Suman,Yuvraj Singh,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,4,A Symonds,Yuvraj Singh,TL Suman,0,0,0,,0,0,0,0,0,True,caught,A Symonds,Bipul Sharma,death
+1,Deccan Chargers,17,5,TL Suman,Yuvraj Singh,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,17,6,WPUJC Vaas,Yuvraj Singh,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,1,WPUJC Vaas,SJ Srivastava,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,2,TL Suman,SJ Srivastava,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,3,WPUJC Vaas,SJ Srivastava,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,4,WPUJC Vaas,SJ Srivastava,TL Suman,6,0,6,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,5,WPUJC Vaas,SJ Srivastava,TL Suman,4,0,4,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,18,6,WPUJC Vaas,SJ Srivastava,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,1,WPUJC Vaas,IK Pathan,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,2,TL Suman,IK Pathan,WPUJC Vaas,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,3,WPUJC Vaas,IK Pathan,TL Suman,2,0,2,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,4,WPUJC Vaas,IK Pathan,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,19,5,WPUJC Vaas,IK Pathan,TL Suman,0,0,0,,0,0,0,0,0,True,caught,WPUJC Vaas,Bipul Sharma,death
+1,Deccan Chargers,19,6,TL Suman,IK Pathan,Jaskaran Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,1,TL Suman,S Sreesanth,Jaskaran Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,2,Jaskaran Singh,S Sreesanth,TL Suman,0,0,0,,0,0,0,0,0,True,run out,TL Suman,KC Sangakkara,death
+1,Deccan Chargers,20,3,RP Singh,S Sreesanth,Jaskaran Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,4,Jaskaran Singh,S Sreesanth,RP Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,5,RP Singh,S Sreesanth,Jaskaran Singh,3,0,3,,0,0,0,0,0,False,,,,death
+1,Deccan Chargers,20,6,Jaskaran Singh,S Sreesanth,RP Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,1,1,RS Bopara,WPUJC Vaas,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,2,RS Bopara,WPUJC Vaas,MS Bisla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,3,RS Bopara,WPUJC Vaas,MS Bisla,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kings XI Punjab,1,4,MS Bisla,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,5,MS Bisla,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,1,6,MS Bisla,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,1,RS Bopara,RP Singh,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,2,RS Bopara,RP Singh,MS Bisla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,3,MS Bisla,RP Singh,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,4,MS Bisla,RP Singh,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,5,MS Bisla,RP Singh,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,2,6,MS Bisla,RP Singh,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,1,RS Bopara,WPUJC Vaas,MS Bisla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,2,RS Bopara,WPUJC Vaas,MS Bisla,0,0,0,,0,0,0,0,0,True,run out,MS Bisla,TL Suman,powerplay
+2,Kings XI Punjab,3,3,RS Bopara,WPUJC Vaas,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,4,KC Sangakkara,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,5,KC Sangakkara,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,3,6,KC Sangakkara,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,True,bowled,KC Sangakkara,,powerplay
+2,Kings XI Punjab,4,1,RS Bopara,RP Singh,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,2,RS Bopara,RP Singh,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,3,RS Bopara,RP Singh,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,4,RS Bopara,RP Singh,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,5.wides,RS Bopara,RP Singh,Yuvraj Singh,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,5,RS Bopara,RP Singh,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,4,6,RS Bopara,RP Singh,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,1,Yuvraj Singh,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,2,Yuvraj Singh,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,3,Yuvraj Singh,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,4,Yuvraj Singh,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,5,Yuvraj Singh,WPUJC Vaas,RS Bopara,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,5,6,Yuvraj Singh,WPUJC Vaas,RS Bopara,0,0,0,,0,0,0,0,0,True,caught,Yuvraj Singh,HH Gibbs,powerplay
+2,Kings XI Punjab,6,1,DPMD Jayawardene,A Symonds,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,2,DPMD Jayawardene,A Symonds,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,3,DPMD Jayawardene,A Symonds,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,4,RS Bopara,A Symonds,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,5,RS Bopara,A Symonds,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,6,6,RS Bopara,A Symonds,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kings XI Punjab,7,1,DPMD Jayawardene,PP Ojha,RS Bopara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,2,DPMD Jayawardene,PP Ojha,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,3,RS Bopara,PP Ojha,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,4,RS Bopara,PP Ojha,DPMD Jayawardene,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,5,DPMD Jayawardene,PP Ojha,RS Bopara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,7,6,DPMD Jayawardene,PP Ojha,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,1,RS Bopara,A Symonds,DPMD Jayawardene,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,2,RS Bopara,A Symonds,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,3,DPMD Jayawardene,A Symonds,RS Bopara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,4,DPMD Jayawardene,A Symonds,RS Bopara,0,0,0,,0,0,0,0,0,True,bowled,DPMD Jayawardene,,middle
+2,Kings XI Punjab,8,5,AB Barath,A Symonds,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,8,6,RS Bopara,A Symonds,AB Barath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,1,RS Bopara,PP Ojha,AB Barath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,2,AB Barath,PP Ojha,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,3,AB Barath,PP Ojha,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,4,RS Bopara,PP Ojha,AB Barath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,5,AB Barath,PP Ojha,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,9,6,AB Barath,PP Ojha,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,1,RS Bopara,RG Sharma,AB Barath,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,2,RS Bopara,RG Sharma,AB Barath,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,3,AB Barath,RG Sharma,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,4,AB Barath,RG Sharma,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,5,AB Barath,RG Sharma,RS Bopara,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,10,6,AB Barath,RG Sharma,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,1,AB Barath,PP Ojha,RS Bopara,0,0,0,,0,0,0,0,0,True,caught,AB Barath,RG Sharma,middle
+2,Kings XI Punjab,11,2,RS Bopara,PP Ojha,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,3,RS Bopara,PP Ojha,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,4,IK Pathan,PP Ojha,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,5,IK Pathan,PP Ojha,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,11,6,RS Bopara,PP Ojha,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,1,RS Bopara,RG Sharma,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,2,IK Pathan,RG Sharma,RS Bopara,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,3,IK Pathan,RG Sharma,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,4,RS Bopara,RG Sharma,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,5,IK Pathan,RG Sharma,RS Bopara,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,12,6,RS Bopara,RG Sharma,IK Pathan,0,0,0,,0,0,0,0,0,True,caught,RS Bopara,A Symonds,middle
+2,Kings XI Punjab,13,1,IK Pathan,A Symonds,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,2,PP Chawla,A Symonds,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,3,PP Chawla,A Symonds,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,4,IK Pathan,A Symonds,PP Chawla,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Kings XI Punjab,13,5,PP Chawla,A Symonds,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,13,6,PP Chawla,A Symonds,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,1,IK Pathan,RG Sharma,PP Chawla,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+2,Kings XI Punjab,14,2,IK Pathan,RG Sharma,PP Chawla,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,3,IK Pathan,RG Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,4,PP Chawla,RG Sharma,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,5,IK Pathan,RG Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,14,6,PP Chawla,RG Sharma,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,1.wides,IK Pathan,WPUJC Vaas,PP Chawla,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,1,IK Pathan,WPUJC Vaas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,2,PP Chawla,WPUJC Vaas,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,3,PP Chawla,WPUJC Vaas,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,4,PP Chawla,WPUJC Vaas,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,5,IK Pathan,WPUJC Vaas,PP Chawla,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,15,6,IK Pathan,WPUJC Vaas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kings XI Punjab,16,1,IK Pathan,A Symonds,PP Chawla,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,2,IK Pathan,A Symonds,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,3,PP Chawla,A Symonds,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,4,IK Pathan,A Symonds,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,5,PP Chawla,A Symonds,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,16,6,PP Chawla,A Symonds,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,1,PP Chawla,RP Singh,IK Pathan,0,0,0,,0,0,0,0,0,True,caught,PP Chawla,PP Ojha,death
+2,Kings XI Punjab,17,2,Bipul Sharma,RP Singh,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,3,IK Pathan,RP Singh,Bipul Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,4,IK Pathan,RP Singh,Bipul Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,5,IK Pathan,RP Singh,Bipul Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,17,6,IK Pathan,RP Singh,Bipul Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,1,Bipul Sharma,PP Ojha,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,2,Bipul Sharma,PP Ojha,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,3,IK Pathan,PP Ojha,Bipul Sharma,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+2,Kings XI Punjab,18,4,IK Pathan,PP Ojha,Bipul Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,5,IK Pathan,PP Ojha,Bipul Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,18,6,Bipul Sharma,PP Ojha,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,1,Bipul Sharma,RP Singh,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,2,Bipul Sharma,RP Singh,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,3,IK Pathan,RP Singh,Bipul Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,4,IK Pathan,RP Singh,Bipul Sharma,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,5,IK Pathan,RP Singh,Bipul Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,19,6,IK Pathan,RP Singh,Bipul Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,1,IK Pathan,Jaskaran Singh,Bipul Sharma,0,0,0,,0,0,0,0,0,True,caught,IK Pathan,A Symonds,death
+2,Kings XI Punjab,20,2,S Sreesanth,Jaskaran Singh,Bipul Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,3,S Sreesanth,Jaskaran Singh,Bipul Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,4,S Sreesanth,Jaskaran Singh,Bipul Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,5,S Sreesanth,Jaskaran Singh,Bipul Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kings XI Punjab,20,6,S Sreesanth,Jaskaran Singh,Bipul Sharma,4,0,4,,0,0,0,0,0,False,,,,death

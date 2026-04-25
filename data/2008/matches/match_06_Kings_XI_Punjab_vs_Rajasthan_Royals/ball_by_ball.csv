@@ -1,0 +1,242 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,K Goel,MM Patel,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,JR Hopes,MM Patel,K Goel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,K Goel,SR Watson,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,K Goel,SR Watson,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,K Goel,SR Watson,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,K Goel,SR Watson,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,K Goel,SR Watson,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,JR Hopes,SR Watson,K Goel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,K Goel,MM Patel,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,K Goel,MM Patel,JR Hopes,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,JR Hopes,SR Watson,K Goel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,JR Hopes,SR Watson,K Goel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,JR Hopes,SR Watson,K Goel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,JR Hopes,SR Watson,K Goel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,JR Hopes,SR Watson,K Goel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,JR Hopes,SR Watson,K Goel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,K Goel,MM Patel,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,K Goel,MM Patel,JR Hopes,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,K Goel,MM Patel,JR Hopes,0,0,0,,0,0,0,0,0,True,bowled,K Goel,,powerplay
+1,Kings XI Punjab,5,6,KC Sangakkara,MM Patel,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,JR Hopes,SK Trivedi,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,KC Sangakkara,SK Trivedi,JR Hopes,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,KC Sangakkara,SK Trivedi,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,KC Sangakkara,SK Trivedi,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,KC Sangakkara,SK Trivedi,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,KC Sangakkara,SK Trivedi,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,KC Sangakkara,SK Warne,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,JR Hopes,SK Warne,KC Sangakkara,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,KC Sangakkara,SK Warne,JR Hopes,0,0,0,,0,0,0,0,0,True,caught and bowled,KC Sangakkara,,middle
+1,Kings XI Punjab,7,4,DPMD Jayawardene,SK Warne,JR Hopes,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,DPMD Jayawardene,SK Warne,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,JR Hopes,SK Warne,DPMD Jayawardene,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1.wides,DPMD Jayawardene,D Salunkhe,JR Hopes,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,DPMD Jayawardene,D Salunkhe,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,JR Hopes,D Salunkhe,DPMD Jayawardene,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,DPMD Jayawardene,D Salunkhe,JR Hopes,0,0,0,,0,0,0,0,0,True,stumped,DPMD Jayawardene,Kamran Akmal,middle
+1,Kings XI Punjab,8,4,Yuvraj Singh,D Salunkhe,JR Hopes,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5.wides,Yuvraj Singh,D Salunkhe,JR Hopes,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,Yuvraj Singh,D Salunkhe,JR Hopes,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Kings XI Punjab,9,1,Yuvraj Singh,SK Warne,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,JR Hopes,SK Warne,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,JR Hopes,SK Warne,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,Yuvraj Singh,SK Warne,JR Hopes,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,JR Hopes,SK Warne,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,JR Hopes,SK Warne,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,lbw,JR Hopes,,middle
+1,Kings XI Punjab,10,1,Yuvraj Singh,SR Watson,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,Yuvraj Singh,SR Watson,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,Yuvraj Singh,SR Watson,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,Yuvraj Singh,SR Watson,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,IK Pathan,SR Watson,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,IK Pathan,SR Watson,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,Yuvraj Singh,SK Warne,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,IK Pathan,SK Warne,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,Yuvraj Singh,SK Warne,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,Yuvraj Singh,SK Warne,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,Yuvraj Singh,SK Warne,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,IK Pathan,SK Warne,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,Yuvraj Singh,Pankaj Singh,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,IK Pathan,Pankaj Singh,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,Yuvraj Singh,Pankaj Singh,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,IK Pathan,Pankaj Singh,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,Yuvraj Singh,Pankaj Singh,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,Yuvraj Singh,Pankaj Singh,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,IK Pathan,SK Trivedi,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,Yuvraj Singh,SK Trivedi,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,Yuvraj Singh,SK Trivedi,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,Yuvraj Singh,SK Trivedi,IK Pathan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,Yuvraj Singh,SK Trivedi,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,IK Pathan,SK Trivedi,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,Yuvraj Singh,D Salunkhe,IK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,2,Yuvraj Singh,D Salunkhe,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,3,Yuvraj Singh,D Salunkhe,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,4,Yuvraj Singh,D Salunkhe,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,5,IK Pathan,D Salunkhe,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,6,IK Pathan,D Salunkhe,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,1,Yuvraj Singh,SK Trivedi,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,2,IK Pathan,SK Trivedi,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,3,IK Pathan,SK Trivedi,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,4,IK Pathan,SK Trivedi,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,5,Yuvraj Singh,SK Trivedi,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,6,Yuvraj Singh,SK Trivedi,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,1,Yuvraj Singh,YK Pathan,IK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,Yuvraj Singh,YK Pathan,IK Pathan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,Yuvraj Singh,YK Pathan,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,Yuvraj Singh,YK Pathan,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,IK Pathan,YK Pathan,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,IK Pathan,YK Pathan,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,Yuvraj Singh,SK Warne,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,Yuvraj Singh,SK Warne,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,IK Pathan,SK Warne,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,IK Pathan,SK Warne,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,Yuvraj Singh,SK Warne,IK Pathan,0,0,0,,0,0,0,0,0,True,lbw,Yuvraj Singh,,death
+1,Kings XI Punjab,17,6,S Sohal,SK Warne,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,IK Pathan,SK Trivedi,S Sohal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,2,IK Pathan,SK Trivedi,S Sohal,0,0,0,,0,0,0,0,0,True,bowled,IK Pathan,,death
+1,Kings XI Punjab,18,3,B Lee,SK Trivedi,S Sohal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,B Lee,SK Trivedi,S Sohal,0,0,0,,0,0,0,0,0,True,caught,B Lee,Kamran Akmal,death
+1,Kings XI Punjab,18,5,PP Chawla,SK Trivedi,S Sohal,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,PP Chawla,SK Trivedi,S Sohal,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,S Sohal,MM Patel,PP Chawla,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,S Sohal,MM Patel,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,PP Chawla,MM Patel,S Sohal,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,PP Chawla,MM Patel,S Sohal,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,PP Chawla,MM Patel,S Sohal,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,S Sohal,MM Patel,PP Chawla,1,0,1,,0,0,0,0,0,True,run out,S Sohal,"RA Jadeja, Kamran Akmal",death
+1,Kings XI Punjab,20,1,PP Chawla,SR Watson,WA Mota,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,2.noballs,PP Chawla,SR Watson,WA Mota,1,1,2,noballs,0,1,0,0,0,False,,,,death
+1,Kings XI Punjab,20,2,WA Mota,SR Watson,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,PP Chawla,SR Watson,WA Mota,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,PP Chawla,SR Watson,WA Mota,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,PP Chawla,SR Watson,WA Mota,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,PP Chawla,SR Watson,WA Mota,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,M Kaif,B Lee,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2.noballs,M Kaif,B Lee,Kamran Akmal,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,M Kaif,B Lee,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,M Kaif,B Lee,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,M Kaif,B Lee,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,M Kaif,B Lee,Kamran Akmal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,M Kaif,B Lee,Kamran Akmal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,M Kaif,S Sreesanth,Kamran Akmal,0,0,0,,0,0,0,0,0,True,caught,M Kaif,KC Sangakkara,powerplay
+2,Rajasthan Royals,2,2.wides,YK Pathan,S Sreesanth,Kamran Akmal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,YK Pathan,S Sreesanth,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,YK Pathan,S Sreesanth,Kamran Akmal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,Kamran Akmal,S Sreesanth,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,Kamran Akmal,S Sreesanth,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6.noballs,Kamran Akmal,S Sreesanth,YK Pathan,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,Kamran Akmal,S Sreesanth,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,YK Pathan,B Lee,Kamran Akmal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,YK Pathan,B Lee,Kamran Akmal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,YK Pathan,B Lee,Kamran Akmal,0,0,0,,0,0,0,0,0,True,caught and bowled,YK Pathan,,powerplay
+2,Rajasthan Royals,3,4,Kamran Akmal,B Lee,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5.noballs,SR Watson,B Lee,Kamran Akmal,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,Kamran Akmal,B Lee,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,Kamran Akmal,B Lee,SR Watson,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1.wides,SR Watson,S Sreesanth,Kamran Akmal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,SR Watson,S Sreesanth,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,SR Watson,S Sreesanth,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,SR Watson,S Sreesanth,Kamran Akmal,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4.wides,SR Watson,S Sreesanth,Kamran Akmal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,SR Watson,S Sreesanth,Kamran Akmal,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,SR Watson,S Sreesanth,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,SR Watson,S Sreesanth,Kamran Akmal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,Kamran Akmal,JR Hopes,SR Watson,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,SR Watson,JR Hopes,Kamran Akmal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,SR Watson,JR Hopes,Kamran Akmal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,Kamran Akmal,JR Hopes,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,Kamran Akmal,JR Hopes,SR Watson,0,0,0,,0,0,0,0,0,True,caught,Kamran Akmal,PP Chawla,powerplay
+2,Rajasthan Royals,5,6,SR Watson,JR Hopes,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,DS Lehmann,B Lee,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,DS Lehmann,B Lee,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,DS Lehmann,B Lee,SR Watson,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,SR Watson,B Lee,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,5,SR Watson,B Lee,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,6,SR Watson,B Lee,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,1,DS Lehmann,JR Hopes,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,SR Watson,JR Hopes,DS Lehmann,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,SR Watson,JR Hopes,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,SR Watson,JR Hopes,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,SR Watson,JR Hopes,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,SR Watson,JR Hopes,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,DS Lehmann,IK Pathan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,SR Watson,IK Pathan,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,SR Watson,IK Pathan,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,SR Watson,IK Pathan,DS Lehmann,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5.wides,DS Lehmann,IK Pathan,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,DS Lehmann,IK Pathan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,SR Watson,IK Pathan,DS Lehmann,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,SR Watson,JR Hopes,DS Lehmann,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,SR Watson,JR Hopes,DS Lehmann,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,DS Lehmann,JR Hopes,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,DS Lehmann,JR Hopes,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,DS Lehmann,JR Hopes,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,DS Lehmann,JR Hopes,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,SR Watson,IK Pathan,DS Lehmann,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,SR Watson,IK Pathan,DS Lehmann,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,DS Lehmann,IK Pathan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,SR Watson,IK Pathan,DS Lehmann,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,SR Watson,IK Pathan,DS Lehmann,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,DS Lehmann,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,SR Watson,PP Chawla,DS Lehmann,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,DS Lehmann,PP Chawla,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,DS Lehmann,PP Chawla,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,SR Watson,PP Chawla,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,SR Watson,PP Chawla,DS Lehmann,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,SR Watson,PP Chawla,DS Lehmann,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,DS Lehmann,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,DS Lehmann,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,True,lbw,DS Lehmann,,middle
+2,Rajasthan Royals,12,3.wides,RA Jadeja,IK Pathan,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,RA Jadeja,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,RA Jadeja,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,RA Jadeja,IK Pathan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,SR Watson,IK Pathan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,1,SR Watson,WA Mota,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,2,RA Jadeja,WA Mota,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,3,SR Watson,WA Mota,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,4,SR Watson,WA Mota,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,5,SR Watson,WA Mota,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,6,SR Watson,WA Mota,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,RA Jadeja,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,2,RA Jadeja,S Sreesanth,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,RA Jadeja,S Sreesanth,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,SR Watson,S Sreesanth,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,RA Jadeja,S Sreesanth,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6.noballs,RA Jadeja,S Sreesanth,SR Watson,0,1,1,noballs,0,1,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,RA Jadeja,S Sreesanth,SR Watson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,SR Watson,PP Chawla,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,SR Watson,PP Chawla,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,RA Jadeja,PP Chawla,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,RA Jadeja,PP Chawla,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,RA Jadeja,PP Chawla,SR Watson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,RA Jadeja,PP Chawla,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,SR Watson,B Lee,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,RA Jadeja,B Lee,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,RA Jadeja,B Lee,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,RA Jadeja,B Lee,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,RA Jadeja,B Lee,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,RA Jadeja,B Lee,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,RA Jadeja,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,RA Jadeja,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,RA Jadeja,IK Pathan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,RA Jadeja,IK Pathan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,SR Watson,IK Pathan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,SR Watson,IK Pathan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,SR Watson,JR Hopes,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2.wides,RA Jadeja,JR Hopes,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,RA Jadeja,JR Hopes,SR Watson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,RA Jadeja,JR Hopes,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,SR Watson,JR Hopes,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,SR Watson,JR Hopes,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,SR Watson,JR Hopes,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,SR Watson,S Sreesanth,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death

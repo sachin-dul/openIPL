@@ -1,0 +1,243 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,S Dhawan,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,S Dhawan,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,S Dhawan,B Kumar,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,4,S Dhawan,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,S Dhawan,B Kumar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,P Simran Singh,B Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1,P Simran Singh,M Jansen,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,P Simran Singh,M Jansen,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,3,S Dhawan,M Jansen,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,S Dhawan,M Jansen,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,P Simran Singh,M Jansen,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,P Simran Singh,M Jansen,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,1,S Dhawan,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,S Dhawan,B Kumar,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,S Dhawan,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,4,S Dhawan,B Kumar,P Simran Singh,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,M Jansen,powerplay
+1,Punjab Kings,3,5,JM Bairstow,B Kumar,P Simran Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,6,P Simran Singh,B Kumar,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,1,JM Bairstow,M Jansen,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,JM Bairstow,M Jansen,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,JM Bairstow,M Jansen,P Simran Singh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,JM Bairstow,M Jansen,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,5,JM Bairstow,M Jansen,P Simran Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,6,JM Bairstow,M Jansen,P Simran Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,P Simran Singh,T Natarajan,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,P Simran Singh,T Natarajan,JM Bairstow,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,P Simran Singh,T Natarajan,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4,P Simran Singh,T Natarajan,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5,P Simran Singh,T Natarajan,JM Bairstow,0,0,0,,0,0,0,0,0,True,caught,P Simran Singh,N Pooran,powerplay
+1,Punjab Kings,5,6,LS Livingstone,T Natarajan,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,1,JM Bairstow,M Jansen,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,2,LS Livingstone,M Jansen,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,3,LS Livingstone,M Jansen,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,4,LS Livingstone,M Jansen,JM Bairstow,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,5,LS Livingstone,M Jansen,JM Bairstow,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,6,LS Livingstone,M Jansen,JM Bairstow,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,7,1,JM Bairstow,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,JM Bairstow,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,True,lbw,JM Bairstow,,middle
+1,Punjab Kings,7,3,JM Sharma,J Suchith,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,4,LS Livingstone,J Suchith,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,JM Sharma,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,JM Sharma,J Suchith,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,JM Sharma,Umran Malik,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,JM Sharma,Umran Malik,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,3,JM Sharma,Umran Malik,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,LS Livingstone,Umran Malik,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,5,JM Sharma,Umran Malik,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,JM Sharma,Umran Malik,LS Livingstone,0,0,0,,0,0,0,0,0,True,caught and bowled,JM Sharma,,middle
+1,Punjab Kings,9,1,LS Livingstone,J Suchith,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,3,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,6,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,1,LS Livingstone,Umran Malik,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,LS Livingstone,Umran Malik,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,3,M Shahrukh Khan,Umran Malik,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,4,M Shahrukh Khan,Umran Malik,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5,M Shahrukh Khan,Umran Malik,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,6,LS Livingstone,Umran Malik,M Shahrukh Khan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,1,M Shahrukh Khan,J Suchith,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,2,LS Livingstone,J Suchith,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,3,M Shahrukh Khan,J Suchith,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,4,LS Livingstone,J Suchith,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,5,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,6,M Shahrukh Khan,J Suchith,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,1,LS Livingstone,Umran Malik,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,2,LS Livingstone,Umran Malik,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,3,LS Livingstone,Umran Malik,M Shahrukh Khan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4,LS Livingstone,Umran Malik,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,5,LS Livingstone,Umran Malik,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,6,LS Livingstone,Umran Malik,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,1,M Shahrukh Khan,J Suchith,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,2,M Shahrukh Khan,J Suchith,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,3.wides,LS Livingstone,J Suchith,M Shahrukh Khan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,3,LS Livingstone,J Suchith,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,4,M Shahrukh Khan,J Suchith,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,5,M Shahrukh Khan,J Suchith,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,6,LS Livingstone,J Suchith,M Shahrukh Khan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,1,M Shahrukh Khan,T Natarajan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,2,LS Livingstone,T Natarajan,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,3,M Shahrukh Khan,T Natarajan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,4,LS Livingstone,T Natarajan,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,5,M Shahrukh Khan,T Natarajan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,6,M Shahrukh Khan,T Natarajan,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,1,LS Livingstone,M Jansen,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,2,M Shahrukh Khan,M Jansen,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,3.wides,LS Livingstone,M Jansen,M Shahrukh Khan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,3,LS Livingstone,M Jansen,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,4,LS Livingstone,M Jansen,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,5,M Shahrukh Khan,M Jansen,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,6,M Shahrukh Khan,M Jansen,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,16,1.wides,LS Livingstone,T Natarajan,M Shahrukh Khan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,16,1,LS Livingstone,T Natarajan,M Shahrukh Khan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2.wides,LS Livingstone,T Natarajan,M Shahrukh Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2.wides,LS Livingstone,T Natarajan,M Shahrukh Khan,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2,M Shahrukh Khan,T Natarajan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,3,LS Livingstone,T Natarajan,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,4,M Shahrukh Khan,T Natarajan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,5,M Shahrukh Khan,T Natarajan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6.wides,M Shahrukh Khan,T Natarajan,LS Livingstone,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6,M Shahrukh Khan,T Natarajan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,1,M Shahrukh Khan,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,True,caught,M Shahrukh Khan,KS Williamson,death
+1,Punjab Kings,17,2,OF Smith,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,3,OF Smith,B Kumar,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,4,LS Livingstone,B Kumar,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,5,OF Smith,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,6,OF Smith,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,1,LS Livingstone,T Natarajan,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2,OF Smith,T Natarajan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,3,OF Smith,T Natarajan,LS Livingstone,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4,OF Smith,T Natarajan,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5,OF Smith,T Natarajan,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,6,LS Livingstone,T Natarajan,OF Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,1,OF Smith,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,2,OF Smith,B Kumar,LS Livingstone,2,0,2,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,3,OF Smith,B Kumar,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,4,OF Smith,B Kumar,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,5,OF Smith,B Kumar,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,6,LS Livingstone,B Kumar,OF Smith,0,0,0,,0,0,0,0,0,True,caught,LS Livingstone,KS Williamson,death
+1,Punjab Kings,20,1,OF Smith,Umran Malik,K Rabada,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,2,OF Smith,Umran Malik,K Rabada,0,0,0,,0,0,0,0,0,True,caught and bowled,OF Smith,,death
+1,Punjab Kings,20,3,RD Chahar,Umran Malik,K Rabada,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,4,RD Chahar,Umran Malik,K Rabada,0,0,0,,0,0,0,0,0,True,bowled,RD Chahar,,death
+1,Punjab Kings,20,5,VG Arora,Umran Malik,K Rabada,0,0,0,,0,0,0,0,0,True,bowled,VG Arora,,death
+1,Punjab Kings,20,6,Arshdeep Singh,Umran Malik,K Rabada,0,0,0,,0,0,0,0,0,True,run out,Arshdeep Singh,"N Pooran, J Suchith",death
+2,Sunrisers Hyderabad,1,1,Abhishek Sharma,VG Arora,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,Abhishek Sharma,VG Arora,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,KS Williamson,VG Arora,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,Abhishek Sharma,VG Arora,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,Abhishek Sharma,VG Arora,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,Abhishek Sharma,VG Arora,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,KS Williamson,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,KS Williamson,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,KS Williamson,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,KS Williamson,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,KS Williamson,K Rabada,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,Abhishek Sharma,K Rabada,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,Abhishek Sharma,VG Arora,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,Abhishek Sharma,VG Arora,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,KS Williamson,VG Arora,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,KS Williamson,VG Arora,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,Abhishek Sharma,VG Arora,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,Abhishek Sharma,VG Arora,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,KS Williamson,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,True,caught,KS Williamson,S Dhawan,powerplay
+2,Sunrisers Hyderabad,4,2,RA Tripathi,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,RA Tripathi,K Rabada,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,RA Tripathi,K Rabada,Abhishek Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,RA Tripathi,K Rabada,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,RA Tripathi,K Rabada,Abhishek Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,Abhishek Sharma,VG Arora,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,RA Tripathi,VG Arora,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,RA Tripathi,VG Arora,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,RA Tripathi,VG Arora,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,RA Tripathi,VG Arora,Abhishek Sharma,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,RA Tripathi,VG Arora,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,Abhishek Sharma,Arshdeep Singh,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,RA Tripathi,Arshdeep Singh,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,RA Tripathi,Arshdeep Singh,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,RA Tripathi,Arshdeep Singh,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,Abhishek Sharma,Arshdeep Singh,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,6,6,Abhishek Sharma,Arshdeep Singh,RA Tripathi,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,1,RA Tripathi,RD Chahar,Abhishek Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,RA Tripathi,RD Chahar,Abhishek Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,RA Tripathi,RD Chahar,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,Abhishek Sharma,RD Chahar,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5.wides,Abhishek Sharma,RD Chahar,RA Tripathi,0,5,5,wides,5,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,Abhishek Sharma,RD Chahar,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,RA Tripathi,RD Chahar,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,RA Tripathi,OF Smith,Abhishek Sharma,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,RA Tripathi,OF Smith,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,RA Tripathi,OF Smith,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,RA Tripathi,OF Smith,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,Abhishek Sharma,OF Smith,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,Abhishek Sharma,OF Smith,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,Abhishek Sharma,RD Chahar,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,RA Tripathi,RD Chahar,Abhishek Sharma,0,0,0,,0,0,0,0,0,True,caught,RA Tripathi,M Shahrukh Khan,middle
+2,Sunrisers Hyderabad,9,3,AK Markram,RD Chahar,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,AK Markram,RD Chahar,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,AK Markram,RD Chahar,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,Abhishek Sharma,RD Chahar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,Abhishek Sharma,LS Livingstone,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,AK Markram,LS Livingstone,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,Abhishek Sharma,LS Livingstone,AK Markram,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,Abhishek Sharma,LS Livingstone,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,AK Markram,LS Livingstone,Abhishek Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,AK Markram,LS Livingstone,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,AK Markram,RD Chahar,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,Abhishek Sharma,RD Chahar,AK Markram,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,Abhishek Sharma,RD Chahar,AK Markram,0,0,0,,0,0,0,0,0,True,caught,Abhishek Sharma,M Shahrukh Khan,middle
+2,Sunrisers Hyderabad,11,4,N Pooran,RD Chahar,AK Markram,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,N Pooran,RD Chahar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,AK Markram,RD Chahar,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,N Pooran,Arshdeep Singh,AK Markram,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2.wides,N Pooran,Arshdeep Singh,AK Markram,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,N Pooran,Arshdeep Singh,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,AK Markram,Arshdeep Singh,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,AK Markram,Arshdeep Singh,N Pooran,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,AK Markram,Arshdeep Singh,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,N Pooran,Arshdeep Singh,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,N Pooran,LS Livingstone,AK Markram,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,AK Markram,LS Livingstone,N Pooran,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,3,AK Markram,LS Livingstone,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,4,N Pooran,LS Livingstone,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,5,N Pooran,LS Livingstone,AK Markram,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,6,N Pooran,LS Livingstone,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,1,N Pooran,K Rabada,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,2,AK Markram,K Rabada,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,3,N Pooran,K Rabada,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,4,N Pooran,K Rabada,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,5,AK Markram,K Rabada,N Pooran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,6,AK Markram,K Rabada,N Pooran,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,1,N Pooran,RD Chahar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,2,AK Markram,RD Chahar,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,3,N Pooran,RD Chahar,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,4,N Pooran,RD Chahar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,5,AK Markram,RD Chahar,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,6,N Pooran,RD Chahar,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,1,N Pooran,Arshdeep Singh,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,AK Markram,Arshdeep Singh,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,N Pooran,Arshdeep Singh,AK Markram,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,N Pooran,Arshdeep Singh,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5.wides,N Pooran,Arshdeep Singh,AK Markram,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,N Pooran,Arshdeep Singh,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,AK Markram,Arshdeep Singh,N Pooran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,N Pooran,K Rabada,AK Markram,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,N Pooran,K Rabada,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,AK Markram,K Rabada,N Pooran,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,AK Markram,K Rabada,N Pooran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,AK Markram,K Rabada,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,N Pooran,K Rabada,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,AK Markram,Arshdeep Singh,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,N Pooran,Arshdeep Singh,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,N Pooran,Arshdeep Singh,AK Markram,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,N Pooran,Arshdeep Singh,AK Markram,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,N Pooran,Arshdeep Singh,AK Markram,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,N Pooran,Arshdeep Singh,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,N Pooran,VG Arora,AK Markram,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,AK Markram,VG Arora,N Pooran,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,N Pooran,VG Arora,AK Markram,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,AK Markram,VG Arora,N Pooran,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,AK Markram,VG Arora,N Pooran,6,0,6,,0,0,0,0,0,False,,,,death

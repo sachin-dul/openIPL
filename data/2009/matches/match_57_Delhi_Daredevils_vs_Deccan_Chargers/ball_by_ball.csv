@@ -1,0 +1,238 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,G Gambhir,RJ Harris,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,G Gambhir,RJ Harris,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,G Gambhir,RJ Harris,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,G Gambhir,RJ Harris,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,G Gambhir,RJ Harris,DA Warner,0,0,0,,0,0,0,0,0,True,caught,G Gambhir,RP Singh,powerplay
+1,Delhi Daredevils,1,6,DA Warner,RJ Harris,V Sehwag,0,0,0,,0,0,0,0,0,True,caught,DA Warner,HH Gibbs,powerplay
+1,Delhi Daredevils,2,1,V Sehwag,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,V Sehwag,RP Singh,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,V Sehwag,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,V Sehwag,RP Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,TM Dilshan,RP Singh,V Sehwag,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,TM Dilshan,RP Singh,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,V Sehwag,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,V Sehwag,RJ Harris,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,V Sehwag,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,V Sehwag,RJ Harris,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,V Sehwag,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,V Sehwag,RJ Harris,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,TM Dilshan,RP Singh,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,TM Dilshan,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,TM Dilshan,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,TM Dilshan,RP Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,TM Dilshan,RP Singh,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6.wides,V Sehwag,RP Singh,TM Dilshan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,V Sehwag,RP Singh,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,TM Dilshan,RJ Harris,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2.noballs,V Sehwag,RJ Harris,TM Dilshan,2,1,3,noballs,0,1,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,V Sehwag,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,V Sehwag,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,V Sehwag,RJ Harris,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,V Sehwag,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,V Sehwag,RJ Harris,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,TM Dilshan,PP Ojha,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,TM Dilshan,PP Ojha,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,TM Dilshan,PP Ojha,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,TM Dilshan,PP Ojha,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,TM Dilshan,PP Ojha,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,TM Dilshan,PP Ojha,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,V Sehwag,A Symonds,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,V Sehwag,A Symonds,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,V Sehwag,A Symonds,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,V Sehwag,A Symonds,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,TM Dilshan,A Symonds,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,TM Dilshan,A Symonds,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,V Sehwag,PP Ojha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,TM Dilshan,PP Ojha,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,V Sehwag,PP Ojha,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,V Sehwag,PP Ojha,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,V Sehwag,PP Ojha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,TM Dilshan,PP Ojha,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,TM Dilshan,A Symonds,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,TM Dilshan,A Symonds,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,TM Dilshan,A Symonds,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,TM Dilshan,A Symonds,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,TM Dilshan,A Symonds,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,TM Dilshan,A Symonds,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,TM Dilshan,Harmeet Singh,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,V Sehwag,Harmeet Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,TM Dilshan,Harmeet Singh,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,TM Dilshan,Harmeet Singh,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,V Sehwag,Harmeet Singh,TM Dilshan,0,4,4,byes,0,0,4,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,V Sehwag,Harmeet Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,V Sehwag,A Symonds,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,V Sehwag,A Symonds,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,TM Dilshan,A Symonds,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,V Sehwag,A Symonds,TM Dilshan,0,0,0,,0,0,0,0,0,True,lbw,V Sehwag,,middle
+1,Delhi Daredevils,11,5,AB de Villiers,A Symonds,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,AB de Villiers,A Symonds,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,TM Dilshan,Harmeet Singh,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,TM Dilshan,Harmeet Singh,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,AB de Villiers,Harmeet Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,AB de Villiers,Harmeet Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,AB de Villiers,Harmeet Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,AB de Villiers,Harmeet Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,TM Dilshan,RG Sharma,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,AB de Villiers,RG Sharma,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,AB de Villiers,RG Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,AB de Villiers,RG Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,AB de Villiers,Harmeet Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,TM Dilshan,Harmeet Singh,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,AB de Villiers,Harmeet Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,TM Dilshan,Harmeet Singh,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,TM Dilshan,Harmeet Singh,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,AB de Villiers,Harmeet Singh,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,AB de Villiers,RG Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,AB de Villiers,RG Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,TM Dilshan,RG Sharma,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,TM Dilshan,PP Ojha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,AB de Villiers,PP Ojha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,TM Dilshan,PP Ojha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,AB de Villiers,PP Ojha,TM Dilshan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,AB de Villiers,PP Ojha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,TM Dilshan,PP Ojha,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1.wides,TM Dilshan,RG Sharma,AB de Villiers,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,AB de Villiers,RG Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,TM Dilshan,RG Sharma,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,TM Dilshan,RG Sharma,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,AB de Villiers,RG Sharma,TM Dilshan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,AB de Villiers,RG Sharma,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,AB de Villiers,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,True,caught,AB de Villiers,AC Gilchrist,death
+1,Delhi Daredevils,18,2,KD Karthik,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,KD Karthik,RP Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,TM Dilshan,RP Singh,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,KD Karthik,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,KD Karthik,RP Singh,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,KD Karthik,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2.wides,KD Karthik,RJ Harris,TM Dilshan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,KD Karthik,RJ Harris,TM Dilshan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,KD Karthik,RJ Harris,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,TM Dilshan,RJ Harris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,TM Dilshan,RJ Harris,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,KD Karthik,RJ Harris,TM Dilshan,0,0,0,,0,0,0,0,0,True,bowled,KD Karthik,,death
+1,Delhi Daredevils,20,1.wides,TM Dilshan,RP Singh,R Bhatia,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,TM Dilshan,RP Singh,R Bhatia,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,2,R Bhatia,RP Singh,TM Dilshan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,R Bhatia,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,True,caught,R Bhatia,Y Venugopal Rao,death
+1,Delhi Daredevils,20,4,A Mishra,RP Singh,TM Dilshan,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Delhi Daredevils,20,5,TM Dilshan,RP Singh,A Mishra,1,0,1,,0,0,0,0,0,True,run out,TM Dilshan,"TL Suman, AC Gilchrist",death
+1,Delhi Daredevils,20,6,PJ Sangwan,RP Singh,A Mishra,0,0,0,,0,0,0,0,0,True,run out,A Mishra,AC Gilchrist,death
+2,Deccan Chargers,1,1,AC Gilchrist,DP Nannes,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2.wides,AC Gilchrist,DP Nannes,HH Gibbs,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,AC Gilchrist,DP Nannes,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,3,AC Gilchrist,DP Nannes,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,AC Gilchrist,DP Nannes,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,AC Gilchrist,DP Nannes,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,AC Gilchrist,DP Nannes,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1.wides,HH Gibbs,A Nehra,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1,HH Gibbs,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,HH Gibbs,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,True,bowled,HH Gibbs,,powerplay
+2,Deccan Chargers,2,3,AA Bilakhia,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,AA Bilakhia,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,AA Bilakhia,A Nehra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,6,AC Gilchrist,A Nehra,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,AC Gilchrist,PJ Sangwan,AA Bilakhia,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,2,AC Gilchrist,PJ Sangwan,AA Bilakhia,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,AC Gilchrist,PJ Sangwan,AA Bilakhia,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,4,AC Gilchrist,PJ Sangwan,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,5,AA Bilakhia,PJ Sangwan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6.wides,AA Bilakhia,PJ Sangwan,AC Gilchrist,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,AA Bilakhia,PJ Sangwan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,AA Bilakhia,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,AA Bilakhia,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,3,AA Bilakhia,A Nehra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,AC Gilchrist,A Nehra,AA Bilakhia,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5.noballs,AC Gilchrist,A Nehra,AA Bilakhia,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,AC Gilchrist,A Nehra,AA Bilakhia,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,AC Gilchrist,A Nehra,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,AC Gilchrist,TM Dilshan,AA Bilakhia,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,AC Gilchrist,TM Dilshan,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,3,AA Bilakhia,TM Dilshan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,4,AA Bilakhia,TM Dilshan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,AC Gilchrist,TM Dilshan,AA Bilakhia,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,6,AC Gilchrist,TM Dilshan,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,AC Gilchrist,V Sehwag,AA Bilakhia,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2.noballs,AC Gilchrist,V Sehwag,AA Bilakhia,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2,AC Gilchrist,V Sehwag,AA Bilakhia,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,3,AC Gilchrist,V Sehwag,AA Bilakhia,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,4,AC Gilchrist,V Sehwag,AA Bilakhia,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,5,AC Gilchrist,V Sehwag,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,6,6,AA Bilakhia,V Sehwag,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,1,AA Bilakhia,TM Dilshan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2,AA Bilakhia,TM Dilshan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,AA Bilakhia,TM Dilshan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,AC Gilchrist,TM Dilshan,AA Bilakhia,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,AC Gilchrist,TM Dilshan,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,AA Bilakhia,TM Dilshan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,AA Bilakhia,A Mishra,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,2,AA Bilakhia,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,AA Bilakhia,A Mishra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,AC Gilchrist,A Mishra,AA Bilakhia,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,AA Bilakhia,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,6,AA Bilakhia,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,True,stumped,AA Bilakhia,KD Karthik,middle
+2,Deccan Chargers,9,1,AC Gilchrist,TM Dilshan,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,TL Suman,TM Dilshan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3,TL Suman,TM Dilshan,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,4,AC Gilchrist,TM Dilshan,TL Suman,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,AC Gilchrist,TM Dilshan,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,TL Suman,TM Dilshan,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,1,AC Gilchrist,A Mishra,TL Suman,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,2,AC Gilchrist,A Mishra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,TL Suman,A Mishra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,TL Suman,A Mishra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,AC Gilchrist,A Mishra,TL Suman,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,6,AC Gilchrist,A Mishra,TL Suman,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,DP Nannes,middle
+2,Deccan Chargers,11,1,A Symonds,DP Nannes,TL Suman,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,A Symonds,DP Nannes,TL Suman,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,A Symonds,DP Nannes,TL Suman,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,A Symonds,DP Nannes,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,5,TL Suman,DP Nannes,A Symonds,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,A Symonds,DP Nannes,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,A Symonds,A Mishra,TL Suman,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,A Symonds,A Mishra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,TL Suman,A Mishra,A Symonds,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,TL Suman,A Mishra,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,12,5,A Symonds,A Mishra,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,12,6,A Symonds,A Mishra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,1,A Symonds,A Nehra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,2,TL Suman,A Nehra,A Symonds,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,3,TL Suman,A Nehra,A Symonds,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,4,TL Suman,A Nehra,A Symonds,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,5,TL Suman,A Nehra,A Symonds,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,13,6,A Symonds,A Nehra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,1,A Symonds,A Mishra,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,2,A Symonds,A Mishra,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,3,A Symonds,A Mishra,TL Suman,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,4,A Symonds,A Mishra,TL Suman,0,0,0,,0,0,0,0,0,True,caught,A Symonds,DA Warner,death
+2,Deccan Chargers,14,5,TL Suman,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,14,6,TL Suman,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,1,RG Sharma,A Nehra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,2,TL Suman,A Nehra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,3,TL Suman,A Nehra,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,4,TL Suman,A Nehra,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,5,RG Sharma,A Nehra,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,15,6,TL Suman,A Nehra,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,1,RG Sharma,PJ Sangwan,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,RG Sharma,PJ Sangwan,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,TL Suman,PJ Sangwan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,4,TL Suman,PJ Sangwan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,TL Suman,PJ Sangwan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,TL Suman,PJ Sangwan,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,1,TL Suman,DP Nannes,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,RG Sharma,DP Nannes,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3,RG Sharma,DP Nannes,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4.wides,RG Sharma,DP Nannes,TL Suman,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,RG Sharma,DP Nannes,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,5,RG Sharma,DP Nannes,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,TL Suman,DP Nannes,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,1,TL Suman,PJ Sangwan,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,2,RG Sharma,PJ Sangwan,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,RG Sharma,PJ Sangwan,TL Suman,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,4,RG Sharma,PJ Sangwan,TL Suman,1,0,1,,0,0,0,0,0,False,,,,death

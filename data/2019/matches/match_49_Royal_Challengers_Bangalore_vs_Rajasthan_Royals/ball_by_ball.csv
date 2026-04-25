@@ -1,0 +1,52 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,V Kohli,VR Aaron,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,V Kohli,VR Aaron,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,V Kohli,VR Aaron,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,AB de Villiers,VR Aaron,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,AB de Villiers,VR Aaron,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,AB de Villiers,VR Aaron,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,V Kohli,S Gopal,AB de Villiers,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,V Kohli,S Gopal,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,V Kohli,S Gopal,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,V Kohli,S Gopal,AB de Villiers,0,0,0,,0,0,0,0,0,True,caught,V Kohli,LS Livingstone,middle
+1,Royal Challengers Bangalore,2,5,AB de Villiers,S Gopal,MP Stoinis,0,0,0,,0,0,0,0,0,True,caught,AB de Villiers,R Parag,middle
+1,Royal Challengers Bangalore,2,6,MP Stoinis,S Gopal,H Klaasen,0,0,0,,0,0,0,0,0,True,caught,MP Stoinis,SPD Smith,middle
+1,Royal Challengers Bangalore,3,1,H Klaasen,R Parag,Gurkeerat Singh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,3,2,H Klaasen,R Parag,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,3,3,Gurkeerat Singh,R Parag,H Klaasen,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,3,4,Gurkeerat Singh,R Parag,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,3,5,Gurkeerat Singh,R Parag,H Klaasen,0,0,0,,0,0,0,0,0,True,caught,Gurkeerat Singh,MK Lomror,middle
+1,Royal Challengers Bangalore,3,6,H Klaasen,R Parag,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,4,1,H Klaasen,JD Unadkat,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,4,2,PA Patel,JD Unadkat,H Klaasen,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,4,3,PA Patel,JD Unadkat,H Klaasen,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,4,4,PA Patel,JD Unadkat,H Klaasen,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,4,5,PA Patel,JD Unadkat,H Klaasen,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,4,6,PA Patel,JD Unadkat,H Klaasen,0,0,0,,0,0,0,0,0,True,caught,PA Patel,O Thomas,death
+1,Royal Challengers Bangalore,5,1.noballs,H Klaasen,O Thomas,P Negi,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,5,1,H Klaasen,O Thomas,P Negi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,5,2,P Negi,O Thomas,H Klaasen,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Royal Challengers Bangalore,5,3,H Klaasen,O Thomas,P Negi,0,0,0,,0,0,0,0,0,True,caught,H Klaasen,LS Livingstone,death
+1,Royal Challengers Bangalore,5,4,P Negi,O Thomas,UT Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,5,5,P Negi,O Thomas,UT Yadav,0,0,0,,0,0,0,0,0,True,caught,P Negi,SV Samson,death
+1,Royal Challengers Bangalore,5,6,Navdeep Saini,O Thomas,UT Yadav,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Rajasthan Royals,1,1,SV Samson,UT Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,SV Samson,UT Yadav,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,SV Samson,UT Yadav,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,SV Samson,UT Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,SV Samson,UT Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,SV Samson,UT Yadav,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,LS Livingstone,Navdeep Saini,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,2,2,LS Livingstone,Navdeep Saini,SV Samson,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,2,3,LS Livingstone,Navdeep Saini,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,2,4,SV Samson,Navdeep Saini,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,2,5,LS Livingstone,Navdeep Saini,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,2,6,LS Livingstone,Navdeep Saini,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,3,1,SV Samson,K Khejroliya,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,3,2,SV Samson,K Khejroliya,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,3,3,LS Livingstone,K Khejroliya,SV Samson,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Rajasthan Royals,3,4,SV Samson,K Khejroliya,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,3,5,SV Samson,K Khejroliya,LS Livingstone,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,3,6,SV Samson,K Khejroliya,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,4,1,LS Livingstone,YS Chahal,SV Samson,0,1,1,byes,0,0,1,0,0,False,,,,death
+2,Rajasthan Royals,4,2,SV Samson,YS Chahal,LS Livingstone,0,0,0,,0,0,0,0,0,True,caught,SV Samson,P Negi,death

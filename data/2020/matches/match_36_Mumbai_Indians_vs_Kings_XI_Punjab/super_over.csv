@@ -1,0 +1,25 @@
+team,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,is_wicket,wicket_kind,player_out
+Kings XI Punjab,1,KL Rahul,JJ Bumrah,N Pooran,1,0,1,,False,,
+Kings XI Punjab,2,N Pooran,JJ Bumrah,KL Rahul,0,0,0,,True,caught,N Pooran
+Kings XI Punjab,3,KL Rahul,JJ Bumrah,DJ Hooda,1,0,1,,False,,
+Kings XI Punjab,4,DJ Hooda,JJ Bumrah,KL Rahul,1,0,1,,False,,
+Kings XI Punjab,5,KL Rahul,JJ Bumrah,DJ Hooda,2,0,2,,False,,
+Kings XI Punjab,6,KL Rahul,JJ Bumrah,DJ Hooda,0,0,0,,True,lbw,KL Rahul
+Mumbai Indians,1,Q de Kock,Mohammed Shami,RG Sharma,1,0,1,,False,,
+Mumbai Indians,2,RG Sharma,Mohammed Shami,Q de Kock,1,0,1,,False,,
+Mumbai Indians,3,Q de Kock,Mohammed Shami,RG Sharma,1,0,1,,False,,
+Mumbai Indians,4,RG Sharma,Mohammed Shami,Q de Kock,0,0,0,,False,,
+Mumbai Indians,5,RG Sharma,Mohammed Shami,Q de Kock,1,0,1,,False,,
+Mumbai Indians,6,Q de Kock,Mohammed Shami,RG Sharma,1,0,1,,True,run out,Q de Kock
+Mumbai Indians,1,KA Pollard,CJ Jordan,HH Pandya,1,0,1,,False,,
+Mumbai Indians,1,HH Pandya,CJ Jordan,KA Pollard,0,1,1,wides,False,,
+Mumbai Indians,2,HH Pandya,CJ Jordan,KA Pollard,1,0,1,,False,,
+Mumbai Indians,3,KA Pollard,CJ Jordan,HH Pandya,4,0,4,,False,,
+Mumbai Indians,3,KA Pollard,CJ Jordan,HH Pandya,0,1,1,wides,False,,
+Mumbai Indians,4,KA Pollard,CJ Jordan,HH Pandya,1,0,1,,True,run out,HH Pandya
+Mumbai Indians,5,KA Pollard,CJ Jordan,SA Yadav,0,0,0,,False,,
+Mumbai Indians,6,KA Pollard,CJ Jordan,SA Yadav,2,0,2,,False,,
+Kings XI Punjab,1,CH Gayle,TA Boult,MA Agarwal,6,0,6,,False,,
+Kings XI Punjab,2,CH Gayle,TA Boult,MA Agarwal,1,0,1,,False,,
+Kings XI Punjab,3,MA Agarwal,TA Boult,CH Gayle,4,0,4,,False,,
+Kings XI Punjab,4,MA Agarwal,TA Boult,CH Gayle,4,0,4,,False,,

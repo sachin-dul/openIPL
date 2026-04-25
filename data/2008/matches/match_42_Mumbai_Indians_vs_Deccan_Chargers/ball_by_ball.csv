@@ -1,0 +1,253 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2.wides,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,ST Jayasuriya,DP Vijaykumar,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,SR Tendulkar,DNT Zoysa,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,ST Jayasuriya,DNT Zoysa,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,ST Jayasuriya,DNT Zoysa,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,ST Jayasuriya,DNT Zoysa,SR Tendulkar,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,ST Jayasuriya,DNT Zoysa,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,ST Jayasuriya,DNT Zoysa,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,SR Tendulkar,Y Venugopal Rao,ST Jayasuriya,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,ST Jayasuriya,Y Venugopal Rao,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,ST Jayasuriya,Y Venugopal Rao,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,ST Jayasuriya,Y Venugopal Rao,SR Tendulkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,ST Jayasuriya,Y Venugopal Rao,SR Tendulkar,0,0,0,,0,0,0,0,0,True,caught,ST Jayasuriya,RP Singh,powerplay
+1,Mumbai Indians,3,6,DJ Thornely,Y Venugopal Rao,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,SR Tendulkar,RP Singh,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,SR Tendulkar,RP Singh,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,SR Tendulkar,RP Singh,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,SR Tendulkar,RP Singh,DJ Thornely,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,SR Tendulkar,RP Singh,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,DJ Thornely,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,SR Tendulkar,DNT Zoysa,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,DJ Thornely,DNT Zoysa,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,DJ Thornely,DNT Zoysa,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,DJ Thornely,DNT Zoysa,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,SR Tendulkar,DNT Zoysa,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,DJ Thornely,DNT Zoysa,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,DJ Thornely,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,DJ Thornely,RP Singh,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,DJ Thornely,RP Singh,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,SR Tendulkar,RP Singh,DJ Thornely,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,SR Tendulkar,RP Singh,DJ Thornely,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,SR Tendulkar,RP Singh,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,DJ Thornely,Shahid Afridi,SR Tendulkar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,DJ Thornely,Shahid Afridi,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,SR Tendulkar,Shahid Afridi,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,DJ Thornely,Shahid Afridi,SR Tendulkar,0,4,4,legbyes,0,0,0,4,0,False,,,,middle
+1,Mumbai Indians,7,5,DJ Thornely,Shahid Afridi,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,SR Tendulkar,Shahid Afridi,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,DJ Thornely,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,SR Tendulkar,PP Ojha,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,SR Tendulkar,PP Ojha,DJ Thornely,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,SR Tendulkar,PP Ojha,DJ Thornely,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,SR Tendulkar,PP Ojha,DJ Thornely,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,DJ Thornely,PP Ojha,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,DJ Thornely,Shahid Afridi,SR Tendulkar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,SR Tendulkar,Shahid Afridi,DJ Thornely,0,0,0,,0,0,0,0,0,True,caught,SR Tendulkar,LPC Silva,middle
+1,Mumbai Indians,9,3,DJ Thornely,Shahid Afridi,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,DJ Thornely,Shahid Afridi,AM Nayar,0,0,0,,0,0,0,0,0,True,lbw,DJ Thornely,,middle
+1,Mumbai Indians,9,5,RV Uthappa,Shahid Afridi,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,RV Uthappa,Shahid Afridi,AM Nayar,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+1,Mumbai Indians,10,1,AM Nayar,PP Ojha,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,RV Uthappa,PP Ojha,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,RV Uthappa,PP Ojha,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,RV Uthappa,PP Ojha,AM Nayar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,RV Uthappa,PP Ojha,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,RV Uthappa,PP Ojha,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,RV Uthappa,Shahid Afridi,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,RV Uthappa,Shahid Afridi,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,AM Nayar,Shahid Afridi,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,RV Uthappa,Shahid Afridi,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5.wides,RV Uthappa,Shahid Afridi,AM Nayar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,RV Uthappa,Shahid Afridi,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,AM Nayar,Shahid Afridi,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,AM Nayar,PP Ojha,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,12,2,RV Uthappa,PP Ojha,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,AM Nayar,PP Ojha,RV Uthappa,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,12,4,RV Uthappa,PP Ojha,AM Nayar,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,12,5,AM Nayar,PP Ojha,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,AM Nayar,PP Ojha,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,RV Uthappa,Y Venugopal Rao,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2.wides,RV Uthappa,Y Venugopal Rao,AM Nayar,0,2,2,wides,2,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,AM Nayar,Y Venugopal Rao,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,RV Uthappa,Y Venugopal Rao,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,AM Nayar,Y Venugopal Rao,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,RV Uthappa,Y Venugopal Rao,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,RV Uthappa,Shahid Afridi,middle
+1,Mumbai Indians,13,6,AM Nayar,Y Venugopal Rao,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,AM Nayar,PP Ojha,DJ Bravo,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,AM Nayar,PP Ojha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,DJ Bravo,PP Ojha,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,DJ Bravo,PP Ojha,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,AM Nayar,PP Ojha,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,DJ Bravo,PP Ojha,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,AM Nayar,Y Venugopal Rao,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,DJ Bravo,Y Venugopal Rao,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,DJ Bravo,Y Venugopal Rao,AM Nayar,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,DJ Bravo,Y Venugopal Rao,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,AM Nayar,Y Venugopal Rao,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,DJ Bravo,Y Venugopal Rao,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,DJ Bravo,Shahid Afridi,AM Nayar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,DJ Bravo,Shahid Afridi,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,DJ Bravo,Shahid Afridi,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,DJ Bravo,Shahid Afridi,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,AM Nayar,Shahid Afridi,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,AM Nayar,Shahid Afridi,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,AM Nayar,DNT Zoysa,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,AM Nayar,DNT Zoysa,DJ Bravo,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,AM Nayar,DNT Zoysa,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,DJ Bravo,DNT Zoysa,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5.noballs,DJ Bravo,DNT Zoysa,AM Nayar,2,1,3,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,DJ Bravo,DNT Zoysa,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,AM Nayar,DNT Zoysa,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,AM Nayar,RP Singh,DJ Bravo,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,AM Nayar,RP Singh,DJ Bravo,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,DJ Bravo,RP Singh,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,AM Nayar,RP Singh,DJ Bravo,0,0,0,,0,0,0,0,0,True,caught,AM Nayar,RG Sharma,death
+1,Mumbai Indians,18,5,DJ Bravo,RP Singh,PR Shah,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,DJ Bravo,RP Singh,PR Shah,0,0,0,,0,0,0,0,0,True,bowled,DJ Bravo,,death
+1,Mumbai Indians,19,1.wides,PR Shah,DP Vijaykumar,YV Takawale,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,PR Shah,DP Vijaykumar,YV Takawale,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2.wides,PR Shah,DP Vijaykumar,YV Takawale,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2.noballs,PR Shah,DP Vijaykumar,YV Takawale,1,1,2,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,YV Takawale,DP Vijaykumar,PR Shah,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,19,3.wides,PR Shah,DP Vijaykumar,YV Takawale,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,PR Shah,DP Vijaykumar,YV Takawale,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Mumbai Indians,19,4,YV Takawale,DP Vijaykumar,PR Shah,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,YV Takawale,DP Vijaykumar,PR Shah,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,PR Shah,DP Vijaykumar,YV Takawale,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,PR Shah,RP Singh,YV Takawale,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,PR Shah,RP Singh,YV Takawale,0,0,0,,0,0,0,0,0,True,bowled,PR Shah,,death
+1,Mumbai Indians,20,3,RR Raje,RP Singh,YV Takawale,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,RR Raje,RP Singh,YV Takawale,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,YV Takawale,RP Singh,RR Raje,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,YV Takawale,RP Singh,RR Raje,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,1,1,AC Gilchrist,A Nehra,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,AC Gilchrist,A Nehra,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,3,AC Gilchrist,A Nehra,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,AC Gilchrist,A Nehra,Shahid Afridi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,AC Gilchrist,A Nehra,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,AC Gilchrist,A Nehra,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1.wides,AC Gilchrist,DJ Bravo,Shahid Afridi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,1,AC Gilchrist,DJ Bravo,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,Shahid Afridi,DJ Bravo,AC Gilchrist,0,0,0,,0,0,0,0,0,True,caught,Shahid Afridi,DJ Thornely,powerplay
+2,Deccan Chargers,2,3,AC Gilchrist,DJ Bravo,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,AC Gilchrist,DJ Bravo,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,RG Sharma,DJ Bravo,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,6,RG Sharma,DJ Bravo,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,AC Gilchrist,A Nehra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,2,AC Gilchrist,A Nehra,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,RG Sharma,A Nehra,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,4,RG Sharma,A Nehra,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,5,AC Gilchrist,A Nehra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,AC Gilchrist,A Nehra,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,RG Sharma,DJ Bravo,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,RG Sharma,DJ Bravo,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,3,RG Sharma,DJ Bravo,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,AC Gilchrist,DJ Bravo,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,RG Sharma,DJ Bravo,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,RG Sharma,DJ Bravo,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,AC Gilchrist,CRD Fernando,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,AC Gilchrist,CRD Fernando,RG Sharma,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,PR Shah,powerplay
+2,Deccan Chargers,5,3,RG Sharma,CRD Fernando,LPC Silva,0,0,0,,0,0,0,0,0,True,lbw,RG Sharma,,powerplay
+2,Deccan Chargers,5,4,Y Venugopal Rao,CRD Fernando,LPC Silva,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5.wides,Y Venugopal Rao,CRD Fernando,LPC Silva,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,Y Venugopal Rao,CRD Fernando,LPC Silva,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,6,LPC Silva,CRD Fernando,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,LPC Silva,RR Raje,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2.wides,LPC Silva,RR Raje,Y Venugopal Rao,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2,LPC Silva,RR Raje,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,3,LPC Silva,RR Raje,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,4,LPC Silva,RR Raje,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,5,LPC Silva,RR Raje,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,6,LPC Silva,RR Raje,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,7,1,Y Venugopal Rao,CRD Fernando,LPC Silva,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,2,LPC Silva,CRD Fernando,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,LPC Silva,CRD Fernando,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,Y Venugopal Rao,CRD Fernando,LPC Silva,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,Y Venugopal Rao,CRD Fernando,LPC Silva,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,Y Venugopal Rao,CRD Fernando,LPC Silva,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,LPC Silva,AM Nayar,Y Venugopal Rao,0,1,1,byes,0,0,1,0,0,False,,,,middle
+2,Deccan Chargers,8,2,Y Venugopal Rao,AM Nayar,LPC Silva,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,LPC Silva,AM Nayar,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,Y Venugopal Rao,AM Nayar,LPC Silva,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,Y Venugopal Rao,AM Nayar,LPC Silva,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,6,Y Venugopal Rao,AM Nayar,LPC Silva,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,1,Y Venugopal Rao,DJ Thornely,LPC Silva,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,Y Venugopal Rao,DJ Thornely,LPC Silva,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,3,Y Venugopal Rao,DJ Thornely,LPC Silva,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,4,LPC Silva,DJ Thornely,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,Y Venugopal Rao,DJ Thornely,LPC Silva,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,LPC Silva,DJ Thornely,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,1,LPC Silva,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,True,caught,LPC Silva,YV Takawale,middle
+2,Deccan Chargers,10,2,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,DB Ravi Teja,AM Nayar,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,Y Venugopal Rao,AM Nayar,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,6,DB Ravi Teja,AM Nayar,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,1,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,5,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,DB Ravi Teja,AM Nayar,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,5,DB Ravi Teja,AM Nayar,Y Venugopal Rao,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,6,DB Ravi Teja,AM Nayar,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,1,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,2,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,3,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,4,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,5,Y Venugopal Rao,ST Jayasuriya,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,6,DB Ravi Teja,ST Jayasuriya,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,1,DB Ravi Teja,RR Raje,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,2,Y Venugopal Rao,RR Raje,DB Ravi Teja,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,3,Y Venugopal Rao,RR Raje,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,4,DB Ravi Teja,RR Raje,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,5,Y Venugopal Rao,RR Raje,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,6,Y Venugopal Rao,RR Raje,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,1,Y Venugopal Rao,A Nehra,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,2,Y Venugopal Rao,A Nehra,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,3,DB Ravi Teja,A Nehra,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,4,Y Venugopal Rao,A Nehra,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,5,Y Venugopal Rao,A Nehra,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,6,Y Venugopal Rao,A Nehra,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,16,1,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,4,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,DB Ravi Teja,DJ Bravo,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,1,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Deccan Chargers,17,3,DB Ravi Teja,CRD Fernando,Y Venugopal Rao,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4.noballs,DB Ravi Teja,CRD Fernando,Y Venugopal Rao,1,1,2,noballs,0,1,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,5,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,Y Venugopal Rao,CRD Fernando,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,1,Y Venugopal Rao,DJ Bravo,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,caught,Y Venugopal Rao,PR Shah,death
+2,Deccan Chargers,18,2,DB Ravi Teja,DJ Bravo,DNT Zoysa,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,DB Ravi Teja,DJ Bravo,DNT Zoysa,0,0,0,,0,0,0,0,0,True,bowled,DB Ravi Teja,,death
+2,Deccan Chargers,18,4,H Das,DJ Bravo,DNT Zoysa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,5,H Das,DJ Bravo,DNT Zoysa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,6,H Das,DJ Bravo,DNT Zoysa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,1,H Das,CRD Fernando,DNT Zoysa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,2,DNT Zoysa,CRD Fernando,H Das,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,3,DNT Zoysa,CRD Fernando,H Das,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,4,DNT Zoysa,CRD Fernando,H Das,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,5,H Das,CRD Fernando,DNT Zoysa,0,0,0,,0,0,0,0,0,True,run out,H Das,YV Takawale,death
+2,Deccan Chargers,19,6,DNT Zoysa,CRD Fernando,RP Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,1,RP Singh,A Nehra,DNT Zoysa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,2,DNT Zoysa,A Nehra,RP Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Deccan Chargers,20,3,RP Singh,A Nehra,DNT Zoysa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,4,DNT Zoysa,A Nehra,RP Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Deccan Chargers,20,5,RP Singh,A Nehra,DNT Zoysa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,6,DNT Zoysa,A Nehra,RP Singh,1,0,1,,0,0,0,0,0,False,,,,death

@@ -1,0 +1,124 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Capitals,1,1,KK Nair,PJ Cummins,F du Plessis,0,0,0,,0,0,0,0,0,True,caught,KK Nair,Ishan Kishan,powerplay
+1,Delhi Capitals,1,2,Abishek Porel,PJ Cummins,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,3,Abishek Porel,PJ Cummins,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,4.wides,F du Plessis,PJ Cummins,Abishek Porel,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,4,F du Plessis,PJ Cummins,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,5,F du Plessis,PJ Cummins,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,1,6,F du Plessis,PJ Cummins,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,1,F du Plessis,JD Unadkat,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,2,Abishek Porel,JD Unadkat,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,3,F du Plessis,JD Unadkat,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,4,F du Plessis,JD Unadkat,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,5,F du Plessis,JD Unadkat,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,2,6,Abishek Porel,JD Unadkat,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,1,F du Plessis,PJ Cummins,Abishek Porel,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,Ishan Kishan,powerplay
+1,Delhi Capitals,3,2,KL Rahul,PJ Cummins,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,3,KL Rahul,PJ Cummins,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,4,Abishek Porel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,5,Abishek Porel,PJ Cummins,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,3,6,Abishek Porel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,1,KL Rahul,JD Unadkat,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,2,Abishek Porel,JD Unadkat,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,3,KL Rahul,JD Unadkat,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,4,KL Rahul,JD Unadkat,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,5,Abishek Porel,JD Unadkat,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,4,6,KL Rahul,JD Unadkat,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,1,Abishek Porel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,True,caught,Abishek Porel,Ishan Kishan,powerplay
+1,Delhi Capitals,5,2,AR Patel,PJ Cummins,KL Rahul,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,3,AR Patel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,4,AR Patel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,5,AR Patel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,5,6,AR Patel,PJ Cummins,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,1,KL Rahul,HV Patel,AR Patel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,2,KL Rahul,HV Patel,AR Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,3,KL Rahul,HV Patel,AR Patel,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,4,AR Patel,HV Patel,KL Rahul,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,5,AR Patel,HV Patel,KL Rahul,0,0,0,,0,0,0,0,0,True,caught,AR Patel,PJ Cummins,powerplay
+1,Delhi Capitals,6,6,T Stubbs,HV Patel,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,7,1,KL Rahul,E Malinga,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,2,KL Rahul,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,3,T Stubbs,E Malinga,KL Rahul,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,4,KL Rahul,E Malinga,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,5,KL Rahul,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,7,6,T Stubbs,E Malinga,KL Rahul,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,1,KL Rahul,JD Unadkat,T Stubbs,0,0,0,,0,0,0,0,0,True,caught,KL Rahul,Ishan Kishan,middle
+1,Delhi Capitals,8,2,V Nigam,JD Unadkat,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,3,V Nigam,JD Unadkat,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,4,V Nigam,JD Unadkat,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,5,T Stubbs,JD Unadkat,V Nigam,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,8,6,T Stubbs,JD Unadkat,V Nigam,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,1,V Nigam,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,2,T Stubbs,E Malinga,V Nigam,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Delhi Capitals,9,3,V Nigam,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,4,T Stubbs,E Malinga,V Nigam,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,5,T Stubbs,E Malinga,V Nigam,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,9,6,V Nigam,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,1,V Nigam,Zeeshan Ansari,T Stubbs,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,2,V Nigam,Zeeshan Ansari,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,3,V Nigam,Zeeshan Ansari,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,4,V Nigam,Zeeshan Ansari,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,5,V Nigam,Zeeshan Ansari,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,10,6,V Nigam,Zeeshan Ansari,T Stubbs,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,1,T Stubbs,Abhishek Sharma,V Nigam,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,2,V Nigam,Abhishek Sharma,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,3,T Stubbs,Abhishek Sharma,V Nigam,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,4,V Nigam,Abhishek Sharma,T Stubbs,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,5,V Nigam,Abhishek Sharma,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,6,V Nigam,Abhishek Sharma,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,1,T Stubbs,HV Patel,V Nigam,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,2,T Stubbs,HV Patel,V Nigam,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,3,T Stubbs,HV Patel,V Nigam,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,4,T Stubbs,HV Patel,V Nigam,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,5,V Nigam,HV Patel,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,6,T Stubbs,HV Patel,V Nigam,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,1,T Stubbs,Zeeshan Ansari,V Nigam,1,0,1,,0,0,0,0,0,True,run out,V Nigam,"Aniket Verma, Zeeshan Ansari",middle
+1,Delhi Capitals,13,2,T Stubbs,Zeeshan Ansari,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,3,Ashutosh Sharma,Zeeshan Ansari,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,4,T Stubbs,Zeeshan Ansari,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,5,Ashutosh Sharma,Zeeshan Ansari,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,6,T Stubbs,Zeeshan Ansari,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,1,T Stubbs,JD Unadkat,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,2,Ashutosh Sharma,JD Unadkat,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,3,T Stubbs,JD Unadkat,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,4,Ashutosh Sharma,JD Unadkat,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,5,T Stubbs,JD Unadkat,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,6,Ashutosh Sharma,JD Unadkat,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,1,T Stubbs,Zeeshan Ansari,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,2,Ashutosh Sharma,Zeeshan Ansari,T Stubbs,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,3,Ashutosh Sharma,Zeeshan Ansari,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,4,Ashutosh Sharma,Zeeshan Ansari,T Stubbs,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,5,Ashutosh Sharma,Zeeshan Ansari,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,6,T Stubbs,Zeeshan Ansari,Ashutosh Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,16,1,Ashutosh Sharma,PJ Cummins,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,2,T Stubbs,PJ Cummins,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,3,Ashutosh Sharma,PJ Cummins,T Stubbs,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,4,Ashutosh Sharma,PJ Cummins,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,5,T Stubbs,PJ Cummins,Ashutosh Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,16,6,T Stubbs,PJ Cummins,Ashutosh Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,1.wides,Ashutosh Sharma,HV Patel,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,1,Ashutosh Sharma,HV Patel,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,2,Ashutosh Sharma,HV Patel,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,3,Ashutosh Sharma,HV Patel,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,4,T Stubbs,HV Patel,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,5.wides,Ashutosh Sharma,HV Patel,T Stubbs,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,5,Ashutosh Sharma,HV Patel,T Stubbs,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,17,6,Ashutosh Sharma,HV Patel,T Stubbs,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,1,T Stubbs,E Malinga,Ashutosh Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,2,T Stubbs,E Malinga,Ashutosh Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,3,T Stubbs,E Malinga,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,4,Ashutosh Sharma,E Malinga,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,5,Ashutosh Sharma,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,18,6,T Stubbs,E Malinga,Ashutosh Sharma,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,1,Ashutosh Sharma,HV Patel,T Stubbs,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,2,Ashutosh Sharma,HV Patel,T Stubbs,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,3,Ashutosh Sharma,HV Patel,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,4,T Stubbs,HV Patel,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,19,5,Ashutosh Sharma,HV Patel,T Stubbs,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Delhi Capitals,19,6,T Stubbs,HV Patel,Ashutosh Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,1,Ashutosh Sharma,E Malinga,T Stubbs,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,2,Ashutosh Sharma,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,3,T Stubbs,E Malinga,Ashutosh Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,4,Ashutosh Sharma,E Malinga,T Stubbs,0,0,0,,0,0,0,0,0,True,caught,Ashutosh Sharma,A Manohar,death
+1,Delhi Capitals,20,5,MA Starc,E Malinga,T Stubbs,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,20,6,T Stubbs,E Malinga,MA Starc,4,0,4,,0,0,0,0,0,False,,,,death

@@ -1,0 +1,243 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,DA Warner,B Lee,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,DA Warner,B Lee,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,DA Warner,B Lee,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,DA Warner,B Lee,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,DA Warner,B Lee,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,DA Warner,B Lee,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,V Sehwag,PJ Sangwan,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,V Sehwag,PJ Sangwan,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,DA Warner,PJ Sangwan,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,V Sehwag,PJ Sangwan,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,V Sehwag,PJ Sangwan,DA Warner,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,V Sehwag,PJ Sangwan,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,V Sehwag,B Lee,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,DA Warner,B Lee,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,DA Warner,B Lee,V Sehwag,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,DA Warner,B Lee,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,DA Warner,B Lee,V Sehwag,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,DA Warner,B Lee,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,V Sehwag,JH Kallis,DA Warner,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,V Sehwag,JH Kallis,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,V Sehwag,JH Kallis,DA Warner,0,0,0,,0,0,0,0,0,True,lbw,V Sehwag,,powerplay
+1,Delhi Daredevils,4,4,DPMD Jayawardene,JH Kallis,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,DPMD Jayawardene,JH Kallis,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,DA Warner,JH Kallis,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,DPMD Jayawardene,SP Narine,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,DPMD Jayawardene,SP Narine,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,DPMD Jayawardene,SP Narine,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,DA Warner,SP Narine,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,DA Warner,SP Narine,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,DA Warner,SP Narine,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,DA Warner,JH Kallis,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,DPMD Jayawardene,JH Kallis,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,DA Warner,JH Kallis,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,DA Warner,JH Kallis,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,caught,DA Warner,BB McCullum,powerplay
+1,Delhi Daredevils,6,5,LRPL Taylor,JH Kallis,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,DPMD Jayawardene,JH Kallis,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,LRPL Taylor,PJ Sangwan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,LRPL Taylor,PJ Sangwan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6.wides,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,0,5,5,wides,5,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,LRPL Taylor,JH Kallis,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,LRPL Taylor,JH Kallis,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,LRPL Taylor,JH Kallis,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,DPMD Jayawardene,JH Kallis,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,DPMD Jayawardene,JH Kallis,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,LRPL Taylor,JH Kallis,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,DPMD Jayawardene,R Bhatia,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,DPMD Jayawardene,R Bhatia,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,DPMD Jayawardene,R Bhatia,LRPL Taylor,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,DPMD Jayawardene,R Bhatia,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,DPMD Jayawardene,R Bhatia,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,LRPL Taylor,R Bhatia,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,DPMD Jayawardene,JH Kallis,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,LRPL Taylor,JH Kallis,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,DPMD Jayawardene,JH Kallis,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,LRPL Taylor,JH Kallis,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,LRPL Taylor,JH Kallis,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,DPMD Jayawardene,JH Kallis,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,LRPL Taylor,R Bhatia,DPMD Jayawardene,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,LRPL Taylor,R Bhatia,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,DPMD Jayawardene,R Bhatia,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,LRPL Taylor,R Bhatia,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,LRPL Taylor,R Bhatia,DPMD Jayawardene,0,1,1,byes,0,0,1,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,DPMD Jayawardene,R Bhatia,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,LRPL Taylor,PJ Sangwan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,LRPL Taylor,PJ Sangwan,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,LRPL Taylor,PJ Sangwan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,DPMD Jayawardene,PJ Sangwan,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,LRPL Taylor,PJ Sangwan,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,LRPL Taylor,SP Narine,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,DPMD Jayawardene,SP Narine,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,DPMD Jayawardene,SP Narine,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,LRPL Taylor,SP Narine,DPMD Jayawardene,0,0,0,,0,0,0,0,0,True,run out,DPMD Jayawardene,G Gambhir,middle
+1,Delhi Daredevils,13,5,IK Pathan,SP Narine,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,IK Pathan,SP Narine,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,LRPL Taylor,R Bhatia,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,IK Pathan,R Bhatia,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,LRPL Taylor,R Bhatia,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,LRPL Taylor,R Bhatia,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,IK Pathan,R Bhatia,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,LRPL Taylor,R Bhatia,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,LRPL Taylor,PJ Sangwan,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,LRPL Taylor,PJ Sangwan,IK Pathan,0,0,0,,0,0,0,0,0,True,caught,LRPL Taylor,R Bhatia,middle
+1,Delhi Daredevils,15,3,IK Pathan,PJ Sangwan,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,Y Nagar,PJ Sangwan,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,IK Pathan,PJ Sangwan,Y Nagar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,IK Pathan,PJ Sangwan,Y Nagar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,Y Nagar,R Bhatia,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,IK Pathan,R Bhatia,Y Nagar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,IK Pathan,R Bhatia,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,Y Nagar,R Bhatia,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,IK Pathan,R Bhatia,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,Y Nagar,R Bhatia,IK Pathan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,IK Pathan,B Lee,Y Nagar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,IK Pathan,B Lee,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,Y Nagar,B Lee,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,IK Pathan,B Lee,Y Nagar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,Y Nagar,B Lee,IK Pathan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,Y Nagar,B Lee,IK Pathan,0,0,0,,0,0,0,0,0,True,bowled,Y Nagar,,death
+1,Delhi Daredevils,18,1,IK Pathan,SP Narine,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,NV Ojha,SP Narine,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,NV Ojha,SP Narine,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,NV Ojha,SP Narine,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,IK Pathan,SP Narine,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,NV Ojha,SP Narine,IK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,IK Pathan,B Lee,NV Ojha,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2.wides,IK Pathan,B Lee,NV Ojha,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,IK Pathan,B Lee,NV Ojha,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,IK Pathan,B Lee,NV Ojha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,IK Pathan,B Lee,NV Ojha,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,IK Pathan,B Lee,NV Ojha,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,NV Ojha,B Lee,IK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1.wides,NV Ojha,SP Narine,IK Pathan,0,5,5,wides,5,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,NV Ojha,SP Narine,IK Pathan,0,0,0,,0,0,0,0,0,True,caught,NV Ojha,MK Tiwary,death
+1,Delhi Daredevils,20,2,IK Pathan,SP Narine,M Morkel,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,IK Pathan,SP Narine,M Morkel,0,0,0,,0,0,0,0,0,True,stumped,IK Pathan,BB McCullum,death
+1,Delhi Daredevils,20,4,S Nadeem,SP Narine,M Morkel,0,0,0,,0,0,0,0,0,True,run out,M Morkel,B Lee,death
+1,Delhi Daredevils,20,5,VR Aaron,SP Narine,S Nadeem,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,S Nadeem,SP Narine,VR Aaron,0,0,0,,0,0,0,0,0,True,run out,VR Aaron,"BB McCullum, SP Narine",death
+2,Kolkata Knight Riders,1,1,BB McCullum,IK Pathan,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,G Gambhir,IK Pathan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,G Gambhir,IK Pathan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,BB McCullum,IK Pathan,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5,BB McCullum,IK Pathan,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,BB McCullum,IK Pathan,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,G Gambhir,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,G Gambhir,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,BB McCullum,S Nadeem,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,G Gambhir,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,G Gambhir,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,G Gambhir,S Nadeem,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,1,BB McCullum,M Morkel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,BB McCullum,M Morkel,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3.wides,G Gambhir,M Morkel,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,G Gambhir,M Morkel,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,G Gambhir,M Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,G Gambhir,M Morkel,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,BB McCullum,M Morkel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,G Gambhir,S Nadeem,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,G Gambhir,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,BB McCullum,S Nadeem,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,G Gambhir,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,G Gambhir,S Nadeem,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,G Gambhir,S Nadeem,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,BB McCullum,M Morkel,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,G Gambhir,M Morkel,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,G Gambhir,M Morkel,BB McCullum,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,4,BB McCullum,M Morkel,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,5,BB McCullum,M Morkel,G Gambhir,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,6,G Gambhir,M Morkel,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,1,BB McCullum,UT Yadav,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,2,BB McCullum,UT Yadav,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,3,BB McCullum,UT Yadav,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,4,BB McCullum,UT Yadav,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,6,5,BB McCullum,UT Yadav,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,BB McCullum,UT Yadav,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,G Gambhir,VR Aaron,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,BB McCullum,VR Aaron,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,BB McCullum,VR Aaron,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,BB McCullum,VR Aaron,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,5,G Gambhir,VR Aaron,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,G Gambhir,VR Aaron,BB McCullum,0,0,0,,0,0,0,0,0,True,bowled,G Gambhir,,middle
+2,Kolkata Knight Riders,8,1,BB McCullum,UT Yadav,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2.wides,JH Kallis,UT Yadav,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,JH Kallis,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,JH Kallis,UT Yadav,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,BB McCullum,UT Yadav,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,BB McCullum,UT Yadav,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,JH Kallis,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,BB McCullum,VR Aaron,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,JH Kallis,VR Aaron,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,BB McCullum,VR Aaron,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,BB McCullum,VR Aaron,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,JH Kallis,VR Aaron,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,JH Kallis,VR Aaron,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,JH Kallis,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,BB McCullum,S Nadeem,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,BB McCullum,S Nadeem,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,4,JH Kallis,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,5,JH Kallis,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,6,BB McCullum,S Nadeem,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,1,BB McCullum,IK Pathan,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,2,BB McCullum,IK Pathan,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,3,JH Kallis,IK Pathan,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,4,JH Kallis,IK Pathan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,5,JH Kallis,IK Pathan,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,11,6,JH Kallis,IK Pathan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,1,JH Kallis,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,2,BB McCullum,S Nadeem,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,3,JH Kallis,S Nadeem,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,4,JH Kallis,S Nadeem,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,5,BB McCullum,S Nadeem,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,12,6,JH Kallis,S Nadeem,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,1,BB McCullum,IK Pathan,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,13,2,BB McCullum,IK Pathan,JH Kallis,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,13,3,JH Kallis,IK Pathan,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4.wides,JH Kallis,IK Pathan,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,JH Kallis,IK Pathan,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,BB McCullum,IK Pathan,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,BB McCullum,IK Pathan,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1.wides,JH Kallis,UT Yadav,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,JH Kallis,UT Yadav,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,JH Kallis,UT Yadav,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,BB McCullum,UT Yadav,JH Kallis,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,14,4,JH Kallis,UT Yadav,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5,JH Kallis,UT Yadav,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,JH Kallis,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1,BB McCullum,M Morkel,JH Kallis,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,2,BB McCullum,M Morkel,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,JH Kallis,M Morkel,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,4,BB McCullum,M Morkel,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,5,BB McCullum,M Morkel,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,6,JH Kallis,M Morkel,BB McCullum,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,1,JH Kallis,UT Yadav,BB McCullum,0,0,0,,0,0,0,0,0,True,caught,JH Kallis,NV Ojha,death
+2,Kolkata Knight Riders,16,2,BB McCullum,UT Yadav,MK Tiwary,0,0,0,,0,0,0,0,0,True,caught,BB McCullum,V Sehwag,death
+2,Kolkata Knight Riders,16,3,YK Pathan,UT Yadav,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,4,MK Tiwary,UT Yadav,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5.wides,YK Pathan,UT Yadav,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,5,YK Pathan,UT Yadav,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,16,6,MK Tiwary,UT Yadav,YK Pathan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1.wides,YK Pathan,VR Aaron,MK Tiwary,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,1,YK Pathan,VR Aaron,MK Tiwary,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,17,2,MK Tiwary,VR Aaron,YK Pathan,5,0,5,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,3,YK Pathan,VR Aaron,MK Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,4,YK Pathan,VR Aaron,MK Tiwary,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,17,5,MK Tiwary,VR Aaron,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,17,6,MK Tiwary,VR Aaron,YK Pathan,0,4,4,byes,0,0,4,0,0,False,,,,death
+2,Kolkata Knight Riders,18,1,YK Pathan,M Morkel,MK Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,2,MK Tiwary,M Morkel,YK Pathan,0,0,0,,0,0,0,0,0,True,caught,MK Tiwary,IK Pathan,death
+2,Kolkata Knight Riders,18,3,YK Pathan,M Morkel,DB Das,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,4,YK Pathan,M Morkel,DB Das,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,5,DB Das,M Morkel,YK Pathan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,18,6,DB Das,M Morkel,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,1,DB Das,VR Aaron,YK Pathan,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Kolkata Knight Riders,19,2,YK Pathan,VR Aaron,DB Das,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,3.wides,YK Pathan,VR Aaron,DB Das,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,3,YK Pathan,VR Aaron,DB Das,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,19,4,YK Pathan,VR Aaron,DB Das,1,0,1,,0,0,0,0,0,False,,,,death

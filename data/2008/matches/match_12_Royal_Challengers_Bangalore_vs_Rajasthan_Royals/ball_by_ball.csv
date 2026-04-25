@@ -1,0 +1,230 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,S Chanderpaul,SR Watson,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,R Dravid,SR Watson,S Chanderpaul,0,0,0,,0,0,0,0,0,True,caught,R Dravid,RA Jadeja,powerplay
+1,Royal Challengers Bangalore,1,3,S Chanderpaul,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,S Chanderpaul,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,S Chanderpaul,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,S Chanderpaul,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,LRPL Taylor,Sohail Tanvir,S Chanderpaul,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,LRPL Taylor,Sohail Tanvir,S Chanderpaul,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,S Chanderpaul,Sohail Tanvir,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,S Chanderpaul,Sohail Tanvir,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5.wides,LRPL Taylor,Sohail Tanvir,S Chanderpaul,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,LRPL Taylor,Sohail Tanvir,S Chanderpaul,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,LRPL Taylor,Sohail Tanvir,S Chanderpaul,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,S Chanderpaul,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,S Chanderpaul,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,True,caught,S Chanderpaul,RA Jadeja,powerplay
+1,Royal Challengers Bangalore,3,3,LRPL Taylor,SR Watson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,LRPL Taylor,SR Watson,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,JH Kallis,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,JH Kallis,SR Watson,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,LRPL Taylor,Sohail Tanvir,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,LRPL Taylor,Sohail Tanvir,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,LRPL Taylor,Sohail Tanvir,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,LRPL Taylor,Sohail Tanvir,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,LRPL Taylor,Sohail Tanvir,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,LRPL Taylor,Sohail Tanvir,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,JH Kallis,SR Watson,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,JH Kallis,SR Watson,LRPL Taylor,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,JH Kallis,SR Watson,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,LRPL Taylor,SR Watson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,LRPL Taylor,SR Watson,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,LRPL Taylor,SR Watson,JH Kallis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,JH Kallis,MM Patel,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,JH Kallis,MM Patel,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,JH Kallis,MM Patel,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,LRPL Taylor,MM Patel,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,LRPL Taylor,MM Patel,JH Kallis,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,LRPL Taylor,MM Patel,JH Kallis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,JH Kallis,SK Trivedi,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,LRPL Taylor,SK Trivedi,JH Kallis,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,JH Kallis,SK Trivedi,LRPL Taylor,0,0,0,,0,0,0,0,0,True,caught,JH Kallis,MM Patel,middle
+1,Royal Challengers Bangalore,7,4,V Kohli,SK Trivedi,LRPL Taylor,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,V Kohli,SK Trivedi,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6.wides,V Kohli,SK Trivedi,LRPL Taylor,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6.wides,V Kohli,SK Trivedi,LRPL Taylor,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,V Kohli,SK Trivedi,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,V Kohli,MM Patel,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,LRPL Taylor,MM Patel,V Kohli,0,0,0,,0,0,0,0,0,True,caught,LRPL Taylor,GC Smith,middle
+1,Royal Challengers Bangalore,8,3,V Kohli,MM Patel,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,MV Boucher,MM Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,V Kohli,MM Patel,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,MV Boucher,MM Patel,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,V Kohli,SK Trivedi,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,V Kohli,SK Trivedi,MV Boucher,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,MV Boucher,SK Trivedi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,V Kohli,SK Trivedi,MV Boucher,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,V Kohli,SK Trivedi,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,V Kohli,SK Trivedi,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,MV Boucher,MM Patel,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,V Kohli,MM Patel,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,V Kohli,MM Patel,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,V Kohli,MM Patel,MV Boucher,0,0,0,,0,0,0,0,0,True,caught,V Kohli,M Rawat,middle
+1,Royal Challengers Bangalore,10,5,P Kumar,MM Patel,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,P Kumar,MM Patel,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,MV Boucher,Sohail Tanvir,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,MV Boucher,Sohail Tanvir,P Kumar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,P Kumar,Sohail Tanvir,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,P Kumar,Sohail Tanvir,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,P Kumar,Sohail Tanvir,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,P Kumar,Sohail Tanvir,MV Boucher,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,MV Boucher,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,MV Boucher,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,MV Boucher,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,MV Boucher,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,True,caught,MV Boucher,M Rawat,middle
+1,Royal Challengers Bangalore,12,5,SB Joshi,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,SB Joshi,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,P Kumar,YK Pathan,SB Joshi,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,P Kumar,YK Pathan,SB Joshi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,SB Joshi,YK Pathan,P Kumar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,P Kumar,YK Pathan,SB Joshi,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,P Kumar,YK Pathan,SB Joshi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,SB Joshi,YK Pathan,P Kumar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,SB Joshi,SK Warne,P Kumar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,P Kumar,SK Warne,SB Joshi,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,P Kumar,SK Warne,SB Joshi,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,SB Joshi,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,SB Joshi,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,SB Joshi,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,True,run out,SB Joshi,"Sohail Tanvir, M Rawat",middle
+1,Royal Challengers Bangalore,15,1,P Kumar,SK Trivedi,Z Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,P Kumar,SK Trivedi,Z Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,P Kumar,SK Trivedi,Z Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,P Kumar,SK Trivedi,Z Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,Z Khan,SK Trivedi,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,Z Khan,SK Trivedi,P Kumar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,P Kumar,SK Warne,Z Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,P Kumar,SK Warne,Z Khan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,P Kumar,SK Warne,Z Khan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,P Kumar,SK Warne,Z Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,P Kumar,SK Warne,Z Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,Z Khan,SK Warne,P Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,P Kumar,Sohail Tanvir,Z Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,Z Khan,Sohail Tanvir,P Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,Z Khan,Sohail Tanvir,P Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,Z Khan,Sohail Tanvir,P Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,Z Khan,Sohail Tanvir,P Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,Z Khan,Sohail Tanvir,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,Z Khan,SK Warne,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,P Kumar,SK Warne,Z Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,P Kumar,SK Warne,Z Khan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,P Kumar,SK Warne,Z Khan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,P Kumar,SK Warne,Z Khan,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,Z Khan,SK Warne,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,Z Khan,SK Trivedi,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,Z Khan,SK Trivedi,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,Z Khan,SK Trivedi,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,P Kumar,SK Trivedi,Z Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,P Kumar,SK Trivedi,Z Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,P Kumar,SK Trivedi,Z Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,Z Khan,SR Watson,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,P Kumar,SR Watson,Z Khan,0,0,0,,0,0,0,0,0,True,run out,P Kumar,"M Rawat, SR Watson",death
+1,Royal Challengers Bangalore,20,3.noballs,Z Khan,SR Watson,R Vinay Kumar,1,1,2,noballs,0,1,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,R Vinay Kumar,SR Watson,Z Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,Z Khan,SR Watson,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,Z Khan,SR Watson,R Vinay Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,Z Khan,SR Watson,R Vinay Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,GC Smith,P Kumar,M Rawat,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,GC Smith,P Kumar,M Rawat,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,M Rawat,P Kumar,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,M Rawat,P Kumar,GC Smith,0,0,0,,0,0,0,0,0,True,caught,M Rawat,MV Boucher,powerplay
+2,Rajasthan Royals,1,5,YK Pathan,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,YK Pathan,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,GC Smith,Z Khan,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,YK Pathan,Z Khan,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,YK Pathan,Z Khan,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,YK Pathan,Z Khan,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,YK Pathan,Z Khan,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,YK Pathan,Z Khan,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,GC Smith,P Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,YK Pathan,P Kumar,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,YK Pathan,P Kumar,GC Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,GC Smith,P Kumar,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,YK Pathan,P Kumar,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,YK Pathan,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,GC Smith,Z Khan,YK Pathan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,YK Pathan,Z Khan,GC Smith,0,0,0,,0,0,0,0,0,True,caught,YK Pathan,MV Boucher,powerplay
+2,Rajasthan Royals,4,3,GC Smith,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,GC Smith,Z Khan,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,GC Smith,Z Khan,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,SR Watson,Z Khan,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,GC Smith,R Vinay Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2.wides,SR Watson,R Vinay Kumar,GC Smith,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,SR Watson,R Vinay Kumar,GC Smith,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,GC Smith,R Vinay Kumar,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,GC Smith,R Vinay Kumar,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,GC Smith,R Vinay Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,SR Watson,R Vinay Kumar,GC Smith,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,GC Smith,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,GC Smith,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,3,GC Smith,Z Khan,SR Watson,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,6,4,SR Watson,Z Khan,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,5,SR Watson,Z Khan,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,6,GC Smith,Z Khan,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,1,SR Watson,R Vinay Kumar,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,GC Smith,R Vinay Kumar,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,GC Smith,R Vinay Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,SR Watson,R Vinay Kumar,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,GC Smith,R Vinay Kumar,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,GC Smith,R Vinay Kumar,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,SR Watson,A Kumble,GC Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,SR Watson,A Kumble,GC Smith,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,SR Watson,A Kumble,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,GC Smith,A Kumble,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,SR Watson,JH Kallis,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,GC Smith,JH Kallis,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,SR Watson,JH Kallis,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,GC Smith,JH Kallis,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,GC Smith,JH Kallis,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,GC Smith,JH Kallis,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,SR Watson,A Kumble,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,GC Smith,A Kumble,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,GC Smith,A Kumble,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4.wides,SR Watson,A Kumble,GC Smith,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,SR Watson,A Kumble,GC Smith,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,GC Smith,SB Joshi,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,SR Watson,SB Joshi,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,SR Watson,SB Joshi,GC Smith,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,SR Watson,SB Joshi,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,GC Smith,SB Joshi,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,GC Smith,SB Joshi,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,SR Watson,A Kumble,GC Smith,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,GC Smith,A Kumble,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,12,3,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,12,4,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,12,5,SR Watson,A Kumble,GC Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,12,6,GC Smith,A Kumble,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,1,GC Smith,SB Joshi,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,2,SR Watson,SB Joshi,GC Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,3,SR Watson,SB Joshi,GC Smith,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,4,SR Watson,SB Joshi,GC Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,5,SR Watson,SB Joshi,GC Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,6,GC Smith,SB Joshi,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,SR Watson,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,2,SR Watson,P Kumar,GC Smith,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,SR Watson,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,SR Watson,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,SR Watson,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,SR Watson,P Kumar,GC Smith,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,GC Smith,A Kumble,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,SR Watson,A Kumble,GC Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,GC Smith,A Kumble,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,GC Smith,A Kumble,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,SR Watson,A Kumble,GC Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,SR Watson,A Kumble,GC Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,SR Watson,SB Joshi,GC Smith,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,SR Watson,SB Joshi,GC Smith,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,GC Smith,SB Joshi,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,GC Smith,SB Joshi,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,GC Smith,SB Joshi,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,GC Smith,SB Joshi,SR Watson,0,0,0,,0,0,0,0,0,True,caught,GC Smith,A Kumble,death
+2,Rajasthan Royals,17,1,M Kaif,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,M Kaif,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,M Kaif,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,M Kaif,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,M Kaif,Z Khan,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,M Kaif,Z Khan,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,SR Watson,SB Joshi,M Kaif,4,0,4,,0,0,0,0,0,False,,,,death

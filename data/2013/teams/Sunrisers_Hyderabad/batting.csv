@@ -1,0 +1,139 @@
+match_number,opponent,batter,runs,balls,fours,sixes,strike_rate,dismissal
+3,Pune Warriors,PA Reddy,27,30,2,0,90.0,b Yuvraj Singh
+3,Pune Warriors,PA Patel,19,18,3,0,105.56,b AB Dinda
+3,Pune Warriors,KC Sangakkara,15,16,2,0,93.75,b R Sharma
+3,Pune Warriors,CL White,10,18,0,0,55.56,c MR Marsh b MN Samuels
+3,Pune Warriors,NLTC Perera,30,18,3,1,166.67,c MK Pandey b AB Dinda
+3,Pune Warriors,GH Vihari,11,12,1,0,91.67,c AB Dinda b B Kumar
+3,Pune Warriors,A Ashish Reddy,7,4,1,0,175.0,not out
+3,Pune Warriors,DB Ravi Teja,4,4,0,0,100.0,not out
+7,Royal Challengers Bangalore,PA Reddy,23,21,2,0,109.52,b M Muralitharan
+7,Royal Challengers Bangalore,PA Patel,2,4,0,0,50.0,c KB Arun Karthik b MC Henriques
+7,Royal Challengers Bangalore,CL White,5,9,1,0,55.56,c M Muralitharan b MC Henriques
+7,Royal Challengers Bangalore,GH Vihari,44,46,2,0,95.65,not out
+7,Royal Challengers Bangalore,KC Sangakkara,16,17,1,0,94.12,c KB Arun Karthik b JD Unadkat
+7,Royal Challengers Bangalore,NLTC Perera,7,8,1,0,87.5,c MC Henriques b JD Unadkat
+7,Royal Challengers Bangalore,A Mishra,0,0,0,0,0.0,"run out (R Vinay Kumar, KB Arun Karthik)"
+7,Royal Challengers Bangalore,A Ashish Reddy,14,12,0,1,116.67,c V Kohli b R Vinay Kumar
+7,Royal Challengers Bangalore,DW Steyn,3,3,0,0,100.0,not out
+9,Royal Challengers Bangalore,PA Reddy,12,11,2,0,109.09,c R Vinay Kumar b RP Singh
+9,Royal Challengers Bangalore,PA Patel,20,19,2,0,105.26,b M Muralitharan
+9,Royal Challengers Bangalore,KC Sangakkara,23,24,2,0,95.83,c V Kohli b M Kartik
+9,Royal Challengers Bangalore,CL White,52,34,3,3,152.94,c AB de Villiers b R Vinay Kumar
+9,Royal Challengers Bangalore,NLTC Perera,40,24,1,4,166.67,b RP Singh
+9,Royal Challengers Bangalore,A Ashish Reddy,3,4,0,0,75.0,b RP Singh
+9,Royal Challengers Bangalore,GH Vihari,4,3,0,0,133.33,not out
+9,Royal Challengers Bangalore,BB Samantray,2,2,0,0,100.0,not out
+14,Delhi Daredevils,PA Reddy,1,8,0,0,12.5,run out (S Nadeem)
+14,Delhi Daredevils,PA Patel,19,19,4,0,100.0,c & b S Nadeem
+14,Delhi Daredevils,KC Sangakkara,28,28,4,0,100.0,c V Sehwag b J Botha
+14,Delhi Daredevils,GH Vihari,17,23,0,1,73.91,c J Botha b M Morkel
+14,Delhi Daredevils,CL White,4,8,0,0,50.0,st KM Jadhav b S Nadeem
+14,Delhi Daredevils,NLTC Perera,2,3,0,0,66.67,c J Botha b IK Pathan
+14,Delhi Daredevils,A Ashish Reddy,16,9,2,0,177.78,b M Morkel
+14,Delhi Daredevils,A Mishra,16,14,2,0,114.29,not out
+14,Delhi Daredevils,DW Steyn,9,5,1,0,180.0,not out
+17,Kolkata Knight Riders,PA Patel,27,31,2,1,87.1,b JH Kallis
+17,Kolkata Knight Riders,CL White,34,31,3,1,109.68,c YK Pathan b JH Kallis
+17,Kolkata Knight Riders,KC Sangakkara,2,3,0,0,66.67,c MK Tiwary b R Bhatia
+17,Kolkata Knight Riders,DB Ravi Teja,10,13,0,0,76.92,c MK Tiwary b SP Narine
+17,Kolkata Knight Riders,NLTC Perera,36,25,2,1,144.0,b JH Kallis
+17,Kolkata Knight Riders,A Ashish Reddy,4,5,0,0,80.0,b SMSM Senanayake
+17,Kolkata Knight Riders,KV Sharma,5,9,0,0,55.56,not out
+17,Kolkata Knight Riders,GH Vihari,1,2,0,0,50.0,c MK Tiwary b R Bhatia
+17,Kolkata Knight Riders,A Mishra,1,1,0,0,100.0,not out
+22,Pune Warriors,PA Patel,12,9,2,0,133.33,b B Kumar
+22,Pune Warriors,Q de Kock,2,8,0,0,25.0,c MR Marsh b AB Dinda
+22,Pune Warriors,GH Vihari,1,8,0,0,12.5,c AJ Finch b B Kumar
+22,Pune Warriors,CL White,0,1,0,0,0.0,b B Kumar
+22,Pune Warriors,BB Samantray,37,37,3,1,100.0,c MK Pandey b R Sharma
+22,Pune Warriors,KV Sharma,7,13,0,0,53.85,lbw b R Sharma
+22,Pune Warriors,NLTC Perera,2,4,0,0,50.0,c RV Uthappa b MR Marsh
+22,Pune Warriors,A Mishra,30,24,3,0,125.0,"run out (AM Nayar, RV Uthappa)"
+22,Pune Warriors,A Ashish Reddy,19,15,0,1,126.67,not out
+22,Pune Warriors,DW Steyn,4,1,1,0,400.0,not out
+25,Kings XI Punjab,Q de Kock,0,4,0,0,0.0,b P Kumar
+25,Kings XI Punjab,PA Reddy,19,17,2,0,111.76,c Azhar Mahmood b MS Gony
+25,Kings XI Punjab,GH Vihari,46,39,5,0,117.95,c DJ Hussey b PP Chawla
+25,Kings XI Punjab,CL White,16,23,1,0,69.57,b MS Gony
+25,Kings XI Punjab,BB Samantray,10,12,1,0,83.33,lbw b Azhar Mahmood
+25,Kings XI Punjab,NLTC Perera,23,11,0,3,209.09,not out
+25,Kings XI Punjab,A Ashish Reddy,7,7,1,0,100.0,not out
+34,Chennai Super Kings,Q de Kock,4,3,1,0,133.33,c M Vijay b MM Sharma
+34,Chennai Super Kings,S Dhawan,63,45,10,0,140.0,not out
+34,Chennai Super Kings,GH Vihari,2,3,0,0,66.67,run out (SK Raina)
+34,Chennai Super Kings,CL White,2,3,0,0,66.67,c MS Dhoni b MM Sharma
+34,Chennai Super Kings,A Mishra,15,21,2,0,71.43,c DJ Bravo b R Ashwin
+34,Chennai Super Kings,X Thalaivan Sargunam,10,17,0,0,58.82,c & b DJ Bravo
+34,Chennai Super Kings,DJG Sammy,19,12,2,1,158.33,c CH Morris b DJ Bravo
+34,Chennai Super Kings,A Ashish Reddy,36,16,2,3,225.0,not out
+36,Rajasthan Royals,PA Reddy,2,5,0,0,40.0,c SR Watson b A Chandila
+36,Rajasthan Royals,S Dhawan,0,2,0,0,0.0,c AM Rahane b JP Faulkner
+36,Rajasthan Royals,KC Sangakkara,4,4,1,0,100.0,c SR Watson b JP Faulkner
+36,Rajasthan Royals,GH Vihari,4,9,0,0,44.44,c DH Yagnik b KK Cooper
+36,Rajasthan Royals,KV Sharma,6,8,1,0,75.0,c BJ Hodge b JP Faulkner
+36,Rajasthan Royals,NLTC Perera,4,4,1,0,100.0,c KK Cooper b A Chandila
+36,Rajasthan Royals,DJG Sammy,60,41,8,1,146.34,lbw b JP Faulkner
+36,Rajasthan Royals,A Mishra,21,28,2,0,75.0,c KK Cooper b JP Faulkner
+36,Rajasthan Royals,A Ashish Reddy,14,11,1,0,127.27,c AM Rahane b STR Binny
+36,Rajasthan Royals,DW Steyn,18,8,2,1,225.0,not out
+43,Mumbai Indians,PA Reddy,7,9,1,0,77.78,c DR Smith b MG Johnson
+43,Mumbai Indians,S Dhawan,73,55,9,1,132.73,not out
+43,Mumbai Indians,KC Sangakkara,21,21,3,0,100.0,c & b Harbhajan Singh
+43,Mumbai Indians,GH Vihari,25,23,2,0,108.7,c AT Rayudu b DS Kulkarni
+43,Mumbai Indians,DJG Sammy,1,1,0,0,100.0,not out
+48,Delhi Daredevils,PA Patel,14,18,1,0,77.78,st KM Jadhav b BMAJ Mendis
+48,Delhi Daredevils,S Dhawan,22,16,4,0,137.5,lbw b J Botha
+48,Delhi Daredevils,A Ashish Reddy,5,6,1,0,83.33,c KM Jadhav b A Nehra
+48,Delhi Daredevils,DJG Sammy,18,20,0,1,90.0,not out
+48,Delhi Daredevils,KC Sangakkara,8,14,0,0,57.14,c UT Yadav b J Botha
+48,Delhi Daredevils,GH Vihari,11,9,2,0,122.22,not out
+54,Chennai Super Kings,PA Patel,44,30,6,1,146.67,c M Vijay b MM Sharma
+54,Chennai Super Kings,S Dhawan,3,3,0,0,100.0,run out (MS Dhoni)
+54,Chennai Super Kings,KC Sangakkara,3,9,0,0,33.33,c CH Morris b R Ashwin
+54,Chennai Super Kings,GH Vihari,3,8,0,0,37.5,c M Vijay b SK Raina
+54,Chennai Super Kings,DJG Sammy,7,3,0,1,233.33,c CH Morris b MM Sharma
+54,Chennai Super Kings,NLTC Perera,23,13,1,2,176.92,c S Badrinath b DJ Bravo
+54,Chennai Super Kings,KV Sharma,39,33,3,1,118.18,not out
+54,Chennai Super Kings,A Mishra,6,8,0,0,75.0,run out (RA Jadeja)
+54,Chennai Super Kings,DW Steyn,14,13,1,1,107.69,c JO Holder b CH Morris
+59,Kings XI Punjab,PA Patel,61,47,5,2,129.79,"run out (R Sathish, Harmeet Singh)"
+59,Kings XI Punjab,S Dhawan,15,14,2,0,107.14,c & b Harmeet Singh
+59,Kings XI Punjab,GH Vihari,5,7,1,0,71.43,c DA Miller b Sandeep Sharma
+59,Kings XI Punjab,CL White,10,8,2,0,125.0,lbw b Sandeep Sharma
+59,Kings XI Punjab,BB Samantray,0,1,0,0,0.0,b Sandeep Sharma
+59,Kings XI Punjab,DJG Sammy,0,3,0,0,0.0,lbw b PP Chawla
+59,Kings XI Punjab,KV Sharma,22,18,2,1,122.22,c AC Gilchrist b P Awana
+59,Kings XI Punjab,NLTC Perera,32,19,2,2,168.42,not out
+59,Kings XI Punjab,DW Steyn,1,3,0,0,33.33,not out
+62,Mumbai Indians,PA Patel,26,14,5,0,185.71,c AT Rayudu b SL Malinga
+62,Mumbai Indians,S Dhawan,59,41,6,2,143.9,c KD Karthik b MG Johnson
+62,Mumbai Indians,GH Vihari,41,37,4,0,110.81,c MG Johnson b SL Malinga
+62,Mumbai Indians,CL White,43,23,3,3,186.96,not out
+62,Mumbai Indians,NLTC Perera,2,5,0,0,40.0,not out
+68,Rajasthan Royals,PA Patel,2,6,0,0,33.33,b JP Faulkner
+68,Rajasthan Royals,S Dhawan,1,3,0,0,33.33,c AM Rahane b JP Faulkner
+68,Rajasthan Royals,GH Vihari,19,28,0,0,67.86,c Sachin Baby b SK Trivedi
+68,Rajasthan Royals,CL White,0,1,0,0,0.0,c SK Trivedi b SR Watson
+68,Rajasthan Royals,BB Samantray,55,46,6,1,119.57,c KK Cooper b JP Faulkner
+68,Rajasthan Royals,DJG Sammy,23,19,1,1,121.05,c BJ Hodge b JP Faulkner
+68,Rajasthan Royals,NLTC Perera,17,13,0,0,130.77,not out
+68,Rajasthan Royals,DW Steyn,0,1,0,0,0.0,b JP Faulkner
+68,Rajasthan Royals,KV Sharma,4,3,0,0,133.33,"run out (STR Binny, Sachin Baby, KK Cooper)"
+68,Rajasthan Royals,A Mishra,0,0,0,0,0.0,run out (KK Cooper)
+72,Kolkata Knight Riders,PA Patel,47,37,7,0,127.03,lbw b Iqbal Abdulla
+72,Kolkata Knight Riders,S Dhawan,42,35,3,2,120.0,lbw b Iqbal Abdulla
+72,Kolkata Knight Riders,GH Vihari,6,13,0,0,46.15,c P Dogra b Iqbal Abdulla
+72,Kolkata Knight Riders,CL White,2,4,0,0,50.0,"run out (EJG Morgan, MS Bisla)"
+72,Kolkata Knight Riders,NLTC Perera,4,10,0,0,40.0,b Mohammed Shami
+72,Kolkata Knight Riders,DJG Sammy,17,12,0,2,141.67,not out
+72,Kolkata Knight Riders,BB Samantray,5,2,1,0,250.0,not out
+74,Rajasthan Royals,PA Patel,1,3,0,0,33.33,c SV Samson b VS Malik
+74,Rajasthan Royals,S Dhawan,33,39,3,0,84.62,c SK Trivedi b JP Faulkner
+74,Rajasthan Royals,GH Vihari,1,8,0,0,12.5,c KK Cooper b VS Malik
+74,Rajasthan Royals,CL White,31,28,5,0,110.71,c KK Cooper b SK Trivedi
+74,Rajasthan Royals,DJG Sammy,29,21,0,3,138.1,"run out (R Shukla, DH Yagnik)"
+74,Rajasthan Royals,NLTC Perera,11,6,1,1,183.33,c DH Yagnik b SR Watson
+74,Rajasthan Royals,BB Samantray,14,11,2,0,127.27,"run out (AM Rahane, JP Faulkner)"
+74,Rajasthan Royals,KV Sharma,2,2,0,0,100.0,not out
+74,Rajasthan Royals,DW Steyn,4,2,0,0,200.0,not out

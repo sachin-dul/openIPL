@@ -1,0 +1,245 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,RG Sharma,B Kumar,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,RG Sharma,B Kumar,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,RG Sharma,B Kumar,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,RG Sharma,B Kumar,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5.wides,RG Sharma,B Kumar,Q de Kock,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,RG Sharma,B Kumar,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,RG Sharma,B Kumar,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,1,Q de Kock,KK Ahmed,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,RG Sharma,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,RG Sharma,KK Ahmed,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,4,RG Sharma,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,RG Sharma,KK Ahmed,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,RG Sharma,KK Ahmed,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,Q de Kock,Mohammad Nabi,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,Q de Kock,Mohammad Nabi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,RG Sharma,Mohammad Nabi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,Q de Kock,Mohammad Nabi,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,RG Sharma,Mohammad Nabi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,6,RG Sharma,Mohammad Nabi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,1,RG Sharma,B Kumar,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,Q de Kock,B Kumar,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,Q de Kock,B Kumar,RG Sharma,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,4,Q de Kock,B Kumar,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,Q de Kock,B Kumar,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,Q de Kock,B Kumar,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,RG Sharma,Rashid Khan,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,Q de Kock,Rashid Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,Q de Kock,Rashid Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,Q de Kock,Rashid Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,Q de Kock,Rashid Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,Q de Kock,Rashid Khan,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,RG Sharma,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,RG Sharma,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,RG Sharma,Mohammad Nabi,powerplay
+1,Mumbai Indians,6,3,SA Yadav,KK Ahmed,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,SA Yadav,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,SA Yadav,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,SA Yadav,KK Ahmed,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,Q de Kock,Mohammad Nabi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,SA Yadav,Mohammad Nabi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,Q de Kock,Mohammad Nabi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,SA Yadav,Mohammad Nabi,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,SA Yadav,Mohammad Nabi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,Q de Kock,Mohammad Nabi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,Q de Kock,Basil Thampi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,SA Yadav,Basil Thampi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,SA Yadav,Basil Thampi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,SA Yadav,Basil Thampi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,Q de Kock,Basil Thampi,SA Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,Q de Kock,Basil Thampi,SA Yadav,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,9,1,Q de Kock,Mohammad Nabi,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,Q de Kock,Mohammad Nabi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,SA Yadav,Mohammad Nabi,Q de Kock,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,SA Yadav,Mohammad Nabi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,Q de Kock,Mohammad Nabi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,SA Yadav,Mohammad Nabi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,Q de Kock,Basil Thampi,SA Yadav,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+1,Mumbai Indians,10,2,Q de Kock,Basil Thampi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,SA Yadav,Basil Thampi,Q de Kock,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Mumbai Indians,10,4,Q de Kock,Basil Thampi,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,Q de Kock,Basil Thampi,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,Q de Kock,Basil Thampi,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,Q de Kock,Rashid Khan,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,SA Yadav,Rashid Khan,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,Q de Kock,Rashid Khan,SA Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,Q de Kock,Rashid Khan,SA Yadav,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+1,Mumbai Indians,11,5,Q de Kock,Rashid Khan,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,SA Yadav,Rashid Khan,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,Q de Kock,KK Ahmed,SA Yadav,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,Q de Kock,KK Ahmed,SA Yadav,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,Q de Kock,KK Ahmed,SA Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,SA Yadav,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,SA Yadav,Rashid Khan,middle
+1,Mumbai Indians,12,5,E Lewis,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,E Lewis,KK Ahmed,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,E Lewis,Mohammad Nabi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,E Lewis,Mohammad Nabi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,E Lewis,Mohammad Nabi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,4,E Lewis,Mohammad Nabi,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,E Lewis,V Shankar,middle
+1,Mumbai Indians,13,5,Q de Kock,Mohammad Nabi,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,Q de Kock,Mohammad Nabi,HH Pandya,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,HH Pandya,Basil Thampi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,HH Pandya,Basil Thampi,Q de Kock,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,HH Pandya,Basil Thampi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,Q de Kock,Basil Thampi,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,Q de Kock,Basil Thampi,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,HH Pandya,Basil Thampi,Q de Kock,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,Q de Kock,Rashid Khan,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,HH Pandya,Rashid Khan,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,Q de Kock,Rashid Khan,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,HH Pandya,Rashid Khan,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,Q de Kock,Rashid Khan,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,Q de Kock,Rashid Khan,HH Pandya,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,HH Pandya,B Kumar,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,Q de Kock,B Kumar,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,3,HH Pandya,B Kumar,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,HH Pandya,B Kumar,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,HH Pandya,B Kumar,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,Mohammad Nabi,death
+1,Mumbai Indians,16,6,Q de Kock,B Kumar,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1.noballs,Q de Kock,Basil Thampi,KA Pollard,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,Q de Kock,Basil Thampi,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,KA Pollard,Basil Thampi,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,Q de Kock,Basil Thampi,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,Q de Kock,Basil Thampi,KA Pollard,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,Q de Kock,Basil Thampi,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,KA Pollard,Basil Thampi,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,Q de Kock,Rashid Khan,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,KA Pollard,Rashid Khan,Q de Kock,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,KA Pollard,Rashid Khan,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,KA Pollard,Rashid Khan,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,Q de Kock,Rashid Khan,KA Pollard,4,0,4,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,Q de Kock,Rashid Khan,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,1,Q de Kock,B Kumar,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,KA Pollard,B Kumar,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,Q de Kock,B Kumar,KA Pollard,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,Q de Kock,B Kumar,KA Pollard,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,KA Pollard,B Kumar,Q de Kock,0,0,0,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,KA Pollard,B Kumar,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,1,KA Pollard,KK Ahmed,Q de Kock,0,0,0,,0,0,0,0,0,True,caught,KA Pollard,Abhishek Sharma,death
+1,Mumbai Indians,20,2,Q de Kock,KK Ahmed,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,KH Pandya,KK Ahmed,Q de Kock,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,Q de Kock,KK Ahmed,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,KH Pandya,KK Ahmed,Q de Kock,6,0,6,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,KH Pandya,KK Ahmed,Q de Kock,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1,WP Saha,BB Sran,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,WP Saha,BB Sran,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,MJ Guptill,BB Sran,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,MJ Guptill,BB Sran,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,MJ Guptill,BB Sran,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,WP Saha,BB Sran,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,WP Saha,SL Malinga,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,WP Saha,SL Malinga,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,WP Saha,SL Malinga,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,MJ Guptill,SL Malinga,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,MJ Guptill,SL Malinga,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,MJ Guptill,SL Malinga,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,MJ Guptill,BB Sran,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,WP Saha,BB Sran,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,WP Saha,BB Sran,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4.wides,WP Saha,BB Sran,MJ Guptill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,WP Saha,BB Sran,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,WP Saha,BB Sran,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,MJ Guptill,BB Sran,WP Saha,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,WP Saha,JJ Bumrah,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,WP Saha,JJ Bumrah,MJ Guptill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,MJ Guptill,JJ Bumrah,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,WP Saha,JJ Bumrah,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,WP Saha,JJ Bumrah,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,WP Saha,JJ Bumrah,MJ Guptill,0,0,0,,0,0,0,0,0,True,caught,WP Saha,E Lewis,powerplay
+2,Sunrisers Hyderabad,5,1,MJ Guptill,SL Malinga,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,MK Pandey,SL Malinga,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,MK Pandey,SL Malinga,MJ Guptill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,MK Pandey,SL Malinga,MJ Guptill,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,MK Pandey,SL Malinga,MJ Guptill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,MK Pandey,SL Malinga,MJ Guptill,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,MJ Guptill,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,True,lbw,MJ Guptill,,powerplay
+2,Sunrisers Hyderabad,6,2,KS Williamson,JJ Bumrah,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,KS Williamson,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,KS Williamson,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,KS Williamson,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,6,KS Williamson,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,7,1,MK Pandey,RD Chahar,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,MK Pandey,RD Chahar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,MK Pandey,RD Chahar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,MK Pandey,RD Chahar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,MK Pandey,RD Chahar,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,KS Williamson,RD Chahar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,KS Williamson,KH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,True,lbw,KS Williamson,,middle
+2,Sunrisers Hyderabad,8,2,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,MK Pandey,KH Pandya,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,MK Pandey,KH Pandya,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,V Shankar,RD Chahar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,V Shankar,RD Chahar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,MK Pandey,RD Chahar,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,MK Pandey,RD Chahar,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,V Shankar,RD Chahar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,MK Pandey,RD Chahar,V Shankar,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,MK Pandey,KH Pandya,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,MK Pandey,KH Pandya,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4.wides,V Shankar,KH Pandya,MK Pandey,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,MK Pandey,KH Pandya,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,V Shankar,KH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,MK Pandey,RD Chahar,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,V Shankar,RD Chahar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,V Shankar,RD Chahar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,MK Pandey,RD Chahar,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,MK Pandey,RD Chahar,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,MK Pandey,RD Chahar,V Shankar,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,MK Pandey,KH Pandya,V Shankar,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,MK Pandey,KH Pandya,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,MK Pandey,KH Pandya,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,V Shankar,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,MK Pandey,KH Pandya,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,V Shankar,RD Chahar,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,V Shankar,RD Chahar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3,MK Pandey,RD Chahar,V Shankar,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,MK Pandey,RD Chahar,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,V Shankar,RD Chahar,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,6,MK Pandey,RD Chahar,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,1,MK Pandey,KH Pandya,V Shankar,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,2,V Shankar,KH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,V Shankar,KA Pollard,middle
+2,Sunrisers Hyderabad,14,3,Abhishek Sharma,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,4,MK Pandey,KH Pandya,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,5,Abhishek Sharma,KH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,6,MK Pandey,KH Pandya,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,1,MK Pandey,HH Pandya,Abhishek Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,2,MK Pandey,HH Pandya,Abhishek Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3,Abhishek Sharma,HH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,Abhishek Sharma,Q de Kock,middle
+2,Sunrisers Hyderabad,15,4,Mohammad Nabi,HH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,5,Mohammad Nabi,HH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,6,Mohammad Nabi,HH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,16,1,Mohammad Nabi,SL Malinga,MK Pandey,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,Mohammad Nabi,SL Malinga,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,MK Pandey,SL Malinga,Mohammad Nabi,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,Mohammad Nabi,SL Malinga,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,MK Pandey,SL Malinga,Mohammad Nabi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,MK Pandey,SL Malinga,Mohammad Nabi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,Mohammad Nabi,JJ Bumrah,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,MK Pandey,JJ Bumrah,Mohammad Nabi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,Mohammad Nabi,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,Mohammad Nabi,JJ Bumrah,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,Mohammad Nabi,JJ Bumrah,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,Mohammad Nabi,JJ Bumrah,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,Mohammad Nabi,SL Malinga,MK Pandey,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,Mohammad Nabi,SL Malinga,MK Pandey,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,Mohammad Nabi,SL Malinga,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,MK Pandey,SL Malinga,Mohammad Nabi,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,MK Pandey,SL Malinga,Mohammad Nabi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,Mohammad Nabi,SL Malinga,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,MK Pandey,JJ Bumrah,Mohammad Nabi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,Mohammad Nabi,JJ Bumrah,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,MK Pandey,JJ Bumrah,Mohammad Nabi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,Mohammad Nabi,JJ Bumrah,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,MK Pandey,JJ Bumrah,Mohammad Nabi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,6,MK Pandey,JJ Bumrah,Mohammad Nabi,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,1,Mohammad Nabi,HH Pandya,MK Pandey,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,2,MK Pandey,HH Pandya,Mohammad Nabi,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,3,Mohammad Nabi,HH Pandya,MK Pandey,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,4,Mohammad Nabi,HH Pandya,MK Pandey,0,0,0,,0,0,0,0,0,True,caught,Mohammad Nabi,SA Yadav,death
+2,Sunrisers Hyderabad,20,5,MK Pandey,HH Pandya,Rashid Khan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,6,MK Pandey,HH Pandya,Rashid Khan,6,0,6,,0,0,0,0,0,False,,,,death

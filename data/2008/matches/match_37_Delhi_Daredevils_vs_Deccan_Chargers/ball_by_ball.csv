@@ -1,0 +1,248 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,G Gambhir,DP Vijaykumar,V Sehwag,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,G Gambhir,DP Vijaykumar,V Sehwag,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,G Gambhir,DP Vijaykumar,V Sehwag,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,G Gambhir,DP Vijaykumar,V Sehwag,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,V Sehwag,DP Vijaykumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,V Sehwag,DP Vijaykumar,G Gambhir,0,0,0,,0,0,0,0,0,True,caught,V Sehwag,RP Singh,powerplay
+1,Delhi Daredevils,2,1,G Gambhir,RP Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,G Gambhir,RP Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,S Dhawan,RP Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,S Dhawan,RP Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,S Dhawan,RP Singh,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,S Dhawan,RP Singh,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,G Gambhir,DP Vijaykumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,G Gambhir,DP Vijaykumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,S Dhawan,DP Vijaykumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,S Dhawan,DP Vijaykumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,G Gambhir,DP Vijaykumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,G Gambhir,DP Vijaykumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1.wides,S Dhawan,RP Singh,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,S Dhawan,RP Singh,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,G Gambhir,RP Singh,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,G Gambhir,RP Singh,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,G Gambhir,RP Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,G Gambhir,RP Singh,S Dhawan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,4,6,S Dhawan,RP Singh,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,1,S Dhawan,DP Vijaykumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,S Dhawan,DP Vijaykumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,G Gambhir,DP Vijaykumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,S Dhawan,DP Vijaykumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,S Dhawan,DP Vijaykumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,G Gambhir,DP Vijaykumar,S Dhawan,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,G Gambhir,PM Sarvesh Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,S Dhawan,PM Sarvesh Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,G Gambhir,PM Sarvesh Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,G Gambhir,PM Sarvesh Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5.wides,G Gambhir,PM Sarvesh Kumar,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,G Gambhir,PM Sarvesh Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,S Dhawan,PM Sarvesh Kumar,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,G Gambhir,SB Styris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,S Dhawan,SB Styris,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,G Gambhir,SB Styris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,S Dhawan,SB Styris,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,S Dhawan,PM Sarvesh Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,G Gambhir,PM Sarvesh Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,G Gambhir,PM Sarvesh Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,G Gambhir,PM Sarvesh Kumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,5,G Gambhir,PM Sarvesh Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,S Dhawan,PM Sarvesh Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,G Gambhir,SB Styris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,G Gambhir,SB Styris,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,G Gambhir,SB Styris,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,G Gambhir,SB Styris,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,S Dhawan,Y Venugopal Rao,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,G Gambhir,Y Venugopal Rao,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3.wides,S Dhawan,Y Venugopal Rao,G Gambhir,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,S Dhawan,Y Venugopal Rao,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,S Dhawan,Y Venugopal Rao,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,S Dhawan,Y Venugopal Rao,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,S Dhawan,Y Venugopal Rao,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,S Dhawan,SB Styris,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,G Gambhir,SB Styris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,S Dhawan,SB Styris,G Gambhir,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,S Dhawan,SB Styris,G Gambhir,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,S Dhawan,SB Styris,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,G Gambhir,Y Venugopal Rao,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,G Gambhir,Y Venugopal Rao,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,S Dhawan,Y Venugopal Rao,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,S Dhawan,Y Venugopal Rao,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,G Gambhir,Y Venugopal Rao,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,G Gambhir,Y Venugopal Rao,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,G Gambhir,PM Sarvesh Kumar,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,G Gambhir,PM Sarvesh Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,G Gambhir,PM Sarvesh Kumar,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,G Gambhir,PM Sarvesh Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,S Dhawan,PM Sarvesh Kumar,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,G Gambhir,PM Sarvesh Kumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,G Gambhir,Shahid Afridi,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,G Gambhir,Shahid Afridi,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,3,G Gambhir,Shahid Afridi,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,S Dhawan,Shahid Afridi,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,S Dhawan,Shahid Afridi,G Gambhir,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,S Dhawan,Shahid Afridi,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,1,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2.wides,G Gambhir,SB Styris,S Dhawan,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,G Gambhir,SB Styris,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,S Dhawan,SB Styris,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,G Gambhir,SB Styris,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,G Gambhir,SB Styris,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,G Gambhir,SB Styris,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,S Dhawan,PP Ojha,G Gambhir,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2.wides,G Gambhir,PP Ojha,S Dhawan,0,1,1,wides,1,0,0,0,0,True,stumped,G Gambhir,AC Gilchrist,death
+1,Delhi Daredevils,16,2,MF Maharoof,PP Ojha,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,S Dhawan,PP Ojha,MF Maharoof,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,S Dhawan,PP Ojha,MF Maharoof,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Delhi Daredevils,16,5,MF Maharoof,PP Ojha,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,MF Maharoof,PP Ojha,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,S Dhawan,RP Singh,MF Maharoof,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,MF Maharoof,RP Singh,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,MF Maharoof,RP Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,MF Maharoof,RP Singh,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,MF Maharoof,RP Singh,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,MF Maharoof,RP Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,MF Maharoof,PP Ojha,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,MF Maharoof,PP Ojha,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,S Dhawan,PP Ojha,MF Maharoof,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Delhi Daredevils,18,4,MF Maharoof,PP Ojha,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,MF Maharoof,RG Sharma,death
+1,Delhi Daredevils,18,5,S Dhawan,PP Ojha,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,TM Dilshan,PP Ojha,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,S Dhawan,DP Vijaykumar,TM Dilshan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,S Dhawan,DP Vijaykumar,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,TM Dilshan,DP Vijaykumar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,S Dhawan,DP Vijaykumar,TM Dilshan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,TM Dilshan,DP Vijaykumar,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,TM Dilshan,DP Vijaykumar,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,S Dhawan,RP Singh,TM Dilshan,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,2,S Dhawan,RP Singh,TM Dilshan,3,0,3,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,TM Dilshan,RP Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,4,TM Dilshan,RP Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,S Dhawan,RP Singh,TM Dilshan,0,0,0,,0,0,0,0,0,True,run out,TM Dilshan,AC Gilchrist,death
+1,Delhi Daredevils,20,6,MK Tiwary,RP Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,1,1,AC Gilchrist,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,2,AC Gilchrist,GD McGrath,Shahid Afridi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,3,AC Gilchrist,GD McGrath,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,4,Shahid Afridi,GD McGrath,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,5,Shahid Afridi,GD McGrath,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,1,6,Shahid Afridi,GD McGrath,AC Gilchrist,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Deccan Chargers,2,1,Shahid Afridi,Mohammad Asif,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2.wides,AC Gilchrist,Mohammad Asif,Shahid Afridi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,2,AC Gilchrist,Mohammad Asif,Shahid Afridi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,3,AC Gilchrist,Mohammad Asif,Shahid Afridi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,4,AC Gilchrist,Mohammad Asif,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,5,AC Gilchrist,Mohammad Asif,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,2,6,AC Gilchrist,Mohammad Asif,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,1,AC Gilchrist,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,TM Dilshan,powerplay
+2,Deccan Chargers,3,2,HH Gibbs,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,3,HH Gibbs,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,4,HH Gibbs,GD McGrath,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,5,Shahid Afridi,GD McGrath,HH Gibbs,5,0,5,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,3,6,HH Gibbs,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,1,Shahid Afridi,Mohammad Asif,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,2,Shahid Afridi,Mohammad Asif,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,3,HH Gibbs,Mohammad Asif,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4.wides,HH Gibbs,Mohammad Asif,Shahid Afridi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,4,HH Gibbs,Mohammad Asif,Shahid Afridi,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,5,HH Gibbs,Mohammad Asif,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,4,6,Shahid Afridi,Mohammad Asif,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,1,HH Gibbs,GD McGrath,Shahid Afridi,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,2,HH Gibbs,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,3,HH Gibbs,GD McGrath,Shahid Afridi,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,4,HH Gibbs,GD McGrath,Shahid Afridi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,5,HH Gibbs,GD McGrath,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,5,6,Shahid Afridi,GD McGrath,HH Gibbs,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,1,HH Gibbs,MF Maharoof,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,2,Shahid Afridi,MF Maharoof,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,3,Shahid Afridi,MF Maharoof,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,4,HH Gibbs,MF Maharoof,Shahid Afridi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,5,Shahid Afridi,MF Maharoof,HH Gibbs,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,6,6,Shahid Afridi,MF Maharoof,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Deccan Chargers,7,1,Shahid Afridi,A Mishra,HH Gibbs,0,0,0,,0,0,0,0,0,True,caught,Shahid Afridi,AB de Villiers,middle
+2,Deccan Chargers,7,2,HH Gibbs,A Mishra,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,3,RG Sharma,A Mishra,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,4,HH Gibbs,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,5,HH Gibbs,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,7,6,HH Gibbs,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,1,RG Sharma,R Bhatia,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,2,RG Sharma,R Bhatia,HH Gibbs,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,3,RG Sharma,R Bhatia,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,4,HH Gibbs,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,5,HH Gibbs,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,8,6,HH Gibbs,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,1,RG Sharma,A Mishra,HH Gibbs,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,2,HH Gibbs,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,True,bowled,HH Gibbs,,middle
+2,Deccan Chargers,9,3,SB Styris,A Mishra,RG Sharma,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,4,SB Styris,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,5,SB Styris,A Mishra,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,9,6,SB Styris,A Mishra,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,1,SB Styris,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,2,SB Styris,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,3,SB Styris,R Bhatia,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,4,RG Sharma,R Bhatia,SB Styris,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,5,RG Sharma,R Bhatia,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,10,6,SB Styris,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,1,RG Sharma,A Mishra,SB Styris,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,2,RG Sharma,A Mishra,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,3,SB Styris,A Mishra,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,4,RG Sharma,A Mishra,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,5,SB Styris,A Mishra,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,11,6,RG Sharma,A Mishra,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,1,RG Sharma,R Bhatia,SB Styris,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,2,RG Sharma,R Bhatia,SB Styris,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,3,RG Sharma,R Bhatia,SB Styris,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,4,RG Sharma,R Bhatia,SB Styris,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,5,RG Sharma,R Bhatia,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,12,6,SB Styris,R Bhatia,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,1,RG Sharma,MF Maharoof,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,2,SB Styris,MF Maharoof,RG Sharma,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,3,SB Styris,MF Maharoof,RG Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,4,RG Sharma,MF Maharoof,SB Styris,0,0,0,,0,0,0,0,0,True,bowled,RG Sharma,,middle
+2,Deccan Chargers,13,5,Y Venugopal Rao,MF Maharoof,SB Styris,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,13,6,Y Venugopal Rao,MF Maharoof,SB Styris,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,1,SB Styris,R Bhatia,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,2,Y Venugopal Rao,R Bhatia,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,3,SB Styris,R Bhatia,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,4,SB Styris,R Bhatia,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,5,Y Venugopal Rao,R Bhatia,SB Styris,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,14,6,Y Venugopal Rao,R Bhatia,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,1,Y Venugopal Rao,Mohammad Asif,SB Styris,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,2,Y Venugopal Rao,Mohammad Asif,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,3,SB Styris,Mohammad Asif,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,4,Y Venugopal Rao,Mohammad Asif,SB Styris,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,5,SB Styris,Mohammad Asif,Y Venugopal Rao,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,15,6,SB Styris,Mohammad Asif,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Deccan Chargers,16,1,SB Styris,MF Maharoof,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,2,Y Venugopal Rao,MF Maharoof,SB Styris,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,3,SB Styris,MF Maharoof,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,4,Y Venugopal Rao,MF Maharoof,SB Styris,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,5,Y Venugopal Rao,MF Maharoof,SB Styris,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,16,6,SB Styris,MF Maharoof,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,1,SB Styris,Mohammad Asif,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,2,Y Venugopal Rao,Mohammad Asif,SB Styris,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,3,SB Styris,Mohammad Asif,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,4,SB Styris,Mohammad Asif,Y Venugopal Rao,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,5,SB Styris,Mohammad Asif,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,17,6,Y Venugopal Rao,Mohammad Asif,SB Styris,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,1,SB Styris,MF Maharoof,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,2,Y Venugopal Rao,MF Maharoof,SB Styris,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,3,SB Styris,MF Maharoof,Y Venugopal Rao,0,0,0,,0,0,0,0,0,True,caught,SB Styris,AB de Villiers,death
+2,Deccan Chargers,18,4,Y Venugopal Rao,MF Maharoof,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,5,Y Venugopal Rao,MF Maharoof,DB Ravi Teja,4,0,4,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,18,6,Y Venugopal Rao,MF Maharoof,DB Ravi Teja,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,1,DB Ravi Teja,GD McGrath,Y Venugopal Rao,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,2,Y Venugopal Rao,GD McGrath,DB Ravi Teja,0,0,0,,0,0,0,0,0,True,caught,Y Venugopal Rao,Shoaib Malik,death
+2,Deccan Chargers,19,3,DB Ravi Teja,GD McGrath,RP Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,4,RP Singh,GD McGrath,DB Ravi Teja,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,5,DB Ravi Teja,GD McGrath,RP Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,19,6,DB Ravi Teja,GD McGrath,RP Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,1,DB Ravi Teja,A Mishra,RP Singh,0,0,0,,0,0,0,0,0,True,caught,DB Ravi Teja,Shoaib Malik,death
+2,Deccan Chargers,20,2,PP Ojha,A Mishra,RP Singh,0,0,0,,0,0,0,0,0,True,caught,PP Ojha,TM Dilshan,death
+2,Deccan Chargers,20,3,RP Singh,A Mishra,DP Vijaykumar,0,0,0,,0,0,0,0,0,True,stumped,RP Singh,KD Karthik,death
+2,Deccan Chargers,20,4,PM Sarvesh Kumar,A Mishra,DP Vijaykumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,5,PM Sarvesh Kumar,A Mishra,DP Vijaykumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Deccan Chargers,20,6,DP Vijaykumar,A Mishra,PM Sarvesh Kumar,1,0,1,,0,0,0,0,0,False,,,,death

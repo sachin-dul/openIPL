@@ -1,0 +1,14 @@
+team,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,is_wicket,wicket_kind,player_out
+Mumbai Indians,1,JC Buttler,JP Faulkner,KA Pollard,1,0,1,,False,,
+Mumbai Indians,2,KA Pollard,JP Faulkner,JC Buttler,4,0,4,,False,,
+Mumbai Indians,3,KA Pollard,JP Faulkner,JC Buttler,6,0,6,,False,,
+Mumbai Indians,4,KA Pollard,JP Faulkner,JC Buttler,0,0,0,,True,caught,KA Pollard
+Mumbai Indians,5,JC Buttler,JP Faulkner,RG Sharma,0,0,0,,True,caught,JC Buttler
+Gujarat Lions,0,AJ Finch,JJ Bumrah,BB McCullum,0,1,1,noballs,False,,
+Gujarat Lions,1,AJ Finch,JJ Bumrah,BB McCullum,0,1,1,legbyes,False,,
+Gujarat Lions,1,BB McCullum,JJ Bumrah,AJ Finch,0,1,1,wides,False,,
+Gujarat Lions,2,BB McCullum,JJ Bumrah,AJ Finch,0,0,0,,False,,
+Gujarat Lions,3,BB McCullum,JJ Bumrah,AJ Finch,0,1,1,byes,False,,
+Gujarat Lions,4,AJ Finch,JJ Bumrah,BB McCullum,0,0,0,,False,,
+Gujarat Lions,5,AJ Finch,JJ Bumrah,BB McCullum,1,0,1,,False,,
+Gujarat Lions,6,BB McCullum,JJ Bumrah,AJ Finch,1,0,1,,False,,

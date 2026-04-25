@@ -1,0 +1,208 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,AC Gilchrist,AC Thomas,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,AC Gilchrist,AC Thomas,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,SE Marsh,AC Thomas,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,AC Gilchrist,AC Thomas,SE Marsh,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,RV Uthappa,powerplay
+1,Kings XI Punjab,1,5,PC Valthaty,AC Thomas,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,PC Valthaty,AC Thomas,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1.wides,SE Marsh,SB Wagh,PC Valthaty,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,SE Marsh,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,SE Marsh,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,True,caught,SE Marsh,R Sharma,powerplay
+1,Kings XI Punjab,2,3,KD Karthik,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,KD Karthik,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,KD Karthik,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,KD Karthik,SB Wagh,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,PC Valthaty,AC Thomas,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,PC Valthaty,AC Thomas,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,PC Valthaty,AC Thomas,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,PC Valthaty,AC Thomas,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,PC Valthaty,JD Ryder,powerplay
+1,Kings XI Punjab,3,5,AM Nayar,AC Thomas,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,AM Nayar,AC Thomas,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,KD Karthik,SB Wagh,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,KD Karthik,SB Wagh,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,KD Karthik,SB Wagh,AM Nayar,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,R Sharma,powerplay
+1,Kings XI Punjab,4,4,Sunny Singh,SB Wagh,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,Sunny Singh,SB Wagh,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,Sunny Singh,SB Wagh,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,AM Nayar,WD Parnell,Sunny Singh,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,AM Nayar,WD Parnell,Sunny Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,3,AM Nayar,WD Parnell,Sunny Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,AM Nayar,WD Parnell,Sunny Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,AM Nayar,WD Parnell,Sunny Singh,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,Sunny Singh,WD Parnell,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,AM Nayar,M Kartik,Sunny Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,AM Nayar,M Kartik,Sunny Singh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,AM Nayar,M Kartik,Sunny Singh,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4.noballs,AM Nayar,M Kartik,Sunny Singh,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,Sunny Singh,M Kartik,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,Sunny Singh,M Kartik,AM Nayar,0,0,0,,0,0,0,0,0,True,run out,Sunny Singh,"Yuvraj Singh, RV Uthappa",powerplay
+1,Kings XI Punjab,7,1,AM Nayar,JD Ryder,R McLaren,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,2.wides,R McLaren,JD Ryder,AM Nayar,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,2,R McLaren,JD Ryder,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,AM Nayar,JD Ryder,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,R McLaren,JD Ryder,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,AM Nayar,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,AM Nayar,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,R McLaren,WD Parnell,AM Nayar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,R McLaren,WD Parnell,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,R McLaren,WD Parnell,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,R McLaren,WD Parnell,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,R McLaren,WD Parnell,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,R McLaren,WD Parnell,AM Nayar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,AM Nayar,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,AM Nayar,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,AM Nayar,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,True,caught,AM Nayar,Yuvraj Singh,middle
+1,Kings XI Punjab,9,4,PP Chawla,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,PP Chawla,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,PP Chawla,JD Ryder,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,R McLaren,WD Parnell,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,R McLaren,WD Parnell,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,R McLaren,WD Parnell,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,R McLaren,WD Parnell,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,R McLaren,WD Parnell,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,PP Chawla,WD Parnell,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,R McLaren,JD Ryder,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,R McLaren,JD Ryder,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,PP Chawla,JD Ryder,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,R McLaren,JD Ryder,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,R McLaren,JD Ryder,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,R McLaren,JD Ryder,PP Chawla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,PP Chawla,M Manhas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,R McLaren,M Manhas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,PP Chawla,M Manhas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,PP Chawla,M Manhas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,PP Chawla,M Manhas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,PP Chawla,M Manhas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,R McLaren,R Sharma,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,R McLaren,R Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,PP Chawla,R Sharma,R McLaren,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,PP Chawla,R Sharma,R McLaren,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,R McLaren,R Sharma,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,PP Chawla,R Sharma,R McLaren,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,R McLaren,M Manhas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,2,PP Chawla,M Manhas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,3,PP Chawla,M Manhas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,4,R McLaren,M Manhas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,5,PP Chawla,M Manhas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,14,6,R McLaren,M Manhas,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,1,PP Chawla,R Sharma,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,2,PP Chawla,R Sharma,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,3,PP Chawla,R Sharma,R McLaren,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,4,PP Chawla,R Sharma,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,5,R McLaren,R Sharma,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,15,6,R McLaren,R Sharma,PP Chawla,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,1,PP Chawla,M Manhas,R McLaren,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,PP Chawla,M Manhas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,R McLaren,M Manhas,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,R McLaren,M Manhas,PP Chawla,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,R McLaren,M Manhas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,PP Chawla,M Manhas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,R McLaren,AC Thomas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,PP Chawla,AC Thomas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,PP Chawla,AC Thomas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,PP Chawla,AC Thomas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,R McLaren,AC Thomas,PP Chawla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6,PP Chawla,AC Thomas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,PP Chawla,SB Wagh,R McLaren,0,0,0,,0,0,0,0,0,True,caught,PP Chawla,RV Uthappa,death
+1,Kings XI Punjab,18,2,R McLaren,SB Wagh,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3.wides,P Kumar,SB Wagh,R McLaren,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3,P Kumar,SB Wagh,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4.wides,R McLaren,SB Wagh,P Kumar,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,R McLaren,SB Wagh,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,P Kumar,SB Wagh,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,R McLaren,SB Wagh,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,R McLaren,AC Thomas,P Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,P Kumar,AC Thomas,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,P Kumar,AC Thomas,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,R McLaren,AC Thomas,P Kumar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5.wides,R McLaren,AC Thomas,P Kumar,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,R McLaren,AC Thomas,P Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,R McLaren,AC Thomas,P Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,1,P Kumar,WD Parnell,R McLaren,0,0,0,,0,0,0,0,0,True,caught,P Kumar,RV Uthappa,death
+1,Kings XI Punjab,20,2,R McLaren,WD Parnell,NJ Rimmington,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,R McLaren,WD Parnell,NJ Rimmington,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,R McLaren,WD Parnell,NJ Rimmington,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,R McLaren,WD Parnell,NJ Rimmington,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,NJ Rimmington,WD Parnell,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,1,1,GC Smith,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,True,caught,GC Smith,R McLaren,powerplay
+2,Pune Warriors,1,2,M Manhas,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,3,M Manhas,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,4,M Manhas,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,5.wides,M Manhas,P Kumar,JD Ryder,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,5,M Manhas,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,1,6,M Manhas,P Kumar,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,1,M Manhas,NJ Rimmington,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,2,M Manhas,NJ Rimmington,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,3,M Manhas,NJ Rimmington,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,4,M Manhas,NJ Rimmington,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,5,M Manhas,NJ Rimmington,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,2,6,M Manhas,NJ Rimmington,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,1,JD Ryder,P Kumar,M Manhas,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,2,JD Ryder,P Kumar,M Manhas,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,3,M Manhas,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,4,M Manhas,P Kumar,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,5,M Manhas,P Kumar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,3,6,M Manhas,P Kumar,JD Ryder,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,1,JD Ryder,NJ Rimmington,M Manhas,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,2,JD Ryder,NJ Rimmington,M Manhas,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,3,JD Ryder,NJ Rimmington,M Manhas,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,4,JD Ryder,NJ Rimmington,M Manhas,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Pune Warriors,4,5,M Manhas,NJ Rimmington,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,4,6,JD Ryder,NJ Rimmington,M Manhas,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Pune Warriors,5,1,M Manhas,R McLaren,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,5,2,M Manhas,R McLaren,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,5,3,M Manhas,R McLaren,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,5,4,JD Ryder,R McLaren,M Manhas,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,5,5,JD Ryder,R McLaren,M Manhas,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,5,6,JD Ryder,R McLaren,M Manhas,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,1,M Manhas,PP Chawla,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,2,M Manhas,PP Chawla,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,3,M Manhas,PP Chawla,JD Ryder,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,4,M Manhas,PP Chawla,JD Ryder,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,5,M Manhas,PP Chawla,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,6,6,M Manhas,PP Chawla,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,1,JD Ryder,R McLaren,M Manhas,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,2,JD Ryder,R McLaren,M Manhas,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,3,JD Ryder,R McLaren,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,4,M Manhas,R McLaren,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,5,M Manhas,R McLaren,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,7,6,M Manhas,R McLaren,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,1,M Manhas,AM Nayar,JD Ryder,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,2,JD Ryder,AM Nayar,M Manhas,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,3,M Manhas,AM Nayar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,4,M Manhas,AM Nayar,JD Ryder,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,8,5,M Manhas,AM Nayar,JD Ryder,0,0,0,,0,0,0,0,0,True,caught,M Manhas,AC Gilchrist,middle
+2,Pune Warriors,8,6,RV Uthappa,AM Nayar,JD Ryder,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,1,JD Ryder,R McLaren,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,2,JD Ryder,R McLaren,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Pune Warriors,9,3,JD Ryder,R McLaren,RV Uthappa,0,0,0,,0,0,0,0,0,True,caught,JD Ryder,AC Gilchrist,middle
+2,Pune Warriors,9,4,Yuvraj Singh,R McLaren,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,9,5,RV Uthappa,R McLaren,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,9,6,RV Uthappa,R McLaren,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,10,1,Yuvraj Singh,AM Nayar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,10,2,Yuvraj Singh,AM Nayar,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,10,3,Yuvraj Singh,AM Nayar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,10,4,RV Uthappa,AM Nayar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,10,5,RV Uthappa,AM Nayar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,10,6.wides,RV Uthappa,AM Nayar,Yuvraj Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Pune Warriors,10,6,RV Uthappa,AM Nayar,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,11,1,RV Uthappa,NJ Rimmington,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,11,2,Yuvraj Singh,NJ Rimmington,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,11,3,Yuvraj Singh,NJ Rimmington,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,11,4,Yuvraj Singh,NJ Rimmington,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,11,5,Yuvraj Singh,NJ Rimmington,RV Uthappa,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,11,6,Yuvraj Singh,NJ Rimmington,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,1,Yuvraj Singh,AM Nayar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,2,RV Uthappa,AM Nayar,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,3,Yuvraj Singh,AM Nayar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,4,RV Uthappa,AM Nayar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,5,RV Uthappa,AM Nayar,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,12,6,RV Uthappa,AM Nayar,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,1,Yuvraj Singh,P Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,2,RV Uthappa,P Kumar,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,3,Yuvraj Singh,P Kumar,RV Uthappa,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,4,Yuvraj Singh,P Kumar,RV Uthappa,1,0,1,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,5,RV Uthappa,P Kumar,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,13,6,RV Uthappa,P Kumar,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Pune Warriors,14,1.wides,Yuvraj Singh,AM Nayar,RV Uthappa,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Pune Warriors,14,1,Yuvraj Singh,AM Nayar,RV Uthappa,4,0,4,,0,0,0,0,0,False,,,,death

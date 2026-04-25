@@ -1,0 +1,211 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,MA Agarwal,UT Yadav,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,MA Agarwal,UT Yadav,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,MA Agarwal,UT Yadav,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,4,S Dhawan,UT Yadav,MA Agarwal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,MA Agarwal,UT Yadav,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,MA Agarwal,UT Yadav,S Dhawan,0,0,0,,0,0,0,0,0,True,lbw,MA Agarwal,,powerplay
+1,Punjab Kings,2,1,S Dhawan,TG Southee,PBB Rajapaksa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,S Dhawan,TG Southee,PBB Rajapaksa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,3,S Dhawan,TG Southee,PBB Rajapaksa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,S Dhawan,TG Southee,PBB Rajapaksa,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,S Dhawan,TG Southee,PBB Rajapaksa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,PBB Rajapaksa,TG Southee,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,1,S Dhawan,UT Yadav,PBB Rajapaksa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,PBB Rajapaksa,UT Yadav,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,PBB Rajapaksa,UT Yadav,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,4,S Dhawan,UT Yadav,PBB Rajapaksa,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,5,S Dhawan,UT Yadav,PBB Rajapaksa,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,6,PBB Rajapaksa,UT Yadav,S Dhawan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Punjab Kings,4,1,PBB Rajapaksa,Shivam Mavi,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,PBB Rajapaksa,Shivam Mavi,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,PBB Rajapaksa,Shivam Mavi,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,PBB Rajapaksa,Shivam Mavi,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,5,PBB Rajapaksa,Shivam Mavi,S Dhawan,0,0,0,,0,0,0,0,0,True,caught,PBB Rajapaksa,TG Southee,powerplay
+1,Punjab Kings,4,6,LS Livingstone,Shivam Mavi,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1.wides,S Dhawan,CV Varun,LS Livingstone,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,S Dhawan,CV Varun,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,LS Livingstone,CV Varun,S Dhawan,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,S Dhawan,CV Varun,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4.wides,S Dhawan,CV Varun,LS Livingstone,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4,S Dhawan,CV Varun,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5,LS Livingstone,CV Varun,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,6,S Dhawan,CV Varun,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,1,LS Livingstone,TG Southee,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,2,LS Livingstone,TG Southee,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,3,LS Livingstone,TG Southee,S Dhawan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Punjab Kings,6,4,S Dhawan,TG Southee,LS Livingstone,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,6,5,S Dhawan,TG Southee,LS Livingstone,0,0,0,,0,0,0,0,0,True,caught,S Dhawan,SW Billings,middle
+1,Punjab Kings,6,6,RA Bawa,TG Southee,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,1,LS Livingstone,CV Varun,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,RA Bawa,CV Varun,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,3,RA Bawa,CV Varun,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,4,RA Bawa,CV Varun,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,RA Bawa,CV Varun,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,LS Livingstone,CV Varun,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,LS Livingstone,SP Narine,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,RA Bawa,SP Narine,LS Livingstone,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,3,RA Bawa,SP Narine,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4.wides,LS Livingstone,SP Narine,RA Bawa,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,LS Livingstone,SP Narine,RA Bawa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,5,LS Livingstone,SP Narine,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,RA Bawa,SP Narine,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,1,RA Bawa,UT Yadav,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,LS Livingstone,UT Yadav,RA Bawa,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,3.noballs,LS Livingstone,UT Yadav,RA Bawa,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Punjab Kings,9,3,LS Livingstone,UT Yadav,RA Bawa,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,RA Bawa,UT Yadav,LS Livingstone,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,LS Livingstone,UT Yadav,RA Bawa,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,6,LS Livingstone,UT Yadav,RA Bawa,0,0,0,,0,0,0,0,0,True,caught,LS Livingstone,TG Southee,middle
+1,Punjab Kings,10,1,RA Bawa,SP Narine,M Shahrukh Khan,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,RA Bawa,SP Narine,M Shahrukh Khan,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,3,RA Bawa,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,True,bowled,RA Bawa,,middle
+1,Punjab Kings,10,4,Harpreet Brar,SP Narine,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5,M Shahrukh Khan,SP Narine,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,6,M Shahrukh Khan,SP Narine,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,1,Harpreet Brar,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,2,Harpreet Brar,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,3,Harpreet Brar,CV Varun,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,4,Harpreet Brar,CV Varun,M Shahrukh Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,5,M Shahrukh Khan,CV Varun,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,6,M Shahrukh Khan,CV Varun,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,1,Harpreet Brar,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,2,Harpreet Brar,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,3,Harpreet Brar,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4,Harpreet Brar,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,5,Harpreet Brar,SP Narine,M Shahrukh Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,6,Harpreet Brar,SP Narine,M Shahrukh Khan,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,1,M Shahrukh Khan,TG Southee,Harpreet Brar,0,0,0,,0,0,0,0,0,True,caught,M Shahrukh Khan,N Rana,death
+1,Punjab Kings,13,2,OF Smith,TG Southee,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,3,OF Smith,TG Southee,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,4,Harpreet Brar,TG Southee,OF Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,5,Harpreet Brar,TG Southee,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,13,6,Harpreet Brar,TG Southee,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,1.wides,OF Smith,SP Narine,Harpreet Brar,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Punjab Kings,14,1,Harpreet Brar,SP Narine,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,2,OF Smith,SP Narine,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,3,OF Smith,SP Narine,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,4,OF Smith,SP Narine,Harpreet Brar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,5,Harpreet Brar,SP Narine,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,14,6,OF Smith,SP Narine,Harpreet Brar,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,15,1,Harpreet Brar,UT Yadav,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,15,2,Harpreet Brar,UT Yadav,OF Smith,0,0,0,,0,0,0,0,0,True,bowled,Harpreet Brar,,death
+1,Punjab Kings,15,3,RD Chahar,UT Yadav,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,15,4,RD Chahar,UT Yadav,OF Smith,0,0,0,,0,0,0,0,0,True,caught,RD Chahar,N Rana,death
+1,Punjab Kings,15,5,K Rabada,UT Yadav,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,15,6,K Rabada,UT Yadav,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,1,OF Smith,CV Varun,K Rabada,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2,K Rabada,CV Varun,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,3,K Rabada,CV Varun,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,4,K Rabada,CV Varun,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,5,K Rabada,CV Varun,OF Smith,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6,K Rabada,CV Varun,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,1,K Rabada,TG Southee,OF Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,2,K Rabada,TG Southee,OF Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,3,K Rabada,TG Southee,OF Smith,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,4.noballs,K Rabada,TG Southee,OF Smith,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Punjab Kings,17,4,K Rabada,TG Southee,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,5,OF Smith,TG Southee,K Rabada,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,6,OF Smith,TG Southee,K Rabada,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,1,K Rabada,Shivam Mavi,OF Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2,K Rabada,Shivam Mavi,OF Smith,4,0,4,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,3,K Rabada,Shivam Mavi,OF Smith,1,0,1,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4,OF Smith,Shivam Mavi,K Rabada,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5.wides,OF Smith,Shivam Mavi,K Rabada,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5,OF Smith,Shivam Mavi,K Rabada,0,0,0,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,6.wides,OF Smith,Shivam Mavi,K Rabada,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Punjab Kings,18,6,OF Smith,Shivam Mavi,K Rabada,6,0,6,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,1,K Rabada,AD Russell,OF Smith,0,0,0,,0,0,0,0,0,True,caught,K Rabada,TG Southee,death
+1,Punjab Kings,19,2,Arshdeep Singh,AD Russell,OF Smith,0,0,0,,0,0,0,0,0,True,run out,Arshdeep Singh,"N Rana, AD Russell",death
+2,Kolkata Knight Riders,1,1,AM Rahane,Arshdeep Singh,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,2,AM Rahane,Arshdeep Singh,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,3,AM Rahane,Arshdeep Singh,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,4,AM Rahane,Arshdeep Singh,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,5,AM Rahane,Arshdeep Singh,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,1,6,AM Rahane,Arshdeep Singh,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,1,VR Iyer,K Rabada,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,2,AM Rahane,K Rabada,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,3,AM Rahane,K Rabada,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4.wides,AM Rahane,K Rabada,VR Iyer,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,4,AM Rahane,K Rabada,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,5,AM Rahane,K Rabada,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,2,6,AM Rahane,K Rabada,VR Iyer,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,OF Smith,powerplay
+2,Kolkata Knight Riders,3,1,VR Iyer,Arshdeep Singh,SS Iyer,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,2,SS Iyer,Arshdeep Singh,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,3,VR Iyer,Arshdeep Singh,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,4,SS Iyer,Arshdeep Singh,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,5,SS Iyer,Arshdeep Singh,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,3,6,SS Iyer,Arshdeep Singh,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,1,VR Iyer,K Rabada,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,2,VR Iyer,K Rabada,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,3,VR Iyer,K Rabada,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,4,SS Iyer,K Rabada,VR Iyer,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,5,SS Iyer,K Rabada,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,4,6,SS Iyer,K Rabada,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,1,SS Iyer,OF Smith,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,2,SS Iyer,OF Smith,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kolkata Knight Riders,5,3,VR Iyer,OF Smith,SS Iyer,0,0,0,,0,0,0,0,0,True,caught,VR Iyer,Harpreet Brar,middle
+2,Kolkata Knight Riders,5,4,SW Billings,OF Smith,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,5,5,SW Billings,OF Smith,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,5,6,SW Billings,OF Smith,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,1,SS Iyer,K Rabada,SW Billings,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,2,SS Iyer,K Rabada,SW Billings,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,3,SW Billings,K Rabada,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,4,SW Billings,K Rabada,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,5,SW Billings,K Rabada,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,6,6,SW Billings,K Rabada,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,1,SS Iyer,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,2,SS Iyer,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,3,SS Iyer,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,4,SS Iyer,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,True,caught,SS Iyer,K Rabada,middle
+2,Kolkata Knight Riders,7,5,N Rana,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,7,6,N Rana,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,True,lbw,N Rana,,middle
+2,Kolkata Knight Riders,8,1,SW Billings,Harpreet Brar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,2,AD Russell,Harpreet Brar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,3,SW Billings,Harpreet Brar,AD Russell,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,4,SW Billings,Harpreet Brar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,5,AD Russell,Harpreet Brar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,8,6,AD Russell,Harpreet Brar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,1,SW Billings,RD Chahar,AD Russell,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,2,SW Billings,RD Chahar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,3,AD Russell,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,4,AD Russell,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,5,AD Russell,RD Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,9,6,SW Billings,RD Chahar,AD Russell,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1.wides,AD Russell,Harpreet Brar,SW Billings,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,1,AD Russell,Harpreet Brar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,2,AD Russell,Harpreet Brar,SW Billings,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kolkata Knight Riders,10,3,AD Russell,Harpreet Brar,SW Billings,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,4,AD Russell,Harpreet Brar,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,5,AD Russell,Harpreet Brar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,10,6,SW Billings,Harpreet Brar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,1,SW Billings,RD Chahar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,2,AD Russell,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,3,AD Russell,RD Chahar,SW Billings,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,4,AD Russell,RD Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,5,SW Billings,RD Chahar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,11,6,AD Russell,RD Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,1,AD Russell,OF Smith,SW Billings,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,2,AD Russell,OF Smith,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,3,AD Russell,OF Smith,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,4,AD Russell,OF Smith,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,5,AD Russell,OF Smith,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,6.noballs,AD Russell,OF Smith,SW Billings,1,1,2,noballs,0,1,0,0,0,False,,,,death
+2,Kolkata Knight Riders,12,6,SW Billings,OF Smith,AD Russell,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,1,AD Russell,RD Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,2,SW Billings,RD Chahar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,3,AD Russell,RD Chahar,SW Billings,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,4,SW Billings,RD Chahar,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5.wides,AD Russell,RD Chahar,SW Billings,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,5,AD Russell,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,13,6,AD Russell,RD Chahar,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,1,SW Billings,Arshdeep Singh,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,2,SW Billings,Arshdeep Singh,AD Russell,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,3,SW Billings,Arshdeep Singh,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4.noballs,AD Russell,Arshdeep Singh,SW Billings,4,1,5,noballs,0,1,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,4,AD Russell,Arshdeep Singh,SW Billings,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,5,AD Russell,Arshdeep Singh,SW Billings,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,14,6,AD Russell,Arshdeep Singh,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,1,SW Billings,LS Livingstone,AD Russell,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,2,AD Russell,LS Livingstone,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kolkata Knight Riders,15,3,AD Russell,LS Livingstone,SW Billings,6,0,6,,0,0,0,0,0,False,,,,death

@@ -1,0 +1,168 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Gujarat Titans,1,1.wides,WP Saha,KK Ahmed,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,1,WP Saha,KK Ahmed,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,2,WP Saha,KK Ahmed,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,3,WP Saha,KK Ahmed,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,4,WP Saha,KK Ahmed,Shubman Gill,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,1,5,Shubman Gill,KK Ahmed,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,6,Shubman Gill,KK Ahmed,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,1,WP Saha,I Sharma,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,2,Shubman Gill,I Sharma,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,3,Shubman Gill,I Sharma,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,4,Shubman Gill,I Sharma,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,5,Shubman Gill,I Sharma,WP Saha,0,0,0,,0,0,0,0,0,True,caught,Shubman Gill,PP Shaw,powerplay
+1,Gujarat Titans,2,6.wides,B Sai Sudharsan,I Sharma,WP Saha,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,6,B Sai Sudharsan,I Sharma,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,1,WP Saha,KK Ahmed,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,2,B Sai Sudharsan,KK Ahmed,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,3,WP Saha,KK Ahmed,B Sai Sudharsan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,3,4,B Sai Sudharsan,KK Ahmed,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,5,B Sai Sudharsan,KK Ahmed,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,6,B Sai Sudharsan,KK Ahmed,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,1,WP Saha,Mukesh Kumar,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,2,WP Saha,Mukesh Kumar,B Sai Sudharsan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,4,3,B Sai Sudharsan,Mukesh Kumar,WP Saha,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,4.noballs,B Sai Sudharsan,Mukesh Kumar,WP Saha,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,4,B Sai Sudharsan,Mukesh Kumar,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,5,WP Saha,Mukesh Kumar,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,bowled,WP Saha,,powerplay
+1,Gujarat Titans,4,6,DA Miller,Mukesh Kumar,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,1,B Sai Sudharsan,I Sharma,DA Miller,0,0,0,,0,0,0,0,0,True,run out,B Sai Sudharsan,Sumit Kumar,powerplay
+1,Gujarat Titans,5,2,DA Miller,I Sharma,A Manohar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,3,DA Miller,I Sharma,A Manohar,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,4,DA Miller,I Sharma,A Manohar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,5,DA Miller,I Sharma,A Manohar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,6,DA Miller,I Sharma,A Manohar,0,0,0,,0,0,0,0,0,True,caught,DA Miller,RR Pant,powerplay
+1,Gujarat Titans,6,1,A Manohar,KK Ahmed,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,2,A Manohar,KK Ahmed,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,3,A Manohar,KK Ahmed,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,6,4,A Manohar,KK Ahmed,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,6,5,A Manohar,KK Ahmed,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,6,6,A Manohar,KK Ahmed,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,1.wides,R Tewatia,Mukesh Kumar,A Manohar,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,1.noballs,R Tewatia,Mukesh Kumar,A Manohar,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+1,Gujarat Titans,7,1,R Tewatia,Mukesh Kumar,A Manohar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,2,R Tewatia,Mukesh Kumar,A Manohar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,3,R Tewatia,Mukesh Kumar,A Manohar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,4,A Manohar,Mukesh Kumar,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,5,A Manohar,Mukesh Kumar,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,6,A Manohar,Mukesh Kumar,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,1,R Tewatia,Kuldeep Yadav,A Manohar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,2,A Manohar,Kuldeep Yadav,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,3,R Tewatia,Kuldeep Yadav,A Manohar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,4,A Manohar,Kuldeep Yadav,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,5,R Tewatia,Kuldeep Yadav,A Manohar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,6,R Tewatia,Kuldeep Yadav,A Manohar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,1,A Manohar,T Stubbs,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,2,A Manohar,T Stubbs,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,3,A Manohar,T Stubbs,R Tewatia,0,0,0,,0,0,0,0,0,True,stumped,A Manohar,RR Pant,middle
+1,Gujarat Titans,9,4,M Shahrukh Khan,T Stubbs,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,5.wides,M Shahrukh Khan,T Stubbs,R Tewatia,0,1,1,wides,1,0,0,0,0,True,stumped,M Shahrukh Khan,RR Pant,middle
+1,Gujarat Titans,9,5,Rashid Khan,T Stubbs,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,6,Rashid Khan,T Stubbs,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,1,R Tewatia,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,2,R Tewatia,AR Patel,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,3,Rashid Khan,AR Patel,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,4,Rashid Khan,AR Patel,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,5,Rashid Khan,AR Patel,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,6,Rashid Khan,AR Patel,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,1,R Tewatia,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,2,R Tewatia,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,3,R Tewatia,Kuldeep Yadav,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,4,Rashid Khan,Kuldeep Yadav,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,5,R Tewatia,Kuldeep Yadav,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,6,Rashid Khan,Kuldeep Yadav,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,1,Rashid Khan,AR Patel,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,2,R Tewatia,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,True,lbw,R Tewatia,,middle
+1,Gujarat Titans,12,3,MM Sharma,AR Patel,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,12,4,Rashid Khan,AR Patel,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,12,5,MM Sharma,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,12,6,MM Sharma,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,13,1,Rashid Khan,Kuldeep Yadav,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,13,2,MM Sharma,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,13,3,MM Sharma,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,13,4,MM Sharma,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,13,5,MM Sharma,Kuldeep Yadav,Rashid Khan,0,2,2,legbyes,0,0,0,2,0,False,,,,death
+1,Gujarat Titans,13,6,MM Sharma,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,1,Rashid Khan,AR Patel,MM Sharma,2,0,2,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,2,Rashid Khan,AR Patel,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,3.wides,MM Sharma,AR Patel,Rashid Khan,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,3,MM Sharma,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,4,MM Sharma,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,5,MM Sharma,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,14,6,MM Sharma,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,15,1,Rashid Khan,KK Ahmed,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,15,2,MM Sharma,KK Ahmed,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,15,3,Rashid Khan,KK Ahmed,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,15,4,Rashid Khan,KK Ahmed,MM Sharma,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,15,5,Rashid Khan,KK Ahmed,MM Sharma,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,15,6,MM Sharma,KK Ahmed,Rashid Khan,0,0,0,,0,0,0,0,0,True,caught,MM Sharma,Sumit Kumar,death
+1,Gujarat Titans,16,1,Rashid Khan,AR Patel,Noor Ahmad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,2,Noor Ahmad,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,3,Noor Ahmad,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,4,Noor Ahmad,AR Patel,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,5,Noor Ahmad,AR Patel,Rashid Khan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,6,Rashid Khan,AR Patel,Noor Ahmad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,1,Rashid Khan,Kuldeep Yadav,Noor Ahmad,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,2,Rashid Khan,Kuldeep Yadav,Noor Ahmad,6,0,6,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,3,Rashid Khan,Kuldeep Yadav,Noor Ahmad,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,4,Rashid Khan,Kuldeep Yadav,Noor Ahmad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,5,Noor Ahmad,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,6,Noor Ahmad,Kuldeep Yadav,Rashid Khan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,1,Rashid Khan,Mukesh Kumar,Noor Ahmad,0,0,0,,0,0,0,0,0,True,caught,Rashid Khan,RR Pant,death
+1,Gujarat Titans,18,2,SH Johnson,Mukesh Kumar,Noor Ahmad,1,0,1,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,3,Noor Ahmad,Mukesh Kumar,SH Johnson,0,0,0,,0,0,0,0,0,True,bowled,Noor Ahmad,,death
+2,Delhi Capitals,1,1,PP Shaw,S Sandeep Warrier,J Fraser-McGurk,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,2,J Fraser-McGurk,S Sandeep Warrier,PP Shaw,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,3,J Fraser-McGurk,S Sandeep Warrier,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,4,J Fraser-McGurk,S Sandeep Warrier,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,1,5,J Fraser-McGurk,S Sandeep Warrier,PP Shaw,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Delhi Capitals,1,6,PP Shaw,S Sandeep Warrier,J Fraser-McGurk,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+2,Delhi Capitals,2,1.wides,J Fraser-McGurk,SH Johnson,PP Shaw,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,1,J Fraser-McGurk,SH Johnson,PP Shaw,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,2,J Fraser-McGurk,SH Johnson,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,3,J Fraser-McGurk,SH Johnson,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,4,J Fraser-McGurk,SH Johnson,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,5,J Fraser-McGurk,SH Johnson,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,2,6,J Fraser-McGurk,SH Johnson,PP Shaw,0,0,0,,0,0,0,0,0,True,caught,J Fraser-McGurk,A Manohar,powerplay
+2,Delhi Capitals,3,1,PP Shaw,S Sandeep Warrier,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,2,PP Shaw,S Sandeep Warrier,Abishek Porel,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,3,PP Shaw,S Sandeep Warrier,Abishek Porel,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,3,4,PP Shaw,S Sandeep Warrier,Abishek Porel,0,0,0,,0,0,0,0,0,True,caught,PP Shaw,SH Johnson,powerplay
+2,Delhi Capitals,3,5,SD Hope,S Sandeep Warrier,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,3,6,SD Hope,S Sandeep Warrier,Abishek Porel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,1,Abishek Porel,SH Johnson,SD Hope,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,2,SD Hope,SH Johnson,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,3,Abishek Porel,SH Johnson,SD Hope,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,4,Abishek Porel,SH Johnson,SD Hope,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,5.wides,Abishek Porel,SH Johnson,SD Hope,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,5,Abishek Porel,SH Johnson,SD Hope,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,4,6,Abishek Porel,SH Johnson,SD Hope,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,5,1,SD Hope,S Sandeep Warrier,Abishek Porel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,5,2,SD Hope,S Sandeep Warrier,Abishek Porel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,5,3,SD Hope,S Sandeep Warrier,Abishek Porel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,5,4,SD Hope,S Sandeep Warrier,Abishek Porel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,5,5,Abishek Porel,S Sandeep Warrier,SD Hope,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,5,6,Abishek Porel,S Sandeep Warrier,SD Hope,0,0,0,,0,0,0,0,0,True,bowled,Abishek Porel,,middle
+2,Delhi Capitals,6,1,SD Hope,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,6,2,RR Pant,Rashid Khan,SD Hope,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,6,3,SD Hope,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,6,4,SD Hope,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,True,caught,SD Hope,MM Sharma,middle
+2,Delhi Capitals,6,5,Sumit Kumar,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,6,6,Sumit Kumar,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,7,1,RR Pant,Noor Ahmad,Sumit Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,7,2,RR Pant,Noor Ahmad,Sumit Kumar,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,7,3,RR Pant,Noor Ahmad,Sumit Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,7,4,RR Pant,Noor Ahmad,Sumit Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,7,5,Sumit Kumar,Noor Ahmad,RR Pant,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Delhi Capitals,7,6,RR Pant,Noor Ahmad,Sumit Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,8,1,RR Pant,Rashid Khan,Sumit Kumar,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,8,2,Sumit Kumar,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,8,3,RR Pant,Rashid Khan,Sumit Kumar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,8,4,RR Pant,Rashid Khan,Sumit Kumar,2,0,2,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,8,5,RR Pant,Rashid Khan,Sumit Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,8,6,RR Pant,Rashid Khan,Sumit Kumar,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,9,1,Sumit Kumar,Noor Ahmad,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,9,2,Sumit Kumar,Noor Ahmad,RR Pant,4,0,4,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,9,3,Sumit Kumar,Noor Ahmad,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,9,4,Sumit Kumar,Noor Ahmad,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,9,5,Sumit Kumar,Noor Ahmad,RR Pant,4,0,4,,0,0,0,0,0,False,,,,death

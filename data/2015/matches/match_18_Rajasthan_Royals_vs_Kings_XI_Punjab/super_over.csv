@@ -1,0 +1,12 @@
+team,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,is_wicket,wicket_kind,player_out
+Kings XI Punjab,1,DA Miller,CH Morris,SE Marsh,0,0,0,,True,lbw,DA Miller
+Kings XI Punjab,2,GJ Maxwell,CH Morris,SE Marsh,1,0,1,,False,,
+Kings XI Punjab,2,SE Marsh,CH Morris,GJ Maxwell,4,1,5,noballs,False,,
+Kings XI Punjab,3,SE Marsh,CH Morris,GJ Maxwell,4,0,4,,False,,
+Kings XI Punjab,4,SE Marsh,CH Morris,GJ Maxwell,4,0,4,,False,,
+Kings XI Punjab,5,SE Marsh,CH Morris,GJ Maxwell,0,0,0,,False,,
+Kings XI Punjab,6,SE Marsh,CH Morris,GJ Maxwell,0,1,1,legbyes,True,run out,SE Marsh
+Rajasthan Royals,1,SR Watson,MG Johnson,JP Faulkner,0,0,0,,True,bowled,SR Watson
+Rajasthan Royals,1,SPD Smith,MG Johnson,JP Faulkner,4,1,5,noballs,False,,
+Rajasthan Royals,2,SPD Smith,MG Johnson,JP Faulkner,1,0,1,,False,,
+Rajasthan Royals,3,JP Faulkner,MG Johnson,SPD Smith,0,0,0,,True,run out,JP Faulkner

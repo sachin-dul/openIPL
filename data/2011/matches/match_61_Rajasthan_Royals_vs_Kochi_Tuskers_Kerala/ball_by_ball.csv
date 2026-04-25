@@ -1,0 +1,162 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Rajasthan Royals,1,1,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,2,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,3,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,4,FY Fazal,RP Singh,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,5,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,6,FY Fazal,RP Singh,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,1,FY Fazal,S Sreesanth,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,2,FY Fazal,S Sreesanth,R Dravid,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Rajasthan Royals,2,3,R Dravid,S Sreesanth,FY Fazal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,4,R Dravid,S Sreesanth,FY Fazal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,5,R Dravid,S Sreesanth,FY Fazal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,6,FY Fazal,S Sreesanth,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,1,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,2,FY Fazal,RP Singh,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,3,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,4,FY Fazal,RP Singh,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,5,FY Fazal,RP Singh,R Dravid,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,6,FY Fazal,RP Singh,R Dravid,0,0,0,,0,0,0,0,0,True,lbw,FY Fazal,,powerplay
+1,Rajasthan Royals,4,1,R Dravid,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,True,caught,R Dravid,OA Shah,powerplay
+1,Rajasthan Royals,4,2,AM Rahane,S Sreesanth,SR Watson,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,3,AM Rahane,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,4,AM Rahane,S Sreesanth,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,5,SR Watson,S Sreesanth,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,6,SR Watson,S Sreesanth,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,1,AM Rahane,RP Singh,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,2,AM Rahane,RP Singh,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,3,AM Rahane,RP Singh,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,4,AM Rahane,RP Singh,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,5,SR Watson,RP Singh,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,6,SR Watson,RP Singh,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,1,AM Rahane,S Sreesanth,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,2,AM Rahane,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,True,lbw,AM Rahane,,powerplay
+1,Rajasthan Royals,6,3,AL Menaria,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,4,AL Menaria,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,6,5,AL Menaria,S Sreesanth,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,6,6,AL Menaria,S Sreesanth,SR Watson,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,1,SR Watson,P Parameswaran,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,2,AL Menaria,P Parameswaran,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,3,AL Menaria,P Parameswaran,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,4.wides,AL Menaria,P Parameswaran,SR Watson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,4,AL Menaria,P Parameswaran,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,5,AL Menaria,P Parameswaran,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,6,AL Menaria,P Parameswaran,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,1,SR Watson,P Prasanth,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,2,SR Watson,P Prasanth,AL Menaria,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,3,SR Watson,P Prasanth,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,4,SR Watson,P Prasanth,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,5,SR Watson,P Prasanth,AL Menaria,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,6,SR Watson,P Prasanth,AL Menaria,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,1,AL Menaria,P Parameswaran,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,2,AL Menaria,P Parameswaran,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,3,SR Watson,P Parameswaran,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,4,AL Menaria,P Parameswaran,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,5,SR Watson,P Parameswaran,AL Menaria,0,0,0,,0,0,0,0,0,True,bowled,SR Watson,,middle
+1,Rajasthan Royals,9,6,PR Shah,P Parameswaran,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,1,PR Shah,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,2,PR Shah,BJ Hodge,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,3,PR Shah,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,4,PR Shah,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,True,caught,PR Shah,Y Gnaneswara Rao,middle
+1,Rajasthan Royals,10,5,AL Menaria,BJ Hodge,JDP Oram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,6,JDP Oram,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,1,AL Menaria,Y Gnaneswara Rao,JDP Oram,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,2,AL Menaria,Y Gnaneswara Rao,JDP Oram,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,3,AL Menaria,Y Gnaneswara Rao,JDP Oram,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,4,AL Menaria,Y Gnaneswara Rao,JDP Oram,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,5,AL Menaria,Y Gnaneswara Rao,JDP Oram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,6,JDP Oram,Y Gnaneswara Rao,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,1,AL Menaria,BJ Hodge,JDP Oram,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,2,JDP Oram,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,True,bowled,JDP Oram,,middle
+1,Rajasthan Royals,12,3,SK Warne,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,4,SK Warne,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,5,SK Warne,BJ Hodge,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,6,AL Menaria,BJ Hodge,SK Warne,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,1,SK Warne,P Parameswaran,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,13,2,SK Warne,P Parameswaran,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,13,3,SK Warne,P Parameswaran,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,13,4,SK Warne,P Parameswaran,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,13,5,SK Warne,P Parameswaran,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,13,6,AL Menaria,P Parameswaran,SK Warne,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,14,1,SK Warne,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,True,bowled,SK Warne,,death
+1,Rajasthan Royals,14,2,AA Chavan,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,14,3,AA Chavan,BJ Hodge,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,14,4,AA Chavan,BJ Hodge,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,14,5,AL Menaria,BJ Hodge,AA Chavan,0,0,0,,0,0,0,0,0,True,run out,AA Chavan,"RA Jadeja, BJ Hodge",death
+1,Rajasthan Royals,14,6,AL Menaria,BJ Hodge,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,1,SW Tait,RA Jadeja,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,2.wides,AL Menaria,RA Jadeja,SW Tait,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,2,AL Menaria,RA Jadeja,SW Tait,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,3,SW Tait,RA Jadeja,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,4,SW Tait,RA Jadeja,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,5,AL Menaria,RA Jadeja,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,15,6,AL Menaria,RA Jadeja,SW Tait,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,1,AL Menaria,BJ Hodge,SW Tait,2,0,2,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,2,AL Menaria,BJ Hodge,SW Tait,0,0,0,,0,0,0,0,0,True,caught,AL Menaria,OA Shah,death
+1,Rajasthan Royals,16,3,SW Tait,BJ Hodge,ND Doshi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,4,ND Doshi,BJ Hodge,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,5,ND Doshi,BJ Hodge,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,6,ND Doshi,BJ Hodge,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,1,SW Tait,RP Singh,ND Doshi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,2,ND Doshi,RP Singh,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,3,ND Doshi,RP Singh,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,4,ND Doshi,RP Singh,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,5,ND Doshi,RP Singh,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,6,ND Doshi,RP Singh,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,1,SW Tait,S Sreesanth,ND Doshi,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,2,SW Tait,S Sreesanth,ND Doshi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,3,ND Doshi,S Sreesanth,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,4,ND Doshi,S Sreesanth,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,5,ND Doshi,S Sreesanth,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,6,ND Doshi,S Sreesanth,SW Tait,0,0,0,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,1,SW Tait,P Parameswaran,ND Doshi,4,0,4,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,2,SW Tait,P Parameswaran,ND Doshi,1,0,1,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,3,ND Doshi,P Parameswaran,SW Tait,0,0,0,,0,0,0,0,0,True,caught,ND Doshi,DPMD Jayawardene,death
+2,Kochi Tuskers Kerala,1,1,BB McCullum,SW Tait,DPMD Jayawardene,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,2.noballs,BB McCullum,SW Tait,DPMD Jayawardene,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,2,BB McCullum,SW Tait,DPMD Jayawardene,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,3,BB McCullum,SW Tait,DPMD Jayawardene,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,4.noballs,BB McCullum,SW Tait,DPMD Jayawardene,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,4,BB McCullum,SW Tait,DPMD Jayawardene,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,5,DPMD Jayawardene,SW Tait,BB McCullum,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,1,6,DPMD Jayawardene,SW Tait,BB McCullum,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,1,BB McCullum,JDP Oram,DPMD Jayawardene,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,2,BB McCullum,JDP Oram,DPMD Jayawardene,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,3,DPMD Jayawardene,JDP Oram,BB McCullum,0,0,0,,0,0,0,0,0,True,caught,DPMD Jayawardene,AA Chavan,powerplay
+2,Kochi Tuskers Kerala,2,4,BB McCullum,JDP Oram,PA Patel,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,5,BB McCullum,JDP Oram,PA Patel,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,2,6,BB McCullum,JDP Oram,PA Patel,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,1,PA Patel,SW Tait,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Kochi Tuskers Kerala,3,2,PA Patel,SW Tait,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,3,3,PA Patel,SW Tait,BB McCullum,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,3,4,PA Patel,SW Tait,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,3,5.wides,PA Patel,SW Tait,BB McCullum,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,3,5,PA Patel,SW Tait,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,3,6,PA Patel,SW Tait,BB McCullum,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,4,1,BB McCullum,ND Doshi,PA Patel,0,0,0,,0,0,0,0,0,True,bowled,BB McCullum,,middle
+2,Kochi Tuskers Kerala,4,2,BJ Hodge,ND Doshi,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,4,3,BJ Hodge,ND Doshi,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,4,4,BJ Hodge,ND Doshi,PA Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,4,5,BJ Hodge,ND Doshi,PA Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,4,6,BJ Hodge,ND Doshi,PA Patel,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,1,PA Patel,JDP Oram,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,2,PA Patel,JDP Oram,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,3,BJ Hodge,JDP Oram,PA Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,4,PA Patel,JDP Oram,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Kochi Tuskers Kerala,5,5,PA Patel,JDP Oram,BJ Hodge,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,5,6,PA Patel,JDP Oram,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,6,1,BJ Hodge,AA Chavan,PA Patel,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+2,Kochi Tuskers Kerala,6,2,BJ Hodge,AA Chavan,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,6,3,BJ Hodge,AA Chavan,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,6,4,BJ Hodge,AA Chavan,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,6,5,BJ Hodge,AA Chavan,PA Patel,6,0,6,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,6,6,BJ Hodge,AA Chavan,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,1,PA Patel,SW Tait,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,2,BJ Hodge,SW Tait,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,3.wides,BJ Hodge,SW Tait,PA Patel,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,3,BJ Hodge,SW Tait,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,4,BJ Hodge,SW Tait,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,5,BJ Hodge,SW Tait,PA Patel,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,7,6,BJ Hodge,SW Tait,PA Patel,4,0,4,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,8,1,PA Patel,ND Doshi,BJ Hodge,0,0,0,,0,0,0,0,0,False,,,,death
+2,Kochi Tuskers Kerala,8,2,PA Patel,ND Doshi,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death

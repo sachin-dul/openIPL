@@ -1,0 +1,245 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,V Kohli,Mohammed Shami,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,V Kohli,Mohammed Shami,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,V Kohli,Mohammed Shami,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,V Kohli,Mohammed Shami,F du Plessis,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5.wides,V Kohli,Mohammed Shami,F du Plessis,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,V Kohli,Mohammed Shami,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,F du Plessis,Mohammed Shami,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,V Kohli,PJ Sangwan,F du Plessis,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,V Kohli,PJ Sangwan,F du Plessis,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,F du Plessis,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,F du Plessis,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,F du Plessis,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,True,caught,F du Plessis,WP Saha,powerplay
+1,Royal Challengers Bangalore,2,6,RM Patidar,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,V Kohli,Mohammed Shami,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,V Kohli,Mohammed Shami,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,V Kohli,Mohammed Shami,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,V Kohli,Mohammed Shami,RM Patidar,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,RM Patidar,Mohammed Shami,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,RM Patidar,Mohammed Shami,V Kohli,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,RM Patidar,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,RM Patidar,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,RM Patidar,PJ Sangwan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,V Kohli,PJ Sangwan,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,V Kohli,PJ Sangwan,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,V Kohli,PJ Sangwan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,1,V Kohli,AS Joseph,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,V Kohli,AS Joseph,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,V Kohli,AS Joseph,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,V Kohli,AS Joseph,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,RM Patidar,AS Joseph,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,RM Patidar,AS Joseph,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,V Kohli,PJ Sangwan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,RM Patidar,PJ Sangwan,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,RM Patidar,PJ Sangwan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,V Kohli,PJ Sangwan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,RM Patidar,PJ Sangwan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,V Kohli,PJ Sangwan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,RM Patidar,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,RM Patidar,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,V Kohli,Rashid Khan,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,V Kohli,LH Ferguson,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,V Kohli,LH Ferguson,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,V Kohli,LH Ferguson,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,V Kohli,LH Ferguson,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,V Kohli,LH Ferguson,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,RM Patidar,LH Ferguson,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,1,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,RM Patidar,Rashid Khan,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,RM Patidar,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,V Kohli,Rashid Khan,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,RM Patidar,Rashid Khan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,V Kohli,LH Ferguson,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,V Kohli,LH Ferguson,RM Patidar,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,V Kohli,LH Ferguson,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,V Kohli,LH Ferguson,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,V Kohli,LH Ferguson,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,RM Patidar,LH Ferguson,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,V Kohli,AS Joseph,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,V Kohli,AS Joseph,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,RM Patidar,AS Joseph,V Kohli,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,RM Patidar,AS Joseph,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,RM Patidar,AS Joseph,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,V Kohli,AS Joseph,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,RM Patidar,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,V Kohli,Rashid Khan,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,RM Patidar,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,V Kohli,Rashid Khan,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,RM Patidar,Rashid Khan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,RM Patidar,Mohammed Shami,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,2,RM Patidar,Mohammed Shami,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,V Kohli,Mohammed Shami,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,RM Patidar,Mohammed Shami,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,V Kohli,Mohammed Shami,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,V Kohli,Mohammed Shami,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,V Kohli,LH Ferguson,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,RM Patidar,LH Ferguson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,V Kohli,LH Ferguson,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,RM Patidar,LH Ferguson,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,RM Patidar,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,RM Patidar,LH Ferguson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,RM Patidar,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,True,caught,RM Patidar,Shubman Gill,middle
+1,Royal Challengers Bangalore,15,2,GJ Maxwell,PJ Sangwan,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,GJ Maxwell,PJ Sangwan,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,GJ Maxwell,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,GJ Maxwell,PJ Sangwan,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,GJ Maxwell,PJ Sangwan,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,GJ Maxwell,AS Joseph,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,GJ Maxwell,AS Joseph,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,V Kohli,AS Joseph,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,GJ Maxwell,AS Joseph,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,V Kohli,AS Joseph,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,6,GJ Maxwell,AS Joseph,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,V Kohli,Mohammed Shami,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,GJ Maxwell,Mohammed Shami,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,GJ Maxwell,Mohammed Shami,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,V Kohli,Mohammed Shami,GJ Maxwell,0,0,0,,0,0,0,0,0,True,bowled,V Kohli,,death
+1,Royal Challengers Bangalore,17,5,KD Karthik,Mohammed Shami,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,GJ Maxwell,Mohammed Shami,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,KD Karthik,Rashid Khan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,GJ Maxwell,Rashid Khan,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,KD Karthik,Rashid Khan,GJ Maxwell,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,Mohammed Shami,death
+1,Royal Challengers Bangalore,18,4,Shahbaz Ahmed,Rashid Khan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,GJ Maxwell,Rashid Khan,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,GJ Maxwell,Rashid Khan,Shahbaz Ahmed,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,GJ Maxwell,LH Ferguson,Shahbaz Ahmed,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,2,GJ Maxwell,LH Ferguson,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,GJ Maxwell,LH Ferguson,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,Rashid Khan,death
+1,Royal Challengers Bangalore,19,4,MK Lomror,LH Ferguson,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,MK Lomror,LH Ferguson,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,MK Lomror,LH Ferguson,Shahbaz Ahmed,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,20,1,MK Lomror,AS Joseph,Shahbaz Ahmed,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,Shahbaz Ahmed,AS Joseph,MK Lomror,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,MK Lomror,AS Joseph,Shahbaz Ahmed,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4.wides,MK Lomror,AS Joseph,Shahbaz Ahmed,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,MK Lomror,AS Joseph,Shahbaz Ahmed,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,MK Lomror,AS Joseph,Shahbaz Ahmed,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,MK Lomror,AS Joseph,Shahbaz Ahmed,0,0,0,,0,0,0,0,0,True,caught,MK Lomror,DA Miller,death
+2,Gujarat Titans,1,1,WP Saha,GJ Maxwell,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,2,WP Saha,GJ Maxwell,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,3,Shubman Gill,GJ Maxwell,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,4,Shubman Gill,GJ Maxwell,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,5,Shubman Gill,GJ Maxwell,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6,Shubman Gill,GJ Maxwell,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,1,Shubman Gill,Mohammed Siraj,WP Saha,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,2,Shubman Gill,Mohammed Siraj,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,3,WP Saha,Mohammed Siraj,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,4,Shubman Gill,Mohammed Siraj,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,5,Shubman Gill,Mohammed Siraj,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,6,Shubman Gill,Mohammed Siraj,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,1,WP Saha,JR Hazlewood,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,2,WP Saha,JR Hazlewood,Shubman Gill,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,3,WP Saha,JR Hazlewood,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,4,Shubman Gill,JR Hazlewood,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,5,Shubman Gill,JR Hazlewood,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,6,WP Saha,JR Hazlewood,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,1,WP Saha,Shahbaz Ahmed,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,2,WP Saha,Shahbaz Ahmed,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,3,Shubman Gill,Shahbaz Ahmed,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,4,Shubman Gill,Shahbaz Ahmed,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,5,WP Saha,Shahbaz Ahmed,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,6,Shubman Gill,Shahbaz Ahmed,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,1,WP Saha,JR Hazlewood,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,2,WP Saha,JR Hazlewood,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,3,Shubman Gill,JR Hazlewood,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,4,Shubman Gill,JR Hazlewood,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,5,WP Saha,JR Hazlewood,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,6,Shubman Gill,JR Hazlewood,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,1.wides,Shubman Gill,Mohammed Siraj,WP Saha,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,1,Shubman Gill,Mohammed Siraj,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,2,WP Saha,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,3,WP Saha,Mohammed Siraj,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,4,WP Saha,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,5.wides,WP Saha,Mohammed Siraj,Shubman Gill,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,5,WP Saha,Mohammed Siraj,Shubman Gill,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,6,WP Saha,Mohammed Siraj,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,1,WP Saha,HV Patel,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,2,Shubman Gill,HV Patel,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,3,Shubman Gill,HV Patel,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,4,WP Saha,HV Patel,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,5,Shubman Gill,HV Patel,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,6,WP Saha,HV Patel,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,1,Shubman Gill,PWH de Silva,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,2,Shubman Gill,PWH de Silva,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,3,WP Saha,PWH de Silva,Shubman Gill,0,0,0,,0,0,0,0,0,True,caught,WP Saha,RM Patidar,middle
+2,Gujarat Titans,8,4,B Sai Sudharsan,PWH de Silva,Shubman Gill,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,5,B Sai Sudharsan,PWH de Silva,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,6,B Sai Sudharsan,PWH de Silva,Shubman Gill,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,1,Shubman Gill,Shahbaz Ahmed,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,2,B Sai Sudharsan,Shahbaz Ahmed,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,3,Shubman Gill,Shahbaz Ahmed,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,4.noballs,Shubman Gill,Shahbaz Ahmed,B Sai Sudharsan,0,1,1,noballs,0,1,0,0,0,False,,,,middle
+2,Gujarat Titans,9,4,Shubman Gill,Shahbaz Ahmed,B Sai Sudharsan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,5,Shubman Gill,Shahbaz Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,lbw,Shubman Gill,,middle
+2,Gujarat Titans,9,6,HH Pandya,Shahbaz Ahmed,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,1,HH Pandya,PWH de Silva,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,2,HH Pandya,PWH de Silva,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,3,B Sai Sudharsan,PWH de Silva,HH Pandya,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,4,B Sai Sudharsan,PWH de Silva,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,5,HH Pandya,PWH de Silva,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,6,B Sai Sudharsan,PWH de Silva,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,1,B Sai Sudharsan,Shahbaz Ahmed,HH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,2,HH Pandya,Shahbaz Ahmed,B Sai Sudharsan,0,0,0,,0,0,0,0,0,True,caught,HH Pandya,MK Lomror,middle
+2,Gujarat Titans,11,3,DA Miller,Shahbaz Ahmed,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,4,B Sai Sudharsan,Shahbaz Ahmed,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,5,DA Miller,Shahbaz Ahmed,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,6,B Sai Sudharsan,Shahbaz Ahmed,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,1,B Sai Sudharsan,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,2,DA Miller,HV Patel,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,3,B Sai Sudharsan,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,4,DA Miller,HV Patel,B Sai Sudharsan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,5,DA Miller,HV Patel,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,6,B Sai Sudharsan,HV Patel,DA Miller,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,1,DA Miller,PWH de Silva,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,2,DA Miller,PWH de Silva,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,3,DA Miller,PWH de Silva,B Sai Sudharsan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,4,DA Miller,PWH de Silva,B Sai Sudharsan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,5,B Sai Sudharsan,PWH de Silva,DA Miller,0,0,0,,0,0,0,0,0,True,caught,B Sai Sudharsan,Anuj Rawat,death
+2,Gujarat Titans,13,6,R Tewatia,PWH de Silva,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,1,R Tewatia,Mohammed Siraj,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,2,R Tewatia,Mohammed Siraj,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,3,R Tewatia,Mohammed Siraj,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,4,R Tewatia,Mohammed Siraj,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,5,R Tewatia,Mohammed Siraj,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,14,6,R Tewatia,Mohammed Siraj,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,1,DA Miller,PWH de Silva,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,2,DA Miller,PWH de Silva,R Tewatia,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,3,DA Miller,PWH de Silva,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,4,R Tewatia,PWH de Silva,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,5,R Tewatia,PWH de Silva,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,15,6,DA Miller,PWH de Silva,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,1,DA Miller,Mohammed Siraj,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,2,DA Miller,Mohammed Siraj,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,3,R Tewatia,Mohammed Siraj,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,4,R Tewatia,Mohammed Siraj,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,5,R Tewatia,Mohammed Siraj,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,6,R Tewatia,Mohammed Siraj,DA Miller,0,4,4,legbyes,0,0,0,4,0,False,,,,death
+2,Gujarat Titans,17,1,DA Miller,HV Patel,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,2,R Tewatia,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,3.wides,DA Miller,HV Patel,R Tewatia,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,3,DA Miller,HV Patel,R Tewatia,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,4,DA Miller,HV Patel,R Tewatia,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,5,DA Miller,HV Patel,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,6,R Tewatia,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,1,R Tewatia,JR Hazlewood,DA Miller,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,2,R Tewatia,JR Hazlewood,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,3,R Tewatia,JR Hazlewood,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,4,R Tewatia,JR Hazlewood,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,5,R Tewatia,JR Hazlewood,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,6,DA Miller,JR Hazlewood,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,1,R Tewatia,HV Patel,DA Miller,2,0,2,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,2,R Tewatia,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,3,DA Miller,HV Patel,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,4,R Tewatia,HV Patel,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,5,DA Miller,HV Patel,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,6,R Tewatia,HV Patel,DA Miller,6,0,6,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,1.wides,DA Miller,JR Hazlewood,R Tewatia,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,1,DA Miller,JR Hazlewood,R Tewatia,4,0,4,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,2,DA Miller,JR Hazlewood,R Tewatia,1,0,1,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,3,R Tewatia,JR Hazlewood,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death

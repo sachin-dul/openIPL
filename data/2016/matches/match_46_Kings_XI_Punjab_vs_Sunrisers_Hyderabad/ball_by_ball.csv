@@ -1,0 +1,244 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,HM Amla,B Kumar,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,HM Amla,B Kumar,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,HM Amla,B Kumar,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,M Vijay,B Kumar,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,M Vijay,B Kumar,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,HM Amla,B Kumar,M Vijay,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,HM Amla,A Nehra,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,HM Amla,A Nehra,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,HM Amla,A Nehra,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,HM Amla,A Nehra,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,HM Amla,A Nehra,M Vijay,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,HM Amla,A Nehra,M Vijay,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,M Vijay,B Kumar,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,HM Amla,B Kumar,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,M Vijay,B Kumar,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,M Vijay,B Kumar,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,M Vijay,B Kumar,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,M Vijay,B Kumar,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,M Vijay,A Nehra,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,HM Amla,A Nehra,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,M Vijay,A Nehra,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,HM Amla,A Nehra,M Vijay,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,HM Amla,A Nehra,M Vijay,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,M Vijay,A Nehra,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,M Vijay,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,M Vijay,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,True,caught,M Vijay,DA Warner,powerplay
+1,Kings XI Punjab,5,3,HM Amla,Mustafizur Rahman,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,WP Saha,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,WP Saha,Mustafizur Rahman,HM Amla,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,WP Saha,Mustafizur Rahman,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,WP Saha,BCJ Cutting,HM Amla,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,WP Saha,BCJ Cutting,HM Amla,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,WP Saha,BCJ Cutting,HM Amla,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,HM Amla,BCJ Cutting,WP Saha,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,HM Amla,BCJ Cutting,WP Saha,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,HM Amla,BCJ Cutting,WP Saha,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,HM Amla,KV Sharma,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,WP Saha,KV Sharma,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,WP Saha,KV Sharma,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,HM Amla,KV Sharma,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,WP Saha,KV Sharma,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,HM Amla,KV Sharma,WP Saha,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,WP Saha,MC Henriques,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,HM Amla,MC Henriques,WP Saha,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,HM Amla,MC Henriques,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,HM Amla,MC Henriques,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,WP Saha,MC Henriques,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,HM Amla,MC Henriques,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,HM Amla,KV Sharma,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,WP Saha,KV Sharma,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,WP Saha,KV Sharma,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,WP Saha,KV Sharma,HM Amla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,WP Saha,KV Sharma,HM Amla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,WP Saha,KV Sharma,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,HM Amla,Yuvraj Singh,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,WP Saha,Yuvraj Singh,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,WP Saha,Yuvraj Singh,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,HM Amla,Yuvraj Singh,WP Saha,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,5,HM Amla,Yuvraj Singh,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,WP Saha,Yuvraj Singh,HM Amla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,HM Amla,KV Sharma,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,WP Saha,KV Sharma,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,HM Amla,KV Sharma,WP Saha,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,HM Amla,KV Sharma,WP Saha,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,WP Saha,KV Sharma,HM Amla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,WP Saha,KV Sharma,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,WP Saha,MC Henriques,HM Amla,0,0,0,,0,0,0,0,0,True,caught,WP Saha,DJ Hooda,middle
+1,Kings XI Punjab,12,2,HM Amla,MC Henriques,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,Gurkeerat Singh,MC Henriques,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,Gurkeerat Singh,MC Henriques,HM Amla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,Gurkeerat Singh,MC Henriques,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,HM Amla,MC Henriques,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,Gurkeerat Singh,KV Sharma,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,HM Amla,KV Sharma,Gurkeerat Singh,0,2,2,legbyes,0,0,0,2,0,False,,,,middle
+1,Kings XI Punjab,13,3,HM Amla,KV Sharma,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,Gurkeerat Singh,KV Sharma,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,HM Amla,KV Sharma,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,HM Amla,KV Sharma,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,Gurkeerat Singh,A Nehra,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,2,HM Amla,A Nehra,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,3,HM Amla,A Nehra,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,4,Gurkeerat Singh,A Nehra,HM Amla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,5,Gurkeerat Singh,A Nehra,HM Amla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,6,Gurkeerat Singh,BCJ Cutting,HM Amla,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,1,Gurkeerat Singh,Mustafizur Rahman,HM Amla,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,2,Gurkeerat Singh,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,3,Gurkeerat Singh,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,4,Gurkeerat Singh,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,5,Gurkeerat Singh,Mustafizur Rahman,HM Amla,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,6,Gurkeerat Singh,Mustafizur Rahman,HM Amla,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1,HM Amla,MC Henriques,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,HM Amla,MC Henriques,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,Gurkeerat Singh,MC Henriques,HM Amla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,Gurkeerat Singh,MC Henriques,HM Amla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,5,HM Amla,MC Henriques,Gurkeerat Singh,6,0,6,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,6,HM Amla,MC Henriques,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,1,HM Amla,Mustafizur Rahman,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,HM Amla,Mustafizur Rahman,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,HM Amla,Mustafizur Rahman,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,HM Amla,Mustafizur Rahman,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,Gurkeerat Singh,Mustafizur Rahman,HM Amla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,6,HM Amla,Mustafizur Rahman,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,Gurkeerat Singh,B Kumar,HM Amla,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,2,Gurkeerat Singh,B Kumar,HM Amla,0,0,0,,0,0,0,0,0,True,bowled,Gurkeerat Singh,,death
+1,Kings XI Punjab,18,3,DA Miller,B Kumar,HM Amla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,HM Amla,B Kumar,DA Miller,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,HM Amla,B Kumar,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,DA Miller,B Kumar,HM Amla,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,HM Amla,Mustafizur Rahman,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,2,DA Miller,Mustafizur Rahman,HM Amla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,HM Amla,Mustafizur Rahman,DA Miller,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,DA Miller,Mustafizur Rahman,HM Amla,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,DA Miller,Mustafizur Rahman,HM Amla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,HM Amla,Mustafizur Rahman,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,1,DA Miller,B Kumar,HM Amla,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,2,DA Miller,B Kumar,HM Amla,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,HM Amla,B Kumar,DA Miller,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,4,HM Amla,B Kumar,DA Miller,0,0,0,,0,0,0,0,0,True,caught,HM Amla,DA Warner,death
+1,Kings XI Punjab,20,5,DA Miller,B Kumar,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,DA Miller,B Kumar,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1,DA Warner,Sandeep Sharma,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,DA Warner,Sandeep Sharma,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,S Dhawan,Sandeep Sharma,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,DA Warner,Sandeep Sharma,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,DA Warner,Sandeep Sharma,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,S Dhawan,Sandeep Sharma,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,S Dhawan,M Vijay,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,DA Warner,M Vijay,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,DA Warner,M Vijay,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,DA Warner,M Vijay,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,S Dhawan,M Vijay,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6.wides,S Dhawan,M Vijay,DA Warner,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,S Dhawan,M Vijay,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,S Dhawan,MM Sharma,DA Warner,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,S Dhawan,MM Sharma,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,DA Warner,MM Sharma,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,DA Warner,MM Sharma,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,S Dhawan,MM Sharma,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,DA Warner,MM Sharma,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,DA Warner,Anureet Singh,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,DA Warner,Anureet Singh,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,DA Warner,Anureet Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,S Dhawan,Anureet Singh,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,S Dhawan,Anureet Singh,DA Warner,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,DA Warner,Anureet Singh,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,DA Warner,MP Stoinis,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,DA Warner,MP Stoinis,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,S Dhawan,MP Stoinis,DA Warner,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,DA Warner,MP Stoinis,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,DA Warner,MP Stoinis,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,DA Warner,MP Stoinis,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,DA Warner,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,DA Warner,GJ Maxwell,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,DA Warner,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,DA Warner,GJ Maxwell,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,S Dhawan,GJ Maxwell,DA Warner,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,6,S Dhawan,GJ Maxwell,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,1,DA Warner,AR Patel,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,DA Warner,AR Patel,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,S Dhawan,AR Patel,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,S Dhawan,AR Patel,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,S Dhawan,AR Patel,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,DA Warner,AR Patel,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,S Dhawan,Anureet Singh,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,S Dhawan,Anureet Singh,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,S Dhawan,Anureet Singh,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4.noballs,S Dhawan,Anureet Singh,DA Warner,4,1,5,noballs,0,1,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,S Dhawan,Anureet Singh,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,S Dhawan,Anureet Singh,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,DA Warner,Anureet Singh,S Dhawan,1,0,1,,0,0,0,0,0,True,run out,S Dhawan,MM Sharma,middle
+2,Sunrisers Hyderabad,9,1,DJ Hooda,AR Patel,DA Warner,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,DJ Hooda,AR Patel,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,DA Warner,AR Patel,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,DJ Hooda,AR Patel,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,DA Warner,AR Patel,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,DJ Hooda,AR Patel,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,DA Warner,MP Stoinis,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,DA Warner,MP Stoinis,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,DJ Hooda,MP Stoinis,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,DA Warner,MP Stoinis,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,DA Warner,MP Stoinis,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6.wides,DA Warner,MP Stoinis,DJ Hooda,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,DA Warner,MP Stoinis,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,DA Warner,Sandeep Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,DJ Hooda,Sandeep Sharma,DA Warner,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,DA Warner,Sandeep Sharma,DJ Hooda,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,DA Warner,Sandeep Sharma,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,DA Warner,Sandeep Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,DJ Hooda,Sandeep Sharma,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,DJ Hooda,Anureet Singh,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,DA Warner,Anureet Singh,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,DJ Hooda,Anureet Singh,DA Warner,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,DA Warner,Anureet Singh,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5.noballs,DJ Hooda,Anureet Singh,DA Warner,2,1,3,noballs,0,1,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,DJ Hooda,Anureet Singh,DA Warner,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,DJ Hooda,Anureet Singh,DA Warner,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,DA Warner,AR Patel,DJ Hooda,0,0,0,,0,0,0,0,0,True,hit wicket,DA Warner,,middle
+2,Sunrisers Hyderabad,13,2,Yuvraj Singh,AR Patel,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3,Yuvraj Singh,AR Patel,DJ Hooda,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,Yuvraj Singh,AR Patel,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,DJ Hooda,AR Patel,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,6,DJ Hooda,AR Patel,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,1,Yuvraj Singh,MM Sharma,DJ Hooda,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,2,Yuvraj Singh,MM Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,3,DJ Hooda,MM Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,4,Yuvraj Singh,MM Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,5,DJ Hooda,MM Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,6,Yuvraj Singh,MM Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,1,Yuvraj Singh,MP Stoinis,DJ Hooda,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,2,Yuvraj Singh,MP Stoinis,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,3,DJ Hooda,MP Stoinis,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,4,DJ Hooda,MP Stoinis,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,5,Yuvraj Singh,MP Stoinis,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,6,DJ Hooda,MP Stoinis,Yuvraj Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,1,Yuvraj Singh,Sandeep Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,DJ Hooda,Sandeep Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,DJ Hooda,Sandeep Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,Yuvraj Singh,Sandeep Sharma,DJ Hooda,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,Yuvraj Singh,Sandeep Sharma,DJ Hooda,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,DJ Hooda,Sandeep Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,True,caught,DJ Hooda,DA Miller,death
+2,Sunrisers Hyderabad,17,1,BCJ Cutting,AR Patel,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,BCJ Cutting,AR Patel,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,Yuvraj Singh,AR Patel,BCJ Cutting,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,Yuvraj Singh,AR Patel,BCJ Cutting,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,Yuvraj Singh,AR Patel,BCJ Cutting,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,BCJ Cutting,AR Patel,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,Yuvraj Singh,MM Sharma,BCJ Cutting,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,Yuvraj Singh,MM Sharma,BCJ Cutting,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,Yuvraj Singh,MM Sharma,BCJ Cutting,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,BCJ Cutting,MM Sharma,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,BCJ Cutting,MM Sharma,Yuvraj Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,Yuvraj Singh,MM Sharma,BCJ Cutting,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,Yuvraj Singh,Sandeep Sharma,BCJ Cutting,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,BCJ Cutting,Sandeep Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,BCJ Cutting,Sandeep Sharma,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,BCJ Cutting,Sandeep Sharma,Yuvraj Singh,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,BCJ Cutting,Sandeep Sharma,Yuvraj Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,6,BCJ Cutting,Sandeep Sharma,Yuvraj Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,1.wides,Yuvraj Singh,MM Sharma,BCJ Cutting,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,1,Yuvraj Singh,MM Sharma,BCJ Cutting,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,2,Yuvraj Singh,MM Sharma,BCJ Cutting,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,3,Yuvraj Singh,MM Sharma,BCJ Cutting,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,20,4,BCJ Cutting,MM Sharma,Yuvraj Singh,1,0,1,,0,0,0,0,0,False,,,,death

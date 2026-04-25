@@ -1,0 +1,247 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bangalore,1,1,A Mukund,A Chandila,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,2,CH Gayle,A Chandila,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,3,CH Gayle,A Chandila,A Mukund,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,4,CH Gayle,A Chandila,A Mukund,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,5,CH Gayle,A Chandila,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,1,6,CH Gayle,A Chandila,A Mukund,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,1,A Mukund,JP Faulkner,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2.wides,CH Gayle,JP Faulkner,A Mukund,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,2,CH Gayle,JP Faulkner,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,3,CH Gayle,JP Faulkner,A Mukund,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,4,CH Gayle,JP Faulkner,A Mukund,3,0,3,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,5,A Mukund,JP Faulkner,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,2,6,A Mukund,JP Faulkner,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,1,CH Gayle,S Sreesanth,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,2,CH Gayle,S Sreesanth,A Mukund,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,3,CH Gayle,S Sreesanth,A Mukund,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,4,CH Gayle,S Sreesanth,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5.noballs,CH Gayle,S Sreesanth,A Mukund,1,1,2,noballs,0,1,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,5,A Mukund,S Sreesanth,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,3,6,CH Gayle,S Sreesanth,A Mukund,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,1,A Mukund,SR Watson,CH Gayle,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,2,A Mukund,SR Watson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,3,A Mukund,SR Watson,CH Gayle,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,4,A Mukund,SR Watson,CH Gayle,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,5,CH Gayle,SR Watson,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,4,6,CH Gayle,SR Watson,A Mukund,0,0,0,,0,0,0,0,0,True,caught,CH Gayle,SV Samson,powerplay
+1,Royal Challengers Bangalore,5,1,A Mukund,JP Faulkner,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,2,V Kohli,JP Faulkner,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,3,V Kohli,JP Faulkner,A Mukund,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,4,A Mukund,JP Faulkner,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,5,V Kohli,JP Faulkner,A Mukund,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6.wides,A Mukund,JP Faulkner,V Kohli,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,5,6,A Mukund,JP Faulkner,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,1,V Kohli,SR Watson,A Mukund,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,2,V Kohli,SR Watson,A Mukund,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,3,A Mukund,SR Watson,V Kohli,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,4,A Mukund,SR Watson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,5,V Kohli,SR Watson,A Mukund,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,6,6,A Mukund,SR Watson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bangalore,7,1,A Mukund,A Chandila,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,2,V Kohli,A Chandila,A Mukund,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,3,V Kohli,A Chandila,A Mukund,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,4,A Mukund,A Chandila,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,5,A Mukund,A Chandila,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,7,6,V Kohli,A Chandila,A Mukund,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,1,V Kohli,SK Trivedi,A Mukund,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,2,V Kohli,SK Trivedi,A Mukund,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,3,A Mukund,SK Trivedi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,4,V Kohli,SK Trivedi,A Mukund,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,5,A Mukund,SK Trivedi,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,8,6,A Mukund,SK Trivedi,V Kohli,0,0,0,,0,0,0,0,0,True,bowled,A Mukund,,middle
+1,Royal Challengers Bangalore,9,1,V Kohli,A Chandila,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,2,V Kohli,A Chandila,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,3,V Kohli,A Chandila,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,4,AB de Villiers,A Chandila,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,5,V Kohli,A Chandila,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,9,6,AB de Villiers,A Chandila,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,1,AB de Villiers,SK Trivedi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,2,V Kohli,SK Trivedi,AB de Villiers,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,10,3,AB de Villiers,SK Trivedi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,4,V Kohli,SK Trivedi,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,10,5,V Kohli,SK Trivedi,AB de Villiers,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,10,6,AB de Villiers,SK Trivedi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,1,AB de Villiers,A Chandila,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,2,AB de Villiers,A Chandila,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,3,AB de Villiers,A Chandila,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,4,V Kohli,A Chandila,AB de Villiers,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,5,V Kohli,A Chandila,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,11,6,AB de Villiers,A Chandila,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,1,V Kohli,STR Binny,AB de Villiers,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,2,V Kohli,STR Binny,AB de Villiers,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,3,AB de Villiers,STR Binny,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,4,AB de Villiers,STR Binny,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,5,AB de Villiers,STR Binny,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,12,6,V Kohli,STR Binny,AB de Villiers,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,1,AB de Villiers,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,True,caught,AB de Villiers,JP Faulkner,middle
+1,Royal Challengers Bangalore,13,2,MC Henriques,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,3,MC Henriques,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,4,MC Henriques,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,5,MC Henriques,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,13,6,MC Henriques,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,1,V Kohli,SK Trivedi,MC Henriques,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,2,V Kohli,SK Trivedi,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,3,MC Henriques,SK Trivedi,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bangalore,14,4,V Kohli,SK Trivedi,MC Henriques,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,5,V Kohli,SK Trivedi,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,14,6,V Kohli,SK Trivedi,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,1,V Kohli,S Sreesanth,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,2,V Kohli,S Sreesanth,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,3,MC Henriques,S Sreesanth,V Kohli,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,4,MC Henriques,S Sreesanth,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,5,MC Henriques,S Sreesanth,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,15,6,V Kohli,S Sreesanth,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bangalore,16,1,MC Henriques,SR Watson,V Kohli,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,2,MC Henriques,SR Watson,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bangalore,16,3,V Kohli,SR Watson,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,4,V Kohli,SR Watson,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,16,5,V Kohli,SR Watson,MC Henriques,0,0,0,,0,0,0,0,0,True,caught,V Kohli,JP Faulkner,death
+1,Royal Challengers Bangalore,16,6,MC Henriques,SR Watson,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,1,SS Tiwary,S Sreesanth,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,2,MC Henriques,S Sreesanth,SS Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3.noballs,MC Henriques,S Sreesanth,SS Tiwary,0,1,1,noballs,0,1,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,3,MC Henriques,S Sreesanth,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,4,SS Tiwary,S Sreesanth,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,5,SS Tiwary,S Sreesanth,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,17,6,MC Henriques,S Sreesanth,SS Tiwary,4,0,4,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,1,SS Tiwary,JP Faulkner,MC Henriques,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2.wides,SS Tiwary,JP Faulkner,MC Henriques,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,2,SS Tiwary,JP Faulkner,MC Henriques,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,3,MC Henriques,JP Faulkner,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,4,MC Henriques,JP Faulkner,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,5,SS Tiwary,JP Faulkner,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,18,6,SS Tiwary,JP Faulkner,MC Henriques,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,1,MC Henriques,SR Watson,SS Tiwary,1,0,1,,0,0,0,0,0,True,run out,MC Henriques,"JP Faulkner, SV Samson",death
+1,Royal Challengers Bangalore,19,2,R Rampaul,SR Watson,SS Tiwary,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,3,SS Tiwary,SR Watson,R Rampaul,1,0,1,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,4,R Rampaul,SR Watson,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,5,R Rampaul,SR Watson,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,19,6,R Rampaul,SR Watson,SS Tiwary,0,0,0,,0,0,0,0,0,True,caught,R Rampaul,SV Samson,death
+1,Royal Challengers Bangalore,20,1,R Vinay Kumar,JP Faulkner,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,2,R Vinay Kumar,JP Faulkner,SS Tiwary,2,0,2,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,3,R Vinay Kumar,JP Faulkner,SS Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,4,R Vinay Kumar,JP Faulkner,SS Tiwary,0,0,0,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,5,R Vinay Kumar,JP Faulkner,SS Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bangalore,20,6,R Vinay Kumar,JP Faulkner,SS Tiwary,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,R Dravid,R Rampaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,R Dravid,R Rampaul,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,R Dravid,R Rampaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,R Dravid,R Rampaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,R Dravid,R Rampaul,AM Rahane,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,R Dravid,R Rampaul,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,AM Rahane,RP Singh,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,R Dravid,RP Singh,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,R Dravid,RP Singh,AM Rahane,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,AM Rahane,RP Singh,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,R Dravid,RP Singh,AM Rahane,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,R Dravid,RP Singh,AM Rahane,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,AM Rahane,R Rampaul,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,AM Rahane,R Rampaul,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,AM Rahane,R Rampaul,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,AM Rahane,R Rampaul,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,AM Rahane,R Rampaul,R Dravid,0,0,0,,0,0,0,0,0,True,caught,AM Rahane,RP Singh,powerplay
+2,Rajasthan Royals,3,6,R Dravid,R Rampaul,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,SV Samson,R Vinay Kumar,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,SV Samson,R Vinay Kumar,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,SV Samson,R Vinay Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,SV Samson,R Vinay Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,SV Samson,R Vinay Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,SV Samson,R Vinay Kumar,R Dravid,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,SV Samson,MC Henriques,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,SV Samson,MC Henriques,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,R Dravid,MC Henriques,SV Samson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,SV Samson,MC Henriques,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5.wides,SV Samson,MC Henriques,R Dravid,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,SV Samson,MC Henriques,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,R Dravid,MC Henriques,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,SV Samson,R Vinay Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,SV Samson,R Vinay Kumar,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,SV Samson,R Vinay Kumar,R Dravid,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,SV Samson,R Vinay Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,SV Samson,R Vinay Kumar,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,R Dravid,R Vinay Kumar,SV Samson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,7,1,SV Samson,MC Henriques,R Dravid,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,7,2,R Dravid,MC Henriques,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,R Dravid,MC Henriques,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,R Dravid,MC Henriques,SV Samson,0,0,0,,0,0,0,0,0,True,bowled,R Dravid,,middle
+2,Rajasthan Royals,7,5,SR Watson,MC Henriques,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,SR Watson,MC Henriques,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,SV Samson,M Kartik,SR Watson,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,SV Samson,M Kartik,SR Watson,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,SV Samson,M Kartik,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,SR Watson,M Kartik,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,SV Samson,M Kartik,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,SR Watson,M Kartik,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,SV Samson,JD Unadkat,SR Watson,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,SR Watson,JD Unadkat,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,SR Watson,JD Unadkat,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,SV Samson,JD Unadkat,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,SV Samson,JD Unadkat,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,SV Samson,JD Unadkat,SR Watson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,SR Watson,M Kartik,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,SV Samson,M Kartik,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,SR Watson,M Kartik,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,SV Samson,M Kartik,SR Watson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,SV Samson,M Kartik,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,SR Watson,M Kartik,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,SR Watson,RP Singh,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,SR Watson,RP Singh,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,SV Samson,RP Singh,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,SR Watson,RP Singh,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,SV Samson,RP Singh,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,SR Watson,RP Singh,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,SR Watson,M Kartik,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,SV Samson,M Kartik,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,SR Watson,M Kartik,SV Samson,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,SR Watson,M Kartik,SV Samson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,SV Samson,M Kartik,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,SR Watson,M Kartik,SV Samson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,SV Samson,RP Singh,SR Watson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,2,SV Samson,RP Singh,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,SV Samson,RP Singh,SR Watson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,SV Samson,RP Singh,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,5,SR Watson,RP Singh,SV Samson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,6.wides,SR Watson,RP Singh,SV Samson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,6,SR Watson,RP Singh,SV Samson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,SV Samson,JD Unadkat,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,2,SV Samson,JD Unadkat,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,SV Samson,JD Unadkat,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,SR Watson,JD Unadkat,SV Samson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,SV Samson,JD Unadkat,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,SV Samson,JD Unadkat,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,SR Watson,R Rampaul,SV Samson,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Rajasthan Royals,15,2,SV Samson,R Rampaul,SR Watson,0,0,0,,0,0,0,0,0,True,caught,SV Samson,M Kartik,death
+2,Rajasthan Royals,15,3,SR Watson,R Rampaul,BJ Hodge,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+2,Rajasthan Royals,15,4,BJ Hodge,R Rampaul,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,SR Watson,R Rampaul,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,BJ Hodge,R Rampaul,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,BJ Hodge,JD Unadkat,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,SR Watson,JD Unadkat,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,BJ Hodge,JD Unadkat,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,SR Watson,JD Unadkat,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,BJ Hodge,JD Unadkat,SR Watson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,BJ Hodge,JD Unadkat,SR Watson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,SR Watson,R Vinay Kumar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,BJ Hodge,R Vinay Kumar,SR Watson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,BJ Hodge,R Vinay Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,SR Watson,R Vinay Kumar,BJ Hodge,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,SR Watson,R Vinay Kumar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,BJ Hodge,R Vinay Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,BJ Hodge,R Rampaul,SR Watson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,BJ Hodge,R Rampaul,SR Watson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,BJ Hodge,R Rampaul,SR Watson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,BJ Hodge,R Rampaul,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,SR Watson,R Rampaul,BJ Hodge,3,0,3,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,BJ Hodge,R Rampaul,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,BJ Hodge,RP Singh,SR Watson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,SR Watson,RP Singh,BJ Hodge,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,SR Watson,RP Singh,BJ Hodge,0,0,0,,0,0,0,0,0,True,caught,SR Watson,AB de Villiers,death
+2,Rajasthan Royals,19,4,BJ Hodge,RP Singh,STR Binny,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,BJ Hodge,RP Singh,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,6,STR Binny,RP Singh,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,1,STR Binny,R Vinay Kumar,BJ Hodge,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,2,BJ Hodge,R Vinay Kumar,STR Binny,0,0,0,,0,0,0,0,0,True,bowled,BJ Hodge,,death
+2,Rajasthan Royals,20,3,OA Shah,R Vinay Kumar,STR Binny,1,0,1,,0,0,0,0,0,True,run out,OA Shah,"V Kohli, AB de Villiers",death
+2,Rajasthan Royals,20,4,JP Faulkner,R Vinay Kumar,STR Binny,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,5,STR Binny,R Vinay Kumar,JP Faulkner,4,0,4,,0,0,0,0,0,False,,,,death

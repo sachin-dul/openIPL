@@ -1,0 +1,250 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kings XI Punjab,1,1,AC Gilchrist,SK Trivedi,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,2,AC Gilchrist,SK Trivedi,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,3,AC Gilchrist,SK Trivedi,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4.noballs,AC Gilchrist,SK Trivedi,PC Valthaty,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,4,AC Gilchrist,SK Trivedi,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,5,AC Gilchrist,SK Trivedi,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6.wides,AC Gilchrist,SK Trivedi,PC Valthaty,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,1,6,AC Gilchrist,SK Trivedi,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,1,AC Gilchrist,SW Tait,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,2,PC Valthaty,SW Tait,AC Gilchrist,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,3,AC Gilchrist,SW Tait,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4.noballs,PC Valthaty,SW Tait,AC Gilchrist,0,1,1,noballs,0,1,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,4,PC Valthaty,SW Tait,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,5,PC Valthaty,SW Tait,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6.wides,PC Valthaty,SW Tait,AC Gilchrist,0,2,2,wides,2,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,2,6,AC Gilchrist,SW Tait,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,1,PC Valthaty,SK Trivedi,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,2,PC Valthaty,SK Trivedi,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,3,PC Valthaty,SK Trivedi,AC Gilchrist,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,4,PC Valthaty,SK Trivedi,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,5,PC Valthaty,SK Trivedi,AC Gilchrist,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6.noballs,PC Valthaty,SK Trivedi,AC Gilchrist,4,1,5,noballs,0,1,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,3,6,PC Valthaty,SK Trivedi,AC Gilchrist,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,1,AC Gilchrist,SK Warne,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,2,AC Gilchrist,SK Warne,PC Valthaty,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,3,AC Gilchrist,SK Warne,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,4,AC Gilchrist,SK Warne,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,5,PC Valthaty,SK Warne,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,4,6,PC Valthaty,SK Warne,AC Gilchrist,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,1,AC Gilchrist,SR Watson,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,2,AC Gilchrist,SR Watson,PC Valthaty,0,0,0,,0,0,0,0,0,True,caught,AC Gilchrist,SW Tait,powerplay
+1,Kings XI Punjab,5,3,SE Marsh,SR Watson,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,4,SE Marsh,SR Watson,PC Valthaty,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,5,SE Marsh,SR Watson,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,5,6,SE Marsh,SR Watson,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,1,PC Valthaty,SW Tait,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,2,PC Valthaty,SW Tait,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,3,PC Valthaty,SW Tait,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,4,PC Valthaty,SW Tait,SE Marsh,0,4,4,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Kings XI Punjab,6,5,PC Valthaty,SW Tait,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,6,6,PC Valthaty,SW Tait,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kings XI Punjab,7,1,SE Marsh,SR Watson,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,2,PC Valthaty,SR Watson,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,3,PC Valthaty,SR Watson,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,4,SE Marsh,SR Watson,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,5,PC Valthaty,SR Watson,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,7,6,SE Marsh,SR Watson,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,1,PC Valthaty,SK Warne,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,2,PC Valthaty,SK Warne,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,3,SE Marsh,SK Warne,PC Valthaty,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,4,SE Marsh,SK Warne,PC Valthaty,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,5,SE Marsh,SK Warne,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,8,6,PC Valthaty,SK Warne,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,1,SE Marsh,STR Binny,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,2,PC Valthaty,STR Binny,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,3,SE Marsh,STR Binny,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,4,PC Valthaty,STR Binny,SE Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,5,PC Valthaty,STR Binny,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,9,6,SE Marsh,STR Binny,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,1,SE Marsh,SK Warne,PC Valthaty,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,2,PC Valthaty,SK Warne,SE Marsh,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,3,PC Valthaty,SK Warne,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,4,PC Valthaty,SK Warne,SE Marsh,0,0,0,,0,0,0,0,0,True,caught,PC Valthaty,SW Tait,middle
+1,Kings XI Punjab,10,5,SE Marsh,SK Warne,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,10,6,SE Marsh,SK Warne,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1.wides,KD Karthik,STR Binny,SE Marsh,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,1,KD Karthik,STR Binny,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,2,SE Marsh,STR Binny,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,3,SE Marsh,STR Binny,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,4,KD Karthik,STR Binny,SE Marsh,3,0,3,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,5,SE Marsh,STR Binny,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,11,6,SE Marsh,STR Binny,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,1,SE Marsh,AL Menaria,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,2,KD Karthik,AL Menaria,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,3,SE Marsh,AL Menaria,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,4,SE Marsh,AL Menaria,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,5,KD Karthik,AL Menaria,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,12,6,KD Karthik,AL Menaria,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,1,SE Marsh,AS Raut,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,2,SE Marsh,AS Raut,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,3,SE Marsh,AS Raut,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,4,KD Karthik,AS Raut,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,5,KD Karthik,AS Raut,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,13,6,SE Marsh,AS Raut,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,1,KD Karthik,SK Warne,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,2,KD Karthik,SK Warne,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,3,SE Marsh,SK Warne,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,4,SE Marsh,SK Warne,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,5,SE Marsh,SK Warne,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,14,6,SE Marsh,SK Warne,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,1,KD Karthik,SK Trivedi,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,2,SE Marsh,SK Trivedi,KD Karthik,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,3,SE Marsh,SK Trivedi,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,4,KD Karthik,SK Trivedi,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,5,KD Karthik,SK Trivedi,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,15,6,KD Karthik,SK Trivedi,SE Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1.wides,SE Marsh,SW Tait,KD Karthik,0,1,1,wides,1,0,0,0,0,False,,,,middle
+1,Kings XI Punjab,16,1,SE Marsh,SW Tait,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,2,KD Karthik,SW Tait,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,3,SE Marsh,SW Tait,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,16,4,KD Karthik,SW Tait,SE Marsh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,16,5,SE Marsh,SW Tait,KD Karthik,0,1,1,byes,0,0,1,0,0,False,,,,death
+1,Kings XI Punjab,16,6,KD Karthik,SW Tait,SE Marsh,0,0,0,,0,0,0,0,0,True,caught,KD Karthik,DH Yagnik,death
+1,Kings XI Punjab,17,1,SE Marsh,SR Watson,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,2,AM Nayar,SR Watson,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,3,AM Nayar,SR Watson,SE Marsh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,4,SE Marsh,SR Watson,AM Nayar,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,17,5,AM Nayar,SR Watson,SE Marsh,0,0,0,,0,0,0,0,0,True,run out,AM Nayar,"STR Binny, SR Watson",death
+1,Kings XI Punjab,17,6,SE Marsh,SR Watson,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1.wides,R McLaren,SK Trivedi,SE Marsh,0,2,2,wides,2,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,1,SE Marsh,SK Trivedi,R McLaren,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,2,SE Marsh,SK Trivedi,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,3,R McLaren,SK Trivedi,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,4,R McLaren,SK Trivedi,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,5,R McLaren,SK Trivedi,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,18,6,R McLaren,SK Trivedi,SE Marsh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,1,SE Marsh,SR Watson,R McLaren,0,0,0,,0,0,0,0,0,True,caught and bowled,SE Marsh,,death
+1,Kings XI Punjab,19,2,R McLaren,SR Watson,Sunny Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,3,Sunny Singh,SR Watson,R McLaren,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,4,R McLaren,SR Watson,Sunny Singh,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,5,Sunny Singh,SR Watson,R McLaren,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,19,6,Sunny Singh,SR Watson,R McLaren,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,1,R McLaren,SW Tait,Sunny Singh,0,0,0,,0,0,0,0,0,True,caught,R McLaren,AS Raut,death
+1,Kings XI Punjab,20,2,Sunny Singh,SW Tait,PP Chawla,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,3,Sunny Singh,SW Tait,PP Chawla,0,1,1,legbyes,0,0,0,1,0,False,,,,death
+1,Kings XI Punjab,20,4,PP Chawla,SW Tait,Sunny Singh,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,5,PP Chawla,SW Tait,Sunny Singh,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kings XI Punjab,20,6,PP Chawla,SW Tait,Sunny Singh,0,0,0,,0,0,0,0,0,True,bowled,PP Chawla,,death
+2,Rajasthan Royals,1,1,SA Asnodkar,P Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,SA Asnodkar,P Kumar,R Dravid,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,SA Asnodkar,P Kumar,R Dravid,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,SA Asnodkar,P Kumar,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,R Dravid,P Kumar,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,R Dravid,P Kumar,SA Asnodkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,SA Asnodkar,RJ Harris,R Dravid,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,R Dravid,RJ Harris,SA Asnodkar,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,R Dravid,RJ Harris,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,R Dravid,RJ Harris,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,R Dravid,RJ Harris,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,R Dravid,RJ Harris,SA Asnodkar,0,0,0,,0,0,0,0,0,True,bowled,R Dravid,,powerplay
+2,Rajasthan Royals,3,1,SA Asnodkar,P Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,SR Watson,P Kumar,SA Asnodkar,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,SR Watson,P Kumar,SA Asnodkar,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,SA Asnodkar,P Kumar,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,SA Asnodkar,P Kumar,SR Watson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,SA Asnodkar,P Kumar,SR Watson,0,0,0,,0,0,0,0,0,True,bowled,SA Asnodkar,,powerplay
+2,Rajasthan Royals,4,1,SR Watson,RJ Harris,STR Binny,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,SR Watson,RJ Harris,STR Binny,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,SR Watson,RJ Harris,STR Binny,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,SR Watson,RJ Harris,STR Binny,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,SR Watson,RJ Harris,STR Binny,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,SR Watson,RJ Harris,STR Binny,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,SR Watson,P Kumar,STR Binny,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,SR Watson,P Kumar,STR Binny,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,STR Binny,P Kumar,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,STR Binny,P Kumar,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,STR Binny,P Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,SR Watson,P Kumar,STR Binny,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,SR Watson,BA Bhatt,STR Binny,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,STR Binny,BA Bhatt,SR Watson,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,STR Binny,BA Bhatt,SR Watson,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,STR Binny,BA Bhatt,SR Watson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,SR Watson,BA Bhatt,STR Binny,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,SR Watson,BA Bhatt,STR Binny,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,7,1,SR Watson,P Kumar,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,STR Binny,P Kumar,SR Watson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,SR Watson,P Kumar,STR Binny,0,0,0,,0,0,0,0,0,True,caught,SR Watson,PP Chawla,middle
+2,Rajasthan Royals,7,4,STR Binny,P Kumar,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,STR Binny,P Kumar,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,LRPL Taylor,P Kumar,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,STR Binny,PP Chawla,LRPL Taylor,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,STR Binny,PP Chawla,LRPL Taylor,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,LRPL Taylor,PP Chawla,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,LRPL Taylor,PP Chawla,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,LRPL Taylor,PP Chawla,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,LRPL Taylor,PP Chawla,STR Binny,0,0,0,,0,0,0,0,0,True,lbw,LRPL Taylor,,middle
+2,Rajasthan Royals,9,1,STR Binny,PC Valthaty,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,AL Menaria,PC Valthaty,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,AL Menaria,PC Valthaty,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,STR Binny,PC Valthaty,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,AL Menaria,PC Valthaty,STR Binny,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,AL Menaria,PC Valthaty,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,AL Menaria,PP Chawla,STR Binny,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,AL Menaria,PP Chawla,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,AL Menaria,PP Chawla,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,AL Menaria,PP Chawla,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,5,STR Binny,PP Chawla,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,AL Menaria,PP Chawla,STR Binny,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,STR Binny,PC Valthaty,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,AL Menaria,PC Valthaty,STR Binny,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,AL Menaria,PC Valthaty,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,STR Binny,PC Valthaty,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,AL Menaria,PC Valthaty,STR Binny,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,AL Menaria,PC Valthaty,STR Binny,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,STR Binny,PP Chawla,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,STR Binny,PP Chawla,AL Menaria,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,STR Binny,PP Chawla,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,STR Binny,PP Chawla,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,STR Binny,PP Chawla,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,AL Menaria,PP Chawla,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,AL Menaria,R McLaren,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,2,STR Binny,R McLaren,AL Menaria,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,AL Menaria,R McLaren,STR Binny,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,AL Menaria,R McLaren,STR Binny,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,5,STR Binny,R McLaren,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,6,STR Binny,R McLaren,AL Menaria,0,0,0,,0,0,0,0,0,True,caught,STR Binny,PP Chawla,middle
+2,Rajasthan Royals,14,1,AS Raut,AM Nayar,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,2,AS Raut,AM Nayar,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,3,AL Menaria,AM Nayar,AS Raut,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,4,AL Menaria,AM Nayar,AS Raut,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,5,AS Raut,AM Nayar,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,6,AS Raut,AM Nayar,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,1,AS Raut,R McLaren,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,2,AS Raut,R McLaren,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,3,AS Raut,R McLaren,AL Menaria,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,4,AS Raut,R McLaren,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,5,AS Raut,R McLaren,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,6,AS Raut,R McLaren,AL Menaria,3,0,3,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,16,1,AS Raut,PP Chawla,AL Menaria,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,AS Raut,PP Chawla,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,AL Menaria,PP Chawla,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,AS Raut,PP Chawla,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,AL Menaria,PP Chawla,AS Raut,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,AL Menaria,PP Chawla,AS Raut,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,AS Raut,RJ Harris,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,AL Menaria,RJ Harris,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,AS Raut,RJ Harris,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,AL Menaria,RJ Harris,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,AS Raut,RJ Harris,AL Menaria,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,AL Menaria,RJ Harris,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,AL Menaria,BA Bhatt,AS Raut,0,0,0,,0,0,0,0,0,True,caught,AL Menaria,SE Marsh,death
+2,Rajasthan Royals,18,2,DH Yagnik,BA Bhatt,AS Raut,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,DH Yagnik,BA Bhatt,AS Raut,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,DH Yagnik,BA Bhatt,AS Raut,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,DH Yagnik,BA Bhatt,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,AS Raut,BA Bhatt,DH Yagnik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,AS Raut,RJ Harris,DH Yagnik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,DH Yagnik,RJ Harris,AS Raut,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,DH Yagnik,RJ Harris,AS Raut,2,0,2,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4.wides,DH Yagnik,RJ Harris,AS Raut,0,1,1,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4,DH Yagnik,RJ Harris,AS Raut,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,AS Raut,RJ Harris,DH Yagnik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,6,AS Raut,RJ Harris,DH Yagnik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,1,AS Raut,BA Bhatt,DH Yagnik,0,0,0,,0,0,0,0,0,True,caught,AS Raut,RJ Harris,death
+2,Rajasthan Royals,20,2,DH Yagnik,BA Bhatt,SK Warne,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,3,SK Warne,BA Bhatt,DH Yagnik,0,0,0,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,4,SK Warne,BA Bhatt,DH Yagnik,4,0,4,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,5,SK Warne,BA Bhatt,DH Yagnik,1,0,1,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,6,DH Yagnik,BA Bhatt,SK Warne,1,0,1,,0,0,0,0,0,False,,,,death

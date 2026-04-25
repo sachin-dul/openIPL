@@ -1,0 +1,206 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,Shubman Gill,CH Morris,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2.wides,Shubman Gill,CH Morris,RA Tripathi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,Shubman Gill,CH Morris,RA Tripathi,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,RA Tripathi,CH Morris,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,RA Tripathi,CH Morris,Shubman Gill,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,Shubman Gill,CH Morris,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,Shubman Gill,CH Morris,RA Tripathi,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,RA Tripathi,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,RA Tripathi,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,RA Tripathi,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,True,caught,RA Tripathi,AB de Villiers,powerplay
+1,Kolkata Knight Riders,2,4,N Rana,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,True,bowled,N Rana,,powerplay
+1,Kolkata Knight Riders,2,5,T Banton,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,T Banton,Mohammed Siraj,Shubman Gill,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,Shubman Gill,Navdeep Saini,T Banton,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,Shubman Gill,Navdeep Saini,T Banton,0,0,0,,0,0,0,0,0,True,caught,Shubman Gill,CH Morris,powerplay
+1,Kolkata Knight Riders,3,3,T Banton,Navdeep Saini,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,T Banton,Navdeep Saini,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,T Banton,Navdeep Saini,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,T Banton,Navdeep Saini,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,KD Karthik,Mohammed Siraj,T Banton,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,T Banton,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,T Banton,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,True,caught,T Banton,AB de Villiers,powerplay
+1,Kolkata Knight Riders,4,4,EJG Morgan,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,EJG Morgan,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,EJG Morgan,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,KD Karthik,CH Morris,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,KD Karthik,CH Morris,EJG Morgan,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,EJG Morgan,CH Morris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,4,EJG Morgan,CH Morris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,EJG Morgan,CH Morris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,EJG Morgan,CH Morris,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,KD Karthik,Mohammed Siraj,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,EJG Morgan,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3,EJG Morgan,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,4,EJG Morgan,Mohammed Siraj,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,EJG Morgan,Mohammed Siraj,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,6,KD Karthik,Mohammed Siraj,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,7,1,EJG Morgan,I Udana,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,KD Karthik,I Udana,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,EJG Morgan,I Udana,KD Karthik,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,EJG Morgan,I Udana,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,EJG Morgan,I Udana,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,EJG Morgan,I Udana,KD Karthik,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,KD Karthik,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,KD Karthik,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,KD Karthik,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,KD Karthik,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,KD Karthik,Navdeep Saini,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,EJG Morgan,Navdeep Saini,KD Karthik,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,KD Karthik,YS Chahal,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,KD Karthik,YS Chahal,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,3,EJG Morgan,YS Chahal,KD Karthik,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,KD Karthik,YS Chahal,EJG Morgan,0,0,0,,0,0,0,0,0,True,lbw,KD Karthik,,middle
+1,Kolkata Knight Riders,9,5,PJ Cummins,YS Chahal,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,PJ Cummins,YS Chahal,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,PJ Cummins,Washington Sundar,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,EJG Morgan,Washington Sundar,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,EJG Morgan,Washington Sundar,PJ Cummins,2,0,2,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,PJ Cummins,YS Chahal,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,PJ Cummins,YS Chahal,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,EJG Morgan,YS Chahal,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,EJG Morgan,YS Chahal,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,PJ Cummins,YS Chahal,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,EJG Morgan,YS Chahal,PJ Cummins,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,3,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,PJ Cummins,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,1,EJG Morgan,YS Chahal,PJ Cummins,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,PJ Cummins,YS Chahal,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,PJ Cummins,YS Chahal,EJG Morgan,0,0,0,,0,0,0,0,0,True,caught,PJ Cummins,D Padikkal,middle
+1,Kolkata Knight Riders,13,4,EJG Morgan,YS Chahal,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,EJG Morgan,YS Chahal,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,EJG Morgan,YS Chahal,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,EJG Morgan,Washington Sundar,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,2,Kuldeep Yadav,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,Kuldeep Yadav,Washington Sundar,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,4,EJG Morgan,Washington Sundar,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,Kuldeep Yadav,Washington Sundar,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,EJG Morgan,Washington Sundar,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,EJG Morgan,Navdeep Saini,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,Kuldeep Yadav,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,Kuldeep Yadav,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,Kuldeep Yadav,Navdeep Saini,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,5,Kuldeep Yadav,Navdeep Saini,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,6,EJG Morgan,Navdeep Saini,Kuldeep Yadav,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,Kuldeep Yadav,Washington Sundar,EJG Morgan,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,Kuldeep Yadav,Washington Sundar,EJG Morgan,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,EJG Morgan,Washington Sundar,Kuldeep Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,EJG Morgan,Washington Sundar,Kuldeep Yadav,0,0,0,,0,0,0,0,0,True,caught,EJG Morgan,Gurkeerat Singh,death
+1,Kolkata Knight Riders,16,5,LH Ferguson,Washington Sundar,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,Kuldeep Yadav,Washington Sundar,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,LH Ferguson,YS Chahal,Kuldeep Yadav,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,LH Ferguson,YS Chahal,Kuldeep Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3,LH Ferguson,YS Chahal,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,LH Ferguson,YS Chahal,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5,Kuldeep Yadav,YS Chahal,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6,Kuldeep Yadav,YS Chahal,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,1,LH Ferguson,CH Morris,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,LH Ferguson,CH Morris,Kuldeep Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,LH Ferguson,CH Morris,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,LH Ferguson,CH Morris,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,Kuldeep Yadav,CH Morris,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,Kuldeep Yadav,CH Morris,LH Ferguson,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,LH Ferguson,Mohammed Siraj,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2,Kuldeep Yadav,Mohammed Siraj,LH Ferguson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,3,LH Ferguson,Mohammed Siraj,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4,Kuldeep Yadav,Mohammed Siraj,LH Ferguson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,LH Ferguson,Mohammed Siraj,Kuldeep Yadav,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,Kuldeep Yadav,Mohammed Siraj,LH Ferguson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,Kuldeep Yadav,CH Morris,LH Ferguson,4,0,4,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,Kuldeep Yadav,CH Morris,LH Ferguson,1,0,1,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,LH Ferguson,CH Morris,Kuldeep Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,4,LH Ferguson,CH Morris,Kuldeep Yadav,2,0,2,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,LH Ferguson,CH Morris,Kuldeep Yadav,0,0,0,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,LH Ferguson,CH Morris,Kuldeep Yadav,1,0,1,,0,0,0,0,0,True,run out,Kuldeep Yadav,,death
+2,Royal Challengers Bangalore,1,1,D Padikkal,PJ Cummins,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,2,D Padikkal,PJ Cummins,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,3,AJ Finch,PJ Cummins,D Padikkal,0,2,2,legbyes,0,0,0,2,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,4,AJ Finch,PJ Cummins,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,5,D Padikkal,PJ Cummins,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,1,6,D Padikkal,PJ Cummins,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,1,AJ Finch,M Prasidh Krishna,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2.wides,AJ Finch,M Prasidh Krishna,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,2,AJ Finch,M Prasidh Krishna,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,3,D Padikkal,M Prasidh Krishna,AJ Finch,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,4,D Padikkal,M Prasidh Krishna,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,5,AJ Finch,M Prasidh Krishna,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,2,6,AJ Finch,M Prasidh Krishna,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1.wides,AJ Finch,PJ Cummins,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,1,AJ Finch,PJ Cummins,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,2,AJ Finch,PJ Cummins,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,3,D Padikkal,PJ Cummins,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,4,D Padikkal,PJ Cummins,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,5,AJ Finch,PJ Cummins,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,3,6,AJ Finch,PJ Cummins,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,1,D Padikkal,M Prasidh Krishna,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,2,AJ Finch,M Prasidh Krishna,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,3,AJ Finch,M Prasidh Krishna,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,4,D Padikkal,M Prasidh Krishna,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,5,D Padikkal,M Prasidh Krishna,AJ Finch,3,0,3,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,4,6,AJ Finch,M Prasidh Krishna,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bangalore,5,1,D Padikkal,PJ Cummins,AJ Finch,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,2,D Padikkal,PJ Cummins,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,3,AJ Finch,PJ Cummins,D Padikkal,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,4,AJ Finch,PJ Cummins,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,5,AJ Finch,PJ Cummins,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,5,6,AJ Finch,PJ Cummins,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,1,D Padikkal,CV Varun,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,2,AJ Finch,CV Varun,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,3,D Padikkal,CV Varun,AJ Finch,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,4,D Padikkal,CV Varun,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,5,AJ Finch,CV Varun,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,6,6,AJ Finch,CV Varun,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,1,D Padikkal,LH Ferguson,AJ Finch,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2.wides,AJ Finch,LH Ferguson,D Padikkal,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,2,AJ Finch,LH Ferguson,D Padikkal,0,0,0,,0,0,0,0,0,True,caught,AJ Finch,KD Karthik,middle
+2,Royal Challengers Bangalore,7,3,Gurkeerat Singh,LH Ferguson,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,4,Gurkeerat Singh,LH Ferguson,D Padikkal,0,0,0,,0,0,0,0,0,True,run out,D Padikkal,,middle
+2,Royal Challengers Bangalore,7,5,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,7,6,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,1,V Kohli,CV Varun,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,2,Gurkeerat Singh,CV Varun,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,3,Gurkeerat Singh,CV Varun,V Kohli,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,4,V Kohli,CV Varun,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,5,V Kohli,CV Varun,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,8,6,V Kohli,CV Varun,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,1,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,2,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,3,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,4,Gurkeerat Singh,LH Ferguson,V Kohli,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bangalore,9,5,Gurkeerat Singh,LH Ferguson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,9,6,V Kohli,LH Ferguson,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,1,V Kohli,CV Varun,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,2,V Kohli,CV Varun,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,3,V Kohli,CV Varun,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,4,Gurkeerat Singh,CV Varun,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,5,Gurkeerat Singh,CV Varun,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,10,6,Gurkeerat Singh,CV Varun,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,1,V Kohli,LH Ferguson,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,2,V Kohli,LH Ferguson,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,3,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,4,Gurkeerat Singh,LH Ferguson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,5,V Kohli,LH Ferguson,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,11,6,Gurkeerat Singh,LH Ferguson,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,1,Gurkeerat Singh,CV Varun,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,2,Gurkeerat Singh,CV Varun,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,3,Gurkeerat Singh,CV Varun,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,4,Gurkeerat Singh,CV Varun,V Kohli,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,5,Gurkeerat Singh,CV Varun,V Kohli,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,12,6,V Kohli,CV Varun,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,1,V Kohli,LH Ferguson,Gurkeerat Singh,4,0,4,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,2,V Kohli,LH Ferguson,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,3,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,4,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,5,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,13,6,Gurkeerat Singh,LH Ferguson,V Kohli,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,1,V Kohli,M Prasidh Krishna,Gurkeerat Singh,2,0,2,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,2,V Kohli,M Prasidh Krishna,Gurkeerat Singh,0,0,0,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bangalore,14,3,V Kohli,M Prasidh Krishna,Gurkeerat Singh,1,0,1,,0,0,0,0,0,False,,,,death

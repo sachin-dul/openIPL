@@ -1,0 +1,236 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Delhi Daredevils,1,1,PP Shaw,B Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,2,PP Shaw,B Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,3,PP Shaw,B Kumar,JJ Roy,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,4,PP Shaw,B Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,5,PP Shaw,B Kumar,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,1,6,JJ Roy,B Kumar,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,1,PP Shaw,Sandeep Sharma,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,2,JJ Roy,Sandeep Sharma,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,3,JJ Roy,Sandeep Sharma,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,4,JJ Roy,Sandeep Sharma,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,5,PP Shaw,Sandeep Sharma,JJ Roy,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,2,6,JJ Roy,Sandeep Sharma,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,1,JJ Roy,B Kumar,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,2,JJ Roy,B Kumar,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,3,JJ Roy,B Kumar,PP Shaw,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,4,JJ Roy,B Kumar,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,3,5,JJ Roy,B Kumar,PP Shaw,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Delhi Daredevils,3,6,PP Shaw,B Kumar,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,1,JJ Roy,Shakib Al Hasan,PP Shaw,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,2,JJ Roy,Shakib Al Hasan,PP Shaw,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,3,PP Shaw,Shakib Al Hasan,JJ Roy,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,4,PP Shaw,Shakib Al Hasan,JJ Roy,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,4,5,PP Shaw,Shakib Al Hasan,JJ Roy,0,0,0,,0,0,0,0,0,True,caught,PP Shaw,S Dhawan,powerplay
+1,Delhi Daredevils,4,6,JJ Roy,Shakib Al Hasan,SS Iyer,0,0,0,,0,0,0,0,0,True,caught,JJ Roy,SP Goswami,powerplay
+1,Delhi Daredevils,5,1,SS Iyer,Sandeep Sharma,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,2,SS Iyer,Sandeep Sharma,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,3,SS Iyer,Sandeep Sharma,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,4,SS Iyer,Sandeep Sharma,RR Pant,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,5,RR Pant,Sandeep Sharma,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,5,6,SS Iyer,Sandeep Sharma,RR Pant,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,1,RR Pant,S Kaul,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,2,RR Pant,S Kaul,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,3,RR Pant,S Kaul,SS Iyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,4,RR Pant,S Kaul,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,5,RR Pant,S Kaul,SS Iyer,2,0,2,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,6,6,RR Pant,S Kaul,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Daredevils,7,1,RR Pant,Shakib Al Hasan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,2,SS Iyer,Shakib Al Hasan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,3,RR Pant,Shakib Al Hasan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,4,SS Iyer,Shakib Al Hasan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,5,SS Iyer,Shakib Al Hasan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,7,6,RR Pant,Shakib Al Hasan,SS Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,1,RR Pant,Sandeep Sharma,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,2,RR Pant,Sandeep Sharma,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,3,RR Pant,Sandeep Sharma,SS Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,4,RR Pant,Sandeep Sharma,SS Iyer,0,0,0,,0,0,0,0,0,True,run out,SS Iyer,,middle
+1,Delhi Daredevils,8,5,RR Pant,Sandeep Sharma,HV Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,8,6,RR Pant,Sandeep Sharma,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,1,RR Pant,Shakib Al Hasan,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,2,HV Patel,Shakib Al Hasan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,3,RR Pant,Shakib Al Hasan,HV Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,4,RR Pant,Shakib Al Hasan,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,5,HV Patel,Shakib Al Hasan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,9,6,RR Pant,Shakib Al Hasan,HV Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,1,HV Patel,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,2,RR Pant,Rashid Khan,HV Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,3,RR Pant,Rashid Khan,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,4,HV Patel,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,5,RR Pant,Rashid Khan,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,10,6,HV Patel,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,1,RR Pant,S Kaul,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,2,HV Patel,S Kaul,RR Pant,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,3,HV Patel,S Kaul,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,4,RR Pant,S Kaul,HV Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,5,RR Pant,S Kaul,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,11,6,HV Patel,S Kaul,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,1,HV Patel,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,2,RR Pant,Rashid Khan,HV Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,3,RR Pant,Rashid Khan,HV Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,4,RR Pant,Rashid Khan,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,5,HV Patel,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,12,6,RR Pant,Rashid Khan,HV Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,1,HV Patel,Sandeep Sharma,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,2,HV Patel,Sandeep Sharma,RR Pant,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,3,HV Patel,Sandeep Sharma,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,4,RR Pant,Sandeep Sharma,HV Patel,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,5,RR Pant,Sandeep Sharma,HV Patel,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,13,6,HV Patel,Sandeep Sharma,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,1,HV Patel,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,2,RR Pant,Rashid Khan,HV Patel,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
+1,Delhi Daredevils,14,3,HV Patel,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,4,HV Patel,Rashid Khan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,5,RR Pant,Rashid Khan,HV Patel,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,14,6,RR Pant,Rashid Khan,HV Patel,1,0,1,,0,0,0,0,0,True,run out,HV Patel,,middle
+1,Delhi Daredevils,15,1,RR Pant,Shakib Al Hasan,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,2,RR Pant,Shakib Al Hasan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,3,GJ Maxwell,Shakib Al Hasan,RR Pant,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,4,RR Pant,Shakib Al Hasan,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,5,RR Pant,Shakib Al Hasan,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,15,6,RR Pant,Shakib Al Hasan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,middle
+1,Delhi Daredevils,16,1,RR Pant,S Kaul,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,2,RR Pant,S Kaul,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,3,GJ Maxwell,S Kaul,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,4,RR Pant,S Kaul,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,5,RR Pant,S Kaul,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,16,6,RR Pant,S Kaul,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,1,RR Pant,Rashid Khan,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,2,RR Pant,Rashid Khan,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,3,RR Pant,Rashid Khan,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,4,GJ Maxwell,Rashid Khan,RR Pant,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,5,GJ Maxwell,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,17,6,GJ Maxwell,Rashid Khan,RR Pant,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,1,RR Pant,B Kumar,GJ Maxwell,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2.wides,RR Pant,B Kumar,GJ Maxwell,0,1,1,wides,1,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,2,RR Pant,B Kumar,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,3,RR Pant,B Kumar,GJ Maxwell,2,0,2,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,4,RR Pant,B Kumar,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,5,RR Pant,B Kumar,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,18,6,RR Pant,B Kumar,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,1,RR Pant,S Kaul,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,2,RR Pant,S Kaul,GJ Maxwell,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,3,RR Pant,S Kaul,GJ Maxwell,0,0,0,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,4,RR Pant,S Kaul,GJ Maxwell,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,5,GJ Maxwell,S Kaul,RR Pant,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,19,6,GJ Maxwell,S Kaul,RR Pant,1,0,1,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,1,GJ Maxwell,B Kumar,RR Pant,0,0,0,,0,0,0,0,0,True,caught,GJ Maxwell,AD Hales,death
+1,Delhi Daredevils,20,2,RR Pant,B Kumar,V Shankar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,3,RR Pant,B Kumar,V Shankar,4,0,4,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,4,RR Pant,B Kumar,V Shankar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,5,RR Pant,B Kumar,V Shankar,6,0,6,,0,0,0,0,0,False,,,,death
+1,Delhi Daredevils,20,6,RR Pant,B Kumar,V Shankar,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1,AD Hales,TA Boult,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,AD Hales,TA Boult,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,AD Hales,TA Boult,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,AD Hales,TA Boult,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,AD Hales,TA Boult,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,AD Hales,TA Boult,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,S Dhawan,HV Patel,AD Hales,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,AD Hales,HV Patel,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,AD Hales,HV Patel,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,AD Hales,HV Patel,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,AD Hales,HV Patel,S Dhawan,0,0,0,,0,0,0,0,0,True,lbw,AD Hales,,powerplay
+2,Sunrisers Hyderabad,2,6,KS Williamson,HV Patel,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,KS Williamson,S Nadeem,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,KS Williamson,S Nadeem,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,S Dhawan,S Nadeem,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,KS Williamson,S Nadeem,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,KS Williamson,S Nadeem,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,S Dhawan,S Nadeem,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,S Dhawan,HV Patel,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,KS Williamson,HV Patel,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,S Dhawan,HV Patel,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,S Dhawan,HV Patel,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,KS Williamson,HV Patel,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,KS Williamson,HV Patel,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,S Dhawan,LE Plunkett,KS Williamson,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,KS Williamson,LE Plunkett,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,KS Williamson,LE Plunkett,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,S Dhawan,LE Plunkett,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,KS Williamson,LE Plunkett,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,S Dhawan,TA Boult,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,S Dhawan,TA Boult,KS Williamson,6,0,6,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,S Dhawan,TA Boult,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,KS Williamson,TA Boult,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,S Dhawan,TA Boult,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,6,6,KS Williamson,TA Boult,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,1,S Dhawan,A Mishra,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,KS Williamson,A Mishra,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,KS Williamson,A Mishra,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,KS Williamson,A Mishra,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,S Dhawan,A Mishra,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,S Dhawan,A Mishra,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,S Dhawan,V Shankar,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,S Dhawan,V Shankar,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,S Dhawan,V Shankar,KS Williamson,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4.wides,S Dhawan,V Shankar,KS Williamson,0,1,1,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,S Dhawan,V Shankar,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,KS Williamson,V Shankar,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,S Dhawan,V Shankar,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,S Dhawan,A Mishra,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,KS Williamson,A Mishra,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,KS Williamson,A Mishra,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,S Dhawan,A Mishra,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,KS Williamson,A Mishra,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,S Dhawan,A Mishra,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,KS Williamson,LE Plunkett,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,KS Williamson,LE Plunkett,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,KS Williamson,LE Plunkett,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,S Dhawan,LE Plunkett,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,KS Williamson,A Mishra,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,S Dhawan,A Mishra,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,KS Williamson,A Mishra,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,KS Williamson,A Mishra,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,S Dhawan,A Mishra,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,S Dhawan,A Mishra,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,S Dhawan,HV Patel,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,S Dhawan,HV Patel,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,S Dhawan,HV Patel,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,S Dhawan,HV Patel,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,KS Williamson,HV Patel,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,KS Williamson,HV Patel,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,S Dhawan,S Nadeem,KS Williamson,6,0,6,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,S Dhawan,S Nadeem,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,3,KS Williamson,S Nadeem,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,4,KS Williamson,S Nadeem,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,5,KS Williamson,S Nadeem,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,13,6,S Dhawan,S Nadeem,KS Williamson,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,1,KS Williamson,GJ Maxwell,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,2,S Dhawan,GJ Maxwell,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,3,S Dhawan,GJ Maxwell,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,4,S Dhawan,GJ Maxwell,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,5,KS Williamson,GJ Maxwell,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,14,6,KS Williamson,GJ Maxwell,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,1,KS Williamson,TA Boult,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,2,KS Williamson,TA Boult,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,3,KS Williamson,TA Boult,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,4,KS Williamson,TA Boult,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,5,S Dhawan,TA Boult,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,15,6,KS Williamson,TA Boult,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,1,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,S Dhawan,LE Plunkett,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,KS Williamson,LE Plunkett,S Dhawan,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,KS Williamson,LE Plunkett,S Dhawan,6,0,6,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,S Dhawan,LE Plunkett,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,S Dhawan,HV Patel,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,S Dhawan,HV Patel,KS Williamson,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,S Dhawan,HV Patel,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,S Dhawan,HV Patel,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,KS Williamson,HV Patel,S Dhawan,0,0,0,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,KS Williamson,HV Patel,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,S Dhawan,LE Plunkett,KS Williamson,2,0,2,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,S Dhawan,LE Plunkett,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,KS Williamson,LE Plunkett,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,S Dhawan,LE Plunkett,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,KS Williamson,LE Plunkett,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,S Dhawan,TA Boult,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,KS Williamson,TA Boult,S Dhawan,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,S Dhawan,TA Boult,KS Williamson,4,0,4,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,4,S Dhawan,TA Boult,KS Williamson,1,0,1,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,KS Williamson,TA Boult,S Dhawan,4,0,4,,0,0,0,0,0,False,,,,death
