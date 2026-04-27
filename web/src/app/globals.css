@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+/* Bar load-in animations: chart bars grow from their anchor on first render. */
+@keyframes openipl-bar-x {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+@keyframes openipl-bar-y {
+  from { transform: scaleY(0); }
+  to { transform: scaleY(1); }
+}
+.animate-bar-x {
+  transform-origin: left center;
+  animation: openipl-bar-x 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-bar-y {
+  transform-origin: center bottom;
+  animation: openipl-bar-y 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+/* Card / row / badge entry animations. */
+@keyframes openipl-fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes openipl-pop-in {
+  from { opacity: 0; transform: scale(0.7); }
+  to { opacity: 1; transform: scale(1); }
+}
+@keyframes openipl-slide-in-right {
+  from { opacity: 0; transform: translateX(16px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.animate-fade-in {
+  animation: openipl-fade-in 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-pop-in {
+  animation: openipl-pop-in 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.animate-slide-in-right {
+  animation: openipl-slide-in-right 0.55s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-bar-x,
+  .animate-bar-y,
+  .animate-fade-in,
+  .animate-pop-in,
+  .animate-slide-in-right {
+    animation: none;
+  }
+}
