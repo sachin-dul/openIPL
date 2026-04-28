@@ -165,8 +165,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Punjab Kings,6,2,C Connolly,Rashid Khan,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,6,3,C Connolly,Rashid Khan,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,6,4,P Simran Singh,Rashid Khan,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
-2,Punjab Kings,6,5,P Simran Singh,Rashid Khan,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Punjab Kings,6,6,P Simran Singh,Rashid Khan,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,6,5,P Simran Singh,Rashid Khan,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,6,P Simran Singh,Rashid Khan,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,7,1,C Connolly,Washington Sundar,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,7,2,P Simran Singh,Washington Sundar,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,7,3,P Simran Singh,Washington Sundar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
@@ -205,23 +205,23 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Punjab Kings,12,6,C Connolly,Rashid Khan,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,13,1,SS Iyer,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,SS Iyer,Washington Sundar,middle
 2,Punjab Kings,13,2,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Punjab Kings,13,3,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,4,N Wadhera,M Prasidh Krishna,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,5,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,6,N Wadhera,M Prasidh Krishna,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,1,N Wadhera,Washington Sundar,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,N Wadhera,Shubman Gill,death
-2,Punjab Kings,14,2,Shashank Singh,Washington Sundar,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,3,Shashank Singh,Washington Sundar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,4,C Connolly,Washington Sundar,Shashank Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,5,C Connolly,Washington Sundar,Shashank Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,6,Shashank Singh,Washington Sundar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,1,Shashank Singh,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,2,Shashank Singh,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,Shashank Singh,JC Buttler,death
-2,Punjab Kings,15,3,MP Stoinis,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,4,MP Stoinis,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,MP Stoinis,Rashid Khan,death
-2,Punjab Kings,15,5,M Jansen,M Prasidh Krishna,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,6.wides,C Connolly,M Prasidh Krishna,M Jansen,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Punjab Kings,15,6,C Connolly,M Prasidh Krishna,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,13,3,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,4,N Wadhera,M Prasidh Krishna,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,5,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,6,N Wadhera,M Prasidh Krishna,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1,N Wadhera,Washington Sundar,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,N Wadhera,Shubman Gill,middle
+2,Punjab Kings,14,2,Shashank Singh,Washington Sundar,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,3,Shashank Singh,Washington Sundar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,4,C Connolly,Washington Sundar,Shashank Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,5,C Connolly,Washington Sundar,Shashank Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,6,Shashank Singh,Washington Sundar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,1,Shashank Singh,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,2,Shashank Singh,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,Shashank Singh,JC Buttler,middle
+2,Punjab Kings,15,3,MP Stoinis,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,4,MP Stoinis,M Prasidh Krishna,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,MP Stoinis,Rashid Khan,middle
+2,Punjab Kings,15,5,M Jansen,M Prasidh Krishna,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,6.wides,C Connolly,M Prasidh Krishna,M Jansen,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,6,C Connolly,M Prasidh Krishna,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,16,1,C Connolly,K Rabada,M Jansen,4,0,4,True,False,,0,0,0,0,0,False,,,,death
 2,Punjab Kings,16,2,C Connolly,K Rabada,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Punjab Kings,16,3,M Jansen,K Rabada,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,death

@@ -165,8 +165,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Rajasthan Royals,6,2,D Ferreira,E Malinga,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Rajasthan Royals,6,3,RA Jadeja,E Malinga,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Rajasthan Royals,6,4,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,6,5,D Ferreira,E Malinga,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,6,6,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,5,D Ferreira,E Malinga,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Rajasthan Royals,7,1,RA Jadeja,Shivang Kumar,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Rajasthan Royals,7,2,RA Jadeja,Shivang Kumar,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Rajasthan Royals,7,3,D Ferreira,Shivang Kumar,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
@@ -208,23 +208,23 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Rajasthan Royals,12,6,D Ferreira,Harsh Dubey,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Rajasthan Royals,13,1,RA Jadeja,Nithish Kumar Reddy,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
 2,Rajasthan Royals,13,2,RA Jadeja,Nithish Kumar Reddy,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,13,3,RA Jadeja,Nithish Kumar Reddy,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,4,D Ferreira,Nithish Kumar Reddy,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,5,D Ferreira,Nithish Kumar Reddy,RA Jadeja,4,0,4,False,True,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,6,D Ferreira,Nithish Kumar Reddy,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,1,D Ferreira,E Malinga,RA Jadeja,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
-2,Rajasthan Royals,14,2,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,3,D Ferreira,E Malinga,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,4,RA Jadeja,E Malinga,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,5.wides,RA Jadeja,E Malinga,D Ferreira,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,5,RA Jadeja,E Malinga,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,6,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,1,RA Jadeja,Sakib Hussain,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,2,D Ferreira,Sakib Hussain,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,3,D Ferreira,Sakib Hussain,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,4,D Ferreira,Sakib Hussain,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,5,D Ferreira,Sakib Hussain,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,6,D Ferreira,Sakib Hussain,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,True,bowled,D Ferreira,,death
+2,Rajasthan Royals,13,3,RA Jadeja,Nithish Kumar Reddy,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,D Ferreira,Nithish Kumar Reddy,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,5,D Ferreira,Nithish Kumar Reddy,RA Jadeja,4,0,4,False,True,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,6,D Ferreira,Nithish Kumar Reddy,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,1,D Ferreira,E Malinga,RA Jadeja,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+2,Rajasthan Royals,14,2,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,3,D Ferreira,E Malinga,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,4,RA Jadeja,E Malinga,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,5.wides,RA Jadeja,E Malinga,D Ferreira,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,5,RA Jadeja,E Malinga,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,6,RA Jadeja,E Malinga,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,1,RA Jadeja,Sakib Hussain,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,2,D Ferreira,Sakib Hussain,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,3,D Ferreira,Sakib Hussain,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,4,D Ferreira,Sakib Hussain,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,5,D Ferreira,Sakib Hussain,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,6,D Ferreira,Sakib Hussain,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,True,bowled,D Ferreira,,middle
 2,Rajasthan Royals,16,1,RA Jadeja,E Malinga,JC Archer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,16,2,JC Archer,E Malinga,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Rajasthan Royals,16,3,RA Jadeja,E Malinga,JC Archer,0,0,0,False,False,,0,0,0,0,0,True,caught,RA Jadeja,S Arora,death

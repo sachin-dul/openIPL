@@ -122,22 +122,58 @@ def parse_match(json_path, match_number_override=None):
 
     innings_teams = {}  # inn_num -> (batting_team, bowling_team)
 
-    # Pre-compute actual overs per innings for phase boundary calculation
-    innings_actual_overs = {}  # inn_num (1-based) -> float overs
+    # Phase boundaries (PP / Middle / Death) come from the *allotted* overs per
+    # innings, not from how many overs were actually batted. A team that chases
+    # in 6.3 overs still has standard 6/9/5 phases. Only rain-shortened innings
+    # use a revised allotment.
+    #
+    # Cricsheet only sets `innings.target.overs` on the chasing innings. For
+    # rain-from-start matches (innings 1 also curtailed), we infer the same
+    # allotment for innings 1 if it didn't play a full 20 overs and wasn't all
+    # out. For mid-chase DLS (innings 1 was full 20 then rain reduced inn 2),
+    # innings 1 stays at 20.
+    def _legal_balls(inn):
+        n = 0
+        for over_obj in inn["overs"]:
+            for delivery in over_obj["deliveries"]:
+                ex = delivery.get("extras", {})
+                if "wides" not in ex and "noballs" not in ex:
+                    n += 1
+        return n
+
+    def _wickets(inn):
+        n = 0
+        for over_obj in inn["overs"]:
+            for delivery in over_obj["deliveries"]:
+                if "wickets" in delivery:
+                    n += len(delivery["wickets"])
+        return n
+
+    dls_target_overs = None
+    for innings in innings_data:
+        if innings.get("super_over"):
+            continue
+        t = innings.get("target", {}) or {}
+        if t.get("overs") and t["overs"] < 20:
+            dls_target_overs = float(t["overs"])
+            break
+
+    innings_allotted_overs = {}  # inn_num (1-based) -> float overs
     _pre_inn = 0
     for innings in innings_data:
         if innings.get("super_over"):
             continue
         _pre_inn += 1
-        _total_balls = 0
-        for over_obj in innings["overs"]:
-            for delivery in over_obj["deliveries"]:
-                extras = delivery.get("extras", {})
-                if "wides" not in extras and "noballs" not in extras:
-                    _total_balls += 1
-        _ov = _total_balls // 6
-        _b = _total_balls % 6
-        innings_actual_overs[_pre_inn] = float(f"{_ov}.{_b}")
+        target = innings.get("target", {}) or {}
+        own_target = target.get("overs")
+        if own_target and own_target < 20:
+            allotted = float(own_target)
+        elif dls_target_overs and _legal_balls(innings) < 120 and _wickets(innings) < 10:
+            # Rain-curtailed innings (incomplete + not all out): use the match's revised target
+            allotted = dls_target_overs
+        else:
+            allotted = 20.0
+        innings_allotted_overs[_pre_inn] = allotted
 
     inn_num = 0  # track actual innings number (excludes super overs)
     for inn_idx, innings in enumerate(innings_data):
@@ -195,7 +231,7 @@ def parse_match(json_path, match_number_override=None):
         pair_stats = {}  # batter -> {runs, balls}
         wicket_number = 0
 
-        innings_total_overs = innings_actual_overs.get(inn_num, 20)
+        innings_total_overs = innings_allotted_overs.get(inn_num, 20)
         innings_legal_balls = 0
 
         for over_obj in innings["overs"]:

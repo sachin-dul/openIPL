@@ -166,8 +166,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Punjab Kings,6,2,Priyansh Arya,HV Patel,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,6,3,Priyansh Arya,HV Patel,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,6,4,Priyansh Arya,HV Patel,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
-2,Punjab Kings,6,5,Priyansh Arya,HV Patel,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Punjab Kings,6,6,Priyansh Arya,HV Patel,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,6,5,Priyansh Arya,HV Patel,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,6,Priyansh Arya,HV Patel,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,7,1,Priyansh Arya,Shivang Kumar,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,7,2,Priyansh Arya,Shivang Kumar,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,True,caught,Priyansh Arya,Nithish Kumar Reddy,middle
 2,Punjab Kings,7,3,C Connolly,Shivang Kumar,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
@@ -208,23 +208,23 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Punjab Kings,12,5,SS Iyer,Nithish Kumar Reddy,N Wadhera,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,12,6,SS Iyer,Nithish Kumar Reddy,N Wadhera,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,13,1,N Wadhera,Shivang Kumar,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Punjab Kings,13,2,N Wadhera,Shivang Kumar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,3,SS Iyer,Shivang Kumar,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,4,SS Iyer,Shivang Kumar,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,5,N Wadhera,Shivang Kumar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,6,SS Iyer,Shivang Kumar,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,1,SS Iyer,Harsh Dubey,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,2,SS Iyer,Harsh Dubey,N Wadhera,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,3,SS Iyer,Harsh Dubey,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,4,N Wadhera,Harsh Dubey,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,5,N Wadhera,Harsh Dubey,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,6,SS Iyer,Harsh Dubey,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,1,SS Iyer,HV Patel,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,2,N Wadhera,HV Patel,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,3,SS Iyer,HV Patel,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,4,SS Iyer,HV Patel,N Wadhera,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,5,SS Iyer,HV Patel,N Wadhera,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,6,SS Iyer,HV Patel,N Wadhera,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,13,2,N Wadhera,Shivang Kumar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,3,SS Iyer,Shivang Kumar,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,4,SS Iyer,Shivang Kumar,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,5,N Wadhera,Shivang Kumar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,6,SS Iyer,Shivang Kumar,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1,SS Iyer,Harsh Dubey,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,2,SS Iyer,Harsh Dubey,N Wadhera,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,3,SS Iyer,Harsh Dubey,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,4,N Wadhera,Harsh Dubey,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,5,N Wadhera,Harsh Dubey,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,6,SS Iyer,Harsh Dubey,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,1,SS Iyer,HV Patel,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,2,N Wadhera,HV Patel,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,3,SS Iyer,HV Patel,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,4,SS Iyer,HV Patel,N Wadhera,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,5,SS Iyer,HV Patel,N Wadhera,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,6,SS Iyer,HV Patel,N Wadhera,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,16,1,N Wadhera,E Malinga,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
 2,Punjab Kings,16,2,N Wadhera,E Malinga,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Punjab Kings,16,3.wides,SS Iyer,E Malinga,N Wadhera,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death

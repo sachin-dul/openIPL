@@ -816,10 +816,32 @@ def server(input, output, session):
 
     @reactive.calc
     def closest_match_data():
-        """Find the closest match by margin."""
+        """Find the closest match by margin.
+
+        Super-over matches always rank as the closest contest in regulation
+        (margin = 0 runs / 0 wickets). When multiple super overs exist,
+        break ties by the smallest super-over margin itself; if still tied,
+        pick the most recent match.
+        """
         m = load_matches()
         if m.empty:
             return None
+        super_overs = m[(m["result"].astype(str) == "tie") & m["winner"].astype(str).str.strip().ne("")]
+        if not super_overs.empty:
+            so = load_super_over()
+            so_margin = {}  # match_number -> winning_runs - losing_runs in super over
+            for mn, grp in (so.groupby("match_number") if not so.empty else []):
+                totals = grp.groupby("team")["total_runs"].sum()
+                if len(totals) >= 2:
+                    so_margin[int(mn)] = int(totals.max() - totals.min())
+            best = sorted(
+                ((int(r["match_number"]),
+                  so_margin.get(int(r["match_number"]), 10**6),
+                  r) for _, r in super_overs.iterrows()),
+                key=lambda t: (t[1], -t[0]),  # tightest super over, then most recent
+            )
+            row = best[0][2]
+            return (0, "Super Over", row)
         bat_wins = m[m["win_by_runs"].astype(int) > 0]
         chase_wins = m[m["win_by_wickets"].astype(int) > 0]
         closest = None
@@ -2364,8 +2386,11 @@ def server(input, output, session):
         mp = phase[(phase["match_number"] == selected_match_num()) & (phase["innings"] == innings)].copy()
         if mp.empty:
             return empty_state()
+        phase_order = ["powerplay", "middle", "death"]
+        mp["phase"] = pd.Categorical(mp["phase"], categories=phase_order, ordered=True)
+        mp = mp.sort_values("phase")
         phase_labels = {"powerplay": "Powerplay", "middle": "Middle", "death": "Death"}
-        mp["phase"] = mp["phase"].map(phase_labels).fillna(mp["phase"])
+        mp["phase"] = mp["phase"].astype(str).map(phase_labels).fillna(mp["phase"].astype(str))
         mp = mp[["phase", "runs", "wickets", "balls", "run_rate", "boundaries", "dots"]]
         mp.columns = ["Phase", "Runs", "Wkts", "Balls", "RR", "Boundaries", "Dots"]
         return styled_table(mp, highlight_cols=["RR"], bold_cols=["Phase"])

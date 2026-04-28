@@ -35,8 +35,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,6,2,MR Marsh,AR Patel,AK Markram,0,4,4,False,False,byes,0,0,4,0,0,False,,,,powerplay
 1,Lucknow Super Giants,6,3,MR Marsh,AR Patel,AK Markram,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,6,4,AK Markram,AR Patel,MR Marsh,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
-1,Lucknow Super Giants,6,5,AK Markram,AR Patel,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,bowled,AK Markram,,middle
-1,Lucknow Super Giants,6,6,A Badoni,AR Patel,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,6,5,AK Markram,AR Patel,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,bowled,AK Markram,,powerplay
+1,Lucknow Super Giants,6,6,A Badoni,AR Patel,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 1,Lucknow Super Giants,7,1,MR Marsh,T Natarajan,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,7,2,A Badoni,T Natarajan,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,7,3,A Badoni,T Natarajan,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,caught,A Badoni,KL Rahul,middle
@@ -74,23 +74,23 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Lucknow Super Giants,12,5,Abdul Samad,V Nigam,MD Choudhary,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,12,6,Abdul Samad,V Nigam,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,13,1,MD Choudhary,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-1,Lucknow Super Giants,13,2,Abdul Samad,T Natarajan,MD Choudhary,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,13,3,Abdul Samad,T Natarajan,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,13,4,Abdul Samad,T Natarajan,MD Choudhary,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,13,5,Abdul Samad,T Natarajan,MD Choudhary,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,13,6,MD Choudhary,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,14,1,MD Choudhary,Kuldeep Yadav,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,True,caught and bowled,MD Choudhary,,death
-1,Lucknow Super Giants,14,2,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,14,3,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,14,4,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,14,5,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,14,6,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,15,1,Shahbaz Ahmed,T Natarajan,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,15,2,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,15,3,Abdul Samad,T Natarajan,Shahbaz Ahmed,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,15,4,Abdul Samad,T Natarajan,Shahbaz Ahmed,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,15,5,Abdul Samad,T Natarajan,Shahbaz Ahmed,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Lucknow Super Giants,15,6,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,13,2,Abdul Samad,T Natarajan,MD Choudhary,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,3,Abdul Samad,T Natarajan,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,4,Abdul Samad,T Natarajan,MD Choudhary,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,5,Abdul Samad,T Natarajan,MD Choudhary,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,6,MD Choudhary,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,1,MD Choudhary,Kuldeep Yadav,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,True,caught and bowled,MD Choudhary,,middle
+1,Lucknow Super Giants,14,2,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,3,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,4,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,5,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,6,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,1,Shahbaz Ahmed,T Natarajan,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,2,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,3,Abdul Samad,T Natarajan,Shahbaz Ahmed,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,4,Abdul Samad,T Natarajan,Shahbaz Ahmed,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,5,Abdul Samad,T Natarajan,Shahbaz Ahmed,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,6,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 1,Lucknow Super Giants,16,1,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,16,2,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 1,Lucknow Super Giants,16,3,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
@@ -151,11 +151,11 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,5,5,T Stubbs,Prince Yadav,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,5,6,T Stubbs,Prince Yadav,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,6,1,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
-2,Delhi Capitals,6,2,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,6,3,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,6,4,Sameer Rizvi,Mohsin Khan,T Stubbs,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
-2,Delhi Capitals,6,5,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,6,6,T Stubbs,Mohsin Khan,Sameer Rizvi,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,6,2,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,3,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,4,Sameer Rizvi,Mohsin Khan,T Stubbs,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Delhi Capitals,6,5,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Delhi Capitals,6,6,T Stubbs,Mohsin Khan,Sameer Rizvi,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Delhi Capitals,7,1,Sameer Rizvi,Mohammed Shami,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,2,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,7,3,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
@@ -190,30 +190,30 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Delhi Capitals,11,5,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,11,6,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,12,1,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Delhi Capitals,12,2,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,12,3,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,12,4.wides,T Stubbs,Mohsin Khan,Sameer Rizvi,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Delhi Capitals,12,4,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,12,5,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,12,6,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,13,1,Sameer Rizvi,Prince Yadav,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,13,2,Sameer Rizvi,Prince Yadav,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,13,3,T Stubbs,Prince Yadav,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,13,4,Sameer Rizvi,Prince Yadav,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,13,5,Sameer Rizvi,Prince Yadav,T Stubbs,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,13,6,Sameer Rizvi,Prince Yadav,T Stubbs,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,14,1,T Stubbs,AK Markram,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,14,2,Sameer Rizvi,AK Markram,T Stubbs,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,14,3,Sameer Rizvi,AK Markram,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,14,4,Sameer Rizvi,AK Markram,T Stubbs,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,14,5,Sameer Rizvi,AK Markram,T Stubbs,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,14,6,Sameer Rizvi,AK Markram,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,15,1,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,15,2,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,15,3,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,15,4,T Stubbs,A Nortje,Sameer Rizvi,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,15,5,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Delhi Capitals,15,6,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Delhi Capitals,12,2,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,3,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,4.wides,T Stubbs,Mohsin Khan,Sameer Rizvi,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,4,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,5,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,12,6,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,1,Sameer Rizvi,Prince Yadav,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,2,Sameer Rizvi,Prince Yadav,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,3,T Stubbs,Prince Yadav,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,4,Sameer Rizvi,Prince Yadav,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,5,Sameer Rizvi,Prince Yadav,T Stubbs,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,13,6,Sameer Rizvi,Prince Yadav,T Stubbs,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,1,T Stubbs,AK Markram,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,2,Sameer Rizvi,AK Markram,T Stubbs,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,3,Sameer Rizvi,AK Markram,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,4,Sameer Rizvi,AK Markram,T Stubbs,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,5,Sameer Rizvi,AK Markram,T Stubbs,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,14,6,Sameer Rizvi,AK Markram,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,1,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,2,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,3,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,4,T Stubbs,A Nortje,Sameer Rizvi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,5,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Delhi Capitals,15,6,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Delhi Capitals,16,1,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,16,2,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Delhi Capitals,16,3,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,False,False,,0,0,0,0,0,False,,,,death

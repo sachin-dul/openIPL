@@ -166,8 +166,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Punjab Kings,6,2,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,6,3,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,6,4,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
-2,Punjab Kings,6,5,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
-2,Punjab Kings,6,6,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,6,5,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,6,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Punjab Kings,7,1,Priyansh Arya,AR Patel,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,7,2,Priyansh Arya,AR Patel,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,7,3,P Simran Singh,AR Patel,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
@@ -207,26 +207,26 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Punjab Kings,12,5,SS Iyer,Kuldeep Yadav,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,12,6,N Wadhera,Kuldeep Yadav,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,13,1,SS Iyer,AR Patel,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Punjab Kings,13,2,N Wadhera,AR Patel,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,3,SS Iyer,AR Patel,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,4,N Wadhera,AR Patel,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,5,SS Iyer,AR Patel,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,13,6,SS Iyer,AR Patel,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,1.wides,N Wadhera,T Natarajan,SS Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Punjab Kings,14,1.wides,N Wadhera,T Natarajan,SS Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Punjab Kings,14,1,N Wadhera,T Natarajan,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,2.wides,N Wadhera,T Natarajan,SS Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Punjab Kings,14,2,N Wadhera,T Natarajan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,3,SS Iyer,T Natarajan,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,4,N Wadhera,T Natarajan,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,5,N Wadhera,T Natarajan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,14,6,SS Iyer,T Natarajan,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,1,N Wadhera,V Nigam,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,2,N Wadhera,V Nigam,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,3,N Wadhera,V Nigam,SS Iyer,0,0,0,False,False,,0,0,0,0,0,True,caught,N Wadhera,KK Nair,death
-2,Punjab Kings,15,4,Shashank Singh,V Nigam,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,5,Shashank Singh,V Nigam,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Punjab Kings,15,6,SS Iyer,V Nigam,Shashank Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,13,2,N Wadhera,AR Patel,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,3,SS Iyer,AR Patel,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,4,N Wadhera,AR Patel,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,5,SS Iyer,AR Patel,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,6,SS Iyer,AR Patel,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1.wides,N Wadhera,T Natarajan,SS Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1.wides,N Wadhera,T Natarajan,SS Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1,N Wadhera,T Natarajan,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,2.wides,N Wadhera,T Natarajan,SS Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,2,N Wadhera,T Natarajan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,3,SS Iyer,T Natarajan,N Wadhera,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,4,N Wadhera,T Natarajan,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,5,N Wadhera,T Natarajan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,6,SS Iyer,T Natarajan,N Wadhera,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,1,N Wadhera,V Nigam,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,2,N Wadhera,V Nigam,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,3,N Wadhera,V Nigam,SS Iyer,0,0,0,False,False,,0,0,0,0,0,True,caught,N Wadhera,KK Nair,middle
+2,Punjab Kings,15,4,Shashank Singh,V Nigam,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,5,Shashank Singh,V Nigam,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,6,SS Iyer,V Nigam,Shashank Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Punjab Kings,16,1,SS Iyer,Kuldeep Yadav,Shashank Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,death
 2,Punjab Kings,16,2,SS Iyer,Kuldeep Yadav,Shashank Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,death
 2,Punjab Kings,16,3,SS Iyer,Kuldeep Yadav,Shashank Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,death

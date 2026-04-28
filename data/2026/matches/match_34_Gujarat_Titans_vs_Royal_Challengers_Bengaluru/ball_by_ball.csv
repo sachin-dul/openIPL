@@ -156,8 +156,8 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,6,2,D Padikkal,JO Holder,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,6,3,V Kohli,JO Holder,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,6,4,V Kohli,JO Holder,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
-2,Royal Challengers Bengaluru,6,5,V Kohli,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,6,6,D Padikkal,JO Holder,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,6,5,V Kohli,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,6,D Padikkal,JO Holder,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,7,1,D Padikkal,M Prasidh Krishna,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,7,2,V Kohli,M Prasidh Krishna,D Padikkal,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,7,3,V Kohli,M Prasidh Krishna,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
@@ -196,24 +196,24 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,12,5,V Kohli,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,12,6,D Padikkal,JO Holder,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 2,Royal Challengers Bengaluru,13,1,V Kohli,Rashid Khan,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,13,2,V Kohli,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,13,3,D Padikkal,Rashid Khan,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,13,4,V Kohli,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,13,5,D Padikkal,Rashid Khan,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,bowled,D Padikkal,,death
-2,Royal Challengers Bengaluru,13,6,RM Patidar,Rashid Khan,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,1.wides,V Kohli,JO Holder,RM Patidar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,1,V Kohli,JO Holder,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,2,V Kohli,JO Holder,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,3,V Kohli,JO Holder,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,4,V Kohli,JO Holder,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,bowled,V Kohli,,death
-2,Royal Challengers Bengaluru,14,5,JM Sharma,JO Holder,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,14,6,JM Sharma,JO Holder,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,1,RM Patidar,Rashid Khan,JM Sharma,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,2,RM Patidar,Rashid Khan,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,3,JM Sharma,Rashid Khan,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,4,JM Sharma,Rashid Khan,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,5,JM Sharma,Rashid Khan,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,15,6,JM Sharma,Rashid Khan,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,caught,JM Sharma,MJ Suthar,death
+2,Royal Challengers Bengaluru,13,2,V Kohli,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,3,D Padikkal,Rashid Khan,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,4,V Kohli,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,5,D Padikkal,Rashid Khan,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,bowled,D Padikkal,,middle
+2,Royal Challengers Bengaluru,13,6,RM Patidar,Rashid Khan,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,1.wides,V Kohli,JO Holder,RM Patidar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,1,V Kohli,JO Holder,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,2,V Kohli,JO Holder,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,3,V Kohli,JO Holder,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,4,V Kohli,JO Holder,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,bowled,V Kohli,,middle
+2,Royal Challengers Bengaluru,14,5,JM Sharma,JO Holder,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,6,JM Sharma,JO Holder,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,1,RM Patidar,Rashid Khan,JM Sharma,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,2,RM Patidar,Rashid Khan,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,3,JM Sharma,Rashid Khan,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,4,JM Sharma,Rashid Khan,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,5,JM Sharma,Rashid Khan,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,6,JM Sharma,Rashid Khan,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,caught,JM Sharma,MJ Suthar,middle
 2,Royal Challengers Bengaluru,16,1,RM Patidar,MJ Suthar,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,16,2,TH David,MJ Suthar,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
 2,Royal Challengers Bengaluru,16,3,RM Patidar,MJ Suthar,TH David,0,0,0,False,False,,0,0,0,0,0,True,caught,RM Patidar,Washington Sundar,death

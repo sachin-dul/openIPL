@@ -160,7 +160,13 @@ def worm_chart(bbb_df, match_number):
         idf = mdf[mdf["innings"] == inn].copy()
         team = idf["team"].iloc[0]
         idf["cum_runs"] = idf["total_runs"].cumsum()
-        idf["over_float"] = pd.to_numeric(idf["over"], errors="coerce").fillna(0) + pd.to_numeric(idf["ball"], errors="coerce").fillna(0) / 10
+        # Use 0-indexed cricket notation: first ball = 0.1, end of over 1 = 0.6,
+        # first ball of over 2 = 1.1, etc. Wides/no-balls coerce to NaN → 0,
+        # which sits them at the over boundary (cum_runs is monotonic so it reads fine).
+        idf["over_float"] = (
+            pd.to_numeric(idf["over"], errors="coerce").fillna(1) - 1
+            + pd.to_numeric(idf["ball"], errors="coerce").fillna(0) / 10
+        )
 
         fig.add_trace(go.Scatter(
             x=idf["over_float"], y=idf["cum_runs"],

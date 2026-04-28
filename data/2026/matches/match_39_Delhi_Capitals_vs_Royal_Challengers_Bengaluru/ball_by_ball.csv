@@ -30,12 +30,12 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Delhi Capitals,5,4,DA Miller,B Kumar,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 1,Delhi Capitals,5,5,DA Miller,B Kumar,Abishek Porel,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
 1,Delhi Capitals,5,6,DA Miller,B Kumar,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
-1,Delhi Capitals,6,1,Abishek Porel,JR Hazlewood,DA Miller,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-1,Delhi Capitals,6,2,DA Miller,JR Hazlewood,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-1,Delhi Capitals,6,3,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-1,Delhi Capitals,6,4,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-1,Delhi Capitals,6,5,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-1,Delhi Capitals,6,6,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,6,1,Abishek Porel,JR Hazlewood,DA Miller,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,2,DA Miller,JR Hazlewood,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,3,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,4,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,5,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Delhi Capitals,6,6,Abishek Porel,JR Hazlewood,DA Miller,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 1,Delhi Capitals,7,1,DA Miller,Rasikh Salam,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 1,Delhi Capitals,7,2,Abishek Porel,Rasikh Salam,DA Miller,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
 1,Delhi Capitals,7,3,Abishek Porel,Rasikh Salam,DA Miller,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
@@ -64,35 +64,35 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 1,Delhi Capitals,11,2,KA Jamieson,R Shepherd,Abishek Porel,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
 1,Delhi Capitals,11,3,KA Jamieson,R Shepherd,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
 1,Delhi Capitals,11,4,KA Jamieson,R Shepherd,Abishek Porel,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
-1,Delhi Capitals,11,5,KA Jamieson,R Shepherd,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,11,6,KA Jamieson,R Shepherd,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,1,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,2.wides,KA Jamieson,Suyash Sharma,Abishek Porel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,2,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,3,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,4,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,5,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,12,6,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,13,1,Abishek Porel,KH Pandya,KA Jamieson,2,0,2,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,13,2,Abishek Porel,KH Pandya,KA Jamieson,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,13,3,KA Jamieson,KH Pandya,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,True,lbw,KA Jamieson,,death
-1,Delhi Capitals,13,4,Kuldeep Yadav,KH Pandya,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,13,5,Abishek Porel,KH Pandya,Kuldeep Yadav,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,13,6,Abishek Porel,KH Pandya,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,1,Abishek Porel,Suyash Sharma,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,2,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,3.wides,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,3,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,4,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,5,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,6.wides,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
-1,Delhi Capitals,14,6,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,15,1,Abishek Porel,KH Pandya,Kuldeep Yadav,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,15,2,Abishek Porel,KH Pandya,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,15,3,Kuldeep Yadav,KH Pandya,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,15,4,Abishek Porel,KH Pandya,Kuldeep Yadav,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,15,5,Abishek Porel,KH Pandya,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-1,Delhi Capitals,15,6,Kuldeep Yadav,KH Pandya,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Delhi Capitals,11,5,KA Jamieson,R Shepherd,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,11,6,KA Jamieson,R Shepherd,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,1,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,2.wides,KA Jamieson,Suyash Sharma,Abishek Porel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,2,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,3,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,4,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,5,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,12,6,KA Jamieson,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,1,Abishek Porel,KH Pandya,KA Jamieson,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,2,Abishek Porel,KH Pandya,KA Jamieson,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,3,KA Jamieson,KH Pandya,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,True,lbw,KA Jamieson,,middle
+1,Delhi Capitals,13,4,Kuldeep Yadav,KH Pandya,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,5,Abishek Porel,KH Pandya,Kuldeep Yadav,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,13,6,Abishek Porel,KH Pandya,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,1,Abishek Porel,Suyash Sharma,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,2,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,3.wides,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,3,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,4,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,5,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,6.wides,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Delhi Capitals,14,6,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,1,Abishek Porel,KH Pandya,Kuldeep Yadav,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,2,Abishek Porel,KH Pandya,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,3,Kuldeep Yadav,KH Pandya,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,4,Abishek Porel,KH Pandya,Kuldeep Yadav,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,5,Abishek Porel,KH Pandya,Kuldeep Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Delhi Capitals,15,6,Kuldeep Yadav,KH Pandya,Abishek Porel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
 1,Delhi Capitals,16,1,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
 1,Delhi Capitals,16,2,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
 1,Delhi Capitals,16,3,Kuldeep Yadav,Suyash Sharma,Abishek Porel,0,0,0,False,False,,0,0,0,0,0,True,bowled,Kuldeep Yadav,,death
@@ -114,30 +114,30 @@ innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_ru
 2,Royal Challengers Bengaluru,2,4,V Kohli,PVD Chameera,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,2,5,V Kohli,PVD Chameera,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
 2,Royal Challengers Bengaluru,2,6,V Kohli,PVD Chameera,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
-2,Royal Challengers Bengaluru,3,1,V Kohli,KA Jamieson,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,3,2,JG Bethell,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,3,3,JG Bethell,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,3,4,JG Bethell,KA Jamieson,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,3,5,JG Bethell,KA Jamieson,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,caught,JG Bethell,T Natarajan,middle
-2,Royal Challengers Bengaluru,3,6,D Padikkal,KA Jamieson,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,4,1,D Padikkal,PVD Chameera,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,4,2,D Padikkal,PVD Chameera,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,4,3,D Padikkal,PVD Chameera,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,4,4,V Kohli,PVD Chameera,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,4,5,D Padikkal,PVD Chameera,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,4,6,D Padikkal,PVD Chameera,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,5,1,V Kohli,KA Jamieson,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
-2,Royal Challengers Bengaluru,5,2,D Padikkal,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,5,3,D Padikkal,KA Jamieson,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,5,4,D Padikkal,KA Jamieson,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,5,5,D Padikkal,KA Jamieson,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,5,6,D Padikkal,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,6,1,V Kohli,AR Patel,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,6,2,V Kohli,AR Patel,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,6,3,D Padikkal,AR Patel,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,6,4,V Kohli,AR Patel,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,6,5,D Padikkal,AR Patel,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,6,6,V Kohli,AR Patel,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,7,1,V Kohli,T Natarajan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,7,2,V Kohli,T Natarajan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,death
-2,Royal Challengers Bengaluru,7,3,V Kohli,T Natarajan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,3,1,V Kohli,KA Jamieson,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,2,JG Bethell,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,3,JG Bethell,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,4,JG Bethell,KA Jamieson,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,5,JG Bethell,KA Jamieson,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,caught,JG Bethell,T Natarajan,powerplay
+2,Royal Challengers Bengaluru,3,6,D Padikkal,KA Jamieson,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,1,D Padikkal,PVD Chameera,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,2,D Padikkal,PVD Chameera,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,3,D Padikkal,PVD Chameera,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,4,V Kohli,PVD Chameera,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,5,D Padikkal,PVD Chameera,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,6,D Padikkal,PVD Chameera,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,1,V Kohli,KA Jamieson,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,2,D Padikkal,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,3,D Padikkal,KA Jamieson,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,4,D Padikkal,KA Jamieson,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,5,D Padikkal,KA Jamieson,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,6,D Padikkal,KA Jamieson,V Kohli,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,1,V Kohli,AR Patel,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,2,V Kohli,AR Patel,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,3,D Padikkal,AR Patel,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,4,V Kohli,AR Patel,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,5,D Padikkal,AR Patel,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,6,V Kohli,AR Patel,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,7,1,V Kohli,T Natarajan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,2,V Kohli,T Natarajan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,3,V Kohli,T Natarajan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
