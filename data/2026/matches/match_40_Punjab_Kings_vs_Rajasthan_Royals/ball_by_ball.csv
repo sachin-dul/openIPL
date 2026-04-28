@@ -1,0 +1,243 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Punjab Kings,1,1,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,2,P Simran Singh,JC Archer,Priyansh Arya,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,3,P Simran Singh,JC Archer,Priyansh Arya,0,4,4,False,False,legbyes,0,0,0,4,0,False,,,,powerplay
+1,Punjab Kings,1,4,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,5,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,1,6,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,1,Priyansh Arya,N Burger,P Simran Singh,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,2,Priyansh Arya,N Burger,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,3,Priyansh Arya,N Burger,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,4,Priyansh Arya,N Burger,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,5,Priyansh Arya,N Burger,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,2,6,Priyansh Arya,N Burger,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,1,Priyansh Arya,JC Archer,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,2,Priyansh Arya,JC Archer,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,3,Priyansh Arya,JC Archer,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,4,Priyansh Arya,JC Archer,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,3,5,Priyansh Arya,JC Archer,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,True,caught,Priyansh Arya,N Burger,powerplay
+1,Punjab Kings,3,6,C Connolly,JC Archer,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,1,P Simran Singh,N Burger,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,2,P Simran Singh,N Burger,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,3,P Simran Singh,N Burger,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,4,P Simran Singh,N Burger,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,5,P Simran Singh,N Burger,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,4,6,P Simran Singh,N Burger,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,1,P Simran Singh,Brijesh Sharma,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,2,P Simran Singh,Brijesh Sharma,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,3,C Connolly,Brijesh Sharma,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,4,C Connolly,Brijesh Sharma,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5.wides,C Connolly,Brijesh Sharma,P Simran Singh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,5,C Connolly,Brijesh Sharma,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,5,6,P Simran Singh,Brijesh Sharma,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,1,P Simran Singh,N Burger,C Connolly,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,2,P Simran Singh,N Burger,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,3,C Connolly,N Burger,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,4,P Simran Singh,N Burger,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,5,P Simran Singh,N Burger,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,6,6,C Connolly,N Burger,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Punjab Kings,7,1,P Simran Singh,Yash Raj Punja,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,2,C Connolly,Yash Raj Punja,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,3,C Connolly,Yash Raj Punja,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,4,C Connolly,Yash Raj Punja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,5,P Simran Singh,Yash Raj Punja,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,7,6,C Connolly,Yash Raj Punja,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,1,P Simran Singh,RA Jadeja,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,2,C Connolly,RA Jadeja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,3,P Simran Singh,RA Jadeja,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,4,P Simran Singh,RA Jadeja,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,5,C Connolly,RA Jadeja,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,8,6,C Connolly,RA Jadeja,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,1,P Simran Singh,Yash Raj Punja,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,2,C Connolly,Yash Raj Punja,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,True,caught,C Connolly,D Ferreira,middle
+1,Punjab Kings,9,3,SS Iyer,Yash Raj Punja,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,4,SS Iyer,Yash Raj Punja,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,5,SS Iyer,Yash Raj Punja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,9,6,P Simran Singh,Yash Raj Punja,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,1,SS Iyer,RA Jadeja,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,2,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,3,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,4,SS Iyer,RA Jadeja,P Simran Singh,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,5,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,10,6,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,1,P Simran Singh,JC Archer,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,2,P Simran Singh,JC Archer,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,3,P Simran Singh,JC Archer,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,4,P Simran Singh,JC Archer,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,5,SS Iyer,JC Archer,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,11,6,P Simran Singh,JC Archer,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,1,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,2,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,3,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,4,SS Iyer,RA Jadeja,P Simran Singh,0,4,4,False,False,byes,0,0,4,0,0,False,,,,middle
+1,Punjab Kings,12,5,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,12,6,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,1,P Simran Singh,Brijesh Sharma,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,2,P Simran Singh,Brijesh Sharma,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,3,P Simran Singh,Brijesh Sharma,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,4,P Simran Singh,Brijesh Sharma,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,5,SS Iyer,Brijesh Sharma,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,13,6,P Simran Singh,Brijesh Sharma,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,1,P Simran Singh,Yash Raj Punja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,2,SS Iyer,Yash Raj Punja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,3,P Simran Singh,Yash Raj Punja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,4,SS Iyer,Yash Raj Punja,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,5,SS Iyer,Yash Raj Punja,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,14,6,P Simran Singh,Yash Raj Punja,SS Iyer,0,0,0,False,False,,0,0,0,0,0,True,caught,P Simran Singh,R Parag,middle
+1,Punjab Kings,15,1,SS Iyer,RA Jadeja,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,2,MP Stoinis,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,3,SS Iyer,RA Jadeja,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,4,MP Stoinis,RA Jadeja,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,5,MP Stoinis,RA Jadeja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,15,6,SS Iyer,RA Jadeja,MP Stoinis,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Punjab Kings,16,1,MP Stoinis,Yash Raj Punja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,2,SS Iyer,Yash Raj Punja,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,3,MP Stoinis,Yash Raj Punja,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,4,SS Iyer,Yash Raj Punja,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,5,MP Stoinis,Yash Raj Punja,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,16,6,MP Stoinis,Yash Raj Punja,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,1,SS Iyer,Brijesh Sharma,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,2,MP Stoinis,Brijesh Sharma,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,3,SS Iyer,Brijesh Sharma,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,4,SS Iyer,Brijesh Sharma,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,5,SS Iyer,Brijesh Sharma,MP Stoinis,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,17,6,SS Iyer,Brijesh Sharma,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,1,SS Iyer,N Burger,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,2,MP Stoinis,N Burger,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,3,MP Stoinis,N Burger,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,4,MP Stoinis,N Burger,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,5,MP Stoinis,N Burger,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,18,6,SS Iyer,N Burger,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,True,caught,SS Iyer,Dhruv Jurel,death
+1,Punjab Kings,19,1,MP Stoinis,JC Archer,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,2,MP Stoinis,JC Archer,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,3,MP Stoinis,JC Archer,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,4,Suryansh Shedge,JC Archer,MP Stoinis,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,5,Suryansh Shedge,JC Archer,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,19,6,MP Stoinis,JC Archer,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,1,MP Stoinis,Brijesh Sharma,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,2,MP Stoinis,Brijesh Sharma,Suryansh Shedge,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,3,MP Stoinis,Brijesh Sharma,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,4,MP Stoinis,Brijesh Sharma,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,5,MP Stoinis,Brijesh Sharma,Suryansh Shedge,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Punjab Kings,20,6,MP Stoinis,Brijesh Sharma,Suryansh Shedge,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,YBK Jaiswal,Arshdeep Singh,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,YBK Jaiswal,LH Ferguson,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,V Suryavanshi,LH Ferguson,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,V Suryavanshi,LH Ferguson,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,V Suryavanshi,LH Ferguson,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,V Suryavanshi,LH Ferguson,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,V Suryavanshi,LH Ferguson,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,1,YBK Jaiswal,M Jansen,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,YBK Jaiswal,M Jansen,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,V Suryavanshi,M Jansen,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,V Suryavanshi,M Jansen,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,V Suryavanshi,M Jansen,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,V Suryavanshi,M Jansen,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1.wides,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,True,caught,V Suryavanshi,SS Iyer,powerplay
+2,Rajasthan Royals,4,3,Dhruv Jurel,Arshdeep Singh,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,YBK Jaiswal,Arshdeep Singh,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,YBK Jaiswal,Arshdeep Singh,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,YBK Jaiswal,Arshdeep Singh,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,YBK Jaiswal,LH Ferguson,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,YBK Jaiswal,LH Ferguson,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,Dhruv Jurel,LH Ferguson,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,4,Dhruv Jurel,LH Ferguson,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,5,Dhruv Jurel,LH Ferguson,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,6,YBK Jaiswal,LH Ferguson,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,7,1,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,Dhruv Jurel,YS Chahal,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,Dhruv Jurel,YS Chahal,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,Dhruv Jurel,YS Chahal,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,2,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,3,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,Dhruv Jurel,YS Chahal,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,Dhruv Jurel,YS Chahal,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,Dhruv Jurel,YS Chahal,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,True,caught,Dhruv Jurel,M Jansen,middle
+2,Rajasthan Royals,10,5,R Parag,YS Chahal,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,R Parag,YS Chahal,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,YBK Jaiswal,Harpreet Brar,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,R Parag,Harpreet Brar,YBK Jaiswal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,YBK Jaiswal,Harpreet Brar,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,YBK Jaiswal,Harpreet Brar,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,R Parag,Harpreet Brar,YBK Jaiswal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,R Parag,Harpreet Brar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,YBK Jaiswal,YS Chahal,R Parag,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2.wides,YBK Jaiswal,YS Chahal,R Parag,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,YBK Jaiswal,YS Chahal,R Parag,0,0,0,False,False,,0,0,0,0,0,True,caught,YBK Jaiswal,Suryansh Shedge,middle
+2,Rajasthan Royals,12,3,D Ferreira,YS Chahal,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,R Parag,YS Chahal,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5.noballs,R Parag,YS Chahal,D Ferreira,1,1,2,False,False,noballs,0,1,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,D Ferreira,YS Chahal,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,6,R Parag,YS Chahal,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,1,D Ferreira,M Jansen,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,2,R Parag,M Jansen,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,3,R Parag,M Jansen,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,4,D Ferreira,M Jansen,R Parag,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,13,5,D Ferreira,M Jansen,R Parag,0,1,1,False,False,byes,0,0,1,0,0,False,,,,middle
+2,Rajasthan Royals,13,6,R Parag,M Jansen,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,1,R Parag,YS Chahal,D Ferreira,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,2,R Parag,YS Chahal,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,3,R Parag,YS Chahal,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,4,R Parag,YS Chahal,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,5,D Ferreira,YS Chahal,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,14,6,R Parag,YS Chahal,D Ferreira,0,0,0,False,False,,0,0,0,0,0,True,caught,R Parag,Suryansh Shedge,middle
+2,Rajasthan Royals,15,1,D Ferreira,Arshdeep Singh,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,2,D Ferreira,Arshdeep Singh,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,3,D Ferreira,Arshdeep Singh,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,4,SB Dubey,Arshdeep Singh,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,5,SB Dubey,Arshdeep Singh,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,15,6,D Ferreira,Arshdeep Singh,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,16,1,SB Dubey,M Jansen,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,D Ferreira,M Jansen,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,SB Dubey,M Jansen,D Ferreira,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,SB Dubey,M Jansen,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5.wides,SB Dubey,M Jansen,D Ferreira,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,SB Dubey,M Jansen,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,D Ferreira,M Jansen,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,D Ferreira,LH Ferguson,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2.wides,D Ferreira,LH Ferguson,SB Dubey,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,D Ferreira,LH Ferguson,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,D Ferreira,LH Ferguson,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,D Ferreira,LH Ferguson,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,SB Dubey,LH Ferguson,D Ferreira,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,SB Dubey,LH Ferguson,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,D Ferreira,Arshdeep Singh,SB Dubey,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,D Ferreira,Arshdeep Singh,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,D Ferreira,Arshdeep Singh,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,D Ferreira,Arshdeep Singh,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,SB Dubey,Arshdeep Singh,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,SB Dubey,Arshdeep Singh,D Ferreira,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,1,D Ferreira,LH Ferguson,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,2,D Ferreira,LH Ferguson,SB Dubey,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,3,D Ferreira,LH Ferguson,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,4,D Ferreira,LH Ferguson,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,5,D Ferreira,LH Ferguson,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,19,6,SB Dubey,LH Ferguson,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,1,SB Dubey,M Jansen,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,20,2,D Ferreira,M Jansen,SB Dubey,6,0,6,True,False,,0,0,0,0,0,False,,,,death
