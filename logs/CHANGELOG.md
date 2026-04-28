@@ -23,6 +23,10 @@ All notable changes to this project will be documented in this file.
 - `HOME_VENUES` now maps each team to a list of home grounds. If any team play on multiple home grounds both now register as home venues
 - Match Centre header and Recent Results card display `won the Super Over` for tied matches decided in the super over (was rendering as `No Result` because `winner` was empty)
 - Impact Player Introductions x-axis clamped to 0–20 (was previously rendering past 20.5); all markers now use one shape (innings encoded by lane instead of marker shape, so the legend collapses to a single intent row)
+- Closest Match value box now picks a regulation tie (super-over decided) over any run/wicket margin — by definition the closest possible result. Tie-break across multiple super overs uses the smallest super-over margin, then the most recent match
+- Phase boundaries (PP / Middle / Death) now derive from each innings's *allotted* overs rather than overs actually batted. A team that chases in 6.3 overs (e.g. RCB in match 39) keeps the standard 6/9/5 phase split and finishes during the powerplay, instead of having its 39 balls proportionally re-bucketed into a fake death phase. Rain-shortened-from-start matches (cricsheet only marks `target.overs` on innings 2; e.g. match 13's 11-over revision) now also apply the revised allotment to innings 1 when innings 1 was incomplete and not all out
+- Match Centre per-innings phase tables ordered Powerplay → Middle → Death (was alphabetical, which read Death first)
+- Match Centre Worm chart x-axis now starts at `0.1` (first ball) instead of `1.1`, matching standard cricket over notation
 
 ---
 

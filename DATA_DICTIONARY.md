@@ -166,17 +166,19 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 
 ### `phase_summary.csv`
 
+Phase boundaries are based on each innings's *allotted* overs (20 by default; reduced when cricsheet sets `target.overs` for a DLS-revised innings). A team that finishes a chase early; their innings is **not** proportionally re-bucketed across all three phases. For rain-shortened-from-start matches, both innings use the revised over count (PP = first 30% of balls, then middle/death split equally).
+
 | Column | Type | Description |
 |--------|------|-------------|
 | innings | int | 1 or 2 |
 | team | string | Batting team |
-| phase | string | powerplay (1-6) / middle (7-15) / death (16-20) |
+| phase | string | `powerplay` / `middle` / `death`. Default 20-over allotment: PP = balls 1–36 (overs 1–6), Middle = balls 37–90 (overs 7–15), Death = balls 91–120 (overs 16–20). Rain-shortened innings use proportional ball boundaries instead |
 | runs | int | Runs scored in phase |
 | wickets | int | Wickets lost in phase |
-| balls | int | Legal deliveries in phase |
+| balls | int | Legal deliveries played in phase (may be less than the phase's allotted balls if the innings ended early) |
 | run_rate | float | Runs per over in phase |
-| boundaries | int | 4s + 6s in phase |
-| dots | int | Dot balls in phase |
+| boundaries | int | 4s + 6s in phase (only counts deliveries where `is_boundary` is true) |
+| dots | int | Dot balls in phase (legal delivery with zero total runs — ICC scoring convention) |
 
 ### `reviews.csv` *(only present when DRS reviews occurred)*
 

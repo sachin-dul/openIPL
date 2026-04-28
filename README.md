@@ -150,6 +150,10 @@ Already-processed matches are skipped unless `--reprocess` is passed.
 
 See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for detailed column descriptions of every CSV.
 
+## Changelog
+
+Release notes and notable changes live in [logs/CHANGELOG.md](logs/CHANGELOG.md).
+
 ## Data Source & Attribution
 
 All ball-by-ball data is sourced from [Cricsheet](https://cricsheet.org/), created and maintained by Stephen Rushe, under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
