@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-04-27
+
+### Added
+
+- Super Over panel in Match Centre — ball-by-ball for both mini-innings, bowler shown once in the innings header, dismissal notation per wicket (`bowled`, `c FielderName`, `lbw`, `run out (FielderName)`, etc.), and a `WON` badge on the team that won the super over
+- `is_boundary` and `non_boundary_run` columns in `ball_by_ball.csv` — `is_boundary = True` only when a 4 or 6 was hit; `non_boundary_run = True` for the rare ran-4 / ran-6 case (cricsheet's `non_boundary` flag).
+- `fielders` column in `super_over.csv` — names of fielders involved in any super-over dismissal (e.g. catcher in `caught`, fielder in `run out`)
+- `is_four` / `is_six` derived columns in `load_ball_by_ball()` so chart code can't accidentally count ran-4s/6s as boundaries
+- Innings dimension on Impact Player Introductions chart — y-axis lanes are now Inn 1 / Inn 2 (replacing Bat / Bowl) so the proactive-vs-reactive split of impact subs is visible at a glance
+
+### Changed
+
+- Parser now treats cricsheet's `outcome.eliminator` as the match winner when `outcome.winner` is absent. This is how cricsheet records super-over decisions; previously such matches read as ties with no winner, which broke the points table and the recent-results card
+- Bowler wicket attribution rewritten as a whitelist (`bowled, caught, caught and bowled, lbw, stumped, hit wicket`). Previously a blacklist that only excluded `run out` and `retired hurt/out`, which silently miscredited rarer dismissals like `obstructing the field`
+- Boundary counts (`fours`, `sixes`, phase `boundaries`) now require `is_boundary` to be true — i.e. the batter must have hit the ball to the rope, not just accumulated 4 / 6 runs by running
+- Phase Batting and Phase Bowling heatmaps now use the ICC dot-ball convention (legal delivery with zero total runs) and the correct denominators (legal balls, excluding wides and no-balls) — bringing them in line with the rest of the dashboard. Previously the phase heatmaps inflated dot counts by ~21% by counting `batter_runs == 0` against all deliveries (including wides and byes)
+- `HOME_VENUES` now maps each team to a list of home grounds. If any team play on multiple home grounds both now register as home venues
+- Match Centre header and Recent Results card display `won the Super Over` for tied matches decided in the super over (was rendering as `No Result` because `winner` was empty)
+- Impact Player Introductions x-axis clamped to 0–20 (was previously rendering past 20.5); all markers now use one shape (innings encoded by lane instead of marker shape, so the legend collapses to a single intent row)
+
+---
+
 ## 2026-04-22
 
 ### Added

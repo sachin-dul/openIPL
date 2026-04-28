@@ -58,7 +58,14 @@ def _concat_match_csvs(filename):
 
 @lru_cache(maxsize=1)
 def load_ball_by_ball():
-    return _concat_match_csvs("ball_by_ball.csv")
+    df = _concat_match_csvs("ball_by_ball.csv")
+    if df.empty:
+        return df
+    # Derived flags so downstream charts can't accidentally count ran-4s/6s as boundaries.
+    is_boundary = df["is_boundary"] if "is_boundary" in df.columns else True
+    df["is_four"] = (df["batter_runs"] == 4) & is_boundary
+    df["is_six"] = (df["batter_runs"] == 6) & is_boundary
+    return df
 
 
 @lru_cache(maxsize=1)
@@ -94,6 +101,11 @@ def load_reviews():
 @lru_cache(maxsize=1)
 def load_substitutions():
     return _concat_match_csvs("substitutions.csv")
+
+
+@lru_cache(maxsize=1)
+def load_super_over():
+    return _concat_match_csvs("super_over.csv")
 
 
 @lru_cache(maxsize=1)

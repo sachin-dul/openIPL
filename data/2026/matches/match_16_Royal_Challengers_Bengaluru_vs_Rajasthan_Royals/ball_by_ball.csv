@@ -1,234 +1,234 @@
-innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
-1,Royal Challengers Bengaluru,1,1,PD Salt,JC Archer,V Kohli,0,0,0,,0,0,0,0,0,True,caught,PD Salt,Dhruv Jurel,powerplay
-1,Royal Challengers Bengaluru,1,2,D Padikkal,JC Archer,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,1,3,D Padikkal,JC Archer,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,1,4,D Padikkal,JC Archer,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,1,5,D Padikkal,JC Archer,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,1,6,V Kohli,JC Archer,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,1,D Padikkal,N Burger,V Kohli,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,2,D Padikkal,N Burger,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,3,V Kohli,N Burger,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,4,V Kohli,N Burger,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,5.wides,V Kohli,N Burger,D Padikkal,0,5,5,wides,5,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,5,V Kohli,N Burger,D Padikkal,0,4,4,byes,0,0,4,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,2,6,V Kohli,N Burger,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,3,1,V Kohli,JC Archer,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,3,2,V Kohli,JC Archer,D Padikkal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,3,3,V Kohli,JC Archer,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,3,4,V Kohli,JC Archer,D Padikkal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,3,5,V Kohli,JC Archer,D Padikkal,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,3,6,D Padikkal,JC Archer,V Kohli,0,0,0,,0,0,0,0,0,True,caught,D Padikkal,SO Hetmyer,powerplay
-1,Royal Challengers Bengaluru,4,1,V Kohli,Sandeep Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,4,2,RM Patidar,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,4,3,RM Patidar,Sandeep Sharma,V Kohli,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,4,4,RM Patidar,Sandeep Sharma,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,4,5,V Kohli,Sandeep Sharma,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,4,6,V Kohli,Sandeep Sharma,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,5,1,RM Patidar,Ravi Bishnoi,V Kohli,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,5,2,V Kohli,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,5,3,V Kohli,Ravi Bishnoi,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,5,4,RM Patidar,Ravi Bishnoi,V Kohli,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,5,5,V Kohli,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,True,bowled,V Kohli,,powerplay
-1,Royal Challengers Bengaluru,5,6,KH Pandya,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,1,RM Patidar,N Burger,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,2,KH Pandya,N Burger,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,3,KH Pandya,N Burger,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,4,KH Pandya,N Burger,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,5,KH Pandya,N Burger,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,6,6,RM Patidar,N Burger,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Royal Challengers Bengaluru,7,1,RM Patidar,Ravi Bishnoi,KH Pandya,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,7,2,KH Pandya,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,True,caught,KH Pandya,SO Hetmyer,middle
-1,Royal Challengers Bengaluru,7,3,JM Sharma,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,7,4,JM Sharma,Ravi Bishnoi,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,7,5,RM Patidar,Ravi Bishnoi,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,7,6,JM Sharma,Ravi Bishnoi,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,8,1,JM Sharma,RA Jadeja,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,8,2,RM Patidar,RA Jadeja,JM Sharma,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,8,3,RM Patidar,RA Jadeja,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,8,4,JM Sharma,RA Jadeja,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,8,5,JM Sharma,RA Jadeja,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,8,6,RM Patidar,RA Jadeja,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,9,1,RM Patidar,Brijesh Sharma,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,9,2,JM Sharma,Brijesh Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,9,3,RM Patidar,Brijesh Sharma,JM Sharma,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,9,4,JM Sharma,Brijesh Sharma,RM Patidar,0,0,0,,0,0,0,0,0,True,lbw,JM Sharma,,middle
-1,Royal Challengers Bengaluru,9,5,TH David,Brijesh Sharma,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,9,6,TH David,Brijesh Sharma,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,10,1,RM Patidar,JC Archer,TH David,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,10,2,TH David,JC Archer,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,10,3,RM Patidar,JC Archer,TH David,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,10,4,TH David,JC Archer,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,10,5,TH David,JC Archer,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,10,6,TH David,JC Archer,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,1,RM Patidar,Brijesh Sharma,TH David,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,2,TH David,Brijesh Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,3,RM Patidar,Brijesh Sharma,TH David,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,4,TH David,Brijesh Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,5,RM Patidar,Brijesh Sharma,TH David,0,1,1,legbyes,0,0,0,1,0,False,,,,middle
-1,Royal Challengers Bengaluru,11,6,TH David,Brijesh Sharma,RM Patidar,0,0,0,,0,0,0,0,0,True,caught,TH David,SO Hetmyer,middle
-1,Royal Challengers Bengaluru,12,1,RM Patidar,Ravi Bishnoi,R Shepherd,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,12,2,RM Patidar,Ravi Bishnoi,R Shepherd,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,12,3,R Shepherd,Ravi Bishnoi,RM Patidar,6,0,6,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,12,4,R Shepherd,Ravi Bishnoi,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,12,5,RM Patidar,Ravi Bishnoi,R Shepherd,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,12,6,R Shepherd,Ravi Bishnoi,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,1,R Shepherd,Brijesh Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,2,RM Patidar,Brijesh Sharma,R Shepherd,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,3,RM Patidar,Brijesh Sharma,R Shepherd,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,4,R Shepherd,Brijesh Sharma,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,5,R Shepherd,Brijesh Sharma,RM Patidar,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,13,6,R Shepherd,Brijesh Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,1,R Shepherd,RA Jadeja,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,2,R Shepherd,RA Jadeja,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,3,RM Patidar,RA Jadeja,R Shepherd,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,4,R Shepherd,RA Jadeja,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,5,RM Patidar,RA Jadeja,R Shepherd,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,14,6,R Shepherd,RA Jadeja,RM Patidar,0,0,0,,0,0,0,0,0,True,caught,R Shepherd,Brijesh Sharma,middle
-1,Royal Challengers Bengaluru,15,1,RM Patidar,N Burger,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,15,2,VR Iyer,N Burger,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,15,3,RM Patidar,N Burger,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,15,4,RM Patidar,N Burger,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,15,5,RM Patidar,N Burger,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,15,6,RM Patidar,N Burger,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Royal Challengers Bengaluru,16,1,VR Iyer,Sandeep Sharma,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,2,RM Patidar,Sandeep Sharma,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,3,RM Patidar,Sandeep Sharma,VR Iyer,2,0,2,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,4,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,5,RM Patidar,Sandeep Sharma,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,16,6,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,17,1,VR Iyer,Ravi Bishnoi,RM Patidar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,17,2,RM Patidar,Ravi Bishnoi,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,17,3,RM Patidar,Ravi Bishnoi,VR Iyer,6,0,6,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,17,4,RM Patidar,Ravi Bishnoi,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,17,5,VR Iyer,Ravi Bishnoi,RM Patidar,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,17,6,VR Iyer,Ravi Bishnoi,RM Patidar,2,0,2,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,1,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,0,0,0,0,0,True,caught,RM Patidar,D Ferreira,death
-1,Royal Challengers Bengaluru,18,2.wides,B Kumar,Sandeep Sharma,VR Iyer,0,1,1,wides,1,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,2,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,3,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,4,B Kumar,Sandeep Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,5,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,18,6,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,19,1,VR Iyer,Brijesh Sharma,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,19,2,B Kumar,Brijesh Sharma,VR Iyer,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,19,3,B Kumar,Brijesh Sharma,VR Iyer,4,0,4,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,19,4,B Kumar,Brijesh Sharma,VR Iyer,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,19,5,VR Iyer,Brijesh Sharma,B Kumar,1,0,1,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,19,6,B Kumar,Brijesh Sharma,VR Iyer,2,0,2,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,1,VR Iyer,Sandeep Sharma,B Kumar,4,0,4,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,2,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,3,VR Iyer,Sandeep Sharma,B Kumar,0,0,0,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,4,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,5.wides,VR Iyer,Sandeep Sharma,B Kumar,0,1,1,wides,1,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,5,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,,0,0,0,0,0,False,,,,death
-1,Royal Challengers Bengaluru,20,6,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,1,1,YBK Jaiswal,B Kumar,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,1,2,YBK Jaiswal,B Kumar,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,1,3,V Suryavanshi,B Kumar,YBK Jaiswal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,1,4,V Suryavanshi,B Kumar,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,1,5,V Suryavanshi,B Kumar,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,1,6,V Suryavanshi,B Kumar,YBK Jaiswal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,2,1,YBK Jaiswal,JR Hazlewood,V Suryavanshi,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,2,2,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,2,3,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,2,4,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,2,5,YBK Jaiswal,JR Hazlewood,V Suryavanshi,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,2,6,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,0,0,0,0,0,True,caught,YBK Jaiswal,JM Sharma,powerplay
-2,Rajasthan Royals,3,1,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,3,2,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,3,3,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,3,4,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,3,5,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,3,6,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,4,1,Dhruv Jurel,JR Hazlewood,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,4,2,Dhruv Jurel,JR Hazlewood,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,4,3,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,4,4,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,4,5,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,4,6,V Suryavanshi,JR Hazlewood,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,5,1,Dhruv Jurel,B Kumar,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,5,2,V Suryavanshi,B Kumar,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,5,3,V Suryavanshi,B Kumar,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,5,4,V Suryavanshi,B Kumar,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,5,5,V Suryavanshi,B Kumar,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,5,6,V Suryavanshi,B Kumar,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,6,1,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,6,2,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,6,0,6,,0,0,0,0,0,False,,,,powerplay
-2,Rajasthan Royals,6,3,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,6,4,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,6,5,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,6,6,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,7,1,V Suryavanshi,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,7,2,Dhruv Jurel,KH Pandya,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,7,3,Dhruv Jurel,KH Pandya,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,7,4,V Suryavanshi,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,7,5,Dhruv Jurel,KH Pandya,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,7,6,V Suryavanshi,KH Pandya,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,8,1,Dhruv Jurel,TH David,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,8,2,Dhruv Jurel,TH David,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,8,3,V Suryavanshi,TH David,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,8,4,V Suryavanshi,TH David,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,8,5,V Suryavanshi,TH David,Dhruv Jurel,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,8,6,V Suryavanshi,TH David,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,9,1,V Suryavanshi,KH Pandya,Dhruv Jurel,0,0,0,,0,0,0,0,0,True,caught,V Suryavanshi,V Kohli,middle
-2,Rajasthan Royals,9,2,SO Hetmyer,KH Pandya,Dhruv Jurel,0,0,0,,0,0,0,0,0,True,caught,SO Hetmyer,JR Hazlewood,middle
-2,Rajasthan Royals,9,3,R Parag,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,9,4,Dhruv Jurel,KH Pandya,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,9,5,R Parag,KH Pandya,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,9,6,R Parag,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,10,1,R Parag,JR Hazlewood,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,10,2,Dhruv Jurel,JR Hazlewood,R Parag,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,10,3,Dhruv Jurel,JR Hazlewood,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,10,4,R Parag,JR Hazlewood,Dhruv Jurel,0,0,0,,0,0,0,0,0,True,caught,R Parag,KH Pandya,middle
-2,Rajasthan Royals,10,5,RA Jadeja,JR Hazlewood,Dhruv Jurel,2,0,2,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,10,6,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,11,1,RA Jadeja,KH Pandya,Dhruv Jurel,2,0,2,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,11,2,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,11,3,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,11,4,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,11,5,Dhruv Jurel,KH Pandya,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,11,6,Dhruv Jurel,KH Pandya,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,12,1,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,12,2,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,12,3,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,12,4,RA Jadeja,B Kumar,Dhruv Jurel,2,0,2,,0,0,0,0,0,False,,,,middle
-2,Rajasthan Royals,12,5,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,12,6,RA Jadeja,B Kumar,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,1,RA Jadeja,KH Pandya,Dhruv Jurel,4,0,4,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,2,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,3,Dhruv Jurel,KH Pandya,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,4,Dhruv Jurel,KH Pandya,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,5,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,13,6,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,1,RA Jadeja,JR Hazlewood,Dhruv Jurel,0,1,1,legbyes,0,0,0,1,0,False,,,,death
-2,Rajasthan Royals,14,2,Dhruv Jurel,JR Hazlewood,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,3,Dhruv Jurel,JR Hazlewood,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,4,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,5,Dhruv Jurel,JR Hazlewood,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,14,6,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,1,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,2,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,3.wides,Dhruv Jurel,Abhinandan Singh,RA Jadeja,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,3,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,4,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,5.wides,RA Jadeja,Abhinandan Singh,Dhruv Jurel,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,5,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,15,6,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,16,1,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,16,2,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,16,3,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,16,4,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,16,5,Dhruv Jurel,R Shepherd,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,16,6,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,17,1,Dhruv Jurel,B Kumar,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,17,2,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,17,3,RA Jadeja,B Kumar,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,17,4,Dhruv Jurel,B Kumar,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,17,5,Dhruv Jurel,B Kumar,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,17,6,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,18,1,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,18,2,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,18,3,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,18,4,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,18,5,Dhruv Jurel,R Shepherd,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,death
-2,Rajasthan Royals,18,6,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bengaluru,1,1,PD Salt,JC Archer,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,caught,PD Salt,Dhruv Jurel,powerplay
+1,Royal Challengers Bengaluru,1,2,D Padikkal,JC Archer,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,3,D Padikkal,JC Archer,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,4,D Padikkal,JC Archer,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,5,D Padikkal,JC Archer,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,6,V Kohli,JC Archer,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,1,D Padikkal,N Burger,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,2,D Padikkal,N Burger,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,3,V Kohli,N Burger,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,4,V Kohli,N Burger,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,5.wides,V Kohli,N Burger,D Padikkal,0,5,5,False,False,wides,5,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,5,V Kohli,N Burger,D Padikkal,0,4,4,False,False,byes,0,0,4,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,6,V Kohli,N Burger,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,1,V Kohli,JC Archer,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,2,V Kohli,JC Archer,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,3,V Kohli,JC Archer,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,4,V Kohli,JC Archer,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,5,V Kohli,JC Archer,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,6,D Padikkal,JC Archer,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,caught,D Padikkal,SO Hetmyer,powerplay
+1,Royal Challengers Bengaluru,4,1,V Kohli,Sandeep Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,2,RM Patidar,Sandeep Sharma,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,3,RM Patidar,Sandeep Sharma,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,4,RM Patidar,Sandeep Sharma,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,5,V Kohli,Sandeep Sharma,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,6,V Kohli,Sandeep Sharma,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,1,RM Patidar,Ravi Bishnoi,V Kohli,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,2,V Kohli,Ravi Bishnoi,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,3,V Kohli,Ravi Bishnoi,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,4,RM Patidar,Ravi Bishnoi,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,5,V Kohli,Ravi Bishnoi,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,bowled,V Kohli,,powerplay
+1,Royal Challengers Bengaluru,5,6,KH Pandya,Ravi Bishnoi,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,1,RM Patidar,N Burger,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,2,KH Pandya,N Burger,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,3,KH Pandya,N Burger,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,4,KH Pandya,N Burger,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,5,KH Pandya,N Burger,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,6,RM Patidar,N Burger,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,7,1,RM Patidar,Ravi Bishnoi,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,2,KH Pandya,Ravi Bishnoi,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,caught,KH Pandya,SO Hetmyer,middle
+1,Royal Challengers Bengaluru,7,3,JM Sharma,Ravi Bishnoi,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,4,JM Sharma,Ravi Bishnoi,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,5,RM Patidar,Ravi Bishnoi,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,6,JM Sharma,Ravi Bishnoi,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,1,JM Sharma,RA Jadeja,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,2,RM Patidar,RA Jadeja,JM Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,3,RM Patidar,RA Jadeja,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,4,JM Sharma,RA Jadeja,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,5,JM Sharma,RA Jadeja,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,6,RM Patidar,RA Jadeja,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,1,RM Patidar,Brijesh Sharma,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,2,JM Sharma,Brijesh Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,3,RM Patidar,Brijesh Sharma,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,4,JM Sharma,Brijesh Sharma,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,lbw,JM Sharma,,middle
+1,Royal Challengers Bengaluru,9,5,TH David,Brijesh Sharma,RM Patidar,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,6,TH David,Brijesh Sharma,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,1,RM Patidar,JC Archer,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,2,TH David,JC Archer,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,3,RM Patidar,JC Archer,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,4,TH David,JC Archer,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,5,TH David,JC Archer,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,6,TH David,JC Archer,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,1,RM Patidar,Brijesh Sharma,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,2,TH David,Brijesh Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,3,RM Patidar,Brijesh Sharma,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,4,TH David,Brijesh Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,5,RM Patidar,Brijesh Sharma,TH David,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,6,TH David,Brijesh Sharma,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,caught,TH David,SO Hetmyer,middle
+1,Royal Challengers Bengaluru,12,1,RM Patidar,Ravi Bishnoi,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,2,RM Patidar,Ravi Bishnoi,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,3,R Shepherd,Ravi Bishnoi,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,4,R Shepherd,Ravi Bishnoi,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,5,RM Patidar,Ravi Bishnoi,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,6,R Shepherd,Ravi Bishnoi,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,1,R Shepherd,Brijesh Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,2,RM Patidar,Brijesh Sharma,R Shepherd,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,3,RM Patidar,Brijesh Sharma,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,4,R Shepherd,Brijesh Sharma,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,5,R Shepherd,Brijesh Sharma,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,6,R Shepherd,Brijesh Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,1,R Shepherd,RA Jadeja,RM Patidar,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,2,R Shepherd,RA Jadeja,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,3,RM Patidar,RA Jadeja,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,4,R Shepherd,RA Jadeja,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,5,RM Patidar,RA Jadeja,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,6,R Shepherd,RA Jadeja,RM Patidar,0,0,0,False,False,,0,0,0,0,0,True,caught,R Shepherd,Brijesh Sharma,middle
+1,Royal Challengers Bengaluru,15,1,RM Patidar,N Burger,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,2,VR Iyer,N Burger,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,3,RM Patidar,N Burger,VR Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,4,RM Patidar,N Burger,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,5,RM Patidar,N Burger,VR Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,6,RM Patidar,N Burger,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,16,1,VR Iyer,Sandeep Sharma,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,2,RM Patidar,Sandeep Sharma,VR Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,3,RM Patidar,Sandeep Sharma,VR Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,4,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,5,RM Patidar,Sandeep Sharma,VR Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,6,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,1,VR Iyer,Ravi Bishnoi,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,2,RM Patidar,Ravi Bishnoi,VR Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,3,RM Patidar,Ravi Bishnoi,VR Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,4,RM Patidar,Ravi Bishnoi,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,5,VR Iyer,Ravi Bishnoi,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,6,VR Iyer,Ravi Bishnoi,RM Patidar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,1,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,False,False,,0,0,0,0,0,True,caught,RM Patidar,D Ferreira,death
+1,Royal Challengers Bengaluru,18,2.wides,B Kumar,Sandeep Sharma,VR Iyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,2,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,3,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,4,B Kumar,Sandeep Sharma,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,5,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,6,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,1,VR Iyer,Brijesh Sharma,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,2,B Kumar,Brijesh Sharma,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,3,B Kumar,Brijesh Sharma,VR Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,4,B Kumar,Brijesh Sharma,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,5,VR Iyer,Brijesh Sharma,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,6,B Kumar,Brijesh Sharma,VR Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,1,VR Iyer,Sandeep Sharma,B Kumar,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,2,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,3,VR Iyer,Sandeep Sharma,B Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,4,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,5.wides,VR Iyer,Sandeep Sharma,B Kumar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,5,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,6,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,1,1,YBK Jaiswal,B Kumar,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,2,YBK Jaiswal,B Kumar,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,3,V Suryavanshi,B Kumar,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,4,V Suryavanshi,B Kumar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,5,V Suryavanshi,B Kumar,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,1,6,V Suryavanshi,B Kumar,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,1,YBK Jaiswal,JR Hazlewood,V Suryavanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,2,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,3,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,4,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,5,YBK Jaiswal,JR Hazlewood,V Suryavanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,2,6,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,True,caught,YBK Jaiswal,JM Sharma,powerplay
+2,Rajasthan Royals,3,1,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,2,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,3,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,4,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,5,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,3,6,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,1,Dhruv Jurel,JR Hazlewood,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,2,Dhruv Jurel,JR Hazlewood,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,3,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,4,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,5,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,4,6,V Suryavanshi,JR Hazlewood,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,1,Dhruv Jurel,B Kumar,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,2,V Suryavanshi,B Kumar,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,3,V Suryavanshi,B Kumar,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,4,V Suryavanshi,B Kumar,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,5,V Suryavanshi,B Kumar,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,5,6,V Suryavanshi,B Kumar,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,1,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,2,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Rajasthan Royals,6,3,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,4,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,5,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,6,6,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,1,V Suryavanshi,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,2,Dhruv Jurel,KH Pandya,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,3,Dhruv Jurel,KH Pandya,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,4,V Suryavanshi,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,5,Dhruv Jurel,KH Pandya,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,7,6,V Suryavanshi,KH Pandya,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,1,Dhruv Jurel,TH David,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,2,Dhruv Jurel,TH David,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,3,V Suryavanshi,TH David,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,4,V Suryavanshi,TH David,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,5,V Suryavanshi,TH David,Dhruv Jurel,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,8,6,V Suryavanshi,TH David,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,1,V Suryavanshi,KH Pandya,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,True,caught,V Suryavanshi,V Kohli,middle
+2,Rajasthan Royals,9,2,SO Hetmyer,KH Pandya,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,True,caught,SO Hetmyer,JR Hazlewood,middle
+2,Rajasthan Royals,9,3,R Parag,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,4,Dhruv Jurel,KH Pandya,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,5,R Parag,KH Pandya,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,9,6,R Parag,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,1,R Parag,JR Hazlewood,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,2,Dhruv Jurel,JR Hazlewood,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,3,Dhruv Jurel,JR Hazlewood,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,4,R Parag,JR Hazlewood,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,True,caught,R Parag,KH Pandya,middle
+2,Rajasthan Royals,10,5,RA Jadeja,JR Hazlewood,Dhruv Jurel,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,10,6,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,1,RA Jadeja,KH Pandya,Dhruv Jurel,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,2,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,3,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,4,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,5,Dhruv Jurel,KH Pandya,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,11,6,Dhruv Jurel,KH Pandya,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,1,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,2,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,3,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,4,RA Jadeja,B Kumar,Dhruv Jurel,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Rajasthan Royals,12,5,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,12,6,RA Jadeja,B Kumar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,1,RA Jadeja,KH Pandya,Dhruv Jurel,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,2,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,3,Dhruv Jurel,KH Pandya,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,4,Dhruv Jurel,KH Pandya,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,5,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,13,6,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,1,RA Jadeja,JR Hazlewood,Dhruv Jurel,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+2,Rajasthan Royals,14,2,Dhruv Jurel,JR Hazlewood,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,3,Dhruv Jurel,JR Hazlewood,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,4,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,5,Dhruv Jurel,JR Hazlewood,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,14,6,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,1,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,2,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3.wides,Dhruv Jurel,Abhinandan Singh,RA Jadeja,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,3,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,4,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5.wides,RA Jadeja,Abhinandan Singh,Dhruv Jurel,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,5,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,15,6,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,1,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,2,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,3,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,4,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,5,Dhruv Jurel,R Shepherd,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,16,6,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,1,Dhruv Jurel,B Kumar,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,2,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,3,RA Jadeja,B Kumar,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,4,Dhruv Jurel,B Kumar,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,5,Dhruv Jurel,B Kumar,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,17,6,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,1,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,2,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,3,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,4,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,5,Dhruv Jurel,R Shepherd,RA Jadeja,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Rajasthan Royals,18,6,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death

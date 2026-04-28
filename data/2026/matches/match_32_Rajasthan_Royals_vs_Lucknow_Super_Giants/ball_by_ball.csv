@@ -1,238 +1,238 @@
-innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
-1,Rajasthan Royals,1,1.wides,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,1,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,2,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,3.wides,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,3,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,4,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,5,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,1,6,YBK Jaiswal,Mohammed Shami,V Suryavanshi,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,1,YBK Jaiswal,Prince Yadav,V Suryavanshi,5,0,5,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,2,V Suryavanshi,Prince Yadav,YBK Jaiswal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,3,V Suryavanshi,Prince Yadav,YBK Jaiswal,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,4,V Suryavanshi,Prince Yadav,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,5,V Suryavanshi,Prince Yadav,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,2,6,V Suryavanshi,Prince Yadav,YBK Jaiswal,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,3,1,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,3,2,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,3,3,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,3,4,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,3,5,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,True,caught,YBK Jaiswal,RR Pant,powerplay
-1,Rajasthan Royals,3,6,Dhruv Jurel,Mohammed Shami,V Suryavanshi,0,0,0,,0,0,0,0,0,True,caught,Dhruv Jurel,RR Pant,powerplay
-1,Rajasthan Royals,4,1,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,4,2,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,4,3,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,4,4,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,4,5,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,4,6,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,True,caught,V Suryavanshi,DS Rathi,powerplay
-1,Rajasthan Royals,5,1.wides,R Parag,Mohammed Shami,SO Hetmyer,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,5,1,R Parag,Mohammed Shami,SO Hetmyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,5,2,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,5,3,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,5,4,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,5,5,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,5,6,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,6,1,SO Hetmyer,Mohsin Khan,R Parag,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,6,2,SO Hetmyer,Mohsin Khan,R Parag,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,6,3,R Parag,Mohsin Khan,SO Hetmyer,4,0,4,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,6,4,R Parag,Mohsin Khan,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,6,5,R Parag,Mohsin Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,6,6,SO Hetmyer,Mohsin Khan,R Parag,1,0,1,,0,0,0,0,0,False,,,,powerplay
-1,Rajasthan Royals,7,1,SO Hetmyer,MP Yadav,R Parag,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,7,2.wides,SO Hetmyer,MP Yadav,R Parag,0,1,1,wides,1,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,7,2,SO Hetmyer,MP Yadav,R Parag,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,7,3,SO Hetmyer,MP Yadav,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,7,4,R Parag,MP Yadav,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,7,5,R Parag,MP Yadav,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,7,6,R Parag,MP Yadav,SO Hetmyer,6,0,6,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,8,1,SO Hetmyer,DS Rathi,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,8,2,R Parag,DS Rathi,SO Hetmyer,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,8,3,R Parag,DS Rathi,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,8,4,SO Hetmyer,DS Rathi,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,8,5,R Parag,DS Rathi,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,8,6,R Parag,DS Rathi,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,1,R Parag,Prince Yadav,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,2,SO Hetmyer,Prince Yadav,R Parag,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,3,SO Hetmyer,Prince Yadav,R Parag,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,4,SO Hetmyer,Prince Yadav,R Parag,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,5,R Parag,Prince Yadav,SO Hetmyer,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,9,6,R Parag,Prince Yadav,SO Hetmyer,0,0,0,,0,0,0,0,0,True,caught,R Parag,N Pooran,middle
-1,Rajasthan Royals,10,1,SO Hetmyer,MP Yadav,RA Jadeja,6,0,6,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,10,2,SO Hetmyer,MP Yadav,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,10,3,SO Hetmyer,MP Yadav,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,10,4,SO Hetmyer,MP Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,10,5,SO Hetmyer,MP Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,10,6,SO Hetmyer,MP Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,11,1,RA Jadeja,Mohsin Khan,SO Hetmyer,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,11,2,SO Hetmyer,Mohsin Khan,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,SO Hetmyer,Prince Yadav,middle
-1,Rajasthan Royals,11,3,D Ferreira,Mohsin Khan,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,11,4,D Ferreira,Mohsin Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,11,5,RA Jadeja,Mohsin Khan,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,11,6,D Ferreira,Mohsin Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,12,1,D Ferreira,DS Rathi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,12,2,D Ferreira,DS Rathi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,12,3,D Ferreira,DS Rathi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,12,4,RA Jadeja,DS Rathi,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,12,5,D Ferreira,DS Rathi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,12,6,RA Jadeja,DS Rathi,D Ferreira,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,13,1,D Ferreira,Mohammed Shami,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,13,2,D Ferreira,Mohammed Shami,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,13,3,RA Jadeja,Mohammed Shami,D Ferreira,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,13,4,RA Jadeja,Mohammed Shami,D Ferreira,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,13,5,RA Jadeja,Mohammed Shami,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,13,6,D Ferreira,Mohammed Shami,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,1,RA Jadeja,DS Rathi,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,2,D Ferreira,DS Rathi,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,3,D Ferreira,DS Rathi,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,4,D Ferreira,DS Rathi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,5,RA Jadeja,DS Rathi,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,14,6,D Ferreira,DS Rathi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,1,D Ferreira,MP Yadav,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,2,D Ferreira,MP Yadav,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,3,RA Jadeja,MP Yadav,D Ferreira,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,4,RA Jadeja,MP Yadav,D Ferreira,2,0,2,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,5,RA Jadeja,MP Yadav,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,15,6,D Ferreira,MP Yadav,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,middle
-1,Rajasthan Royals,16,1,RA Jadeja,Prince Yadav,D Ferreira,0,0,0,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,16,2,RA Jadeja,Prince Yadav,D Ferreira,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,16,3,RA Jadeja,Prince Yadav,D Ferreira,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,16,4,D Ferreira,Prince Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,16,5,D Ferreira,Prince Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,True,caught,D Ferreira,Mohsin Khan,death
-1,Rajasthan Royals,16,6,SB Dubey,Prince Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,1,RA Jadeja,Mohsin Khan,SB Dubey,0,0,0,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,2,RA Jadeja,Mohsin Khan,SB Dubey,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,3,SB Dubey,Mohsin Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,4,RA Jadeja,Mohsin Khan,SB Dubey,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,5,SB Dubey,Mohsin Khan,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,17,6,RA Jadeja,Mohsin Khan,SB Dubey,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,1,SB Dubey,DS Rathi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,2,RA Jadeja,DS Rathi,SB Dubey,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,3,RA Jadeja,DS Rathi,SB Dubey,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,4,SB Dubey,DS Rathi,RA Jadeja,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,5,SB Dubey,DS Rathi,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,18,6,SB Dubey,DS Rathi,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,19,1,SB Dubey,Prince Yadav,RA Jadeja,0,0,0,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,19,2,SB Dubey,Prince Yadav,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,19,3,SB Dubey,Prince Yadav,RA Jadeja,1,0,1,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,19,4,RA Jadeja,Prince Yadav,SB Dubey,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,19,5,RA Jadeja,Prince Yadav,SB Dubey,0,1,1,legbyes,0,0,0,1,0,False,,,,death
-1,Rajasthan Royals,19,6,SB Dubey,Prince Yadav,RA Jadeja,4,0,4,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,20,1,RA Jadeja,MP Yadav,SB Dubey,4,0,4,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,20,2,RA Jadeja,MP Yadav,SB Dubey,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,20,3,RA Jadeja,MP Yadav,SB Dubey,4,0,4,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,20,4,RA Jadeja,MP Yadav,SB Dubey,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,20,5,RA Jadeja,MP Yadav,SB Dubey,2,0,2,,0,0,0,0,0,False,,,,death
-1,Rajasthan Royals,20,6,RA Jadeja,MP Yadav,SB Dubey,6,0,6,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,1,1,MR Marsh,JC Archer,A Badoni,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,1,2,MR Marsh,JC Archer,A Badoni,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,1,3,MR Marsh,JC Archer,A Badoni,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,1,4,MR Marsh,JC Archer,A Badoni,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,1,5,MR Marsh,JC Archer,A Badoni,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,1,6,A Badoni,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,True,run out,A Badoni,Ravi Singh,powerplay
-2,Lucknow Super Giants,2,1,MR Marsh,N Burger,RR Pant,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,2,2,RR Pant,N Burger,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,2,3,RR Pant,N Burger,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,2,4,RR Pant,N Burger,MR Marsh,0,0,0,,0,0,0,0,0,True,caught,RR Pant,Dhruv Jurel,powerplay
-2,Lucknow Super Giants,2,5,AK Markram,N Burger,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,2,6,AK Markram,N Burger,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,3,1,MR Marsh,JC Archer,AK Markram,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,3,2,AK Markram,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,3,3,AK Markram,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,3,4,AK Markram,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,3,5,AK Markram,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,True,caught,AK Markram,Dhruv Jurel,powerplay
-2,Lucknow Super Giants,3,6.wides,N Pooran,JC Archer,MR Marsh,0,1,1,wides,1,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,3,6,N Pooran,JC Archer,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,4,1,MR Marsh,N Burger,N Pooran,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,4,2,MR Marsh,N Burger,N Pooran,4,0,4,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,4,3,MR Marsh,N Burger,N Pooran,0,1,1,legbyes,0,0,0,1,0,False,,,,powerplay
-2,Lucknow Super Giants,4,4,N Pooran,N Burger,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,4,5,MR Marsh,N Burger,N Pooran,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,4,6,MR Marsh,N Burger,N Pooran,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,5,1,N Pooran,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,5,2,N Pooran,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,5,3,N Pooran,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,5,4,N Pooran,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,5,5,N Pooran,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,5,6,N Pooran,JC Archer,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,6,1,MR Marsh,N Burger,N Pooran,1,0,1,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,6,2,N Pooran,N Burger,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,powerplay
-2,Lucknow Super Giants,6,3,N Pooran,N Burger,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,6,4,MR Marsh,N Burger,N Pooran,6,0,6,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,6,5,MR Marsh,N Burger,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,6,6,MR Marsh,N Burger,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,7,1,MR Marsh,Brijesh Sharma,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,7,2,MR Marsh,Brijesh Sharma,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,7,3,N Pooran,Brijesh Sharma,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,7,4,N Pooran,Brijesh Sharma,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,7,5,N Pooran,Brijesh Sharma,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,7,6,N Pooran,Brijesh Sharma,MR Marsh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,8,1,MR Marsh,RA Jadeja,N Pooran,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,8,2,MR Marsh,RA Jadeja,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,8,3,N Pooran,RA Jadeja,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,8,4,MR Marsh,RA Jadeja,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,8,5,N Pooran,RA Jadeja,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,8,6,N Pooran,RA Jadeja,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,1,N Pooran,Ravi Bishnoi,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,2,MR Marsh,Ravi Bishnoi,N Pooran,2,0,2,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,3,MR Marsh,Ravi Bishnoi,N Pooran,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,4.wides,N Pooran,Ravi Bishnoi,MR Marsh,0,1,1,wides,1,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,4,N Pooran,Ravi Bishnoi,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,5,N Pooran,Ravi Bishnoi,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,9,6,N Pooran,Ravi Bishnoi,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,10,1,N Pooran,RA Jadeja,MR Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,10,2,N Pooran,RA Jadeja,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,10,3,N Pooran,RA Jadeja,MR Marsh,2,0,2,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,10,4,N Pooran,RA Jadeja,MR Marsh,0,0,0,,0,0,0,0,0,True,caught,N Pooran,D Ferreira,middle
-2,Lucknow Super Giants,10,5,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,10,6,MR Marsh,RA Jadeja,Himmat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,1,Himmat Singh,Ravi Bishnoi,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,2,MR Marsh,Ravi Bishnoi,Himmat Singh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,3,MR Marsh,Ravi Bishnoi,Himmat Singh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,4,MR Marsh,Ravi Bishnoi,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,5.wides,Himmat Singh,Ravi Bishnoi,MR Marsh,0,1,1,wides,1,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,5,Himmat Singh,Ravi Bishnoi,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,11,6,Himmat Singh,Ravi Bishnoi,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,12,1,MR Marsh,RA Jadeja,Himmat Singh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,12,2,MR Marsh,RA Jadeja,Himmat Singh,4,0,4,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,12,3,MR Marsh,RA Jadeja,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,12,4,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,middle
-2,Lucknow Super Giants,12,5,MR Marsh,RA Jadeja,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,12,6,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,13,1,Himmat Singh,Brijesh Sharma,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,13,2,MR Marsh,Brijesh Sharma,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,13,3,Himmat Singh,Brijesh Sharma,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,13,4,MR Marsh,Brijesh Sharma,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,13,5,Himmat Singh,Brijesh Sharma,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,13,6,MR Marsh,Brijesh Sharma,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,14,1.wides,MR Marsh,RA Jadeja,Himmat Singh,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,14,1,MR Marsh,RA Jadeja,Himmat Singh,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,14,2,MR Marsh,RA Jadeja,Himmat Singh,0,1,1,legbyes,0,0,0,1,0,False,,,,death
-2,Lucknow Super Giants,14,3,Himmat Singh,RA Jadeja,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,14,4,Himmat Singh,RA Jadeja,MR Marsh,6,0,6,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,14,5,Himmat Singh,RA Jadeja,MR Marsh,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,14,6,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,15,1,Himmat Singh,Ravi Bishnoi,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,15,2,MR Marsh,Ravi Bishnoi,Himmat Singh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,15,3,Himmat Singh,Ravi Bishnoi,MR Marsh,0,0,0,,0,0,0,0,0,True,bowled,Himmat Singh,,death
-2,Lucknow Super Giants,15,4,MD Choudhary,Ravi Bishnoi,MR Marsh,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,15,5,MR Marsh,Ravi Bishnoi,MD Choudhary,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,15,6,MD Choudhary,Ravi Bishnoi,MR Marsh,6,0,6,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,16,1,MR Marsh,N Burger,MD Choudhary,6,0,6,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,16,2,MR Marsh,N Burger,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,16,3,MR Marsh,N Burger,MD Choudhary,0,0,0,,0,0,0,0,0,True,caught,MR Marsh,R Parag,death
-2,Lucknow Super Giants,16,4,Mohammed Shami,N Burger,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,16,5,Mohammed Shami,N Burger,MD Choudhary,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,16,6,Mohammed Shami,N Burger,MD Choudhary,6,0,6,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,17,1,MD Choudhary,Brijesh Sharma,Mohammed Shami,0,0,0,,0,0,0,0,0,True,caught,MD Choudhary,R Parag,death
-2,Lucknow Super Giants,17,2.wides,MP Yadav,Brijesh Sharma,Mohammed Shami,0,1,1,wides,1,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,17,2,MP Yadav,Brijesh Sharma,Mohammed Shami,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,17,3,Mohammed Shami,Brijesh Sharma,MP Yadav,0,0,0,,0,0,0,0,0,True,bowled,Mohammed Shami,,death
-2,Lucknow Super Giants,17,4,DS Rathi,Brijesh Sharma,MP Yadav,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,17,5,MP Yadav,Brijesh Sharma,DS Rathi,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,17,6,MP Yadav,Brijesh Sharma,DS Rathi,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,18,1,DS Rathi,JC Archer,MP Yadav,1,0,1,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,18,2,MP Yadav,JC Archer,DS Rathi,4,0,4,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,18,3,MP Yadav,JC Archer,DS Rathi,0,0,0,,0,0,0,0,0,True,caught,MP Yadav,Dhruv Jurel,death
-2,Lucknow Super Giants,18,4,Mohsin Khan,JC Archer,DS Rathi,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,18,5,Mohsin Khan,JC Archer,DS Rathi,0,0,0,,0,0,0,0,0,False,,,,death
-2,Lucknow Super Giants,18,6,Mohsin Khan,JC Archer,DS Rathi,0,0,0,,0,0,0,0,0,True,bowled,Mohsin Khan,,death
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Rajasthan Royals,1,1.wides,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,1,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,2,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,3.wides,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,3,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,4,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,5,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,1,6,YBK Jaiswal,Mohammed Shami,V Suryavanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,1,YBK Jaiswal,Prince Yadav,V Suryavanshi,5,0,5,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,2,V Suryavanshi,Prince Yadav,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,3,V Suryavanshi,Prince Yadav,YBK Jaiswal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,4,V Suryavanshi,Prince Yadav,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,5,V Suryavanshi,Prince Yadav,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,2,6,V Suryavanshi,Prince Yadav,YBK Jaiswal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,1,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,2,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,3,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,4,YBK Jaiswal,Mohammed Shami,V Suryavanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,3,5,YBK Jaiswal,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,True,caught,YBK Jaiswal,RR Pant,powerplay
+1,Rajasthan Royals,3,6,Dhruv Jurel,Mohammed Shami,V Suryavanshi,0,0,0,False,False,,0,0,0,0,0,True,caught,Dhruv Jurel,RR Pant,powerplay
+1,Rajasthan Royals,4,1,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,2,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,3,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,4,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,5,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,4,6,V Suryavanshi,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,True,caught,V Suryavanshi,DS Rathi,powerplay
+1,Rajasthan Royals,5,1.wides,R Parag,Mohammed Shami,SO Hetmyer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,1,R Parag,Mohammed Shami,SO Hetmyer,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,2,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,3,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,4,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,5,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,5,6,R Parag,Mohammed Shami,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,1,SO Hetmyer,Mohsin Khan,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,2,SO Hetmyer,Mohsin Khan,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,3,R Parag,Mohsin Khan,SO Hetmyer,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,4,R Parag,Mohsin Khan,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,5,R Parag,Mohsin Khan,SO Hetmyer,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,6,6,SO Hetmyer,Mohsin Khan,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Rajasthan Royals,7,1,SO Hetmyer,MP Yadav,R Parag,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,2.wides,SO Hetmyer,MP Yadav,R Parag,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,2,SO Hetmyer,MP Yadav,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,3,SO Hetmyer,MP Yadav,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,4,R Parag,MP Yadav,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,5,R Parag,MP Yadav,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,7,6,R Parag,MP Yadav,SO Hetmyer,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,1,SO Hetmyer,DS Rathi,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,2,R Parag,DS Rathi,SO Hetmyer,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,3,R Parag,DS Rathi,SO Hetmyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,4,SO Hetmyer,DS Rathi,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,5,R Parag,DS Rathi,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,8,6,R Parag,DS Rathi,SO Hetmyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,1,R Parag,Prince Yadav,SO Hetmyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,2,SO Hetmyer,Prince Yadav,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,3,SO Hetmyer,Prince Yadav,R Parag,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,4,SO Hetmyer,Prince Yadav,R Parag,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,5,R Parag,Prince Yadav,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,9,6,R Parag,Prince Yadav,SO Hetmyer,0,0,0,False,False,,0,0,0,0,0,True,caught,R Parag,N Pooran,middle
+1,Rajasthan Royals,10,1,SO Hetmyer,MP Yadav,RA Jadeja,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,2,SO Hetmyer,MP Yadav,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,3,SO Hetmyer,MP Yadav,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,4,SO Hetmyer,MP Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,5,SO Hetmyer,MP Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,10,6,SO Hetmyer,MP Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,1,RA Jadeja,Mohsin Khan,SO Hetmyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,2,SO Hetmyer,Mohsin Khan,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,True,caught,SO Hetmyer,Prince Yadav,middle
+1,Rajasthan Royals,11,3,D Ferreira,Mohsin Khan,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,4,D Ferreira,Mohsin Khan,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,5,RA Jadeja,Mohsin Khan,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,11,6,D Ferreira,Mohsin Khan,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,1,D Ferreira,DS Rathi,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,2,D Ferreira,DS Rathi,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,3,D Ferreira,DS Rathi,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,4,RA Jadeja,DS Rathi,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,5,D Ferreira,DS Rathi,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,12,6,RA Jadeja,DS Rathi,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,1,D Ferreira,Mohammed Shami,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,2,D Ferreira,Mohammed Shami,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,3,RA Jadeja,Mohammed Shami,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,4,RA Jadeja,Mohammed Shami,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,5,RA Jadeja,Mohammed Shami,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,13,6,D Ferreira,Mohammed Shami,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,1,RA Jadeja,DS Rathi,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,2,D Ferreira,DS Rathi,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,3,D Ferreira,DS Rathi,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,4,D Ferreira,DS Rathi,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,5,RA Jadeja,DS Rathi,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,14,6,D Ferreira,DS Rathi,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,1,D Ferreira,MP Yadav,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,2,D Ferreira,MP Yadav,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,3,RA Jadeja,MP Yadav,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,4,RA Jadeja,MP Yadav,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,5,RA Jadeja,MP Yadav,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,15,6,D Ferreira,MP Yadav,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Rajasthan Royals,16,1,RA Jadeja,Prince Yadav,D Ferreira,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,2,RA Jadeja,Prince Yadav,D Ferreira,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,3,RA Jadeja,Prince Yadav,D Ferreira,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,4,D Ferreira,Prince Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,16,5,D Ferreira,Prince Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,True,caught,D Ferreira,Mohsin Khan,death
+1,Rajasthan Royals,16,6,SB Dubey,Prince Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,1,RA Jadeja,Mohsin Khan,SB Dubey,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,2,RA Jadeja,Mohsin Khan,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,3,SB Dubey,Mohsin Khan,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,4,RA Jadeja,Mohsin Khan,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,5,SB Dubey,Mohsin Khan,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,17,6,RA Jadeja,Mohsin Khan,SB Dubey,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,1,SB Dubey,DS Rathi,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,2,RA Jadeja,DS Rathi,SB Dubey,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,3,RA Jadeja,DS Rathi,SB Dubey,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,4,SB Dubey,DS Rathi,RA Jadeja,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,5,SB Dubey,DS Rathi,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,18,6,SB Dubey,DS Rathi,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,1,SB Dubey,Prince Yadav,RA Jadeja,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,2,SB Dubey,Prince Yadav,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,3,SB Dubey,Prince Yadav,RA Jadeja,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,4,RA Jadeja,Prince Yadav,SB Dubey,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,19,5,RA Jadeja,Prince Yadav,SB Dubey,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+1,Rajasthan Royals,19,6,SB Dubey,Prince Yadav,RA Jadeja,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,1,RA Jadeja,MP Yadav,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,2,RA Jadeja,MP Yadav,SB Dubey,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,3,RA Jadeja,MP Yadav,SB Dubey,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,4,RA Jadeja,MP Yadav,SB Dubey,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,5,RA Jadeja,MP Yadav,SB Dubey,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Rajasthan Royals,20,6,RA Jadeja,MP Yadav,SB Dubey,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,1,1,MR Marsh,JC Archer,A Badoni,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,2,MR Marsh,JC Archer,A Badoni,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,3,MR Marsh,JC Archer,A Badoni,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,4,MR Marsh,JC Archer,A Badoni,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,5,MR Marsh,JC Archer,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,1,6,A Badoni,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,run out,A Badoni,Ravi Singh,powerplay
+2,Lucknow Super Giants,2,1,MR Marsh,N Burger,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,2,RR Pant,N Burger,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,3,RR Pant,N Burger,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,4,RR Pant,N Burger,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,caught,RR Pant,Dhruv Jurel,powerplay
+2,Lucknow Super Giants,2,5,AK Markram,N Burger,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,2,6,AK Markram,N Burger,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,1,MR Marsh,JC Archer,AK Markram,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,2,AK Markram,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,3,AK Markram,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,4,AK Markram,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,5,AK Markram,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,caught,AK Markram,Dhruv Jurel,powerplay
+2,Lucknow Super Giants,3,6.wides,N Pooran,JC Archer,MR Marsh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,3,6,N Pooran,JC Archer,MR Marsh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,1,MR Marsh,N Burger,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,2,MR Marsh,N Burger,N Pooran,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,3,MR Marsh,N Burger,N Pooran,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Lucknow Super Giants,4,4,N Pooran,N Burger,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,5,MR Marsh,N Burger,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,4,6,MR Marsh,N Burger,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,1,N Pooran,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,2,N Pooran,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,3,N Pooran,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,4,N Pooran,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,5,N Pooran,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,5,6,N Pooran,JC Archer,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,1,MR Marsh,N Burger,N Pooran,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,2,N Pooran,N Burger,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Lucknow Super Giants,6,3,N Pooran,N Burger,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,6,4,MR Marsh,N Burger,N Pooran,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,6,5,MR Marsh,N Burger,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,6,6,MR Marsh,N Burger,N Pooran,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,1,MR Marsh,Brijesh Sharma,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,2,MR Marsh,Brijesh Sharma,N Pooran,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,3,N Pooran,Brijesh Sharma,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,4,N Pooran,Brijesh Sharma,MR Marsh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,5,N Pooran,Brijesh Sharma,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,7,6,N Pooran,Brijesh Sharma,MR Marsh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,1,MR Marsh,RA Jadeja,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,2,MR Marsh,RA Jadeja,N Pooran,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,3,N Pooran,RA Jadeja,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,4,MR Marsh,RA Jadeja,N Pooran,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,5,N Pooran,RA Jadeja,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,8,6,N Pooran,RA Jadeja,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,1,N Pooran,Ravi Bishnoi,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,2,MR Marsh,Ravi Bishnoi,N Pooran,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,3,MR Marsh,Ravi Bishnoi,N Pooran,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,4.wides,N Pooran,Ravi Bishnoi,MR Marsh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,4,N Pooran,Ravi Bishnoi,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,5,N Pooran,Ravi Bishnoi,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,9,6,N Pooran,Ravi Bishnoi,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,1,N Pooran,RA Jadeja,MR Marsh,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,2,N Pooran,RA Jadeja,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,3,N Pooran,RA Jadeja,MR Marsh,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,4,N Pooran,RA Jadeja,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,caught,N Pooran,D Ferreira,middle
+2,Lucknow Super Giants,10,5,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,10,6,MR Marsh,RA Jadeja,Himmat Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,1,Himmat Singh,Ravi Bishnoi,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,2,MR Marsh,Ravi Bishnoi,Himmat Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,3,MR Marsh,Ravi Bishnoi,Himmat Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,4,MR Marsh,Ravi Bishnoi,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,5.wides,Himmat Singh,Ravi Bishnoi,MR Marsh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,5,Himmat Singh,Ravi Bishnoi,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,11,6,Himmat Singh,Ravi Bishnoi,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,1,MR Marsh,RA Jadeja,Himmat Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,2,MR Marsh,RA Jadeja,Himmat Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,3,MR Marsh,RA Jadeja,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,4,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Lucknow Super Giants,12,5,MR Marsh,RA Jadeja,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,12,6,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,1,Himmat Singh,Brijesh Sharma,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,2,MR Marsh,Brijesh Sharma,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,3,Himmat Singh,Brijesh Sharma,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,4,MR Marsh,Brijesh Sharma,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,5,Himmat Singh,Brijesh Sharma,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,13,6,MR Marsh,Brijesh Sharma,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,1.wides,MR Marsh,RA Jadeja,Himmat Singh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,1,MR Marsh,RA Jadeja,Himmat Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,2,MR Marsh,RA Jadeja,Himmat Singh,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+2,Lucknow Super Giants,14,3,Himmat Singh,RA Jadeja,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,4,Himmat Singh,RA Jadeja,MR Marsh,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,5,Himmat Singh,RA Jadeja,MR Marsh,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,14,6,Himmat Singh,RA Jadeja,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,1,Himmat Singh,Ravi Bishnoi,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,2,MR Marsh,Ravi Bishnoi,Himmat Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,3,Himmat Singh,Ravi Bishnoi,MR Marsh,0,0,0,False,False,,0,0,0,0,0,True,bowled,Himmat Singh,,death
+2,Lucknow Super Giants,15,4,MD Choudhary,Ravi Bishnoi,MR Marsh,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,5,MR Marsh,Ravi Bishnoi,MD Choudhary,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,15,6,MD Choudhary,Ravi Bishnoi,MR Marsh,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,1,MR Marsh,N Burger,MD Choudhary,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,2,MR Marsh,N Burger,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,3,MR Marsh,N Burger,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,True,caught,MR Marsh,R Parag,death
+2,Lucknow Super Giants,16,4,Mohammed Shami,N Burger,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,5,Mohammed Shami,N Burger,MD Choudhary,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,16,6,Mohammed Shami,N Burger,MD Choudhary,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,1,MD Choudhary,Brijesh Sharma,Mohammed Shami,0,0,0,False,False,,0,0,0,0,0,True,caught,MD Choudhary,R Parag,death
+2,Lucknow Super Giants,17,2.wides,MP Yadav,Brijesh Sharma,Mohammed Shami,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,2,MP Yadav,Brijesh Sharma,Mohammed Shami,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,3,Mohammed Shami,Brijesh Sharma,MP Yadav,0,0,0,False,False,,0,0,0,0,0,True,bowled,Mohammed Shami,,death
+2,Lucknow Super Giants,17,4,DS Rathi,Brijesh Sharma,MP Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,5,MP Yadav,Brijesh Sharma,DS Rathi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,17,6,MP Yadav,Brijesh Sharma,DS Rathi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,1,DS Rathi,JC Archer,MP Yadav,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,2,MP Yadav,JC Archer,DS Rathi,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,3,MP Yadav,JC Archer,DS Rathi,0,0,0,False,False,,0,0,0,0,0,True,caught,MP Yadav,Dhruv Jurel,death
+2,Lucknow Super Giants,18,4,Mohsin Khan,JC Archer,DS Rathi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,5,Mohsin Khan,JC Archer,DS Rathi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Lucknow Super Giants,18,6,Mohsin Khan,JC Archer,DS Rathi,0,0,0,False,False,,0,0,0,0,0,True,bowled,Mohsin Khan,,death

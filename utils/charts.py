@@ -211,16 +211,17 @@ def manhattan_chart(bbb_df, match_number, innings):
         return go.Figure()
     team = idf["team"].iloc[0]
 
-    idf["is_six"] = (idf["batter_runs"] == 6).astype(int) * 6
-    idf["is_four"] = (idf["batter_runs"] == 4).astype(int) * 4
-    idf["other_bat"] = idf.apply(
-        lambda r: r["batter_runs"] if r["batter_runs"] not in (4, 6) else 0, axis=1
-    )
+    # `is_four` / `is_six` are derived in load_ball_by_ball() and gate on is_boundary,
+    # so ran-fours/sixes are correctly excluded from the boundary stacks.
+    idf["six_runs"] = idf["is_six"].astype(int) * 6
+    idf["four_runs"] = idf["is_four"].astype(int) * 4
+    # "other" runs include all non-boundary batter runs, including 4s/6s that were run
+    idf["other_bat"] = idf["batter_runs"] - idf["six_runs"] - idf["four_runs"]
     idf["extras"] = idf["extra_runs"]
 
     agg = idf.groupby("over").agg(
-        sixes=("is_six", "sum"),
-        fours=("is_four", "sum"),
+        sixes=("six_runs", "sum"),
+        fours=("four_runs", "sum"),
         other=("other_bat", "sum"),
         extras=("extras", "sum"),
         wickets=("is_wicket", "sum"),
@@ -966,7 +967,7 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
     df["x_raw"] = df["over"] + df["ball"] / 10
     df["team_s"] = df["team"].map(team_short)
 
-    # Batting/bowling context per sub
+    # Batting/bowling context kept for hover detail only — y-axis now encodes innings.
     if bbb_df is not None and not bbb_df.empty and "match_number" in df.columns:
         bat_map = (
             bbb_df.drop_duplicates(["match_number", "innings"])[
@@ -980,7 +981,8 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
         )
     else:
         df["context"] = "batting"
-    df["y"] = df["context"].map({"batting": 1.0, "bowling": 0.0})
+    # Innings 1 → top lane, Innings 2 → bottom lane.
+    df["y"] = df["innings"].map({1: 1.0, 2: 0.0}).fillna(1.0)
 
     # Opponent per match for hover
     if matches_df is not None and not matches_df.empty and "match_number" in df.columns:
@@ -994,10 +996,10 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
     else:
         df["opponent_s"] = ""
 
-    # Spread same-(team, context, over) clusters across a small x-band so stacks are visible
-    df = df.sort_values(["team_s", "context", "x_raw", "match_number"]).reset_index(drop=True)
+    # Spread same-(team, innings, over) clusters across a small x-band so stacks are visible
+    df = df.sort_values(["team_s", "innings", "x_raw", "match_number"]).reset_index(drop=True)
     df["x"] = df["x_raw"]
-    for _, grp in df.groupby(["team_s", "context", "x_raw"]):
+    for _, grp in df.groupby(["team_s", "innings", "x_raw"]):
         n = len(grp)
         if n <= 1:
             continue
@@ -1058,9 +1060,10 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
                 x=sub["x"], y=sub["y"],
                 mode="markers",
                 name=intent_label[intent],
-                legendgroup=intent,
+                legendgroup="intent",
                 showlegend=show,
-                marker=dict(symbol="circle", size=13, color=intent_color[intent],
+                marker=dict(symbol="circle", size=13,
+                            color=intent_color[intent],
                             line=dict(color="#ffffff", width=1.5)),
                 customdata=list(zip(
                     sub["player_in"], sub["player_out"], sub["innings"],
@@ -1073,15 +1076,17 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
                 ),
             ), row=r, col=c)
 
-        fig.update_xaxes(range=[-0.5, 20.5], dtick=5, row=r, col=c,
+        fig.update_xaxes(range=[0, 20], dtick=5, row=r, col=c,
                          gridcolor="#f3f4f6", zeroline=False,
                          title_text="Over" if r == rows else "",
                          showline=False)
         fig.update_yaxes(range=[-0.6, 1.6], row=r, col=c,
                          tickmode="array", tickvals=[0, 1],
-                         ticktext=["Bowl", "Bat"],
+                         ticktext=["Inn 2  ", "Inn 1  "],
+                         ticklen=8,
                          gridcolor="#f3f4f6", zeroline=False,
-                         showline=False, tickfont=dict(size=10, color="#6b7280"))
+                         showline=False, automargin=True,
+                         tickfont=dict(size=10, color="#6b7280"))
 
     # Per-panel: external header (logo + team name, metadata) + team-colored border
     for idx, team in enumerate(team_order):
@@ -1133,8 +1138,14 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
         height=860,
         plot_bgcolor="white", paper_bgcolor="white",
         font=dict(family="Inter, sans-serif", size=11, color="#1f2937"),
-        legend=dict(orientation="h", yanchor="top", y=-0.10, xanchor="center", x=0.5),
-        margin=dict(l=60, r=30, t=60, b=110),
+        legend=dict(
+            orientation="h",
+            yanchor="top", y=-0.08,
+            xanchor="center", x=0.5,
+            traceorder="normal",
+            itemwidth=30,
+        ),
+        margin=dict(l=60, r=30, t=60, b=80),
     )
     return fig
 

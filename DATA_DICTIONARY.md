@@ -92,6 +92,8 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | batter_runs | int | Runs scored by batter |
 | extra_runs | int | Total extra runs |
 | total_runs | int | Total runs off the delivery |
+| is_boundary | bool | `True` only when the delivery was a 4 or 6 hit. `False` for every non-4/6 delivery, *and* `False` for the rare case where the batter physically ran 4 or 6. Use this column to count boundaries |
+| non_boundary_run | bool | `True` only when `batter_runs ∈ {4, 6}` *and* the runs came from running, not a boundary. Mirrors cricsheet's `non_boundary` flag. Almost always `False` |
 | extra_type | string | wide / noball / legbye / bye / penalty (empty if none) |
 | wides | int | Wide runs (0 if not a wide) |
 | noballs | int | No ball runs (0 if not a no ball) |
@@ -129,9 +131,9 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | overs | float | Overs bowled (e.g., 3.4) |
 | maidens | int | Maiden overs |
 | runs | int | Runs conceded |
-| wickets | int | Wickets taken |
+| wickets | int | Wickets taken (only credited for `bowled`, `caught`, `caught and bowled`, `lbw`, `stumped`, `hit wicket` — run-outs, retired, obstructing the field, etc. do not count) |
 | economy | float | Runs per over |
-| dots | int | Dot balls bowled |
+| dots | int | Dot balls bowled (legal delivery with zero total runs) |
 | wides | int | Wides bowled |
 | noballs | int | No balls bowled |
 
@@ -193,6 +195,8 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 
 ### `super_over.csv` *(only present when a super over was played)*
 
+When a match is tied in regulation and decided by a super over, cricsheet records the super-over winner under `outcome.eliminator` rather than `outcome.winner`. The parser maps that back into `matches.csv → winner` so points-table and result-card logic work unchanged. The full super-over deliveries live in this file.
+
 | Column | Type | Description |
 |--------|------|-------------|
 | team | string | Batting team |
@@ -207,6 +211,7 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | is_wicket | bool | Whether a wicket fell |
 | wicket_kind | string | Dismissal type |
 | player_out | string | Dismissed batter |
+| fielders | string | Comma-separated fielders involved in the dismissal (catcher for `caught`, fielder for `run out`, etc.). Empty for non-fielding dismissals like `bowled` |
 
 ### `substitutions.csv` *(only present when substitutions occurred)*
 

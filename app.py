@@ -11,6 +11,7 @@ from utils.data_loader import (
     load_bowling_scorecards, load_partnerships, load_fall_of_wickets,
     load_phase_summaries, load_points_table, load_reviews,
     load_substitutions, load_all_fielding, load_players,
+    load_super_over,
 )
 from utils.charts import (
     horizontal_bar, vertical_bar, line_chart, worm_chart,
@@ -73,17 +74,24 @@ def _has_rain_shortened(matches_df):
 
 
 HOME_VENUES = {
-    "Chennai Super Kings": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "Mumbai Indians": "Wankhede Stadium, Mumbai",
-    "Royal Challengers Bengaluru": "M Chinnaswamy Stadium, Bengaluru",
-    "Kolkata Knight Riders": "Eden Gardens, Kolkata",
-    "Rajasthan Royals": "Barsapara Cricket Stadium, Guwahati",
-    "Sunrisers Hyderabad": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "Delhi Capitals": "Arun Jaitley Stadium, Delhi",
-    "Punjab Kings": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
-    "Gujarat Titans": "Narendra Modi Stadium, Ahmedabad",
-    "Lucknow Super Giants": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "Chennai Super Kings": ["MA Chidambaram Stadium, Chepauk, Chennai"],
+    "Mumbai Indians": ["Wankhede Stadium, Mumbai"],
+    "Royal Challengers Bengaluru": ["M Chinnaswamy Stadium, Bengaluru"],
+    "Kolkata Knight Riders": ["Eden Gardens, Kolkata"],
+    "Rajasthan Royals": [
+        "Sawai Mansingh Stadium, Jaipur",
+        "Barsapara Cricket Stadium, Guwahati",
+    ],
+    "Sunrisers Hyderabad": ["Rajiv Gandhi International Stadium, Uppal, Hyderabad"],
+    "Delhi Capitals": ["Arun Jaitley Stadium, Delhi"],
+    "Punjab Kings": ["Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"],
+    "Gujarat Titans": ["Narendra Modi Stadium, Ahmedabad"],
+    "Lucknow Super Giants": ["Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"],
 }
+
+
+def is_home_venue(team, venue):
+    return venue in HOME_VENUES.get(team, [])
 
 RAIN_AVG_FOOTNOTE = '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Rain-shortened matches excluded from averages</div>'
 RAIN_PHASE_FOOTNOTE = '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">* Includes rain-shortened match(es) where each ball is assigned to a phase based on adjusted overs (PP = 30% of total balls, remaining 70% split equally between middle and death)</div>'
@@ -395,6 +403,7 @@ app_ui = ui.page_navbar(
             ),
             col_widths=[12],
         ),
+        ui.output_ui("match_super_over_card"),
         ui.layout_columns(
             ui.card(ui.card_header("Key Stats"), ui.output_ui("match_key_moments")),
             col_widths=[12],
@@ -737,12 +746,16 @@ def server(input, output, session):
     @render.text
     def total_sixes():
         bbb = _stat_bbb()
-        return str((bbb["batter_runs"] == 6).sum()) if not bbb.empty else "0"
+        if bbb.empty:
+            return "0"
+        return str(int(bbb["is_six"].sum()))
 
     @render.text
     def total_fours():
         bbb = _stat_bbb()
-        return str((bbb["batter_runs"] == 4).sum()) if not bbb.empty else "0"
+        if bbb.empty:
+            return "0"
+        return str(int(bbb["is_four"].sum()))
 
     @render.ui
     def overview_pie():
@@ -856,11 +869,21 @@ def server(input, output, session):
             elif winner == t1:
                 w1 = "font-weight:800"
                 w2 = "opacity:0.6"
-                margin = f"{winner} won by {int(row['win_by_wickets'])} wickets" if int(row["win_by_wickets"]) > 0 else f"{winner} won by {int(row['win_by_runs'])} runs"
+                if int(row["win_by_wickets"]) > 0:
+                    margin = f"{winner} won by {int(row['win_by_wickets'])} wickets"
+                elif int(row["win_by_runs"]) > 0:
+                    margin = f"{winner} won by {int(row['win_by_runs'])} runs"
+                else:
+                    margin = f"{winner} won the Super Over"
             else:
                 w1 = "opacity:0.6"
                 w2 = "font-weight:800"
-                margin = f"{winner} won by {int(row['win_by_wickets'])} wickets" if int(row["win_by_wickets"]) > 0 else f"{winner} won by {int(row['win_by_runs'])} runs"
+                if int(row["win_by_wickets"]) > 0:
+                    margin = f"{winner} won by {int(row['win_by_wickets'])} wickets"
+                elif int(row["win_by_runs"]) > 0:
+                    margin = f"{winner} won by {int(row['win_by_runs'])} runs"
+                else:
+                    margin = f"{winner} won the Super Over"
             cards_html += f"""
             <div class="rr-card" onclick="goToMatch('{mn}')">
                 <div style="font-size:11px;color:#6b7280;margin-bottom:8px">Match {mn} &bull; {row['date']}</div>
@@ -1039,12 +1062,24 @@ def server(input, output, session):
         team_filter = input.batting_phase_team()
         if team_filter and team_filter != "All Teams":
             bbb = bbb[bbb["team"] == team_filter]
-        phase_bat = bbb.groupby("phase").agg(
-            runs=("batter_runs", "sum"), balls=("batter_runs", "count"),
+        # Balls faced excludes wides (no-balls count as balls faced).
+        # Dot ball = legal delivery with zero total runs (ICC scoring convention).
+        et = bbb["extra_type"].astype(str)
+        is_wide = et.str.contains("wides", na=False)
+        is_legal = ~is_wide & ~et.str.contains("noballs", na=False)
+        bbb_b = bbb.assign(
+            _ball_faced=(~is_wide).astype(int),
+            _dot=((bbb["total_runs"] == 0) & is_legal).astype(int),
+            _four=bbb["is_four"].astype(int),
+            _six=bbb["is_six"].astype(int),
+        )
+        phase_bat = bbb_b.groupby("phase").agg(
+            runs=("batter_runs", "sum"),
+            balls=("_ball_faced", "sum"),
+            sixes=("_six", "sum"),
+            fours=("_four", "sum"),
+            dots=("_dot", "sum"),
         ).reset_index()
-        phase_bat["sixes"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 6).sum()).values
-        phase_bat["fours"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 4).sum()).values
-        phase_bat["dots"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 0).sum()).values
         phase_bat["Run Rate"] = phase_bat.apply(lambda r: round(r["runs"] / r["balls"] * 6, 2) if r["balls"] > 0 else 0, axis=1)
         phase_bat["Boundary %"] = phase_bat.apply(lambda r: round((r["sixes"] + r["fours"]) / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
         phase_bat["Dot Ball %"] = phase_bat.apply(lambda r: round(r["dots"] / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
@@ -1219,12 +1254,21 @@ def server(input, output, session):
                 lambda r: r["team_2"] if r["team"] == r["team_1"] else r["team_1"], axis=1
             )
             bbb = bbb[bbb["bowling_team"] == team_filter]
-        phase_bowl = bbb.groupby("phase").agg(
+        # Bowler perspective: only legal deliveries count (exclude wides + no-balls).
+        # Dot = legal delivery with 0 total runs (IPL standard); economy is over legal balls.
+        et = bbb["extra_type"].astype(str)
+        is_legal = ~et.str.contains("wides|noballs", na=False)
+        bbb_w = bbb.assign(
+            _legal=is_legal.astype(int),
+            _dot=((bbb["total_runs"] == 0) & is_legal).astype(int),
+            _wicket=bbb["is_wicket"].astype(bool).astype(int),
+        )
+        phase_bowl = bbb_w.groupby("phase").agg(
             runs=("total_runs", "sum"),
-            balls=("total_runs", "count"),
+            balls=("_legal", "sum"),
+            wickets=("_wicket", "sum"),
+            dots=("_dot", "sum"),
         ).reset_index()
-        phase_bowl["wickets"] = bbb.groupby("phase")["is_wicket"].apply(lambda x: (x == True).sum()).values
-        phase_bowl["dots"] = bbb.groupby("phase")["batter_runs"].apply(lambda x: (x == 0).sum()).values
         phase_bowl["Economy"] = phase_bowl.apply(lambda r: round(r["runs"] / r["balls"] * 6, 2) if r["balls"] > 0 else 0, axis=1)
         phase_bowl["Strike Rate"] = phase_bowl.apply(
             lambda r: round(r["balls"] / r["wickets"], 1) if r["wickets"] > 0 else float("inf"), axis=1
@@ -1792,7 +1836,7 @@ def server(input, output, session):
                 continue
             winner = row["winner"]
             venue = row["venue"]
-            if HOME_VENUES.get(winner, "") == venue:
+            if is_home_venue(winner, venue):
                 home_wins += 1
             else:
                 away_wins += 1
@@ -1831,7 +1875,7 @@ def server(input, output, session):
                 continue
             for team_col in ["team_1", "team_2"]:
                 team = row[team_col]
-                is_home = HOME_VENUES.get(team, "") == venue
+                is_home = is_home_venue(team, venue)
                 loc = "Home" if is_home else "Away"
                 won = 1 if team == winner else 0
                 rows.append({"team": team, "location": loc, "won": won})
@@ -1925,12 +1969,14 @@ def server(input, output, session):
             wbw = pd.to_numeric(row.get("win_by_wickets", 0), errors="coerce") or 0
             wbr = pd.to_numeric(row.get("win_by_runs", 0), errors="coerce") or 0
             if wbw > 0:
-                margin = f"by {int(wbw)} wickets"
+                margin = f"won by {int(wbw)} wickets"
             elif wbr > 0:
-                margin = f"by {int(wbr)} runs"
+                margin = f"won by {int(wbr)} runs"
+            elif result == "tie":
+                margin = "won the Super Over"
             else:
                 margin = result
-            result_line = f'<span style="color:{team_color(winner)}; font-weight:700;">{winner}</span> won {margin}'
+            result_line = f'<span style="color:{team_color(winner)}; font-weight:700;">{winner}</span> {margin}'
             pom = str(row.get("player_of_match", ""))
             if pom == "nan":
                 pom = ""
@@ -1974,6 +2020,131 @@ def server(input, output, session):
             {meta_html}
         </div>
         """)
+
+    @render.ui
+    def match_super_over_card():
+        """Ball-by-ball Super Over card; renders nothing if the match had none."""
+        so = load_super_over()
+        mn = selected_match_num()
+        if so.empty:
+            return ui.HTML("")
+        m_so = so[so["match_number"] == mn]
+        if m_so.empty:
+            return ui.HTML("")
+
+        m = load_matches()
+        match_rows = m[m["match_number"] == mn]
+        winner = str(match_rows.iloc[0].get("winner", "")) if not match_rows.empty else ""
+
+        # Order innings by appearance in the file (first batting team first).
+        teams_in_order = list(dict.fromkeys(m_so["team"].tolist()))
+
+        def _clean(v):
+            if v is None:
+                return ""
+            s = str(v)
+            return "" if s.lower() == "nan" else s.strip()
+
+        EXTRA_SHORT = {"wides": "wd", "noballs": "nb", "legbyes": "lb",
+                       "byes": "b", "penalty": "pen"}
+
+        def _outcome_chip(row):
+            if bool(row["is_wicket"]):
+                return ('<span style="display:inline-block;min-width:26px;text-align:center;'
+                        'padding:2px 6px;border-radius:4px;background:#dc2626;color:#fff;'
+                        'font-weight:700;font-size:12px;">W</span>')
+            runs = int(row["total_runs"])
+            bg = {0: "#e5e7eb", 1: "#dbeafe", 2: "#bfdbfe", 3: "#93c5fd",
+                  4: "#1d4ed8", 6: "#7c3aed"}.get(runs, "#e5e7eb")
+            color = "#1f2937" if runs < 4 else "#fff"
+            extra = _clean(row.get("extra_type", ""))
+            label = str(runs)
+            if extra:
+                first = extra.split(",")[0].strip().lower()
+                label = f"{runs}{EXTRA_SHORT.get(first, first[:2])}"
+            return (f'<span style="display:inline-block;min-width:26px;text-align:center;'
+                    f'padding:2px 6px;border-radius:4px;background:{bg};color:{color};'
+                    f'font-weight:700;font-size:12px;">{label}</span>')
+
+        def _dismissal_text(row):
+            """Short dismissal note (bowler is shown once in the innings header)."""
+            kind = _clean(row.get("wicket_kind", "")).lower()
+            fielders = _clean(row.get("fielders", ""))
+            bowler = _clean(row.get("bowler", ""))
+            if kind == "bowled":
+                return "bowled"
+            if kind == "lbw":
+                return "lbw"
+            if kind == "caught":
+                return f"c {fielders}" if fielders else "caught"
+            if kind == "caught and bowled":
+                return f"c & b {bowler}"
+            if kind == "stumped":
+                return f"st {fielders}" if fielders else "stumped"
+            if kind == "run out":
+                return f"run out ({fielders})" if fielders else "run out"
+            if kind == "hit wicket":
+                return "hit wicket"
+            return kind or "out"
+
+        innings_html = []
+        for team in teams_in_order:
+            inn = m_so[m_so["team"] == team].sort_values("ball")
+            total_runs = int(inn["total_runs"].sum())
+            wkts = int(inn["is_wicket"].sum())
+            balls = int(inn["ball"].max())
+            is_winner = team == winner
+            score_color = team_color(team) if is_winner else "#374151"
+            bowlers = list(dict.fromkeys(_clean(b) for b in inn["bowler"].tolist() if _clean(b)))
+            bowler_line = (f'<div style="font-size:11px;color:#6b7280;margin-top:2px;">'
+                           f'Bowler: <strong style="color:#1f2937;">{" / ".join(bowlers)}</strong></div>'
+                           if bowlers else "")
+            balls_html = ""
+            for _, brow in inn.iterrows():
+                outcome = _outcome_chip(brow)
+                if bool(brow["is_wicket"]):
+                    detail = (f'<span style="color:#6b7280;font-size:12px;"> '
+                              f'{_dismissal_text(brow)}</span>')
+                else:
+                    detail = ""
+                balls_html += f"""
+                <div style="display:flex;align-items:center;gap:10px;padding:6px 10px;border-bottom:1px solid #f3f4f6;">
+                    <div style="font-size:11px;color:#9ca3af;width:24px;">{int(brow["ball"])}</div>
+                    <div style="flex:1;font-size:13px;color:#1f2937;">
+                        <strong>{brow["batter"]}</strong>{detail}
+                    </div>
+                    {outcome}
+                </div>
+                """
+            winner_badge = ('<span style="margin-left:8px;font-size:10px;font-weight:700;'
+                            'letter-spacing:0.06em;color:#16a34a;">WON</span>' if is_winner else "")
+            innings_html.append(f"""
+            <div style="flex:1;min-width:260px;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;background:#fff;">
+                <div style="padding:10px 12px;background:{team_color(team)}10;border-bottom:1px solid #e5e7eb;">
+                    <div style="display:flex;align-items:center;justify-content:space-between;gap:8px;">
+                        <div style="display:flex;align-items:center;gap:8px;">
+                            <img src="{team_logo(team)}" style="height:24px;width:24px;object-fit:contain;">
+                            <strong style="font-size:13px;color:{team_color(team)};">{team_short(team)}</strong>
+                            {winner_badge}
+                        </div>
+                        <div style="font-family:monospace;font-size:15px;font-weight:700;color:{score_color};">
+                            {total_runs}/{wkts} <span style="color:#9ca3af;font-weight:500;font-size:11px;">({balls} ball{'s' if balls != 1 else ''})</span>
+                        </div>
+                    </div>
+                    {bowler_line}
+                </div>
+                {balls_html}
+            </div>
+            """)
+
+        return ui.card(
+            ui.card_header("Super Over"),
+            ui.HTML(f"""
+            <div style="display:flex;flex-wrap:wrap;gap:16px;padding:4px 0 8px;">
+                {''.join(innings_html)}
+            </div>
+            """),
+        )
 
     @render.ui
     def match_worm():

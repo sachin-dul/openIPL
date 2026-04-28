@@ -1,5 +1,5 @@
-team,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,is_wicket,wicket_kind,player_out
-Lucknow Super Giants,1,N Pooran,SP Narine,AK Markram,0,0,0,,True,bowled,N Pooran
-Lucknow Super Giants,2,RR Pant,SP Narine,AK Markram,1,0,1,,False,,
-Lucknow Super Giants,3,AK Markram,SP Narine,RR Pant,0,0,0,,True,caught,AK Markram
-Kolkata Knight Riders,1,RK Singh,Prince Yadav,R Powell,4,0,4,,False,,
+team,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,extra_type,is_wicket,wicket_kind,player_out,fielders
+Lucknow Super Giants,1,N Pooran,SP Narine,AK Markram,0,0,0,,True,bowled,N Pooran,
+Lucknow Super Giants,2,RR Pant,SP Narine,AK Markram,1,0,1,,False,,,
+Lucknow Super Giants,3,AK Markram,SP Narine,RR Pant,0,0,0,,True,caught,AK Markram,RK Singh
+Kolkata Knight Riders,1,RK Singh,Prince Yadav,R Powell,4,0,4,,False,,,

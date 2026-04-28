@@ -70,6 +70,10 @@ def parse_match(json_path, match_number_override=None):
 
     # Determine winner and margin
     winner = outcome.get("winner", "")
+    # Cricsheet records super-over / eliminator decisions under `eliminator`
+    # rather than `winner`; treat that team as the match winner.
+    if not winner:
+        winner = outcome.get("eliminator", "")
     win_by = outcome.get("by", {})
     win_by_runs = win_by.get("runs", 0)
     win_by_wickets = win_by.get("wickets", 0)
@@ -152,10 +156,14 @@ def parse_match(json_path, match_number_override=None):
                     is_wicket = "wickets" in delivery
                     wicket_kind = ""
                     player_out = ""
+                    fielders = ""
                     if is_wicket:
                         w = delivery["wickets"][0]
                         wicket_kind = w["kind"]
                         player_out = w["player_out"]
+                        fielders = ", ".join(
+                            f.get("name", "") for f in w.get("fielders", []) if f.get("name")
+                        )
                     super_over.append({
                         "team": batting_team,
                         "ball": so_ball_num,
@@ -169,6 +177,7 @@ def parse_match(json_path, match_number_override=None):
                         "is_wicket": is_wicket,
                         "wicket_kind": wicket_kind,
                         "player_out": player_out,
+                        "fielders": fielders,
                     })
             continue
 
@@ -201,6 +210,12 @@ def parse_match(json_path, match_number_override=None):
                 batter_runs = runs["batter"]
                 extra_runs = runs["extras"]
                 total_runs = runs["total"]
+                # Cricsheet sets `non_boundary: true` when the batter ran 4/6 instead
+                # of clearing the rope. Track both flags explicitly:
+                #   non_boundary_run = the rare "ran four/six" case
+                #   is_boundary      = the delivery was an actual boundary off the bat
+                non_boundary_run = bool(runs.get("non_boundary", False))
+                is_boundary = batter_runs in (4, 6) and not non_boundary_run
 
                 extras = delivery.get("extras", {})
                 extra_type = ""
@@ -272,9 +287,9 @@ def parse_match(json_path, match_number_override=None):
                 if not is_wide:
                     batting_stats[(inn_num, batter)]["balls"] += 1
                 batting_stats[(inn_num, batter)]["runs"] += batter_runs
-                if batter_runs == 4:
+                if batter_runs == 4 and is_boundary:
                     batting_stats[(inn_num, batter)]["fours"] += 1
-                elif batter_runs == 6:
+                elif batter_runs == 6 and is_boundary:
                     batting_stats[(inn_num, batter)]["sixes"] += 1
 
                 # Update bowling
@@ -330,7 +345,7 @@ def parse_match(json_path, match_number_override=None):
                 phase_stats[phase_key]["runs"] += total_runs
                 if is_legal:
                     phase_stats[phase_key]["balls"] += 1
-                if batter_runs in (4, 6):
+                if batter_runs in (4, 6) and is_boundary:
                     phase_stats[phase_key]["boundaries"] += 1
                 if total_runs == 0 and is_legal:
                     phase_stats[phase_key]["dots"] += 1
@@ -377,8 +392,12 @@ def parse_match(json_path, match_number_override=None):
                         else:
                             batting_stats[(inn_num, player_out)]["dismissal"] = wicket_kind
 
-                        # Bowling wickets (exclude run outs, retired)
-                        if wicket_kind not in ("run out", "retired hurt", "retired out"):
+                        # Bowling wickets — credit only for bowler-attributable dismissals
+                        # (Laws of Cricket 32-39): bowled, caught, caught & bowled, lbw,
+                        # stumped, hit wicket. Run-outs, retired, obstructing the field,
+                        # handled the ball, hit the ball twice, timed out are NOT credited.
+                        if wicket_kind in ("bowled", "caught", "caught and bowled",
+                                           "lbw", "stumped", "hit wicket"):
                             bowling_stats[(inn_num, bowler)]["wickets"] += 1
 
                         # Fielding stats
@@ -449,6 +468,8 @@ def parse_match(json_path, match_number_override=None):
                     "batter_runs": batter_runs,
                     "extra_runs": extra_runs,
                     "total_runs": total_runs,
+                    "is_boundary": is_boundary,
+                    "non_boundary_run": non_boundary_run,
                     "extra_type": extra_type,
                     "wides": extras.get("wides", 0),
                     "noballs": extras.get("noballs", 0),
