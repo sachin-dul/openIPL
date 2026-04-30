@@ -1,0 +1,218 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Royal Challengers Bengaluru,1,1,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,2,JG Bethell,Mohammed Siraj,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,3,V Kohli,Mohammed Siraj,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,4,V Kohli,Mohammed Siraj,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,5,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,1,6,JG Bethell,Mohammed Siraj,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,1,V Kohli,K Rabada,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,2,V Kohli,K Rabada,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,3,V Kohli,K Rabada,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,4,V Kohli,K Rabada,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,5,V Kohli,K Rabada,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,2,6,V Kohli,K Rabada,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,1,V Kohli,Mohammed Siraj,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,2,V Kohli,Mohammed Siraj,JG Bethell,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,3,V Kohli,Mohammed Siraj,JG Bethell,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,4,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,False,False,,0,0,0,0,0,True,caught,JG Bethell,Rashid Khan,powerplay
+1,Royal Challengers Bengaluru,3,5,D Padikkal,Mohammed Siraj,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,3,6,D Padikkal,Mohammed Siraj,V Kohli,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,1.wides,V Kohli,K Rabada,D Padikkal,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,1,V Kohli,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,2,V Kohli,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,True,caught,V Kohli,Rashid Khan,powerplay
+1,Royal Challengers Bengaluru,4,3,RM Patidar,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,4,RM Patidar,K Rabada,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,5,RM Patidar,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,4,6,RM Patidar,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,1,D Padikkal,Mohammed Siraj,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,2,D Padikkal,Mohammed Siraj,RM Patidar,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,3,D Padikkal,Mohammed Siraj,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,4,D Padikkal,Mohammed Siraj,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,5,D Padikkal,Mohammed Siraj,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,5,6,D Padikkal,Mohammed Siraj,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,1,RM Patidar,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,2,RM Patidar,K Rabada,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,3,RM Patidar,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,4,RM Patidar,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,5,RM Patidar,K Rabada,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,6,6,D Padikkal,K Rabada,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Royal Challengers Bengaluru,7,1,D Padikkal,JO Holder,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,2,D Padikkal,JO Holder,RM Patidar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,3,D Padikkal,JO Holder,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,4,RM Patidar,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,5,D Padikkal,JO Holder,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,7,6,RM Patidar,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,1,RM Patidar,Arshad Khan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,2,RM Patidar,Arshad Khan,D Padikkal,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,3,RM Patidar,Arshad Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,4,RM Patidar,Arshad Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,True,caught,RM Patidar,JO Holder,middle
+1,Royal Challengers Bengaluru,8,5,JM Sharma,Arshad Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,8,6,JM Sharma,Arshad Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,1,JM Sharma,JO Holder,D Padikkal,0,0,0,False,False,,0,0,0,0,0,True,caught,JM Sharma,JC Buttler,middle
+1,Royal Challengers Bengaluru,9,2,TH David,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,3,D Padikkal,JO Holder,TH David,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,4,D Padikkal,JO Holder,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,5,TH David,JO Holder,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,9,6,TH David,JO Holder,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,1,TH David,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,2,TH David,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,3,D Padikkal,Rashid Khan,TH David,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,4,TH David,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,True,caught,TH David,JO Holder,middle
+1,Royal Challengers Bengaluru,10,5,KH Pandya,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,10,6,KH Pandya,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,1,D Padikkal,Arshad Khan,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,2,KH Pandya,Arshad Khan,D Padikkal,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,3,KH Pandya,Arshad Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,True,caught,KH Pandya,JO Holder,middle
+1,Royal Challengers Bengaluru,11,4,R Shepherd,Arshad Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,5,R Shepherd,Arshad Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,11,6,R Shepherd,Arshad Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,1,R Shepherd,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,2,D Padikkal,Rashid Khan,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,3,D Padikkal,Rashid Khan,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,4,R Shepherd,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,5,R Shepherd,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,12,6,D Padikkal,Rashid Khan,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,1,R Shepherd,K Rabada,D Padikkal,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,2,D Padikkal,K Rabada,R Shepherd,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,3,D Padikkal,K Rabada,R Shepherd,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,4,D Padikkal,K Rabada,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,5,R Shepherd,K Rabada,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,13,6,R Shepherd,K Rabada,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,1,R Shepherd,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,2,R Shepherd,Rashid Khan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,3,R Shepherd,Rashid Khan,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,4,R Shepherd,Rashid Khan,D Padikkal,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,5,R Shepherd,Rashid Khan,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,14,6,D Padikkal,Rashid Khan,R Shepherd,0,0,0,False,False,,0,0,0,0,0,True,bowled,D Padikkal,,middle
+1,Royal Challengers Bengaluru,15,1,R Shepherd,JO Holder,VR Iyer,0,0,0,False,False,,0,0,0,0,0,True,caught,R Shepherd,B Sai Sudharsan,middle
+1,Royal Challengers Bengaluru,15,2,B Kumar,JO Holder,VR Iyer,3,0,3,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,3,VR Iyer,JO Holder,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,4,B Kumar,JO Holder,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,5,B Kumar,JO Holder,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,15,6,VR Iyer,JO Holder,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Royal Challengers Bengaluru,16,1,VR Iyer,Rashid Khan,B Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,2,VR Iyer,Rashid Khan,B Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,3,VR Iyer,Rashid Khan,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,4,B Kumar,Rashid Khan,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,5,B Kumar,Rashid Khan,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,16,6,B Kumar,Rashid Khan,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,1,VR Iyer,JO Holder,B Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,2,VR Iyer,JO Holder,B Kumar,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+1,Royal Challengers Bengaluru,17,3,B Kumar,JO Holder,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,4,VR Iyer,JO Holder,B Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,5,VR Iyer,JO Holder,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,17,6,B Kumar,JO Holder,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,1.wides,VR Iyer,Arshad Khan,B Kumar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,1,VR Iyer,Arshad Khan,B Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,2,VR Iyer,Arshad Khan,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,3,B Kumar,Arshad Khan,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,4,B Kumar,Arshad Khan,VR Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,5,B Kumar,Arshad Khan,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,18,6,B Kumar,Arshad Khan,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,1,B Kumar,Mohammed Siraj,VR Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,2,B Kumar,Mohammed Siraj,VR Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,3,B Kumar,Mohammed Siraj,VR Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,4,VR Iyer,Mohammed Siraj,B Kumar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,5,VR Iyer,Mohammed Siraj,B Kumar,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,19,6,VR Iyer,Mohammed Siraj,B Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Royal Challengers Bengaluru,20,1,VR Iyer,Arshad Khan,B Kumar,0,0,0,False,False,,0,0,0,0,0,True,caught,VR Iyer,B Sai Sudharsan,death
+1,Royal Challengers Bengaluru,20,2,JR Hazlewood,Arshad Khan,B Kumar,0,0,0,False,False,,0,0,0,0,0,True,run out,JR Hazlewood,"Shubman Gill, JC Buttler",death
+2,Gujarat Titans,1,1,B Sai Sudharsan,B Kumar,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,2,Shubman Gill,B Kumar,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,3,Shubman Gill,B Kumar,B Sai Sudharsan,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,4,Shubman Gill,B Kumar,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,5,Shubman Gill,B Kumar,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6,B Sai Sudharsan,B Kumar,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,1,Shubman Gill,JR Hazlewood,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,2,Shubman Gill,JR Hazlewood,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,3,Shubman Gill,JR Hazlewood,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,4,Shubman Gill,JR Hazlewood,B Sai Sudharsan,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,5,Shubman Gill,JR Hazlewood,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,6,Shubman Gill,JR Hazlewood,B Sai Sudharsan,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,1,B Sai Sudharsan,B Kumar,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,2,B Sai Sudharsan,B Kumar,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,3,Shubman Gill,B Kumar,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,4,Shubman Gill,B Kumar,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,5,Shubman Gill,B Kumar,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,6,B Sai Sudharsan,B Kumar,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,True,caught,B Sai Sudharsan,JM Sharma,powerplay
+2,Gujarat Titans,4,1,Shubman Gill,JR Hazlewood,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,2,Shubman Gill,JR Hazlewood,JC Buttler,5,0,5,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,3,JC Buttler,JR Hazlewood,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,4,Shubman Gill,JR Hazlewood,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,5,JC Buttler,JR Hazlewood,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,6,JC Buttler,JR Hazlewood,Shubman Gill,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,1,Shubman Gill,B Kumar,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,2,JC Buttler,B Kumar,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,3,JC Buttler,B Kumar,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,4,JC Buttler,B Kumar,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,5,JC Buttler,B Kumar,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,6,Shubman Gill,B Kumar,JC Buttler,0,0,0,False,False,,0,0,0,0,0,True,caught,Shubman Gill,V Kohli,powerplay
+2,Gujarat Titans,6,1,JC Buttler,JR Hazlewood,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,2,Washington Sundar,JR Hazlewood,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,3,JC Buttler,JR Hazlewood,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,4,JC Buttler,JR Hazlewood,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,5,JC Buttler,JR Hazlewood,Washington Sundar,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,6,JC Buttler,JR Hazlewood,Washington Sundar,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,7,1,Washington Sundar,Suyash Sharma,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,2.wides,JC Buttler,Suyash Sharma,Washington Sundar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,2,JC Buttler,Suyash Sharma,Washington Sundar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,3,JC Buttler,Suyash Sharma,Washington Sundar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,4,JC Buttler,Suyash Sharma,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,5,Washington Sundar,Suyash Sharma,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,6,JC Buttler,Suyash Sharma,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,1,JC Buttler,B Kumar,Washington Sundar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,2,JC Buttler,B Kumar,Washington Sundar,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,3,JC Buttler,B Kumar,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,True,bowled,JC Buttler,,middle
+2,Gujarat Titans,8,4,M Shahrukh Khan,B Kumar,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,5,Washington Sundar,B Kumar,M Shahrukh Khan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,6,Washington Sundar,B Kumar,M Shahrukh Khan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,1,Washington Sundar,R Shepherd,M Shahrukh Khan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,2,Washington Sundar,R Shepherd,M Shahrukh Khan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,3,M Shahrukh Khan,R Shepherd,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,4,Washington Sundar,R Shepherd,M Shahrukh Khan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,5,Washington Sundar,R Shepherd,M Shahrukh Khan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,6,Washington Sundar,R Shepherd,M Shahrukh Khan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,1,M Shahrukh Khan,JR Hazlewood,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,2,M Shahrukh Khan,JR Hazlewood,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,3,M Shahrukh Khan,JR Hazlewood,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,4,Washington Sundar,JR Hazlewood,M Shahrukh Khan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,5,M Shahrukh Khan,JR Hazlewood,Washington Sundar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,6,M Shahrukh Khan,JR Hazlewood,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,1,M Shahrukh Khan,R Shepherd,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,True,caught,M Shahrukh Khan,JR Hazlewood,middle
+2,Gujarat Titans,11,2.wides,R Tewatia,R Shepherd,Washington Sundar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,2,R Tewatia,R Shepherd,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,3,Washington Sundar,R Shepherd,R Tewatia,0,0,0,False,False,,0,0,0,0,0,True,lbw,Washington Sundar,,middle
+2,Gujarat Titans,11,4,JO Holder,R Shepherd,R Tewatia,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,5,JO Holder,R Shepherd,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,6,R Tewatia,R Shepherd,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,1,JO Holder,Suyash Sharma,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,2,R Tewatia,Suyash Sharma,JO Holder,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,3,R Tewatia,Suyash Sharma,JO Holder,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,4,R Tewatia,Suyash Sharma,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,5,R Tewatia,Suyash Sharma,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,6,R Tewatia,Suyash Sharma,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,1,R Tewatia,R Shepherd,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,2,JO Holder,R Shepherd,R Tewatia,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,3,JO Holder,R Shepherd,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,4,R Tewatia,R Shepherd,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,5,JO Holder,R Shepherd,R Tewatia,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,6,JO Holder,R Shepherd,R Tewatia,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,1,R Tewatia,Suyash Sharma,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,2,JO Holder,Suyash Sharma,R Tewatia,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,3,JO Holder,Suyash Sharma,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,4.wides,R Tewatia,Suyash Sharma,JO Holder,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,4,R Tewatia,Suyash Sharma,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,5,JO Holder,Suyash Sharma,R Tewatia,0,0,0,False,False,,0,0,0,0,0,True,caught,JO Holder,D Padikkal,middle
+2,Gujarat Titans,14,6,Rashid Khan,Suyash Sharma,R Tewatia,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,1.wides,R Tewatia,R Shepherd,Rashid Khan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,1,R Tewatia,R Shepherd,Rashid Khan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,2,R Tewatia,R Shepherd,Rashid Khan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,3,Rashid Khan,R Shepherd,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,4,R Tewatia,R Shepherd,Rashid Khan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,5,Rashid Khan,R Shepherd,R Tewatia,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,6,Rashid Khan,R Shepherd,R Tewatia,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,16,1,R Tewatia,Suyash Sharma,Rashid Khan,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,2,R Tewatia,Suyash Sharma,Rashid Khan,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,3,R Tewatia,Suyash Sharma,Rashid Khan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,4,Rashid Khan,Suyash Sharma,R Tewatia,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,5,Rashid Khan,Suyash Sharma,R Tewatia,4,0,4,True,False,,0,0,0,0,0,False,,,,death
