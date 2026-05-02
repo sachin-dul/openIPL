@@ -1,13 +1,13 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Royal Challengers Bengaluru,1,PD Salt,78,36,V Kohli,38,29,120,65
-1,Royal Challengers Bengaluru,2,RM Patidar,47,14,V Kohli,12,9,65,23
-1,Royal Challengers Bengaluru,3,TH David,2,2,RM Patidar,6,6,9,8
-1,Royal Challengers Bengaluru,4,TH David,25,12,JM Sharma,10,9,37,20
-1,Royal Challengers Bengaluru,5,R Shepherd,2,2,TH David,7,2,9,4
-2,Mumbai Indians,1,RD Rickelton,36,19,RG Sharma,19,13,57,32
-2,Mumbai Indians,2,SA Yadav,13,8,RD Rickelton,1,3,15,11
-2,Mumbai Indians,3,Tilak Varma,1,3,SA Yadav,1,1,2,4
-2,Mumbai Indians,4,HH Pandya,27,14,SA Yadav,19,13,47,27
-2,Mumbai Indians,5,SE Rutherford,10,6,HH Pandya,13,8,24,14
-2,Mumbai Indians,6,Naman Dhir,1,2,SE Rutherford,8,3,9,5
-2,Mumbai Indians,7,MJ Santner,8,6,SE Rutherford,53,22,68,27
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Royal Challengers Bengaluru,1,PD Salt,78,36,V Kohli,38,29,4,120,65
+1,Royal Challengers Bengaluru,2,RM Patidar,47,14,V Kohli,12,9,6,65,23
+1,Royal Challengers Bengaluru,3,TH David,2,2,RM Patidar,6,6,1,9,8
+1,Royal Challengers Bengaluru,4,TH David,25,12,JM Sharma,10,9,2,37,20
+1,Royal Challengers Bengaluru,5,R Shepherd,2,2,TH David,7,2,0,9,4
+2,Mumbai Indians,1,RD Rickelton,36,19,RG Sharma,19,13,2,57,32
+2,Mumbai Indians,2,SA Yadav,13,8,RD Rickelton,1,3,1,15,11
+2,Mumbai Indians,3,Tilak Varma,1,3,SA Yadav,1,1,0,2,4
+2,Mumbai Indians,4,HH Pandya,27,14,SA Yadav,19,13,1,47,27
+2,Mumbai Indians,5,SE Rutherford,10,6,HH Pandya,13,8,1,24,14
+2,Mumbai Indians,6,Naman Dhir,1,2,SE Rutherford,8,3,0,9,5
+2,Mumbai Indians,7,MJ Santner,8,6,SE Rutherford,53,22,7,68,27

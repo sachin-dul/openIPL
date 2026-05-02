@@ -1,16 +1,16 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Royal Challengers Bengaluru,1,PD Salt,30,18,V Kohli,19,13,52,31
-1,Royal Challengers Bengaluru,2,D Padikkal,18,13,PD Salt,27,16,47,29
-1,Royal Challengers Bengaluru,3,PD Salt,6,4,RM Patidar,0,0,6,4
-1,Royal Challengers Bengaluru,4,TH David,17,8,RM Patidar,8,4,26,12
-1,Royal Challengers Bengaluru,5,JM Sharma,3,8,TH David,9,9,15,16
-1,Royal Challengers Bengaluru,6,R Shepherd,1,4,JM Sharma,2,3,3,7
-1,Royal Challengers Bengaluru,7,KH Pandya,12,10,JM Sharma,9,7,23,17
-1,Royal Challengers Bengaluru,8,JM Sharma,0,2,Rasikh Salam,0,0,0,2
-1,Royal Challengers Bengaluru,9,B Kumar,3,2,Rasikh Salam,0,0,3,2
-2,Delhi Capitals,1,P Nissanka,1,2,KL Rahul,1,2,2,4
-2,Delhi Capitals,2,KK Nair,5,5,KL Rahul,9,5,14,10
-2,Delhi Capitals,3,Sameer Rizvi,2,3,KL Rahul,0,0,2,3
-2,Delhi Capitals,4,T Stubbs,18,17,KL Rahul,47,27,69,44
-2,Delhi Capitals,5,AR Patel,26,19,T Stubbs,20,16,47,34
-2,Delhi Capitals,6,T Stubbs,22,14,DA Miller,22,10,45,24
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Royal Challengers Bengaluru,1,PD Salt,30,18,V Kohli,19,13,3,52,31
+1,Royal Challengers Bengaluru,2,D Padikkal,18,13,PD Salt,27,16,2,47,29
+1,Royal Challengers Bengaluru,3,PD Salt,6,4,RM Patidar,0,0,0,6,4
+1,Royal Challengers Bengaluru,4,TH David,17,8,RM Patidar,8,4,1,26,12
+1,Royal Challengers Bengaluru,5,JM Sharma,3,8,TH David,9,9,3,15,16
+1,Royal Challengers Bengaluru,6,R Shepherd,1,4,JM Sharma,2,3,0,3,7
+1,Royal Challengers Bengaluru,7,KH Pandya,12,10,JM Sharma,9,7,2,23,17
+1,Royal Challengers Bengaluru,8,JM Sharma,0,2,Rasikh Salam,0,0,0,0,2
+1,Royal Challengers Bengaluru,9,B Kumar,3,2,Rasikh Salam,0,0,0,3,2
+2,Delhi Capitals,1,P Nissanka,1,2,KL Rahul,1,2,0,2,4
+2,Delhi Capitals,2,KK Nair,5,5,KL Rahul,9,5,0,14,10
+2,Delhi Capitals,3,Sameer Rizvi,2,3,KL Rahul,0,0,0,2,3
+2,Delhi Capitals,4,T Stubbs,18,17,KL Rahul,47,27,4,69,44
+2,Delhi Capitals,5,AR Patel,26,19,T Stubbs,20,16,1,47,34
+2,Delhi Capitals,6,T Stubbs,22,14,DA Miller,22,10,1,45,24

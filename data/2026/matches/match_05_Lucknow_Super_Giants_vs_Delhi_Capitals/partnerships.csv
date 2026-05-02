@@ -1,16 +1,16 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Lucknow Super Giants,1,MR Marsh,11,9,RR Pant,7,9,19,18
-1,Lucknow Super Giants,2,AK Markram,11,8,MR Marsh,9,9,29,17
-1,Lucknow Super Giants,3,A Badoni,0,3,MR Marsh,1,1,1,4
-1,Lucknow Super Giants,4,N Pooran,8,8,MR Marsh,8,6,16,14
-1,Lucknow Super Giants,5,Abdul Samad,0,1,MR Marsh,6,3,6,4
-1,Lucknow Super Giants,6,MD Choudhary,14,11,Abdul Samad,16,11,34,22
-1,Lucknow Super Giants,7,Shahbaz Ahmed,13,13,Abdul Samad,20,13,33,26
-1,Lucknow Super Giants,8,Mohammed Shami,1,2,Shahbaz Ahmed,1,1,2,3
-1,Lucknow Super Giants,9,Shahbaz Ahmed,1,2,A Nortje,0,1,1,3
-1,Lucknow Super Giants,10,Mohsin Khan,0,1,Shahbaz Ahmed,0,0,0,1
-2,Delhi Capitals,1,KL Rahul,0,1,P Nissanka,0,0,0,1
-2,Delhi Capitals,2,N Rana,15,17,P Nissanka,1,3,21,20
-2,Delhi Capitals,3,Sameer Rizvi,0,3,P Nissanka,0,2,4,5
-2,Delhi Capitals,4,AR Patel,0,1,Sameer Rizvi,0,0,1,1
-2,Delhi Capitals,5,T Stubbs,39,32,Sameer Rizvi,70,44,119,76
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Lucknow Super Giants,1,MR Marsh,11,9,RR Pant,7,9,1,19,18
+1,Lucknow Super Giants,2,AK Markram,11,8,MR Marsh,9,9,9,29,17
+1,Lucknow Super Giants,3,A Badoni,0,3,MR Marsh,1,1,0,1,4
+1,Lucknow Super Giants,4,N Pooran,8,8,MR Marsh,8,6,0,16,14
+1,Lucknow Super Giants,5,Abdul Samad,0,1,MR Marsh,6,3,0,6,4
+1,Lucknow Super Giants,6,MD Choudhary,14,11,Abdul Samad,16,11,4,34,22
+1,Lucknow Super Giants,7,Shahbaz Ahmed,13,13,Abdul Samad,20,13,0,33,26
+1,Lucknow Super Giants,8,Mohammed Shami,1,2,Shahbaz Ahmed,1,1,0,2,3
+1,Lucknow Super Giants,9,Shahbaz Ahmed,1,2,A Nortje,0,1,0,1,3
+1,Lucknow Super Giants,10,Mohsin Khan,0,1,Shahbaz Ahmed,0,0,0,0,1
+2,Delhi Capitals,1,KL Rahul,0,1,P Nissanka,0,0,0,0,1
+2,Delhi Capitals,2,N Rana,15,17,P Nissanka,1,3,5,21,20
+2,Delhi Capitals,3,Sameer Rizvi,0,3,P Nissanka,0,2,4,4,5
+2,Delhi Capitals,4,AR Patel,0,1,Sameer Rizvi,0,0,1,1,1
+2,Delhi Capitals,5,T Stubbs,39,32,Sameer Rizvi,70,44,10,119,76

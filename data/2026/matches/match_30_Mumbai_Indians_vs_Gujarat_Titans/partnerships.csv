@@ -1,17 +1,17 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Mumbai Indians,1,Q de Kock,8,7,DV Malewar,2,4,10,11
-1,Mumbai Indians,2,Naman Dhir,10,6,Q de Kock,5,4,15,10
-1,Mumbai Indians,3,SA Yadav,15,10,Naman Dhir,1,4,19,14
-1,Mumbai Indians,4,Tilak Varma,16,18,Naman Dhir,34,22,52,40
-1,Mumbai Indians,5,HH Pandya,15,16,Tilak Varma,64,22,81,38
-1,Mumbai Indians,6,SE Rutherford,1,2,Tilak Varma,21,5,22,7
-2,Gujarat Titans,1,B Sai Sudharsan,0,1,Shubman Gill,0,0,0,1
-2,Gujarat Titans,2,JC Buttler,5,6,Shubman Gill,0,1,5,7
-2,Gujarat Titans,3,Washington Sundar,18,8,Shubman Gill,14,12,35,20
-2,Gujarat Titans,4,GD Phillips,6,7,Washington Sundar,8,9,14,16
-2,Gujarat Titans,5,R Tewatia,1,1,GD Phillips,0,1,1,2
-2,Gujarat Titans,6,M Shahrukh Khan,15,10,R Tewatia,7,10,24,20
-2,Gujarat Titans,7,M Shahrukh Khan,2,2,Rashid Khan,4,6,6,8
-2,Gujarat Titans,8,K Rabada,1,3,M Shahrukh Khan,0,1,1,4
-2,Gujarat Titans,9,K Rabada,11,11,Ashok Sharma,1,3,13,14
-2,Gujarat Titans,10,Mohammed Siraj,0,3,Ashok Sharma,0,0,1,3
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Mumbai Indians,1,Q de Kock,8,7,DV Malewar,2,4,0,10,11
+1,Mumbai Indians,2,Naman Dhir,10,6,Q de Kock,5,4,0,15,10
+1,Mumbai Indians,3,SA Yadav,15,10,Naman Dhir,1,4,3,19,14
+1,Mumbai Indians,4,Tilak Varma,16,18,Naman Dhir,34,22,2,52,40
+1,Mumbai Indians,5,HH Pandya,15,16,Tilak Varma,64,22,2,81,38
+1,Mumbai Indians,6,SE Rutherford,1,2,Tilak Varma,21,5,0,22,7
+2,Gujarat Titans,1,B Sai Sudharsan,0,1,Shubman Gill,0,0,0,0,1
+2,Gujarat Titans,2,JC Buttler,5,6,Shubman Gill,0,1,0,5,7
+2,Gujarat Titans,3,Washington Sundar,18,8,Shubman Gill,14,12,3,35,20
+2,Gujarat Titans,4,GD Phillips,6,7,Washington Sundar,8,9,0,14,16
+2,Gujarat Titans,5,R Tewatia,1,1,GD Phillips,0,1,0,1,2
+2,Gujarat Titans,6,M Shahrukh Khan,15,10,R Tewatia,7,10,2,24,20
+2,Gujarat Titans,7,M Shahrukh Khan,2,2,Rashid Khan,4,6,0,6,8
+2,Gujarat Titans,8,K Rabada,1,3,M Shahrukh Khan,0,1,0,1,4
+2,Gujarat Titans,9,K Rabada,11,11,Ashok Sharma,1,3,1,13,14
+2,Gujarat Titans,10,Mohammed Siraj,0,3,Ashok Sharma,0,0,1,1,3

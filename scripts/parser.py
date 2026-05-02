@@ -486,6 +486,7 @@ def parse_match(json_path, match_number_override=None):
                             "batter_2": b2,
                             "batter_2_runs": pair_stats.get(b2, {}).get("runs", 0),
                             "batter_2_balls": pair_stats.get(b2, {}).get("balls", 0),
+                            "extras": partnership_extras,
                             "total_runs": partnership_runs,
                             "total_balls": partnership_balls,
                         })
@@ -524,11 +525,6 @@ def parse_match(json_path, match_number_override=None):
             over_num = over_obj["over"]
             over_runs = 0
             for delivery in over_obj["deliveries"]:
-                extras = delivery.get("extras", {})
-                is_wide = "wides" in extras
-                is_noball = "noballs" in extras
-                if is_wide or is_noball:
-                    over_runs += 1  # not a maiden if wide/noball
                 over_runs += delivery["runs"]["total"]
             if over_runs == 0:
                 # Find which bowler bowled this over
@@ -551,6 +547,7 @@ def parse_match(json_path, match_number_override=None):
                 "batter_2": b2,
                 "batter_2_runs": pair_stats.get(b2, {}).get("runs", 0),
                 "batter_2_balls": pair_stats.get(b2, {}).get("balls", 0),
+                "extras": partnership_extras,
                 "total_runs": partnership_runs,
                 "total_balls": partnership_balls,
             })

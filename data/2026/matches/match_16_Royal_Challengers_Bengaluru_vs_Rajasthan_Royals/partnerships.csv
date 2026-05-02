@@ -1,15 +1,15 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Royal Challengers Bengaluru,1,PD Salt,0,1,V Kohli,0,0,0,1
-1,Royal Challengers Bengaluru,2,D Padikkal,14,7,V Kohli,22,10,45,17
-1,Royal Challengers Bengaluru,3,V Kohli,10,6,RM Patidar,2,5,13,11
-1,Royal Challengers Bengaluru,4,KH Pandya,1,6,RM Patidar,3,3,4,9
-1,Royal Challengers Bengaluru,5,JM Sharma,5,8,RM Patidar,9,6,14,14
-1,Royal Challengers Bengaluru,6,TH David,13,9,RM Patidar,4,5,18,14
-1,Royal Challengers Bengaluru,7,RM Patidar,9,7,R Shepherd,22,11,31,18
-1,Royal Challengers Bengaluru,8,RM Patidar,36,14,VR Iyer,5,5,41,19
-1,Royal Challengers Bengaluru,9,B Kumar,9,7,VR Iyer,24,10,35,17
-2,Rajasthan Royals,1,YBK Jaiswal,13,8,V Suryavanshi,8,4,21,12
-2,Rajasthan Royals,2,V Suryavanshi,70,22,Dhruv Jurel,38,15,108,37
-2,Rajasthan Royals,3,SO Hetmyer,0,1,Dhruv Jurel,0,0,0,1
-2,Rajasthan Royals,4,R Parag,3,5,Dhruv Jurel,2,3,5,8
-2,Rajasthan Royals,5,RA Jadeja,24,25,Dhruv Jurel,41,25,68,50
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Royal Challengers Bengaluru,1,PD Salt,0,1,V Kohli,0,0,0,0,1
+1,Royal Challengers Bengaluru,2,D Padikkal,14,7,V Kohli,22,10,9,45,17
+1,Royal Challengers Bengaluru,3,V Kohli,10,6,RM Patidar,2,5,1,13,11
+1,Royal Challengers Bengaluru,4,KH Pandya,1,6,RM Patidar,3,3,0,4,9
+1,Royal Challengers Bengaluru,5,JM Sharma,5,8,RM Patidar,9,6,0,14,14
+1,Royal Challengers Bengaluru,6,TH David,13,9,RM Patidar,4,5,1,18,14
+1,Royal Challengers Bengaluru,7,RM Patidar,9,7,R Shepherd,22,11,0,31,18
+1,Royal Challengers Bengaluru,8,RM Patidar,36,14,VR Iyer,5,5,0,41,19
+1,Royal Challengers Bengaluru,9,B Kumar,9,7,VR Iyer,24,10,2,35,17
+2,Rajasthan Royals,1,YBK Jaiswal,13,8,V Suryavanshi,8,4,0,21,12
+2,Rajasthan Royals,2,V Suryavanshi,70,22,Dhruv Jurel,38,15,0,108,37
+2,Rajasthan Royals,3,SO Hetmyer,0,1,Dhruv Jurel,0,0,0,0,1
+2,Rajasthan Royals,4,R Parag,3,5,Dhruv Jurel,2,3,0,5,8
+2,Rajasthan Royals,5,RA Jadeja,24,25,Dhruv Jurel,41,25,3,68,50

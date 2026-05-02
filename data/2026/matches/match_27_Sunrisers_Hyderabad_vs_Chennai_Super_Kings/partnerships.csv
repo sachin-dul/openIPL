@@ -1,20 +1,20 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Sunrisers Hyderabad,1,Abhishek Sharma,50,15,TM Head,23,20,75,35
-1,Sunrisers Hyderabad,2,Ishan Kishan,0,1,Abhishek Sharma,0,0,0,1
-1,Sunrisers Hyderabad,3,Abhishek Sharma,9,7,H Klaasen,2,5,18,12
-1,Sunrisers Hyderabad,4,H Klaasen,17,9,Aniket Verma,2,4,19,13
-1,Sunrisers Hyderabad,5,Nithish Kumar Reddy,12,8,H Klaasen,23,14,35,22
-1,Sunrisers Hyderabad,6,S Arora,12,10,H Klaasen,17,11,30,21
-1,Sunrisers Hyderabad,7,LS Livingstone,0,3,S Arora,1,2,2,5
-1,Sunrisers Hyderabad,8,Shivang Kumar,12,8,LS Livingstone,1,1,14,9
-1,Sunrisers Hyderabad,9,PP Hinge,0,1,LS Livingstone,0,1,1,2
-1,Sunrisers Hyderabad,10,PP Hinge,0,1,LS Livingstone,0,1,1,2
-2,Chennai Super Kings,1,SV Samson,7,3,RD Gaikwad,8,4,15,7
-2,Chennai Super Kings,2,A Mhatre,30,13,RD Gaikwad,11,8,51,21
-2,Chennai Super Kings,3,MW Short,0,2,RD Gaikwad,0,1,0,3
-2,Chennai Super Kings,4,SN Khan,25,19,MW Short,20,14,46,33
-2,Chennai Super Kings,5,D Brevis,0,4,MW Short,1,2,1,6
-2,Chennai Super Kings,6,S Dube,20,13,MW Short,13,12,35,24
-2,Chennai Super Kings,7,J Overton,3,4,S Dube,1,3,6,7
-2,Chennai Super Kings,8,A Kamboj,12,7,J Overton,13,11,28,17
-2,Chennai Super Kings,9,Noor Ahmad,1,1,A Kamboj,1,1,2,2
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Sunrisers Hyderabad,1,Abhishek Sharma,50,15,TM Head,23,20,2,75,35
+1,Sunrisers Hyderabad,2,Ishan Kishan,0,1,Abhishek Sharma,0,0,0,0,1
+1,Sunrisers Hyderabad,3,Abhishek Sharma,9,7,H Klaasen,2,5,7,18,12
+1,Sunrisers Hyderabad,4,H Klaasen,17,9,Aniket Verma,2,4,0,19,13
+1,Sunrisers Hyderabad,5,Nithish Kumar Reddy,12,8,H Klaasen,23,14,0,35,22
+1,Sunrisers Hyderabad,6,S Arora,12,10,H Klaasen,17,11,1,30,21
+1,Sunrisers Hyderabad,7,LS Livingstone,0,3,S Arora,1,2,1,2,5
+1,Sunrisers Hyderabad,8,Shivang Kumar,12,8,LS Livingstone,1,1,1,14,9
+1,Sunrisers Hyderabad,9,PP Hinge,0,1,LS Livingstone,0,1,1,1,2
+1,Sunrisers Hyderabad,10,PP Hinge,0,1,LS Livingstone,0,1,1,1,2
+2,Chennai Super Kings,1,SV Samson,7,3,RD Gaikwad,8,4,0,15,7
+2,Chennai Super Kings,2,A Mhatre,30,13,RD Gaikwad,11,8,10,51,21
+2,Chennai Super Kings,3,MW Short,0,2,RD Gaikwad,0,1,0,0,3
+2,Chennai Super Kings,4,SN Khan,25,19,MW Short,20,14,1,46,33
+2,Chennai Super Kings,5,D Brevis,0,4,MW Short,1,2,0,1,6
+2,Chennai Super Kings,6,S Dube,20,13,MW Short,13,12,2,35,24
+2,Chennai Super Kings,7,J Overton,3,4,S Dube,1,3,2,6,7
+2,Chennai Super Kings,8,A Kamboj,12,7,J Overton,13,11,3,28,17
+2,Chennai Super Kings,9,Noor Ahmad,1,1,A Kamboj,1,1,0,2,2

@@ -77,9 +77,12 @@ def extract_ipl_season_matches(zf, season, output_dir):
         if os.path.exists(out_path):
             continue
 
-        # Write to cache
-        with open(out_path, "w") as f:
+        # Atomic write: tmp file + rename, so a kill mid-write doesn't leave a
+        # truncated cache file that future runs would silently treat as valid.
+        tmp_path = out_path + ".tmp"
+        with open(tmp_path, "w") as f:
             json.dump(data, f, indent=2)
+        os.replace(tmp_path, out_path)
 
         extracted.append((match_id, out_path))
 

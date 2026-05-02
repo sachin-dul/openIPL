@@ -1,13 +1,13 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Delhi Capitals,1,SU Parakh,0,2,KL Rahul,0,0,0,2
-1,Delhi Capitals,2,N Rana,1,2,KL Rahul,1,3,2,5
-1,Delhi Capitals,3,Sameer Rizvi,0,1,N Rana,0,0,0,1
-1,Delhi Capitals,4,T Stubbs,5,3,N Rana,0,2,5,5
-1,Delhi Capitals,5,AR Patel,0,3,N Rana,0,0,0,3
-1,Delhi Capitals,6,Abishek Porel,0,2,N Rana,0,5,1,7
-1,Delhi Capitals,7,DA Miller,19,18,Abishek Porel,16,13,35,31
-1,Delhi Capitals,8,Abishek Porel,6,8,KA Jamieson,12,13,19,21
-1,Delhi Capitals,9,Kuldeep Yadav,3,11,Abishek Porel,4,7,9,18
-1,Delhi Capitals,10,PVD Chameera,0,3,Abishek Porel,4,3,4,6
-2,Royal Challengers Bengaluru,1,JG Bethell,20,11,V Kohli,6,6,26,17
-2,Royal Challengers Bengaluru,2,D Padikkal,34,13,V Kohli,17,9,51,22
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Delhi Capitals,1,SU Parakh,0,2,KL Rahul,0,0,0,0,2
+1,Delhi Capitals,2,N Rana,1,2,KL Rahul,1,3,0,2,5
+1,Delhi Capitals,3,Sameer Rizvi,0,1,N Rana,0,0,0,0,1
+1,Delhi Capitals,4,T Stubbs,5,3,N Rana,0,2,0,5,5
+1,Delhi Capitals,5,AR Patel,0,3,N Rana,0,0,0,0,3
+1,Delhi Capitals,6,Abishek Porel,0,2,N Rana,0,5,1,1,7
+1,Delhi Capitals,7,DA Miller,19,18,Abishek Porel,16,13,0,35,31
+1,Delhi Capitals,8,Abishek Porel,6,8,KA Jamieson,12,13,1,19,21
+1,Delhi Capitals,9,Kuldeep Yadav,3,11,Abishek Porel,4,7,2,9,18
+1,Delhi Capitals,10,PVD Chameera,0,3,Abishek Porel,4,3,0,4,6
+2,Royal Challengers Bengaluru,1,JG Bethell,20,11,V Kohli,6,6,0,26,17
+2,Royal Challengers Bengaluru,2,D Padikkal,34,13,V Kohli,17,9,0,51,22

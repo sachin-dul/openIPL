@@ -80,9 +80,9 @@ shiny run app.py
 | **Overview** | Points table with last-5 form badges, recent results, key season stats |
 | **Batting** | Orange Cap, strike rates, boundaries, phase heatmaps |
 | **Bowling** | Purple Cap, economy, dot balls, phase heatmaps |
-| **Fielding & Partnerships** | Stacked fielding breakdown, best partnerships by wicket |
-| **Season Analysis** | Scoring rhythm heatmap, team fingerprint radar, runs-per-over innings compare (team filter with missing-innings notice), economy vs average scatter, standings bump chart, toss analysis, phase comparison, venue stats, DRS reviews (3-way outcome stack with success-rate line, team/umpire toggle), impact player introductions small-multiples (innings 1 / innings 2 lanes) |
-| **Match Centre** | Scorecards, worm chart, fall of wickets, partnerships, DRS reviews, substitutions, super-over (when applicable) |
+| **Fielding & Partnerships** | Stacked fielding breakdown, opening pairs leaderboard (stands · runs · highest · 50+/100+ · bat-first vs chasing avg), top 10 partnerships, best partnership by wicket |
+| **Season Analysis** | Scoring rhythm heatmap, team fingerprint radar, runs-per-over innings compare (team filter with missing-innings notice), economy vs average scatter, standings bump chart (hover-emphasis on team lines), toss analysis, phase comparison (batting / bowling toggle), venue stats, DRS reviews scatter (reviews vs accuracy with clustered ties + per-name breakdown on hover), impact player introductions small-multiples (innings 1 / innings 2 lanes) |
+| **Match Centre** | Scorecards (not-out rows highlighted), worm chart, fall of wickets, partnerships, DRS reviews, substitutions, super-over (when applicable) |
 
 ## Quick Start
 

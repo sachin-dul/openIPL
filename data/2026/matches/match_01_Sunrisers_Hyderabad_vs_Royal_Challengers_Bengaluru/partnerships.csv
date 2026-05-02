@@ -1,16 +1,16 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Sunrisers Hyderabad,1,TM Head,7,5,Abhishek Sharma,7,8,18,13
-1,Sunrisers Hyderabad,2,Ishan Kishan,1,1,TM Head,4,4,5,5
-1,Sunrisers Hyderabad,3,Ishan Kishan,5,2,Nithish Kumar Reddy,1,6,6,8
-1,Sunrisers Hyderabad,4,H Klaasen,31,22,Ishan Kishan,66,31,97,53
-1,Sunrisers Hyderabad,5,S Arora,9,6,Ishan Kishan,2,2,11,8
-1,Sunrisers Hyderabad,6,Aniket Verma,12,7,Ishan Kishan,6,2,18,9
-1,Sunrisers Hyderabad,7,Aniket Verma,8,3,Harsh Dubey,3,3,12,6
-1,Sunrisers Hyderabad,8,Aniket Verma,7,3,HV Patel,0,2,7,5
-1,Sunrisers Hyderabad,9,DA Payne,2,2,Aniket Verma,16,5,18,7
-1,Sunrisers Hyderabad,10,DA Payne,4,3,JD Unadkat,4,3,9,6
-2,Royal Challengers Bengaluru,1,PD Salt,8,7,V Kohli,0,0,9,7
-2,Royal Challengers Bengaluru,2,D Padikkal,61,26,V Kohli,30,19,101,45
-2,Royal Challengers Bengaluru,3,RM Patidar,31,12,V Kohli,17,10,53,22
-2,Royal Challengers Bengaluru,4,JM Sharma,0,1,V Kohli,0,0,0,1
-2,Royal Challengers Bengaluru,5,TH David,16,10,V Kohli,22,9,40,19
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Sunrisers Hyderabad,1,TM Head,7,5,Abhishek Sharma,7,8,4,18,13
+1,Sunrisers Hyderabad,2,Ishan Kishan,1,1,TM Head,4,4,0,5,5
+1,Sunrisers Hyderabad,3,Ishan Kishan,5,2,Nithish Kumar Reddy,1,6,0,6,8
+1,Sunrisers Hyderabad,4,H Klaasen,31,22,Ishan Kishan,66,31,0,97,53
+1,Sunrisers Hyderabad,5,S Arora,9,6,Ishan Kishan,2,2,0,11,8
+1,Sunrisers Hyderabad,6,Aniket Verma,12,7,Ishan Kishan,6,2,0,18,9
+1,Sunrisers Hyderabad,7,Aniket Verma,8,3,Harsh Dubey,3,3,1,12,6
+1,Sunrisers Hyderabad,8,Aniket Verma,7,3,HV Patel,0,2,0,7,5
+1,Sunrisers Hyderabad,9,DA Payne,2,2,Aniket Verma,16,5,0,18,7
+1,Sunrisers Hyderabad,10,DA Payne,4,3,JD Unadkat,4,3,1,9,6
+2,Royal Challengers Bengaluru,1,PD Salt,8,7,V Kohli,0,0,1,9,7
+2,Royal Challengers Bengaluru,2,D Padikkal,61,26,V Kohli,30,19,10,101,45
+2,Royal Challengers Bengaluru,3,RM Patidar,31,12,V Kohli,17,10,5,53,22
+2,Royal Challengers Bengaluru,4,JM Sharma,0,1,V Kohli,0,0,0,0,1
+2,Royal Challengers Bengaluru,5,TH David,16,10,V Kohli,22,9,2,40,19

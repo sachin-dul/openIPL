@@ -1,20 +1,20 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Sunrisers Hyderabad,1,TM Head,46,21,Abhishek Sharma,33,13,82,34
-1,Sunrisers Hyderabad,2,Ishan Kishan,14,9,Abhishek Sharma,15,7,29,16
-1,Sunrisers Hyderabad,3,H Klaasen,1,1,Abhishek Sharma,0,1,1,2
-1,Sunrisers Hyderabad,4,Aniket Verma,1,4,H Klaasen,0,0,6,4
-1,Sunrisers Hyderabad,5,Nithish Kumar Reddy,39,24,H Klaasen,40,29,82,53
-1,Sunrisers Hyderabad,6,S Arora,0,1,H Klaasen,0,0,0,1
-1,Sunrisers Hyderabad,7,Harsh Dubey,9,3,H Klaasen,11,5,22,8
-1,Sunrisers Hyderabad,8,Shivang Kumar,4,2,Harsh Dubey,0,0,4,2
-1,Sunrisers Hyderabad,9,Shivang Kumar,4,2,Harsh Dubey,0,0,4,2
-2,Kolkata Knight Riders,1,AM Rahane,2,2,FH Allen,28,7,30,9
-2,Kolkata Knight Riders,2,A Raghuvanshi,29,13,AM Rahane,6,8,37,21
-2,Kolkata Knight Riders,3,A Raghuvanshi,2,4,C Green,2,2,7,6
-2,Kolkata Knight Riders,4,RK Singh,25,18,A Raghuvanshi,21,12,46,30
-2,Kolkata Knight Riders,5,AS Roy,0,2,RK Singh,0,0,0,2
-2,Kolkata Knight Riders,6,Ramandeep Singh,9,7,RK Singh,10,7,19,14
-2,Kolkata Knight Riders,7,SP Narine,12,4,Ramandeep Singh,1,1,15,5
-2,Kolkata Knight Riders,8,Kartik Tyagi,4,2,Ramandeep Singh,0,1,5,3
-2,Kolkata Knight Riders,9,Kartik Tyagi,1,3,VG Arora,1,2,2,5
-2,Kolkata Knight Riders,10,CV Varun,0,1,VG Arora,0,0,0,1
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Sunrisers Hyderabad,1,TM Head,46,21,Abhishek Sharma,33,13,3,82,34
+1,Sunrisers Hyderabad,2,Ishan Kishan,14,9,Abhishek Sharma,15,7,0,29,16
+1,Sunrisers Hyderabad,3,H Klaasen,1,1,Abhishek Sharma,0,1,0,1,2
+1,Sunrisers Hyderabad,4,Aniket Verma,1,4,H Klaasen,0,0,5,6,4
+1,Sunrisers Hyderabad,5,Nithish Kumar Reddy,39,24,H Klaasen,40,29,3,82,53
+1,Sunrisers Hyderabad,6,S Arora,0,1,H Klaasen,0,0,0,0,1
+1,Sunrisers Hyderabad,7,Harsh Dubey,9,3,H Klaasen,11,5,2,22,8
+1,Sunrisers Hyderabad,8,Shivang Kumar,4,2,Harsh Dubey,0,0,0,4,2
+1,Sunrisers Hyderabad,9,Shivang Kumar,4,2,Harsh Dubey,0,0,0,4,2
+2,Kolkata Knight Riders,1,AM Rahane,2,2,FH Allen,28,7,0,30,9
+2,Kolkata Knight Riders,2,A Raghuvanshi,29,13,AM Rahane,6,8,2,37,21
+2,Kolkata Knight Riders,3,A Raghuvanshi,2,4,C Green,2,2,3,7,6
+2,Kolkata Knight Riders,4,RK Singh,25,18,A Raghuvanshi,21,12,0,46,30
+2,Kolkata Knight Riders,5,AS Roy,0,2,RK Singh,0,0,0,0,2
+2,Kolkata Knight Riders,6,Ramandeep Singh,9,7,RK Singh,10,7,0,19,14
+2,Kolkata Knight Riders,7,SP Narine,12,4,Ramandeep Singh,1,1,2,15,5
+2,Kolkata Knight Riders,8,Kartik Tyagi,4,2,Ramandeep Singh,0,1,1,5,3
+2,Kolkata Knight Riders,9,Kartik Tyagi,1,3,VG Arora,1,2,0,2,5
+2,Kolkata Knight Riders,10,CV Varun,0,1,VG Arora,0,0,0,0,1

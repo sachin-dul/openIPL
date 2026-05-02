@@ -20,15 +20,55 @@ from utils.charts import (
     team_dna_heatmap, team_radar_chart,
     runs_per_over_innings_compare,
     economy_vs_average_scatter,
-    drs_combined, impact_player_subs_by_team,
+    drs_volume_accuracy_scatter, impact_player_subs_by_team,
     TEAM_COLORS, LAYOUT_TEMPLATE,
     team_color, team_logo, team_short,
+    nice_dtick,
 )
 
 
-def plotly_ui(fig):
-    """Render a Plotly figure as HTML. Plotly JS is loaded once in <head>."""
-    return ui.HTML(fig.to_html(full_html=False, include_plotlyjs=False, config={"displayModeBar": False}))
+def plotly_ui(fig, emphasize_on_hover=False):
+    """Render a Plotly figure as HTML. Plotly JS is loaded once in <head>.
+
+    `emphasize_on_hover`: when True, hovering over a trace fades the others
+    so the hovered series stands out. Useful for crowded line charts.
+    """
+    if not emphasize_on_hover:
+        return ui.HTML(fig.to_html(full_html=False, include_plotlyjs=False, config={"displayModeBar": False}))
+
+    import uuid
+    div_id = f"plt-{uuid.uuid4().hex[:10]}"
+    html = fig.to_html(full_html=False, include_plotlyjs=False, config={"displayModeBar": False}, div_id=div_id)
+    script = f"""
+    <script>
+    (function() {{
+        var attach = function() {{
+            var gd = document.getElementById('{div_id}');
+            if (!gd || !gd.on || !gd.data) {{ setTimeout(attach, 50); return; }}
+            var n = gd.data.length;
+            var dim = 0.18;
+            gd.on('plotly_hover', function(ev) {{
+                if (!ev.points || !ev.points.length) return;
+                var hov = ev.points[0].curveNumber;
+                var ops = []; var widths = [];
+                for (var i = 0; i < n; i++) {{
+                    ops.push(i === hov ? 1 : dim);
+                    var w = (gd.data[i].line && gd.data[i].line.width) || 4;
+                    widths.push(i === hov ? Math.max(w, 5) : w);
+                }}
+                Plotly.restyle(gd, {{opacity: ops, 'line.width': widths}});
+            }});
+            gd.on('plotly_unhover', function() {{
+                var ops = []; var widths = [];
+                for (var i = 0; i < n; i++) {{ ops.push(1); widths.push(4); }}
+                Plotly.restyle(gd, {{opacity: ops, 'line.width': widths}});
+            }});
+        }};
+        attach();
+    }})();
+    </script>
+    """
+    return ui.HTML(html + script)
 
 
 def _overs_to_balls(overs):
@@ -107,7 +147,7 @@ def empty_state(message="No data available"):
     )
 
 
-def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, player_col=None, player_teams=None):
+def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, player_col=None, player_teams=None, row_highlight=None):
     """Render a DataFrame as a styled HTML table.
 
     highlight_cols: list of column names to highlight with accent color
@@ -115,11 +155,13 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
     align_right: list of column names to right-align (numeric cols)
     player_col: column name containing player names (to prepend team logo)
     player_teams: dict mapping player name -> team name
+    row_highlight: optional iterable of bools aligned with df rows; True rows get a tinted background
     """
     highlight_cols = highlight_cols or []
     bold_cols = bold_cols or []
     align_right = align_right or []
     player_teams = player_teams or {}
+    row_highlight = list(row_highlight) if row_highlight is not None else [False] * len(df)
 
     # Right-align all columns except player/name columns (first col, bold cols, player col)
     if not align_right:
@@ -138,7 +180,12 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
     )
     rows = ""
     for i, (_, row) in enumerate(df.iterrows()):
-        bg = "#f9fafb" if i % 2 == 1 else "transparent"
+        if i < len(row_highlight) and row_highlight[i]:
+            bg = "#ecfdf5"  # soft emerald tint — denotes "not out / still in"
+            row_extra = "border-left:3px solid #10b981;"
+        else:
+            bg = "#f9fafb" if i % 2 == 1 else "transparent"
+            row_extra = ""
         cells = ""
         for c in df.columns:
             val = row[c]
@@ -152,10 +199,10 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
                 if logo_url:
                     val = f'<img src="{logo_url}" style="height:18px;width:18px;object-fit:contain;vertical-align:middle;margin-right:6px" onerror="this.style.display=\'none\'">{val}'
             cells += f'<td style="{style}">{val}</td>'
-        rows += f'<tr style="background:{bg};border-bottom:1px solid #e5e7eb">{cells}</tr>'
+        rows += f'<tr style="background:{bg};border-bottom:1px solid #e5e7eb;{row_extra}">{cells}</tr>'
 
     return ui.HTML(
-        f'<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:14px;font-family:Figtree,sans-serif">'
+        f'<div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;font-size:14px;font-family:Golos UI,sans-serif">'
         f'<thead><tr>{header}</tr></thead><tbody>{rows}</tbody></table></div>'
     )
 
@@ -322,6 +369,10 @@ app_ui = ui.page_navbar(
         ),
         ui.h4("Partnerships", class_="mt-3 mb-2"),
         ui.layout_columns(
+            ui.card(ui.card_header("Opening Pairs Leaderboard"), ui.output_ui("opening_pairs_leaderboard")),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
             ui.card(ui.card_header("Top 10 Partnerships"), ui.output_ui("partnerships_chart")),
             col_widths=[12],
         ),
@@ -368,7 +419,23 @@ app_ui = ui.page_navbar(
             col_widths=[6, 6],
         ),
         ui.layout_columns(
-            ui.card(ui.card_header("DRS Reviews"), ui.output_ui("season_drs_chart")),
+            ui.card(
+                ui.card_header("DRS Reviews"),
+                ui.tags.style("#drs_view .form-check-inline { margin-right: 1.25rem; } #drs_view-label { display:none; }"),
+                ui.div(
+                    ui.input_radio_buttons("drs_view", None, choices={"umpire": "By Umpire", "team": "By Team"}, selected="umpire", inline=True),
+                    style="display:flex;justify-content:flex-end;",
+                ),
+                ui.output_ui("drs_scatter_chart"),
+                ui.HTML(
+                    '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb;line-height:1.6;">'
+                    '<div><strong>Umpire — Accuracy</strong> = (Stood + Umpire\'s Call) / total &nbsp;·&nbsp; '
+                    '<strong>Team — Success</strong> = Overturned / total</div>'
+                    '<div>Umpire\'s Call helps the umpire\'s accuracy, not the team\'s success.</div>'
+                    '<div>Numbered bubbles group ties — hover for names + breakdown. Umpires with &lt;2 reviews excluded.</div>'
+                    '</div>'
+                ),
+            ),
             col_widths=[12],
         ),
         ui.layout_columns(
@@ -378,7 +445,36 @@ app_ui = ui.page_navbar(
         ui.layout_columns(
             ui.card(
                 ui.card_header("Team Phase Comparison"),
-                ui.input_select("phase_metric", "Metric", choices={"run_rate": "Run Rate", "wickets": "Wickets", "boundaries": "Boundaries", "dots": "Dots"}),
+                ui.tags.style("""
+                    .phase-controls {
+                        display: flex !important;
+                        justify-content: flex-end !important;
+                        align-items: center !important;
+                        gap: 24px;
+                        width: 100%;
+                    }
+                    .phase-controls > .form-group,
+                    .phase-controls > .shiny-input-radiogroup {
+                        margin: 0 !important;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                    }
+                    .phase-controls .control-label {
+                        display: block;
+                        margin: 0 0 6px 0;
+                        font-weight: 500;
+                        line-height: 1.2;
+                        font-size: 13px;
+                    }
+                    #phase_perspective .form-check-inline { margin-right: 1.25rem; }
+                    #phase_metric { width: 130px; }
+                """),
+                ui.div(
+                    ui.input_radio_buttons("phase_perspective", "Perspective", choices={"batting": "Batting", "bowling": "Bowling"}, selected="batting", inline=True),
+                    ui.input_select("phase_metric", "Metric", choices={"run_rate": "Run Rate", "wickets": "Wickets", "boundaries": "Boundaries", "dots": "Dots"}),
+                    class_="phase-controls",
+                ),
                 ui.output_ui("team_phase_chart"),
             ),
             col_widths=[12],
@@ -457,6 +553,28 @@ app_ui = ui.page_navbar(
     theme=ui.Theme("flatly"),
     header=ui.head_content(
         ui.tags.script(src="https://cdn.plot.ly/plotly-2.35.2.min.js", type="text/javascript"),
+
+        ui.tags.style("""
+            @font-face {
+                font-family: 'Golos UI';
+                src: url('/static/fonts/golos-ui_vf.woff2') format('woff2-variations'),
+                     url('/static/fonts/golos-ui_vf.woff2') format('woff2');
+                font-weight: 400 900;
+                font-display: swap;
+                font-style: normal;
+            }
+            body, .card, .card-header, .card-body, .form-control, .nav-link, .navbar-brand, table {
+                font-family: 'Golos UI', system-ui, -apple-system, sans-serif !important;
+            }
+            .card-header, .card-header * { font-weight: 600 !important; }
+            /* Tabular figures for numeric content so columns line up. Prose stays
+               proportional (better word spacing) since these only target tables,
+               chart text, and elements that opt in via the .tabular-nums class. */
+            table, .js-plotly-plot text, .tabular-nums {
+                font-variant-numeric: tabular-nums;
+                font-feature-settings: "tnum";
+            }
+        """),
 
         ui.tags.script("""
             // Close mobile hamburger nav after selecting a page
@@ -912,12 +1030,12 @@ def server(input, output, session):
                 <div style="display:flex;align-items:center;margin-bottom:6px;{w1}">
                     <img src="{logo1}" style="height:24px;width:24px;object-fit:contain;flex-shrink:0" onerror="this.style.display='none'">
                     <span style="margin-left:8px;white-space:nowrap;flex:1;color:#1f2937">{team_short(t1)}</span>
-                    <span style="font-family:monospace;font-size:13px;white-space:nowrap;color:#1f2937">{s1}</span>
+                    <span class="tabular-nums" style="font-size:13px;white-space:nowrap;color:#1f2937">{s1}</span>
                 </div>
                 <div style="display:flex;align-items:center;{w2}">
                     <img src="{logo2}" style="height:24px;width:24px;object-fit:contain;flex-shrink:0" onerror="this.style.display='none'">
                     <span style="margin-left:8px;white-space:nowrap;flex:1;color:#1f2937">{team_short(t2)}</span>
-                    <span style="font-family:monospace;font-size:13px;white-space:nowrap;color:#1f2937">{s2}</span>
+                    <span class="tabular-nums" style="font-size:13px;white-space:nowrap;color:#1f2937">{s2}</span>
                 </div>
                 <div style="font-size:11px;color:#6b7280;margin-top:8px;border-top:1px solid #e5e7eb;padding-top:4px;white-space:nowrap">{margin}</div>
                 {"" if is_no_result else f'<div style="font-size:11px;color:#6b7280;margin-top:4px;white-space:nowrap">POM: <strong style="color:#1a56db">{row["player_of_match"]}</strong></div>'}
@@ -968,7 +1086,7 @@ def server(input, output, session):
             text=top["count"], textposition="outside", textfont=dict(size=13, color="#374151"),
         ))
         fig.update_layout(yaxis=dict(autorange="reversed"))
-        fig.update_xaxes(dtick=1)
+        fig.update_xaxes(dtick=nice_dtick(top["count"].max()))
         return plotly_ui(_apply_style(fig, height=max(300, len(top) * 40)))
 
     @render.ui
@@ -1024,7 +1142,7 @@ def server(input, output, session):
         if bat.empty:
             return empty_state()
         matches = load_matches()
-        top = bat.nlargest(10, "runs")[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "team", "match_number"]].copy()
+        top = bat.nlargest(10, "runs")[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "team", "match_number", "dismissal"]].copy()
         # Add opponent and match info
         def get_opponent(row):
             m = matches[matches["match_number"] == row["match_number"]]
@@ -1035,6 +1153,9 @@ def server(input, output, session):
         top["opponent"] = top.apply(get_opponent, axis=1)
         top["opponent"] = top["opponent"].apply(lambda t: team_short(t))
         top["match"] = "M" + top["match_number"].astype(str)
+        # Append "*" to Runs when batter was not out (cricket convention).
+        not_out = top["dismissal"].astype(str).str.strip().str.lower() == "not out"
+        top["runs"] = top["runs"].astype(int).astype(str) + not_out.map({True: "*", False: ""})
         top = top[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "opponent", "match"]]
         top.columns = ["Batter", "Runs", "Balls", "4s", "6s", "SR", "vs", "Match"]
         return styled_table(top, highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
@@ -1084,27 +1205,30 @@ def server(input, output, session):
         team_filter = input.batting_phase_team()
         if team_filter and team_filter != "All Teams":
             bbb = bbb[bbb["team"] == team_filter]
-        # Balls faced excludes wides (no-balls count as balls faced).
-        # Dot ball = legal delivery with zero total runs (ICC scoring convention).
+        # Run Rate uses legal balls (team convention, reconciles with bowling chart).
+        # Boundary % / Dot Ball % use balls faced (batter convention, matches Statsguru):
+        # balls faced excludes wides but includes no-balls.
         et = bbb["extra_type"].astype(str)
         is_wide = et.str.contains("wides", na=False)
         is_legal = ~is_wide & ~et.str.contains("noballs", na=False)
         bbb_b = bbb.assign(
-            _ball_faced=(~is_wide).astype(int),
-            _dot=((bbb["total_runs"] == 0) & is_legal).astype(int),
+            _legal=is_legal.astype(int),
+            _faced=(~is_wide).astype(int),
+            _dot=((bbb["total_runs"] == 0) & (~is_wide)).astype(int),
             _four=bbb["is_four"].astype(int),
             _six=bbb["is_six"].astype(int),
         )
         phase_bat = bbb_b.groupby("phase").agg(
-            runs=("batter_runs", "sum"),
-            balls=("_ball_faced", "sum"),
+            runs=("total_runs", "sum"),
+            legal_balls=("_legal", "sum"),
+            faced_balls=("_faced", "sum"),
             sixes=("_six", "sum"),
             fours=("_four", "sum"),
             dots=("_dot", "sum"),
         ).reset_index()
-        phase_bat["Run Rate"] = phase_bat.apply(lambda r: round(r["runs"] / r["balls"] * 6, 2) if r["balls"] > 0 else 0, axis=1)
-        phase_bat["Boundary %"] = phase_bat.apply(lambda r: round((r["sixes"] + r["fours"]) / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
-        phase_bat["Dot Ball %"] = phase_bat.apply(lambda r: round(r["dots"] / r["balls"] * 100, 1) if r["balls"] > 0 else 0, axis=1)
+        phase_bat["Run Rate"] = phase_bat.apply(lambda r: round(r["runs"] / r["legal_balls"] * 6, 2) if r["legal_balls"] > 0 else 0, axis=1)
+        phase_bat["Boundary %"] = phase_bat.apply(lambda r: round((r["sixes"] + r["fours"]) / r["faced_balls"] * 100, 1) if r["faced_balls"] > 0 else 0, axis=1)
+        phase_bat["Dot Ball %"] = phase_bat.apply(lambda r: round(r["dots"] / r["faced_balls"] * 100, 1) if r["faced_balls"] > 0 else 0, axis=1)
         labels = {"powerplay": "Powerplay (1-6)", "middle": "Middle (7-15)", "death": "Death (16-20)"}
         phase_bat["phase_label"] = phase_bat["phase"].map(labels)
         ordered = ["Powerplay (1-6)", "Middle (7-15)", "Death (16-20)"]
@@ -1137,7 +1261,7 @@ def server(input, output, session):
             for c in range(len(metrics)):
                 fig.add_annotation(
                     x=metrics[c], y=y_labels[r], text=text[r][c],
-                    showarrow=False, font=dict(size=16, color=text_colors[r][c], family="Figtree, sans-serif"),
+                    showarrow=False, font=dict(size=16, color=text_colors[r][c], family="Golos UI, sans-serif"),
                 )
         fig.update_traces(texttemplate="")
         chart_height = max(120, len(y_labels) * 55 + 30)
@@ -1332,7 +1456,7 @@ def server(input, output, session):
             for c in range(len(metrics)):
                 fig.add_annotation(
                     x=metrics[c], y=y_labels[r], text=text[r][c],
-                    showarrow=False, font=dict(size=16, color=text_colors[r][c], family="Figtree, sans-serif"),
+                    showarrow=False, font=dict(size=16, color=text_colors[r][c], family="Golos UI, sans-serif"),
                 )
         chart_height = max(120, len(y_labels) * 55 + 30)
         fig.update_layout(
@@ -1513,6 +1637,60 @@ def server(input, output, session):
         fig.update_yaxes(gridcolor="rgba(0,0,0,0.08)", zeroline=False)
         return plotly_ui(fig)
 
+    @render.ui
+    def opening_pairs_leaderboard():
+        p = load_partnerships()
+        nr = nr_match_numbers()
+        if nr and not p.empty and "match_number" in p.columns:
+            p = p[~p["match_number"].isin(nr)]
+        if p.empty:
+            return empty_state()
+        opens = p[p["wicket_number"] == 1].copy()
+        if opens.empty:
+            return empty_state("No opening partnerships yet")
+        # Canonical pair name regardless of which batter is recorded as 1 vs 2.
+        opens["pair_key"] = opens.apply(
+            lambda r: " & ".join(sorted([r["batter_1"], r["batter_2"]])), axis=1
+        )
+        opens["is_50"] = (opens["total_runs"] >= 50).astype(int)
+        opens["is_100"] = (opens["total_runs"] >= 100).astype(int)
+        opens["bat_first"] = (opens["innings"] == 1)
+
+        rows = []
+        for (pair, team), grp in opens.groupby(["pair_key", "team"]):
+            n = len(grp)
+            bf = grp[grp["bat_first"]]["total_runs"]
+            ch = grp[~grp["bat_first"]]["total_runs"]
+            rows.append({
+                "Pair": pair,
+                "Team": team,
+                "Stands": n,
+                "Runs": int(grp["total_runs"].sum()),
+                "Highest": int(grp["total_runs"].max()),
+                "Avg": round(float(grp["total_runs"].mean()), 1),
+                "50+": int(grp["is_50"].sum()),
+                "100+": int(grp["is_100"].sum()),
+                "Bat 1st Avg": round(float(bf.mean()), 1) if len(bf) else None,
+                "Chase Avg": round(float(ch.mean()), 1) if len(ch) else None,
+            })
+        agg = pd.DataFrame(rows)
+        if agg.empty:
+            return empty_state("No opening partnerships yet")
+        agg = agg[agg["Stands"] >= 2]  # filter noise (one-off pairings)
+        if agg.empty:
+            return empty_state("No pair has opened more than once")
+        agg = agg.sort_values(["Stands", "Avg"], ascending=[False, False])
+        # Use the team column for the team-logo treatment, then drop it.
+        pair_team_map = dict(zip(agg["Pair"], agg["Team"]))
+        agg = agg.drop(columns=["Team"])
+        # pandas converts None → NaN in numeric columns; use pd.isna to catch both.
+        agg["Bat 1st Avg"] = agg["Bat 1st Avg"].apply(lambda v: "—" if pd.isna(v) else v)
+        agg["Chase Avg"] = agg["Chase Avg"].apply(lambda v: "—" if pd.isna(v) else v)
+        return styled_table(
+            agg, highlight_cols=["Highest"], bold_cols=["Pair"],
+            player_col="Pair", player_teams=pair_team_map,
+        )
+
     # ── Season Analysis ─────────────────────────
 
     @render.ui
@@ -1552,11 +1730,11 @@ def server(input, output, session):
         return plotly_ui(economy_vs_average_scatter(bowl))
 
     @render.ui
-    def season_drs_chart():
+    def drs_scatter_chart():
         r = load_reviews()
         if r.empty:
             return empty_state("No DRS reviews yet")
-        return plotly_ui(drs_combined(r, load_ball_by_ball()))
+        return plotly_ui(drs_volume_accuracy_scatter(r, by=input.drs_view()))
 
     @render.ui
     def season_subs_chart():
@@ -1611,13 +1789,22 @@ def server(input, output, session):
                     opp_runs = int(o_parts[0]) if len(o_parts) >= 1 else 0
                     opp_wickets = int(o_parts[1]) if len(o_parts) >= 2 else 0
 
+                    # NRR: when a team is all out, use the team's allotted overs (per ICC rules),
+                    # which equals target_overs in DLS-shortened matches and 20 otherwise.
+                    allotted = pd.to_numeric(row.get("target_overs"), errors="coerce")
+                    allotted_balls = int(allotted * 6) if pd.notna(allotted) and allotted > 0 else 120
+
+                    # Legal-ball check is regex-based so combo extras like "noballs, legbyes"
+                    # are also excluded (isin would only match exact single-key strings).
                     match_bbb = bbb[bbb["match_number"] == mn]
                     inn_df = match_bbb[match_bbb["team"] == team]
-                    balls = 120 if wickets == 10 else len(inn_df[~inn_df["extra_type"].isin(["wides", "noballs"])])
+                    inn_legal = ~inn_df["extra_type"].astype(str).str.contains("wides|noballs", na=False)
+                    balls = allotted_balls if wickets == 10 else int(inn_legal.sum())
 
                     opp_team = row["team_2"] if team == row["team_1"] else row["team_1"]
                     opp_inn_df = match_bbb[match_bbb["team"] == opp_team]
-                    opp_balls = 120 if opp_wickets == 10 else len(opp_inn_df[~opp_inn_df["extra_type"].isin(["wides", "noballs"])])
+                    opp_legal = ~opp_inn_df["extra_type"].astype(str).str.contains("wides|noballs", na=False)
+                    opp_balls = allotted_balls if opp_wickets == 10 else int(opp_legal.sum())
 
                     team_stats[team]["rs"] += runs
                     team_stats[team]["bf"] += balls
@@ -1726,11 +1913,13 @@ def server(input, output, session):
             xaxis_title="Round",
             yaxis_title="",
             showlegend=False,
+            hovermode="closest",
+            hoverdistance=-1,  # always snap to closest line, no distance limit
             **LAYOUT_TEMPLATE,
             margin=dict(l=40, r=100, t=20, b=50),
         )
         fig.update_xaxes(
-            dtick=1, gridcolor="rgba(0,0,0,0.06)",
+            dtick=nice_dtick(max_round), gridcolor="rgba(0,0,0,0.06)",
             range=[0.5, max_round + 1.8],
         )
         fig.update_yaxes(
@@ -1762,7 +1951,7 @@ def server(input, output, session):
                 font=dict(size=10, color="#dc2626"),
             )
 
-        chart = plotly_ui(_apply_style(fig, height=500))
+        chart = plotly_ui(_apply_style(fig, height=500), emphasize_on_hover=True)
         footnote = ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Standings are shown per round — a round completes when all teams have played the same number of matches. Some teams may have played additional matches not yet reflected here.</div>')
         return ui.TagList(chart, footnote)
 
@@ -1794,12 +1983,35 @@ def server(input, output, session):
         if phase.empty:
             return empty_state()
         metric = input.phase_metric()
+        perspective = input.phase_perspective()
+
+        # For bowling perspective: swap each row's batting team for the opposing team in that match.
+        # All metrics flip semantics: runs scored -> conceded, wickets lost -> taken, etc.
+        if perspective == "bowling":
+            matches = _stat_matches()
+            opp_map = {}
+            for _, m in matches.iterrows():
+                t1, t2 = m.get("team_1"), m.get("team_2")
+                mn = m.get("match_number")
+                if t1 and t2 and pd.notna(mn):
+                    opp_map[(int(mn), t1)] = t2
+                    opp_map[(int(mn), t2)] = t1
+            phase = phase.copy()
+            phase["team"] = [opp_map.get((int(mn), t)) for mn, t in zip(phase["match_number"], phase["team"])]
+            phase = phase.dropna(subset=["team"])
+
         team_phase = phase.groupby(["team", "phase"]).agg(
             runs=("runs", "sum"), wickets=("wickets", "sum"),
             balls=("balls", "sum"), boundaries=("boundaries", "sum"), dots=("dots", "sum"),
         ).reset_index()
         team_phase["run_rate"] = ((team_phase["runs"] / team_phase["balls"]) * 6).round(2)
-        chart = plotly_ui(phase_comparison_chart(team_phase, metric=metric))
+
+        # Y-axis label depends on perspective so users know which side of the ball this is.
+        labels = {
+            "batting": {"run_rate": "Run Rate (scored)", "wickets": "Wickets Lost", "boundaries": "Boundaries Hit", "dots": "Dots Faced"},
+            "bowling": {"run_rate": "Economy (conceded)", "wickets": "Wickets Taken", "boundaries": "Boundaries Conceded", "dots": "Dots Bowled"},
+        }
+        chart = plotly_ui(phase_comparison_chart(team_phase, metric=metric, metric_label=labels[perspective][metric]))
         if _has_rain_shortened(_stat_matches()):
             return ui.TagList(chart, ui.HTML(RAIN_PHASE_FOOTNOTE))
         return chart
@@ -1928,12 +2140,11 @@ def server(input, output, session):
                 text=[f"{int(w)}/{int(p)}" if pd.notna(w) else "" for w, p in zip(ldf["wins"], ldf["played"])],
                 textposition="outside",
                 textfont=dict(size=11, color="#1f2937"),
-                hovertemplate="<b>%{x}</b> " + loc + "<br>Win%%: %{y:.1f}%%<br>Record: %{text}<extra></extra>",
+                hovertemplate="<b>%{x}</b> " + loc + "<br>Win%: %{y:.1f}%<br>Record: %{text}<extra></extra>",
             ))
 
         fig.update_layout(
             barmode="group",
-            title="Home vs Away Win %",
             xaxis_title="",
             yaxis_title="Win %",
             yaxis=dict(range=[0, 110]),
@@ -1946,6 +2157,17 @@ def server(input, output, session):
     @reactive.calc
     def selected_match_num():
         return int(input.match_select())
+
+    def _match_allotted_overs(mn):
+        """Allotted overs for a match (target_overs from matches.csv, fallback 20)."""
+        m = load_matches()
+        if m.empty or "target_overs" not in m.columns:
+            return 20
+        row = m[m["match_number"] == mn]
+        if row.empty:
+            return 20
+        v = pd.to_numeric(row["target_overs"].iloc[0], errors="coerce")
+        return float(v) if pd.notna(v) and v > 0 else 20
 
     @reactive.calc
     def match_innings_teams():
@@ -2149,7 +2371,7 @@ def server(input, output, session):
                             <strong style="font-size:13px;color:{team_color(team)};">{team_short(team)}</strong>
                             {winner_badge}
                         </div>
-                        <div style="font-family:monospace;font-size:15px;font-weight:700;color:{score_color};">
+                        <div class="tabular-nums" style="font-size:15px;font-weight:700;color:{score_color};">
                             {total_runs}/{wkts} <span style="color:#9ca3af;font-weight:500;font-size:11px;">({balls} ball{'s' if balls != 1 else ''})</span>
                         </div>
                     </div>
@@ -2189,10 +2411,11 @@ def server(input, output, session):
         bdf = bat[bat["match_number"] == mn] if not bat.empty else pd.DataFrame()
         if not bdf.empty:
             tb = bdf.sort_values("runs", ascending=False).iloc[0]
+            no_star = "*" if str(tb.get("dismissal", "")).strip().lower() == "not out" else ""
             tiles.append((
                 "Top Batter",
                 tb["batter"],
-                f"{int(tb['runs'])} ({int(tb['balls'])}b)",
+                f"{int(tb['runs'])}{no_star} ({int(tb['balls'])}b)",
                 f"SR {float(tb['strike_rate']):.1f} · {int(tb['fours'])}×4 · {int(tb['sixes'])}×6",
                 team_color(tb["team"]) if "team" in tb else "#1a56db",
             ))
@@ -2267,10 +2490,11 @@ def server(input, output, session):
         bbb = load_ball_by_ball()
         if bbb.empty:
             return empty_state()
-        mbbb = bbb[(bbb["match_number"] == selected_match_num()) & (bbb["innings"] == innings)]
+        mn = selected_match_num()
+        mbbb = bbb[(bbb["match_number"] == mn) & (bbb["innings"] == innings)]
         if mbbb.empty:
             return empty_state()
-        return plotly_ui(manhattan_chart(bbb, selected_match_num(), innings))
+        return plotly_ui(manhattan_chart(bbb, mn, innings, allotted_overs=_match_allotted_overs(mn)))
 
     @render.ui
     def match_manhattan_1():
@@ -2285,10 +2509,11 @@ def server(input, output, session):
         bbb = load_ball_by_ball()
         if bbb.empty:
             return empty_state()
-        mbbb = bbb[bbb["match_number"] == selected_match_num()]
+        mn = selected_match_num()
+        mbbb = bbb[bbb["match_number"] == mn]
         if mbbb.empty:
             return empty_state()
-        return plotly_ui(run_rate_chart(bbb, selected_match_num()))
+        return plotly_ui(run_rate_chart(bbb, mn, allotted_overs=_match_allotted_overs(mn)))
 
     def _team_header(innings, label):
         teams = match_innings_teams()
@@ -2342,8 +2567,14 @@ def server(input, output, session):
         if df.empty:
             return empty_state()
         df = df[["batter", "runs", "balls", "fours", "sixes", "strike_rate", "dismissal"]].copy()
+        not_out = df["dismissal"].astype(str).str.strip().str.lower() == "not out"
+        df.loc[not_out, "dismissal"] = ""  # row highlight conveys "not out"; drop the text
         df.columns = ["Batter", "Runs", "Balls", "4s", "6s", "SR", "Dismissal"]
-        return styled_table(df, highlight_cols=["Runs"], bold_cols=["Batter"], player_col="Batter", player_teams=player_teams())
+        return styled_table(
+            df, highlight_cols=["Runs"], bold_cols=["Batter"],
+            player_col="Batter", player_teams=player_teams(),
+            row_highlight=not_out.tolist(),
+        )
 
     def _bowling_scorecard(innings):
         bowling = load_bowling_scorecards()
@@ -2526,4 +2757,7 @@ def server(input, output, session):
         return ui.HTML("".join(cards))
 
 
-app = App(app_ui, server, static_assets={"/logos": Path(__file__).parent / "logos"})
+app = App(app_ui, server, static_assets={
+    "/logos": Path(__file__).parent / "logos",
+    "/static": Path(__file__).parent / "static",
+})

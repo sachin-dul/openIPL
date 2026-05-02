@@ -1,16 +1,16 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Gujarat Titans,1,B Sai Sudharsan,13,11,Shubman Gill,22,11,37,22
-1,Gujarat Titans,2,JC Buttler,26,19,Shubman Gill,17,16,46,35
-1,Gujarat Titans,3,GD Phillips,25,17,JC Buttler,11,10,36,27
-1,Gujarat Titans,4,JC Buttler,1,4,Washington Sundar,8,6,10,10
-1,Gujarat Titans,5,M Shahrukh Khan,4,5,Washington Sundar,10,10,15,15
-1,Gujarat Titans,6,R Tewatia,5,4,M Shahrukh Khan,0,1,6,5
-1,Gujarat Titans,7,R Tewatia,6,6,Rashid Khan,0,1,12,6
-2,Punjab Kings,1,Priyansh Arya,7,8,P Simran Singh,0,0,7,8
-2,Punjab Kings,2,C Connolly,38,25,P Simran Singh,37,24,76,49
-2,Punjab Kings,3,SS Iyer,18,11,C Connolly,9,5,27,16
-2,Punjab Kings,4,N Wadhera,3,6,C Connolly,0,0,3,6
-2,Punjab Kings,5,Shashank Singh,4,5,C Connolly,1,2,5,7
-2,Punjab Kings,6,MP Stoinis,0,2,C Connolly,0,0,0,2
-2,Punjab Kings,7,M Jansen,9,10,C Connolly,14,8,26,18
-2,Punjab Kings,8,XC Bartlett,11,5,C Connolly,10,4,21,9
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Gujarat Titans,1,B Sai Sudharsan,13,11,Shubman Gill,22,11,2,37,22
+1,Gujarat Titans,2,JC Buttler,26,19,Shubman Gill,17,16,3,46,35
+1,Gujarat Titans,3,GD Phillips,25,17,JC Buttler,11,10,0,36,27
+1,Gujarat Titans,4,JC Buttler,1,4,Washington Sundar,8,6,1,10,10
+1,Gujarat Titans,5,M Shahrukh Khan,4,5,Washington Sundar,10,10,1,15,15
+1,Gujarat Titans,6,R Tewatia,5,4,M Shahrukh Khan,0,1,1,6,5
+1,Gujarat Titans,7,R Tewatia,6,6,Rashid Khan,0,1,6,12,6
+2,Punjab Kings,1,Priyansh Arya,7,8,P Simran Singh,0,0,0,7,8
+2,Punjab Kings,2,C Connolly,38,25,P Simran Singh,37,24,1,76,49
+2,Punjab Kings,3,SS Iyer,18,11,C Connolly,9,5,0,27,16
+2,Punjab Kings,4,N Wadhera,3,6,C Connolly,0,0,0,3,6
+2,Punjab Kings,5,Shashank Singh,4,5,C Connolly,1,2,0,5,7
+2,Punjab Kings,6,MP Stoinis,0,2,C Connolly,0,0,0,0,2
+2,Punjab Kings,7,M Jansen,9,10,C Connolly,14,8,3,26,18
+2,Punjab Kings,8,XC Bartlett,11,5,C Connolly,10,4,0,21,9

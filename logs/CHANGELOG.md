@@ -4,6 +4,41 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-05-02
+
+### Added
+
+- `extras` column in `partnerships.csv` — extra runs accumulated during the partnership; `total_runs = batter_1_runs + batter_2_runs + extras`
+- Opening Pairs Leaderboard in Fielding & Partnerships — pair-level table with stands, runs, highest, average, 50+/100+ counts, and bat-first vs. chasing averages (min 2 stands; sorted by stands, tie-break by avg)
+- Bowling perspective on Team Phase Comparison — radio toggle (Batting / Bowling); metric labels swap accordingly (Run Rate ↔ Economy, Wickets Lost ↔ Wickets Taken, etc.). Bowling figures derive from the same phase summaries via opponent-team join, so totals reconcile with batting view
+- Hover-emphasis on Standings Progression — hovering a team fades the other 9 lines and slightly thickens the hovered one; works anywhere on the chart, not just at data points
+- Not-out indicator (`*`) on individual scores in the Highest Scores table and the Match Centre Top Batter tile
+- Not-out row highlighting in Match Centre batting scorecards — soft emerald background + green left border; "not out" text removed from those rows since the highlight conveys it
+- Footnote on DRS Reviews chart explaining accuracy / success formulas, Umpire's-Call asymmetry (helps umpire's accuracy, not the team's success), and the clustered-bubble convention
+
+### Changed
+
+- Primary font switched to **Golos UI VF** (self-hosted variable font under `static/fonts/`). Multiplexed weights and tabular figures enabled on tables and chart text via `font-variant-numeric: tabular-nums` so columns of numbers stay aligned
+- Card headers (chart titles) normalized to a single weight (600) — previously a mix of 600 and 700
+- DRS Reviews chart redesigned — replaced the stacked-bar + dual-axis success-rate line with a volume-vs-accuracy **scatter**. Overlapping points (e.g. 8 umpires at "n=2 reviews, 100% accuracy") cluster into numbered bubbles; hover reveals every name with their stood / UC / overturned breakdown. Toggle controls Umpire vs Team perspective; small-sample umpires are now visually deprioritised
+- Batting phase chart: Run Rate now uses team convention (`total_runs / legal_balls`) so it reconciles with the bowling phase chart's economy. Boundary % and Dot Ball % use balls-faced (Statsguru / batter convention) so each metric uses its cricket-correct denominator
+- NRR in the Standings Progression bump chart now respects each team's allotted overs (`target_overs`) when bowled out, instead of always charging 20 overs (latent bug surfaced in DLS-shortened matches with all-out innings; current season unaffected)
+- Combo extras like `"noballs, legbyes"` are now correctly excluded from legal-ball counts in NRR (regex match `wides|noballs` replaced exact `isin(["wides","noballs"])`)
+- Manhattan and Run Rate (Match Centre) charts now adapt their x-axis to the innings's allotted overs (DLS-shortened matches like match 13 render with an 11-over x-range instead of an empty 20)
+- Run Rate chart y-axis cap removed (was `[0, 36]`; high-RR overs no longer crop)
+- Chart x-axis tick spacing now adapts to the data range via a `nice_dtick()` helper — 1/2/5/10/20/50 step picked so each axis shows ~10 labels (Most Sixes / Fours / Boundaries leaderboards, bump chart rounds, runs-per-over histogram)
+- Card controls right-aligned and vertically centered in DRS Reviews and Team Phase Comparison
+
+### Fixed
+
+- Orchestrator wraps `parse_match()` in try/except — a malformed JSON file no longer aborts the whole season run; skipped matches are listed in the run summary
+- Atomic JSON write in `fetcher.py` — an interrupted write can no longer leave a truncated cache file that future runs would silently treat as valid
+- Bat 1st Avg / Chase Avg cells in the Opening Pairs Leaderboard now display "—" instead of "nan" when a pair has only batted on one side
+- Maiden-over inner counter in `parser.py` cleaned up (the marker `+= 1` was dead code; output unchanged)
+- Home vs Away — By Team chart: removed the duplicate `Win %` chart title (card header + y-axis title already convey it) and the literal double `%%` in the hover template — the value now renders cleanly as `Win%: 75.5%`
+
+---
+
 ## 2026-04-27
 
 ### Added

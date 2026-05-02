@@ -1,18 +1,18 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Kolkata Knight Riders,1,AM Rahane,1,9,TL Seifert,0,3,3,12
-1,Kolkata Knight Riders,2,AM Rahane,9,6,A Raghuvanshi,4,4,13,10
-1,Kolkata Knight Riders,3,C Green,5,4,A Raghuvanshi,5,4,11,8
-1,Kolkata Knight Riders,4,C Green,3,3,R Powell,1,4,4,7
-1,Kolkata Knight Riders,5,RK Singh,15,14,C Green,26,14,42,28
-1,Kolkata Knight Riders,6,AS Roy,0,1,RK Singh,0,0,0,1
-1,Kolkata Knight Riders,7,RK Singh,12,13,Ramandeep Singh,6,11,20,24
-1,Kolkata Knight Riders,8,RK Singh,56,24,SP Narine,4,6,62,30
-2,Lucknow Super Giants,1,AK Markram,6,4,MR Marsh,2,3,8,7
-2,Lucknow Super Giants,2,RR Pant,31,32,AK Markram,25,23,57,55
-2,Lucknow Super Giants,3,N Pooran,2,6,RR Pant,11,6,13,12
-2,Lucknow Super Giants,4,A Badoni,3,4,N Pooran,7,6,11,10
-2,Lucknow Super Giants,5,A Badoni,3,6,MD Choudhary,1,2,4,8
-2,Lucknow Super Giants,6,Himmat Singh,8,4,A Badoni,18,9,27,13
-2,Lucknow Super Giants,7,GF Linde,8,4,Himmat Singh,1,1,9,5
-2,Lucknow Super Giants,8,Mohammed Shami,5,4,Himmat Singh,10,5,19,7
-2,Lucknow Super Giants,9,Prince Yadav,0,1,Mohammed Shami,6,2,7,3
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Kolkata Knight Riders,1,AM Rahane,1,9,TL Seifert,0,3,2,3,12
+1,Kolkata Knight Riders,2,AM Rahane,9,6,A Raghuvanshi,4,4,0,13,10
+1,Kolkata Knight Riders,3,C Green,5,4,A Raghuvanshi,5,4,1,11,8
+1,Kolkata Knight Riders,4,C Green,3,3,R Powell,1,4,0,4,7
+1,Kolkata Knight Riders,5,RK Singh,15,14,C Green,26,14,1,42,28
+1,Kolkata Knight Riders,6,AS Roy,0,1,RK Singh,0,0,0,0,1
+1,Kolkata Knight Riders,7,RK Singh,12,13,Ramandeep Singh,6,11,2,20,24
+1,Kolkata Knight Riders,8,RK Singh,56,24,SP Narine,4,6,2,62,30
+2,Lucknow Super Giants,1,AK Markram,6,4,MR Marsh,2,3,0,8,7
+2,Lucknow Super Giants,2,RR Pant,31,32,AK Markram,25,23,1,57,55
+2,Lucknow Super Giants,3,N Pooran,2,6,RR Pant,11,6,0,13,12
+2,Lucknow Super Giants,4,A Badoni,3,4,N Pooran,7,6,1,11,10
+2,Lucknow Super Giants,5,A Badoni,3,6,MD Choudhary,1,2,0,4,8
+2,Lucknow Super Giants,6,Himmat Singh,8,4,A Badoni,18,9,1,27,13
+2,Lucknow Super Giants,7,GF Linde,8,4,Himmat Singh,1,1,0,9,5
+2,Lucknow Super Giants,8,Mohammed Shami,5,4,Himmat Singh,10,5,4,19,7
+2,Lucknow Super Giants,9,Prince Yadav,0,1,Mohammed Shami,6,2,1,7,3

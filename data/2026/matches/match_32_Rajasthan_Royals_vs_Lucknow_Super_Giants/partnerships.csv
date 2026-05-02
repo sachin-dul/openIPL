@@ -1,18 +1,18 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Rajasthan Royals,1,YBK Jaiswal,22,12,V Suryavanshi,8,5,32,17
-1,Rajasthan Royals,2,Dhruv Jurel,0,1,V Suryavanshi,0,0,0,1
-1,Rajasthan Royals,3,V Suryavanshi,0,6,R Parag,0,0,0,6
-1,Rajasthan Royals,4,R Parag,20,19,SO Hetmyer,8,11,30,30
-1,Rajasthan Royals,5,SO Hetmyer,14,7,RA Jadeja,1,1,15,8
-1,Rajasthan Royals,6,D Ferreira,20,19,RA Jadeja,13,14,33,33
-1,Rajasthan Royals,7,SB Dubey,19,11,RA Jadeja,29,14,49,25
-2,Lucknow Super Giants,1,MR Marsh,9,5,A Badoni,0,1,9,6
-2,Lucknow Super Giants,2,MR Marsh,1,1,RR Pant,0,3,1,4
-2,Lucknow Super Giants,3,AK Markram,0,6,MR Marsh,1,1,1,7
-2,Lucknow Super Giants,4,N Pooran,22,25,MR Marsh,18,16,43,41
-2,Lucknow Super Giants,5,Himmat Singh,15,15,MR Marsh,19,14,37,29
-2,Lucknow Super Giants,6,MD Choudhary,7,2,MR Marsh,7,4,14,6
-2,Lucknow Super Giants,7,Mohammed Shami,6,3,MD Choudhary,0,1,6,4
-2,Lucknow Super Giants,8,MP Yadav,1,1,Mohammed Shami,0,1,2,2
-2,Lucknow Super Giants,9,DS Rathi,2,2,MP Yadav,4,4,6,6
-2,Lucknow Super Giants,10,Mohsin Khan,0,3,DS Rathi,0,0,0,3
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Rajasthan Royals,1,YBK Jaiswal,22,12,V Suryavanshi,8,5,2,32,17
+1,Rajasthan Royals,2,Dhruv Jurel,0,1,V Suryavanshi,0,0,0,0,1
+1,Rajasthan Royals,3,V Suryavanshi,0,6,R Parag,0,0,0,0,6
+1,Rajasthan Royals,4,R Parag,20,19,SO Hetmyer,8,11,2,30,30
+1,Rajasthan Royals,5,SO Hetmyer,14,7,RA Jadeja,1,1,0,15,8
+1,Rajasthan Royals,6,D Ferreira,20,19,RA Jadeja,13,14,0,33,33
+1,Rajasthan Royals,7,SB Dubey,19,11,RA Jadeja,29,14,1,49,25
+2,Lucknow Super Giants,1,MR Marsh,9,5,A Badoni,0,1,0,9,6
+2,Lucknow Super Giants,2,MR Marsh,1,1,RR Pant,0,3,0,1,4
+2,Lucknow Super Giants,3,AK Markram,0,6,MR Marsh,1,1,0,1,7
+2,Lucknow Super Giants,4,N Pooran,22,25,MR Marsh,18,16,3,43,41
+2,Lucknow Super Giants,5,Himmat Singh,15,15,MR Marsh,19,14,3,37,29
+2,Lucknow Super Giants,6,MD Choudhary,7,2,MR Marsh,7,4,0,14,6
+2,Lucknow Super Giants,7,Mohammed Shami,6,3,MD Choudhary,0,1,0,6,4
+2,Lucknow Super Giants,8,MP Yadav,1,1,Mohammed Shami,0,1,1,2,2
+2,Lucknow Super Giants,9,DS Rathi,2,2,MP Yadav,4,4,0,6,6
+2,Lucknow Super Giants,10,Mohsin Khan,0,3,DS Rathi,0,0,0,0,3

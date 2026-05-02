@@ -231,8 +231,14 @@ def main():
     all_match_rows = []
     new_count = 0
 
+    skipped = []
     for match_num, fname, fpath in season_matches:
-        parsed = parse_match(fpath, match_number_override=match_num)
+        try:
+            parsed = parse_match(fpath, match_number_override=match_num)
+        except Exception as e:
+            print(f"  ERROR parsing match {match_num} ({fname}): {type(e).__name__}: {e} — skipping")
+            skipped.append((match_num, fname, str(e)))
+            continue
         all_parsed.append(parsed)
 
         match_row = parsed["match"]
@@ -293,6 +299,10 @@ def main():
     collect_season(season_dir)
 
     print(f"\nDone! Processed {new_count} new matches. Total: {len(season_matches)} matches.")
+    if skipped:
+        print(f"Skipped {len(skipped)} match(es) due to parse errors:")
+        for mn, fname, err in skipped:
+            print(f"  - match {mn} ({fname}): {err}")
 
 
 if __name__ == "__main__":

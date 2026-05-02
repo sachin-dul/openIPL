@@ -1,18 +1,18 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Sunrisers Hyderabad,1,Abhishek Sharma,0,1,TM Head,0,0,0,1
-1,Sunrisers Hyderabad,2,Ishan Kishan,37,22,TM Head,18,18,55,40
-1,Sunrisers Hyderabad,3,H Klaasen,30,17,Ishan Kishan,54,22,88,39
-1,Sunrisers Hyderabad,4,Nithish Kumar Reddy,9,6,H Klaasen,10,9,19,15
-1,Sunrisers Hyderabad,5,S Arora,12,9,Nithish Kumar Reddy,19,7,33,16
-1,Sunrisers Hyderabad,6,Aniket Verma,6,5,S Arora,6,2,14,7
-1,Sunrisers Hyderabad,7,S Arora,6,2,Harsh Dubey,0,0,7,2
-2,Rajasthan Royals,1,YBK Jaiswal,1,1,V Suryavanshi,0,1,1,2
-2,Rajasthan Royals,2,Dhruv Jurel,0,2,YBK Jaiswal,0,0,0,2
-2,Rajasthan Royals,3,LG Pretorius,0,2,YBK Jaiswal,0,0,0,2
-2,Rajasthan Royals,4,YBK Jaiswal,0,4,R Parag,0,0,1,4
-2,Rajasthan Royals,5,RA Jadeja,2,2,R Parag,4,6,7,8
-2,Rajasthan Royals,6,RA Jadeja,42,28,D Ferreira,69,44,118,72
-2,Rajasthan Royals,7,RA Jadeja,1,2,JC Archer,1,1,2,3
-2,Rajasthan Royals,8,TU Deshpande,9,4,JC Archer,1,4,11,8
-2,Rajasthan Royals,9,Ravi Bishnoi,0,1,TU Deshpande,0,0,0,1
-2,Rajasthan Royals,10,TU Deshpande,16,7,N Burger,3,5,19,12
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Sunrisers Hyderabad,1,Abhishek Sharma,0,1,TM Head,0,0,0,0,1
+1,Sunrisers Hyderabad,2,Ishan Kishan,37,22,TM Head,18,18,0,55,40
+1,Sunrisers Hyderabad,3,H Klaasen,30,17,Ishan Kishan,54,22,4,88,39
+1,Sunrisers Hyderabad,4,Nithish Kumar Reddy,9,6,H Klaasen,10,9,0,19,15
+1,Sunrisers Hyderabad,5,S Arora,12,9,Nithish Kumar Reddy,19,7,2,33,16
+1,Sunrisers Hyderabad,6,Aniket Verma,6,5,S Arora,6,2,2,14,7
+1,Sunrisers Hyderabad,7,S Arora,6,2,Harsh Dubey,0,0,1,7,2
+2,Rajasthan Royals,1,YBK Jaiswal,1,1,V Suryavanshi,0,1,0,1,2
+2,Rajasthan Royals,2,Dhruv Jurel,0,2,YBK Jaiswal,0,0,0,0,2
+2,Rajasthan Royals,3,LG Pretorius,0,2,YBK Jaiswal,0,0,0,0,2
+2,Rajasthan Royals,4,YBK Jaiswal,0,4,R Parag,0,0,1,1,4
+2,Rajasthan Royals,5,RA Jadeja,2,2,R Parag,4,6,1,7,8
+2,Rajasthan Royals,6,RA Jadeja,42,28,D Ferreira,69,44,7,118,72
+2,Rajasthan Royals,7,RA Jadeja,1,2,JC Archer,1,1,0,2,3
+2,Rajasthan Royals,8,TU Deshpande,9,4,JC Archer,1,4,1,11,8
+2,Rajasthan Royals,9,Ravi Bishnoi,0,1,TU Deshpande,0,0,0,0,1
+2,Rajasthan Royals,10,TU Deshpande,16,7,N Burger,3,5,0,19,12

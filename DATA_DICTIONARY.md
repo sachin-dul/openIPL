@@ -150,7 +150,8 @@ Located in `matches/match_XX_Team1_vs_Team2/`.
 | batter_2 | string | Second batter |
 | batter_2_runs | int | Runs by batter 2 |
 | batter_2_balls | int | Balls faced by batter 2 |
-| total_runs | int | Partnership runs (including extras) |
+| extras | int | Extra runs during the partnership (wides, no-balls, byes, leg-byes, penalty) |
+| total_runs | int | Partnership runs (= batter_1_runs + batter_2_runs + extras) |
 | total_balls | int | Partnership balls |
 
 ### `fall_of_wickets.csv`

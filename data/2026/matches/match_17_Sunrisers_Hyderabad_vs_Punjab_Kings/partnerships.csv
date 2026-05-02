@@ -1,13 +1,13 @@
-innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,total_runs,total_balls
-1,Sunrisers Hyderabad,1,Abhishek Sharma,74,27,TM Head,38,23,120,49
-1,Sunrisers Hyderabad,2,Ishan Kishan,1,1,Abhishek Sharma,0,1,2,2
-1,Sunrisers Hyderabad,3,H Klaasen,18,17,Ishan Kishan,26,16,47,33
-1,Sunrisers Hyderabad,4,H Klaasen,8,7,Aniket Verma,18,9,26,16
-1,Sunrisers Hyderabad,5,S Arora,9,8,H Klaasen,9,5,19,13
-1,Sunrisers Hyderabad,6,Nithish Kumar Reddy,0,1,H Klaasen,4,4,4,5
-1,Sunrisers Hyderabad,7,Harsh Dubey,1,2,Nithish Kumar Reddy,0,0,1,2
-2,Punjab Kings,1,Priyansh Arya,57,20,P Simran Singh,41,18,99,38
-2,Punjab Kings,2,C Connolly,5,8,P Simran Singh,10,7,18,15
-2,Punjab Kings,3,SS Iyer,5,5,C Connolly,6,4,11,9
-2,Punjab Kings,4,N Wadhera,14,14,SS Iyer,54,21,69,35
-2,Punjab Kings,5,Shashank Singh,16,9,SS Iyer,10,7,26,16
+innings,team,wicket_number,batter_1,batter_1_runs,batter_1_balls,batter_2,batter_2_runs,batter_2_balls,extras,total_runs,total_balls
+1,Sunrisers Hyderabad,1,Abhishek Sharma,74,27,TM Head,38,23,8,120,49
+1,Sunrisers Hyderabad,2,Ishan Kishan,1,1,Abhishek Sharma,0,1,1,2,2
+1,Sunrisers Hyderabad,3,H Klaasen,18,17,Ishan Kishan,26,16,3,47,33
+1,Sunrisers Hyderabad,4,H Klaasen,8,7,Aniket Verma,18,9,0,26,16
+1,Sunrisers Hyderabad,5,S Arora,9,8,H Klaasen,9,5,1,19,13
+1,Sunrisers Hyderabad,6,Nithish Kumar Reddy,0,1,H Klaasen,4,4,0,4,5
+1,Sunrisers Hyderabad,7,Harsh Dubey,1,2,Nithish Kumar Reddy,0,0,0,1,2
+2,Punjab Kings,1,Priyansh Arya,57,20,P Simran Singh,41,18,1,99,38
+2,Punjab Kings,2,C Connolly,5,8,P Simran Singh,10,7,3,18,15
+2,Punjab Kings,3,SS Iyer,5,5,C Connolly,6,4,0,11,9
+2,Punjab Kings,4,N Wadhera,14,14,SS Iyer,54,21,1,69,35
+2,Punjab Kings,5,Shashank Singh,16,9,SS Iyer,10,7,0,26,16
