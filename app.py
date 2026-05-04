@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from utils.data_loader import (
     load_matches, load_ball_by_ball, load_batting_scorecards,
     load_bowling_scorecards, load_partnerships, load_fall_of_wickets,
-    load_phase_summaries, load_points_table, load_reviews,
+    load_fixtures, load_phase_summaries, load_points_table, load_reviews,
     load_substitutions, load_all_fielding, load_players,
     load_super_over,
 )
@@ -116,15 +116,23 @@ def _has_rain_shortened(matches_df):
 HOME_VENUES = {
     "Chennai Super Kings": ["MA Chidambaram Stadium, Chepauk, Chennai"],
     "Mumbai Indians": ["Wankhede Stadium, Mumbai"],
-    "Royal Challengers Bengaluru": ["M Chinnaswamy Stadium, Bengaluru"],
+    "Royal Challengers Bengaluru": [
+        "M Chinnaswamy Stadium, Bengaluru",
+        "Shaheed Veer Narayan Singh International Cricket Stadium, Raipur",
+    ],
     "Kolkata Knight Riders": ["Eden Gardens, Kolkata"],
     "Rajasthan Royals": [
         "Sawai Mansingh Stadium, Jaipur",
         "Barsapara Cricket Stadium, Guwahati",
+        "ACA Stadium, Guwahati",
     ],
     "Sunrisers Hyderabad": ["Rajiv Gandhi International Stadium, Uppal, Hyderabad"],
     "Delhi Capitals": ["Arun Jaitley Stadium, Delhi"],
-    "Punjab Kings": ["Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"],
+    "Punjab Kings": [
+        "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+        "New International Cricket Stadium, New Chandigarh",
+        "Himachal Pradesh Cricket Association Stadium, Dharamshala",
+    ],
     "Gujarat Titans": ["Narendra Modi Stadium, Ahmedabad"],
     "Lucknow Super Giants": ["Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"],
 }
@@ -548,7 +556,7 @@ app_ui = ui.page_navbar(
         ),
     ),
 
-    title=ui.tags.span("openIPL", style="font-weight:900;"),
+    title=ui.tags.span("openIPL", style="font-weight:900;cursor:pointer;", title="Go to Overview"),
     id="nav",
     theme=ui.Theme("flatly"),
     header=ui.head_content(
@@ -587,6 +595,21 @@ app_ui = ui.page_navbar(
                 navCollapse.classList.add('collapse');
                 var toggler = document.querySelector('.navbar-toggler');
                 if (toggler) toggler.setAttribute('aria-expanded', 'false');
+            });
+
+            // Clicking the openIPL brand sends the user to the Overview tab.
+            document.addEventListener('click', function(e) {
+                var brand = e.target.closest('.navbar-brand');
+                if (!brand) return;
+                e.preventDefault();
+                var tabs = document.querySelectorAll('a[data-bs-toggle="tab"]');
+                for (var i = 0; i < tabs.length; i++) {
+                    if (tabs[i].textContent.trim() === 'Overview') {
+                        tabs[i].click();
+                        window.scrollTo(0, 0);
+                        break;
+                    }
+                }
             });
         """),
     ),
@@ -734,6 +757,36 @@ def server(input, output, session):
             out[team] = results
         return out
 
+    def _next_match_map(fixtures_df, matches_df=None):
+        """Map team -> next scheduled fixture (earliest date), skipping any match
+        that already has a result in matches.csv (compared by match_number)."""
+        if fixtures_df is None or fixtures_df.empty:
+            return {}
+        df = fixtures_df.copy()
+        df["_date"] = pd.to_datetime(df["date"], errors="coerce")
+        df = df.dropna(subset=["_date"]).sort_values("_date")
+        played = set()
+        if matches_df is not None and not matches_df.empty and "match_number" in matches_df.columns:
+            played = set(pd.to_numeric(matches_df["match_number"], errors="coerce").dropna().astype(int))
+        out = {}
+        for _, r in df.iterrows():
+            try:
+                if int(r["match_number"]) in played:
+                    continue
+            except (ValueError, TypeError):
+                pass
+            venue = r.get("venue", "")
+            for team_col, opp_col in [("team_1", "team_2"), ("team_2", "team_1")]:
+                t = r[team_col]
+                if t not in out:
+                    out[t] = {
+                        "opp": r[opp_col],
+                        "date_label": r["_date"].strftime("%b %-d"),
+                        "venue": venue,
+                        "is_home": is_home_venue(t, venue),
+                    }
+        return out
+
     def _form_badges_html(results):
         """Render W/L/NR results as colored badges; most recent one underlined."""
         if not results:
@@ -765,6 +818,8 @@ def server(input, output, session):
         pt = pt.copy()
         matches_df = load_matches()
         form_by_team = _recent_form_map(matches_df, n=5)
+        next_by_team = _next_match_map(load_fixtures(), matches_df)
+        show_next = bool(next_by_team)
 
         rows_html = ""
         for _, r in pt.iterrows():
@@ -772,6 +827,24 @@ def server(input, output, session):
             short = team_short(r["team"])
             nrr = f"{r['net_run_rate']:+.3f}"
             form_html = _form_badges_html(form_by_team.get(r["team"], []))
+            next_cell = ""
+            if show_next:
+                nx = next_by_team.get(r["team"])
+                if nx:
+                    opp_logo = team_logo(nx["opp"])
+                    opp_logo_html = (f'<img src="{opp_logo}" style="height:16px;width:16px;'
+                                     f'object-fit:contain;vertical-align:middle;margin-right:4px" '
+                                     f'onerror="this.style.display=\'none\'">' if opp_logo else "")
+                    ha_color = "#16a34a" if nx["is_home"] else "#6b7280"
+                    ha_label = "(H)" if nx["is_home"] else "(A)"
+                    ha_text = (f'<span title="{nx["venue"]}" style="color:{ha_color};'
+                               f'font-weight:600;margin-left:4px">{ha_label}</span>')
+                    next_html = (f'<span style="white-space:nowrap;color:#1f2937">vs '
+                                 f'{opp_logo_html}<strong>{team_short(nx["opp"])}</strong>{ha_text}</span>'
+                                 f'<span style="color:#6b7280;font-size:0.85em;margin-left:6px">{nx["date_label"]}</span>')
+                else:
+                    next_html = '<span style="color:#9ca3af">—</span>'
+                next_cell = f'<td style="text-align:left;padding:6px;white-space:nowrap">{next_html}</td>'
             rows_html += f"""<tr style="border-bottom:1px solid #e5e7eb">
                 <td style="text-align:center;padding:6px;color:#6b7280">{int(r['position'])}</td>
                 <td style="white-space:nowrap;padding:6px"><img src="{logo}" style="height:22px;width:22px;object-fit:contain;vertical-align:middle;margin-right:8px" onerror="this.style.display='none'"><strong style="color:#1f2937">{short}</strong> <span style="color:#6b7280;font-size:0.85em">{r['team']}</span></td>
@@ -782,13 +855,16 @@ def server(input, output, session):
                 <td style="text-align:center;padding:6px;color:#1f2937">{nrr}</td>
                 <td style="text-align:center;padding:6px;color:#1a56db"><strong>{int(r['points'])}</strong></td>
                 <td style="text-align:center;padding:6px;white-space:nowrap">{form_html}</td>
+                {next_cell}
             </tr>"""
+        next_th = '<th style="padding:8px;text-align:left;color:#1a56db;font-size:12px;text-transform:uppercase">Next</th>' if show_next else ""
         return ui.HTML(f"""<table style="width:100%;border-collapse:collapse;font-size:14px;color:#1f2937">
             <thead><tr style="border-bottom:2px solid #1a56db;text-align:center">
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">#</th><th style="padding:8px;text-align:left;color:#1a56db;font-size:12px;text-transform:uppercase">Team</th>
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">P</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">W</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">L</th>
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">NR</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">NRR</th><th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">Pts</th>
                 <th style="padding:8px;color:#1a56db;font-size:12px;text-transform:uppercase">Form</th>
+                {next_th}
             </tr></thead><tbody style="line-height:2.2">{rows_html}</tbody></table>""")
 
     def _toss_matches():
@@ -1811,56 +1887,33 @@ def server(input, output, session):
                     team_stats[team]["rc"] += opp_runs
                     team_stats[team]["bb"] += opp_balls
 
-            # Check if a round just completed (all 10 teams have played the same number)
-            all_teams_active = len(team_match_num) == 10
-            min_played = min(team_match_num.values()) if team_match_num else 0
-            recorded_rounds = {s["round"] for s in snapshots}
-            if all_teams_active and min_played > 0 and min_played not in recorded_rounds:
-                # All teams have now played at least min_played matches — record standings
+            # Snapshot the standings after every match (once all 10 teams have started),
+            # so every position change between matches is visible.
+            if len(team_match_num) == 10:
                 ranking = []
                 for t, s in team_stats.items():
                     nrr = round((s["rs"] / (s["bf"] / 6) - s["rc"] / (s["bb"] / 6)), 3) if s["bf"] > 0 and s["bb"] > 0 else 0.0
                     ranking.append({"team": t, "points": s["points"], "nrr": nrr})
                 ranking.sort(key=lambda x: (-x["points"], -x["nrr"]))
-
                 for i, r in enumerate(ranking):
                     snapshots.append({
-                        "round": min_played,
+                        "round": mn,  # x-axis is match number now
                         "team": r["team"],
                         "points": r["points"],
                         "nrr": r["nrr"],
                         "position": i + 1,
                     })
 
-        # Also add current standings as final point if last round isn't complete
         snap_df = pd.DataFrame(snapshots) if snapshots else pd.DataFrame()
-        last_round = int(snap_df["round"].max()) if not snap_df.empty else 0
-        current_min = min(team_match_num.values()) if team_match_num else 0
-        current_max = max(team_match_num.values()) if team_match_num else 0
-        if current_max > last_round:
-            ranking = []
-            for t, s in team_stats.items():
-                nrr = round((s["rs"] / (s["bf"] / 6) - s["rc"] / (s["bb"] / 6)), 3) if s["bf"] > 0 and s["bb"] > 0 else 0.0
-                ranking.append({"team": t, "points": s["points"], "nrr": nrr})
-            ranking.sort(key=lambda x: (-x["points"], -x["nrr"]))
-            next_round = last_round + 1
-            for i, r in enumerate(ranking):
-                snapshots.append({
-                    "round": next_round,
-                    "team": r["team"],
-                    "points": r["points"],
-                    "nrr": r["nrr"],
-                    "position": i + 1,
-                })
-            snap_df = pd.DataFrame(snapshots)
-
         if snap_df.empty:
             return empty_state()
 
         y_col = "position"
 
         max_round = int(snap_df["round"].max())
+        min_round = int(snap_df["round"].min())
         num_teams = snap_df["team"].nunique()
+        x_pad = max(2, (max_round - min_round) * 0.05)
 
         fig = go.Figure()
         for team in snap_df["team"].unique():
@@ -1872,10 +1925,10 @@ def server(input, output, session):
                 x=tdf["round"], y=tdf[y_col],
                 mode="lines",
                 name=short,
-                line=dict(color=color, width=4, shape="spline", smoothing=0.8),
+                line=dict(color=color, width=3, shape="spline", smoothing=0.5),
                 hovertemplate=(
                     f"<b>{team}</b><br>"
-                    "Round %{x}<br>"
+                    "After M%{x}<br>"
                     "Position: %{customdata[0]}<br>"
                     "Pts: %{customdata[1]}, NRR: %{customdata[2]:+.3f}"
                     "<extra></extra>"
@@ -1884,7 +1937,7 @@ def server(input, output, session):
             ))
 
         # Build right-edge labels at a fixed x, offsetting collisions
-        label_x = max_round + 0.15
+        label_x = max_round + max(0.5, x_pad * 0.1)
         end_points = []
         for team in snap_df["team"].unique():
             tdf = snap_df[snap_df["team"] == team].sort_values("round")
@@ -1910,7 +1963,7 @@ def server(input, output, session):
                 ))
 
         fig.update_layout(
-            xaxis_title="Round",
+            xaxis_title="Match",
             yaxis_title="",
             showlegend=False,
             hovermode="closest",
@@ -1919,8 +1972,8 @@ def server(input, output, session):
             margin=dict(l=40, r=100, t=20, b=50),
         )
         fig.update_xaxes(
-            dtick=nice_dtick(max_round), gridcolor="rgba(0,0,0,0.06)",
-            range=[0.5, max_round + 1.8],
+            dtick=nice_dtick(max_round - min_round), gridcolor="rgba(0,0,0,0.06)",
+            range=[min_round - 0.5, max_round + x_pad],
         )
         fig.update_yaxes(
             autorange="reversed", dtick=1,
@@ -1929,22 +1982,24 @@ def server(input, output, session):
             showticklabels=True,
             tickfont=dict(size=12, color="#9ca3af"),
         )
+        x_left = min_round - 0.5
+        x_right = max_round + x_pad
         for pos in range(1, num_teams + 1):
             fig.add_shape(
-                type="line", x0=0.5, x1=max_round + 1.8,
+                type="line", x0=x_left, x1=x_right,
                 y0=pos, y1=pos,
                 line=dict(color="rgba(0,0,0,0.06)", width=1),
                 layer="below",
             )
         if num_teams > 4:
             fig.add_shape(
-                type="line", x0=0.5, x1=max_round + 1.8,
+                type="line", x0=x_left, x1=x_right,
                 y0=4.5, y1=4.5,
                 line=dict(color="#dc2626", width=1.5, dash="dash"),
                 layer="below",
             )
             fig.add_annotation(
-                x=max_round + 1.8, y=4.5,
+                x=x_right, y=4.5,
                 text="Playoff cutoff",
                 xanchor="right", yanchor="bottom",
                 showarrow=False,
@@ -1952,7 +2007,7 @@ def server(input, output, session):
             )
 
         chart = plotly_ui(_apply_style(fig, height=500), emphasize_on_hover=True)
-        footnote = ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Standings are shown per round — a round completes when all teams have played the same number of matches. Some teams may have played additional matches not yet reflected here.</div>')
+        footnote = ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Standings are recorded after every match (starting from the first match where all 10 teams have played at least once). Hover any line to see that team\'s position, points, and NRR after a given match.</div>')
         return ui.TagList(chart, footnote)
 
     @render.ui

@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - `extras` column in `partnerships.csv` — extra runs accumulated during the partnership; `total_runs = batter_1_runs + batter_2_runs + extras`
+- `fixtures.csv` (hand-maintained, per season) — upcoming match schedule (`match_number, date, venue, team_1, team_2`); read by the dashboard to render a "Next" column on the Overview points table showing each team's next opponent and date
 - Opening Pairs Leaderboard in Fielding & Partnerships — pair-level table with stands, runs, highest, average, 50+/100+ counts, and bat-first vs. chasing averages (min 2 stands; sorted by stands, tie-break by avg)
 - Bowling perspective on Team Phase Comparison — radio toggle (Batting / Bowling); metric labels swap accordingly (Run Rate ↔ Economy, Wickets Lost ↔ Wickets Taken, etc.). Bowling figures derive from the same phase summaries via opponent-team join, so totals reconcile with batting view
 - Hover-emphasis on Standings Progression — hovering a team fades the other 9 lines and slightly thickens the hovered one; works anywhere on the chart, not just at data points
