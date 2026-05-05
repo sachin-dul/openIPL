@@ -100,6 +100,64 @@ def _apply_style(fig, height=None):
     return fig
 
 
+def player_impact_treemap(impact_df, top_per_team=8):
+    """Treemap of player contribution to team success.
+
+    Top-level groups are teams (sized by sum of impact across the *shown* top
+    `top_per_team` contributors, not the whole squad). Leaves are individual
+    players sized by their total impact. We deliberately don't roll the rest
+    into an "Others" bucket — its aggregated total tends to outweigh any single
+    top player, and squarify would render it as the biggest cell.
+    """
+    if impact_df is None or impact_df.empty:
+        return go.Figure()
+
+    df = impact_df.copy()
+    # Drop rows with non-positive total (penalty-heavy bowlers / pure ducks)
+    df = df[df["total_impact"] > 0]
+
+    labels, parents, values, hover_strs, colors = [], [], [], [], []
+    for team in sorted(df["team"].unique()):
+        tdf = df[df["team"] == team].sort_values("total_impact", ascending=False).head(top_per_team)
+        team_color_hex = team_color(team)
+        team_total = float(tdf["total_impact"].sum())
+        labels.append(team_short(team))
+        parents.append("")
+        values.append(team_total)
+        hover_strs.append(
+            f"<b>{team}</b><br>Top {len(tdf)} contributors · total impact: {team_total:.0f}"
+        )
+        colors.append(team_color_hex)
+        for _, r in tdf.iterrows():
+            labels.append(r["player"])
+            parents.append(team_short(team))
+            values.append(float(r["total_impact"]))
+            mp = int(r.get("matches_played", 0) or 0)
+            ipm = float(r.get("impact_per_match", 0.0) or 0.0)
+            hover_strs.append(
+                f"<b>{r['player']}</b> ({team_short(team)})<br>"
+                f"Total impact: {float(r['total_impact']):.0f}"
+                f" · Matches: {mp} · Per match: {ipm:.0f}<br>"
+                f"Batting: {float(r['batting_impact']):.0f} · "
+                f"Bowling: {float(r['bowling_impact']):.0f} · "
+                f"Fielding: {float(r['fielding_impact']):.0f}"
+            )
+            colors.append(team_color_hex)
+
+    fig = go.Figure(go.Treemap(
+        labels=labels, parents=parents, values=values,
+        hovertext=hover_strs,
+        hoverinfo="text",
+        branchvalues="total",
+        marker=dict(colors=colors, line=dict(color="#ffffff", width=2), pad=dict(t=22, l=2, r=2, b=2)),
+        textinfo="label+value",
+        texttemplate="<b>%{label}</b><br>%{value:.0f}",
+        tiling=dict(packing="squarify", squarifyratio=1.0, pad=0),
+    ))
+    fig.update_layout(margin=dict(l=4, r=4, t=4, b=4))
+    return _apply_style(fig, height=620)
+
+
 def horizontal_bar(df, x, y, title, color=None, text=None, team_colored=False, player_teams=None):
     """Horizontal bar chart. If player_teams dict is provided, bars are colored by team and labels get team short codes."""
     df = df.copy()

@@ -6,6 +6,7 @@ from shiny import App, reactive, render, ui
 import pandas as pd
 import plotly.graph_objects as go
 
+from utils.impact import compute_impact_scores
 from utils.data_loader import (
     load_matches, load_ball_by_ball, load_batting_scorecards,
     load_bowling_scorecards, load_partnerships, load_fall_of_wickets,
@@ -21,6 +22,7 @@ from utils.charts import (
     runs_per_over_innings_compare,
     economy_vs_average_scatter,
     drs_volume_accuracy_scatter, impact_player_subs_by_team,
+    player_impact_treemap,
     TEAM_COLORS, LAYOUT_TEMPLATE,
     team_color, team_logo, team_short,
     nice_dtick,
@@ -400,6 +402,31 @@ app_ui = ui.page_navbar(
             col_widths=[12],
         ),
         ui.layout_columns(
+            ui.card(
+                ui.card_header(
+                    ui.HTML(
+                        '<div style="display:flex;align-items:center;justify-content:space-between;width:100%;">'
+                        '<span>Player Contribution to Team Success'
+                        '<span class="beta-badge">BETA</span>'
+                        '</span>'
+                        '<span class="info-icon" tabindex="0" aria-label="How impact is calculated">i'
+                        '<span class="info-popup">'
+                        '<strong>Impact</strong> measures each player\'s contribution across batting, bowling and fielding on a single runs-equivalent scale.<br><br>'
+                        '<strong>Batting:</strong> <code>(R + 10·N) × S</code> — runs plus 10 per not-out, multiplied by relative strike rate (clamped 0.5–2×).<br><br>'
+                        '<strong>Bowling:</strong> <code>(O × E × 0.45) + (W × S₁ × wickets)</code>, then × K — balls bowled × relative economy, plus wickets × league avg wicket-cost × relative bowling strike rate.<br><br>'
+                        '<strong>Fielding:</strong> catches × 8 + stumpings × 12 + run-outs × 6.<br><br>'
+                        '<strong>Pressure layer:</strong> ±15% nudge per ball based on phase (PP/Mid/Death), wickets-in-hand, and chase RRR/RR ratio.<br><br>'
+                        '<em>Beta — the model is still being tuned; rankings may shift as weights are calibrated.</em>'
+                        '</span>'
+                        '</span>'
+                        '</div>'
+                    ),
+                ),
+                ui.output_ui("player_impact_chart"),
+            ),
+            col_widths=[12],
+        ),
+        ui.layout_columns(
             ui.card(ui.card_header("Scoring Rhythm — Avg runs per over by team"), ui.output_ui("season_team_dna")),
             col_widths=[12],
         ),
@@ -581,6 +608,39 @@ app_ui = ui.page_navbar(
             table, .js-plotly-plot text, .tabular-nums {
                 font-variant-numeric: tabular-nums;
                 font-feature-settings: "tnum";
+            }
+            .info-icon {
+                display:inline-flex; align-items:center; justify-content:center;
+                width:16px; height:16px; border-radius:50%;
+                background:#e5e7eb; color:#374151;
+                font-size:11px; font-weight:600; cursor:help;
+                position:relative; user-select:none;
+            }
+            .info-icon:hover { background:#d1d5db; }
+            .info-icon .info-popup {
+                visibility:hidden; opacity:0; transition:opacity 120ms;
+                position:absolute; top:22px; right:0; z-index:1000;
+                background:#ffffff; color:#1f2937;
+                font-size:12px; line-height:1.65;
+                padding:14px 16px; border-radius:8px;
+                width:380px; max-width:80vw; text-align:left; cursor:default;
+                box-shadow:0 8px 24px rgba(0,0,0,0.15), 0 0 0 1px rgba(0,0,0,0.06);
+            }
+            .info-icon .info-popup, .info-icon .info-popup * { font-weight:400 !important; }
+            .info-icon .info-popup strong { font-weight:600 !important; color:#111827; }
+            .info-icon:hover .info-popup, .info-icon:focus-within .info-popup {
+                visibility:visible; opacity:1;
+            }
+            .info-popup code {
+                background:#f3f4f6; color:#1f2937;
+                padding:1px 5px; border-radius:3px;
+                font-size:11px; font-family:ui-monospace,monospace;
+            }
+            .beta-badge {
+                display:inline-block; background:#fef3c7; color:#92400e;
+                font-size:10px; font-weight:700; letter-spacing:0.5px;
+                padding:2px 6px; border-radius:4px; margin-left:6px;
+                vertical-align:1px;
             }
         """),
 
@@ -2009,6 +2069,24 @@ def server(input, output, session):
         chart = plotly_ui(_apply_style(fig, height=500), emphasize_on_hover=True)
         footnote = ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Standings are recorded after every match (starting from the first match where all 10 teams have played at least once). Hover any line to see that team\'s position, points, and NRR after a given match.</div>')
         return ui.TagList(chart, footnote)
+
+    @reactive.calc
+    def _impact_scores():
+        bbb = load_ball_by_ball()
+        if bbb.empty:
+            return pd.DataFrame()
+        return compute_impact_scores(
+            bbb, load_matches(),
+            load_batting_scorecards(), load_bowling_scorecards(),
+            load_all_fielding(),
+        )
+
+    @render.ui
+    def player_impact_chart():
+        df = _impact_scores()
+        if df.empty:
+            return empty_state()
+        return plotly_ui(player_impact_treemap(df))
 
     @render.ui
     def toss_decision_chart():

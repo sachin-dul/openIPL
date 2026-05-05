@@ -4,12 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-05-05
+
+### Added
+
+- **Player Contribution treemap** on Season Analysis (BETA) — MVP-style player impact score across batting, bowling and fielding on a unified runs-equivalent scale. Treemap is grouped by team (each team sized to its top 8 contributors) with the team's IPL color; leaves are individual players. Hover shows the batting / bowling / fielding split, matches played, and impact-per-match. Card header carries a `BETA` badge and a hoverable info icon (`i`) that opens a methodology popup; the inline footnote was dropped in favor of the popup.
+- **Impact scoring engine** (`utils/impact.py`) — season-aggregate base + per-ball pressure adjustment.
+  - Batting: `B = (R + 10·N) × S` where `S` is the batter's strike rate divided by the league average (clamped 0.5–2×, no-op below 30 balls). Not-outs credited at +10 runs each.
+  - Bowling: `B₁ = (O × E × 0.45) + (W × S₁ × wickets)`, then × K — `O` is balls bowled, `E` is relative econ, `W` is the league-average wicket cost (~22 balls), `S₁` is relative bowling strike rate. Volume term down-weighted to 0.45 and K calibrated against top-3 means with a 0.80 bat/bowl balance multiplier so the head of the list mixes batters and bowlers.
+  - Fielding: flat per-event credit (catch 8, stumping 12, run-out 6).
+  - Pressure layer: per-ball `phase × wickets-in-hand × chase RRR/RR` factor folded into one `±15%` multiplier per player — nudges chase / death-over contributors without overwhelming the season-aggregate signal.
+- **`matches_played` + `impact_per_match` columns** on the impact dataframe, derived from the union of batting / bowling / fielding scorecards. Surfaced in the treemap hover.
+- **Reusable info-icon + BETA-badge components** in the global stylesheet — used by the impact treemap, available for any future card that needs a methodology popup or work-in-progress label.
+
+---
+
 ## 2026-05-02
 
 ### Added
 
 - `extras` column in `partnerships.csv` — extra runs accumulated during the partnership; `total_runs = batter_1_runs + batter_2_runs + extras`
-- `fixtures.csv` (hand-maintained, per season) — upcoming match schedule (`match_number, date, venue, team_1, team_2`); read by the dashboard to render a "Next" column on the Overview points table showing each team's next opponent and date
+- `fixtures.csv` (hand-maintained, per season) — upcoming match schedule (`match_number, date, venue, team_1, team_2`); read by the dashboard to render a "Next" column on the Overview points table showing each team's next opponent and date with a `(H)` / `(A)` home-vs-away flag (green for home; venue tooltip on hover) — already-played fixtures (matched on `match_number` against `matches.csv`) are skipped, so each team's "next" only ever advances forward
+- Click `openIPL` brand in the navbar to jump back to the Overview tab; the brand text gets a pointer cursor and a "Go to Overview" tooltip so the affordance is discoverable
 - Opening Pairs Leaderboard in Fielding & Partnerships — pair-level table with stands, runs, highest, average, 50+/100+ counts, and bat-first vs. chasing averages (min 2 stands; sorted by stands, tie-break by avg)
 - Bowling perspective on Team Phase Comparison — radio toggle (Batting / Bowling); metric labels swap accordingly (Run Rate ↔ Economy, Wickets Lost ↔ Wickets Taken, etc.). Bowling figures derive from the same phase summaries via opponent-team join, so totals reconcile with batting view
 - Hover-emphasis on Standings Progression — hovering a team fades the other 9 lines and slightly thickens the hovered one; works anywhere on the chart, not just at data points
@@ -29,6 +45,7 @@ All notable changes to this project will be documented in this file.
 - Run Rate chart y-axis cap removed (was `[0, 36]`; high-RR overs no longer crop)
 - Chart x-axis tick spacing now adapts to the data range via a `nice_dtick()` helper — 1/2/5/10/20/50 step picked so each axis shows ~10 labels (Most Sixes / Fours / Boundaries leaderboards, bump chart rounds, runs-per-over histogram)
 - Card controls right-aligned and vertically centered in DRS Reviews and Team Phase Comparison
+- `HOME_VENUES` map expanded to include venue aliases that appear in `fixtures.csv` but not in `matches.csv` so the H/A flag on the Next column is correct for every team's upcoming match
 
 ### Fixed
 
@@ -60,7 +77,7 @@ All notable changes to this project will be documented in this file.
 - Match Centre header and Recent Results card display `won the Super Over` for tied matches decided in the super over (was rendering as `No Result` because `winner` was empty)
 - Impact Player Introductions x-axis clamped to 0–20 (was previously rendering past 20.5); all markers now use one shape (innings encoded by lane instead of marker shape, so the legend collapses to a single intent row)
 - Closest Match value box now picks a regulation tie (super-over decided) over any run/wicket margin — by definition the closest possible result. Tie-break across multiple super overs uses the smallest super-over margin, then the most recent match
-- Phase boundaries (PP / Middle / Death) now derive from each innings's *allotted* overs rather than overs actually batted. A team that chases in 6.3 overs (e.g. RCB in match 39) keeps the standard 6/9/5 phase split and finishes during the powerplay, instead of having its 39 balls proportionally re-bucketed into a fake death phase. Rain-shortened-from-start matches (cricsheet only marks `target.overs` on innings 2; e.g. match 13's 11-over revision) now also apply the revised allotment to innings 1 when innings 1 was incomplete and not all out
+- Phase boundaries (PP / Middle / Death) now derive from each innings's _allotted_ overs rather than overs actually batted. A team that chases in 6.3 overs (e.g. RCB in match 39) keeps the standard 6/9/5 phase split and finishes during the powerplay, instead of having its 39 balls proportionally re-bucketed into a fake death phase. Rain-shortened-from-start matches (cricsheet only marks `target.overs` on innings 2; e.g. match 13's 11-over revision) now also apply the revised allotment to innings 1 when innings 1 was incomplete and not all out
 - Match Centre per-innings phase tables ordered Powerplay → Middle → Death (was alphabetical, which read Death first)
 - Match Centre Worm chart x-axis now starts at `0.1` (first ball) instead of `1.1`, matching standard cricket over notation
 
