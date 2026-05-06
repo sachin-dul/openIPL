@@ -1,0 +1,255 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Sunrisers Hyderabad,1,1,Abhishek Sharma,Arshdeep Singh,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,2,Abhishek Sharma,Arshdeep Singh,TM Head,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,3,Abhishek Sharma,Arshdeep Singh,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,4,Abhishek Sharma,Arshdeep Singh,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,5.wides,TM Head,Arshdeep Singh,Abhishek Sharma,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,5,TM Head,Arshdeep Singh,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,1,6,Abhishek Sharma,Arshdeep Singh,TM Head,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,1,TM Head,M Jansen,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,2,Abhishek Sharma,M Jansen,TM Head,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,3,Abhishek Sharma,M Jansen,TM Head,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,4,Abhishek Sharma,M Jansen,TM Head,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,5,Abhishek Sharma,M Jansen,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,2,6,Abhishek Sharma,M Jansen,TM Head,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,1,TM Head,Arshdeep Singh,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,2,TM Head,Arshdeep Singh,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,3,TM Head,Arshdeep Singh,Abhishek Sharma,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,4,TM Head,Arshdeep Singh,Abhishek Sharma,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,5,TM Head,Arshdeep Singh,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,3,6,TM Head,Arshdeep Singh,Abhishek Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,1,Abhishek Sharma,LH Ferguson,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,2,Abhishek Sharma,LH Ferguson,TM Head,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,3,Abhishek Sharma,LH Ferguson,TM Head,0,0,0,False,False,,0,0,0,0,0,True,caught,Abhishek Sharma,SS Iyer,powerplay
+1,Sunrisers Hyderabad,4,4,Ishan Kishan,LH Ferguson,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,5,Ishan Kishan,LH Ferguson,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,4,6,Ishan Kishan,LH Ferguson,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,1,TM Head,M Jansen,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,2.wides,TM Head,M Jansen,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,2,TM Head,M Jansen,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,3,TM Head,M Jansen,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,4,TM Head,M Jansen,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,5,Ishan Kishan,M Jansen,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,5,6,TM Head,M Jansen,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,1,Ishan Kishan,LH Ferguson,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,2,TM Head,LH Ferguson,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,3,TM Head,LH Ferguson,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,4,Ishan Kishan,LH Ferguson,TM Head,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,5,Ishan Kishan,LH Ferguson,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,6,6,TM Head,LH Ferguson,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Sunrisers Hyderabad,7,1,TM Head,YS Chahal,Ishan Kishan,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,2,TM Head,YS Chahal,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,3,Ishan Kishan,YS Chahal,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,4.wides,TM Head,YS Chahal,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,4,TM Head,YS Chahal,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,True,caught,TM Head,M Jansen,middle
+1,Sunrisers Hyderabad,7,5,H Klaasen,YS Chahal,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,7,6,Ishan Kishan,YS Chahal,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,1,Ishan Kishan,LH Ferguson,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,2,H Klaasen,LH Ferguson,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,3,H Klaasen,LH Ferguson,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,4,H Klaasen,LH Ferguson,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,5,Ishan Kishan,LH Ferguson,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,8,6,Ishan Kishan,LH Ferguson,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,1,H Klaasen,YS Chahal,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,2,H Klaasen,YS Chahal,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,3,Ishan Kishan,YS Chahal,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,4,H Klaasen,YS Chahal,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,5,H Klaasen,YS Chahal,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,9,6,H Klaasen,YS Chahal,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,1,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,2,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,3,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,4,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,5,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,10,6,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,1,H Klaasen,YS Chahal,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,2,Ishan Kishan,YS Chahal,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,3,H Klaasen,YS Chahal,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,4,Ishan Kishan,YS Chahal,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,5,H Klaasen,YS Chahal,Ishan Kishan,0,1,1,False,False,byes,0,0,1,0,0,False,,,,middle
+1,Sunrisers Hyderabad,11,6,Ishan Kishan,YS Chahal,H Klaasen,0,1,1,False,False,byes,0,0,1,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,1,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,2,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,3,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,4,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,5,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,12,6,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,1,H Klaasen,M Jansen,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,2,Ishan Kishan,M Jansen,H Klaasen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,3.wides,Ishan Kishan,M Jansen,H Klaasen,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,3,Ishan Kishan,M Jansen,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,4,H Klaasen,M Jansen,Ishan Kishan,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+1,Sunrisers Hyderabad,13,5,Ishan Kishan,M Jansen,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,13,6,H Klaasen,M Jansen,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,1,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,2,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+1,Sunrisers Hyderabad,14,3,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,4,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,5,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,14,6,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,1,Ishan Kishan,Arshdeep Singh,H Klaasen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,2,Ishan Kishan,Arshdeep Singh,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,3,H Klaasen,Arshdeep Singh,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,4,Ishan Kishan,Arshdeep Singh,H Klaasen,0,0,0,False,False,,0,0,0,0,0,True,caught,Ishan Kishan,Suryansh Shedge,middle
+1,Sunrisers Hyderabad,15,5,Nithish Kumar Reddy,Arshdeep Singh,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,15,6,H Klaasen,Arshdeep Singh,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Sunrisers Hyderabad,16,1,H Klaasen,YS Chahal,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,2,H Klaasen,YS Chahal,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,3,Nithish Kumar Reddy,YS Chahal,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,4,H Klaasen,YS Chahal,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,5,Nithish Kumar Reddy,YS Chahal,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,16,6,Nithish Kumar Reddy,YS Chahal,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,1,Nithish Kumar Reddy,M Jansen,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,2,Nithish Kumar Reddy,M Jansen,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,3,H Klaasen,M Jansen,Nithish Kumar Reddy,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,4,H Klaasen,M Jansen,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,5,Nithish Kumar Reddy,M Jansen,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,17,6,H Klaasen,M Jansen,Nithish Kumar Reddy,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,1,Nithish Kumar Reddy,LH Ferguson,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,2,H Klaasen,LH Ferguson,Nithish Kumar Reddy,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,3,H Klaasen,LH Ferguson,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,4,H Klaasen,LH Ferguson,Nithish Kumar Reddy,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,5.wides,H Klaasen,LH Ferguson,Nithish Kumar Reddy,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,5,H Klaasen,LH Ferguson,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,18,6,Nithish Kumar Reddy,LH Ferguson,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,1,H Klaasen,Arshdeep Singh,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,2,Nithish Kumar Reddy,Arshdeep Singh,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,3,Nithish Kumar Reddy,Arshdeep Singh,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,4,H Klaasen,Arshdeep Singh,Nithish Kumar Reddy,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,5,H Klaasen,Arshdeep Singh,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,19,6,Nithish Kumar Reddy,Arshdeep Singh,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,1,Nithish Kumar Reddy,Vijaykumar Vyshak,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,2,H Klaasen,Vijaykumar Vyshak,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,3,H Klaasen,Vijaykumar Vyshak,Nithish Kumar Reddy,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,4,H Klaasen,Vijaykumar Vyshak,Nithish Kumar Reddy,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,5,H Klaasen,Vijaykumar Vyshak,Nithish Kumar Reddy,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Sunrisers Hyderabad,20,6,H Klaasen,Vijaykumar Vyshak,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,True,caught,H Klaasen,M Jansen,death
+2,Punjab Kings,1,1,Priyansh Arya,PJ Cummins,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,2,P Simran Singh,PJ Cummins,Priyansh Arya,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,3,P Simran Singh,PJ Cummins,Priyansh Arya,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,4,P Simran Singh,PJ Cummins,Priyansh Arya,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,5,Priyansh Arya,PJ Cummins,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,6,Priyansh Arya,PJ Cummins,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,True,caught,Priyansh Arya,E Malinga,powerplay
+2,Punjab Kings,2,1,P Simran Singh,Nithish Kumar Reddy,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,P Simran Singh,PJ Cummins,powerplay
+2,Punjab Kings,2,2,SS Iyer,Nithish Kumar Reddy,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,3,SS Iyer,Nithish Kumar Reddy,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,4,SS Iyer,Nithish Kumar Reddy,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,5,C Connolly,Nithish Kumar Reddy,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,6,C Connolly,Nithish Kumar Reddy,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,1,C Connolly,PJ Cummins,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,2,C Connolly,PJ Cummins,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,3,C Connolly,PJ Cummins,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,4.noballs,C Connolly,PJ Cummins,SS Iyer,0,1,1,False,False,noballs,0,1,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,4,C Connolly,PJ Cummins,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,5,C Connolly,PJ Cummins,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,6,C Connolly,PJ Cummins,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,1,SS Iyer,E Malinga,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,2,SS Iyer,E Malinga,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,SS Iyer,PJ Cummins,powerplay
+2,Punjab Kings,4,3,MP Stoinis,E Malinga,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,4,MP Stoinis,E Malinga,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,5,MP Stoinis,E Malinga,C Connolly,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,6,MP Stoinis,E Malinga,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,1,C Connolly,Sakib Hussain,MP Stoinis,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,2,MP Stoinis,Sakib Hussain,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,3,MP Stoinis,Sakib Hussain,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,4,MP Stoinis,Sakib Hussain,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,5,MP Stoinis,Sakib Hussain,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,6.wides,MP Stoinis,Sakib Hussain,C Connolly,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,6.noballs,MP Stoinis,Sakib Hussain,C Connolly,4,1,5,True,False,noballs,0,1,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,6,MP Stoinis,Sakib Hussain,C Connolly,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,1,C Connolly,E Malinga,MP Stoinis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,2,C Connolly,E Malinga,MP Stoinis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,3.wides,C Connolly,E Malinga,MP Stoinis,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,3,C Connolly,E Malinga,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,4,C Connolly,E Malinga,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,5,C Connolly,E Malinga,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,6,C Connolly,E Malinga,MP Stoinis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,7,1,MP Stoinis,Shivang Kumar,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,2,MP Stoinis,Shivang Kumar,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,3,MP Stoinis,Shivang Kumar,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,4,MP Stoinis,Shivang Kumar,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,MP Stoinis,Ishan Kishan,middle
+2,Punjab Kings,7,5,Suryansh Shedge,Shivang Kumar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,6,C Connolly,Shivang Kumar,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,1,Suryansh Shedge,Nithish Kumar Reddy,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,2,Suryansh Shedge,Nithish Kumar Reddy,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,3,C Connolly,Nithish Kumar Reddy,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,4,Suryansh Shedge,Nithish Kumar Reddy,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,5,C Connolly,Nithish Kumar Reddy,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,6,Suryansh Shedge,Nithish Kumar Reddy,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,1,Suryansh Shedge,Shivang Kumar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,2,C Connolly,Shivang Kumar,Suryansh Shedge,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,3,C Connolly,Shivang Kumar,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,4,Suryansh Shedge,Shivang Kumar,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,5,Suryansh Shedge,Shivang Kumar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,6,C Connolly,Shivang Kumar,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,1,Suryansh Shedge,Harsh Dubey,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,2.wides,C Connolly,Harsh Dubey,Suryansh Shedge,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,2.wides,C Connolly,Harsh Dubey,Suryansh Shedge,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,2,C Connolly,Harsh Dubey,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,3,Suryansh Shedge,Harsh Dubey,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,4,C Connolly,Harsh Dubey,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,5,C Connolly,Harsh Dubey,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,6,C Connolly,Harsh Dubey,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,1,Suryansh Shedge,Shivang Kumar,C Connolly,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,2,Suryansh Shedge,Shivang Kumar,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,3,Suryansh Shedge,Shivang Kumar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,4,C Connolly,Shivang Kumar,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,5,Suryansh Shedge,Shivang Kumar,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,6,Suryansh Shedge,Shivang Kumar,C Connolly,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,1,C Connolly,PJ Cummins,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,2,C Connolly,PJ Cummins,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,3,Suryansh Shedge,PJ Cummins,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,4,Suryansh Shedge,PJ Cummins,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,Suryansh Shedge,Abhishek Sharma,middle
+2,Punjab Kings,12,5,Shashank Singh,PJ Cummins,C Connolly,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,6,Shashank Singh,PJ Cummins,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,1,C Connolly,Sakib Hussain,Shashank Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,2,C Connolly,Sakib Hussain,Shashank Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,3,Shashank Singh,Sakib Hussain,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,Shashank Singh,Nithish Kumar Reddy,middle
+2,Punjab Kings,13,4,M Jansen,Sakib Hussain,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,5,C Connolly,Sakib Hussain,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,6,M Jansen,Sakib Hussain,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1,C Connolly,E Malinga,M Jansen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,2,C Connolly,E Malinga,M Jansen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,3,C Connolly,E Malinga,M Jansen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,4,C Connolly,E Malinga,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,5,M Jansen,E Malinga,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,6,C Connolly,E Malinga,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,1,C Connolly,Sakib Hussain,M Jansen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,2,C Connolly,Sakib Hussain,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,3,M Jansen,Sakib Hussain,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,4,C Connolly,Sakib Hussain,M Jansen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,5,C Connolly,Sakib Hussain,M Jansen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,6,C Connolly,Sakib Hussain,M Jansen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,16,1,M Jansen,PJ Cummins,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,2,C Connolly,PJ Cummins,M Jansen,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,3,C Connolly,PJ Cummins,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,4,M Jansen,PJ Cummins,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,5,C Connolly,PJ Cummins,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,6,M Jansen,PJ Cummins,C Connolly,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,1,C Connolly,E Malinga,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,2,M Jansen,E Malinga,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,3,C Connolly,E Malinga,M Jansen,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,4,C Connolly,E Malinga,M Jansen,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,5,C Connolly,E Malinga,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,6,M Jansen,E Malinga,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,1.wides,M Jansen,Sakib Hussain,C Connolly,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Punjab Kings,18,1,M Jansen,Sakib Hussain,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,2,C Connolly,Sakib Hussain,M Jansen,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,3,C Connolly,Sakib Hussain,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,4,M Jansen,Sakib Hussain,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,5,M Jansen,Sakib Hussain,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,6,C Connolly,Sakib Hussain,M Jansen,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,1,M Jansen,Harsh Dubey,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,2,C Connolly,Harsh Dubey,M Jansen,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,3,C Connolly,Harsh Dubey,M Jansen,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,4,M Jansen,Harsh Dubey,C Connolly,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,5,M Jansen,Harsh Dubey,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,19,6,C Connolly,Harsh Dubey,M Jansen,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,20,1,M Jansen,Shivang Kumar,C Connolly,0,0,0,False,False,,0,0,0,0,0,True,caught,M Jansen,Harsh Dubey,death
+2,Punjab Kings,20,2,Vijaykumar Vyshak,Shivang Kumar,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,20,3,C Connolly,Shivang Kumar,Vijaykumar Vyshak,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,20,4.wides,C Connolly,Shivang Kumar,Vijaykumar Vyshak,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Punjab Kings,20,4,C Connolly,Shivang Kumar,Vijaykumar Vyshak,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,20,5.wides,C Connolly,Shivang Kumar,Vijaykumar Vyshak,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Punjab Kings,20,5,C Connolly,Shivang Kumar,Vijaykumar Vyshak,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,20,6,C Connolly,Shivang Kumar,Vijaykumar Vyshak,0,0,0,False,False,,0,0,0,0,0,False,,,,death
