@@ -223,39 +223,97 @@ def line_chart(df, x, y, color, title, markers=True):
     return _apply_style(fig)
 
 
-def worm_chart(bbb_df, match_number):
-    """Build a cumulative runs worm chart for a specific match."""
+def _fow_over_to_balls(over_val):
+    """FOW's `over` column uses cricket "during over X, ball Y" notation
+    (`4.3` = during the 4th over, 3rd ball = the 21st legal ball; `20.6` = the
+    120th = last ball). Convert to a 1-indexed legal-ball count so it can
+    share the worm's continuous x-axis (balls/6, range 0..20)."""
+    if pd.isna(over_val):
+        return None
+    int_part = int(over_val)
+    ball_in_over = round((over_val - int_part) * 10)
+    return (int_part - 1) * 6 + ball_in_over
+
+
+def worm_chart(bbb_df, match_number, fow_df=None, allotted_overs=20):
+    """Cumulative runs worm chart with optional fall-of-wicket markers overlaid.
+
+    The x-axis is continuous overs-bowled (`legal_balls / 6`, range 0..allotted_overs)
+    so every ball lands at a stable position regardless of wides/no-balls (which
+    advance the score but not the over count, producing a vertical step on
+    the worm instead of a backward jump).
+
+    `allotted_overs` controls the x-axis extent (matters for DLS-shortened matches).
+    `fow_df` is the standard fall-of-wickets table; when provided, X markers
+    are overlaid at each wicket-fall ball, with the dismissed batter and
+    wicket number on hover.
+    """
     mdf = bbb_df[bbb_df["match_number"] == match_number].copy()
     if mdf.empty:
         return go.Figure()
 
     fig = go.Figure()
     for inn in sorted(mdf["innings"].unique()):
-        idf = mdf[mdf["innings"] == inn].copy()
+        idf = mdf[mdf["innings"] == inn].copy().reset_index(drop=True)
         team = idf["team"].iloc[0]
+        # Track cumulative legal balls (advances the x-axis) and cumulative
+        # score (advances on every ball, including wides/no-balls).
+        idf["_legal"] = ((idf["wides"].fillna(0) == 0) & (idf["noballs"].fillna(0) == 0)).astype(int)
+        idf["cum_legal"] = idf["_legal"].cumsum()
         idf["cum_runs"] = idf["total_runs"].cumsum()
-        # Use 0-indexed cricket notation: first ball = 0.1, end of over 1 = 0.6,
-        # first ball of over 2 = 1.1, etc. Wides/no-balls coerce to NaN → 0,
-        # which sits them at the over boundary (cum_runs is monotonic so it reads fine).
-        idf["over_float"] = (
-            pd.to_numeric(idf["over"], errors="coerce").fillna(1) - 1
-            + pd.to_numeric(idf["ball"], errors="coerce").fillna(0) / 10
-        )
+        # x = overs-bowled (continuous). Filter to the last row of each legal-ball
+        # group so the curve has one (x, y) per legal ball — runs from any
+        # intervening wides/no-balls are already folded into cum_runs at that row.
+        # Result: evenly-spaced x ticks and a clean line that can be splined.
+        legal_only = idf[idf["_legal"] == 1].copy()
+        # Anchor at (0, 0) so the worm starts from the origin, not the first ball
+        x_vals = [0.0] + (legal_only["cum_legal"] / 6.0).tolist()
+        y_vals = [0] + legal_only["cum_runs"].tolist()
+
+        color = team_color(team)
+        r, g, b = int(color[1:3], 16), int(color[3:5], 16), int(color[5:7], 16)
 
         fig.add_trace(go.Scatter(
-            x=idf["over_float"], y=idf["cum_runs"],
+            x=x_vals, y=y_vals,
             mode="lines", name=team,
-            line=dict(color=team_color(team), width=3),
+            line=dict(color=color, width=3, shape="spline", smoothing=0.6),
             fill="tozeroy",
-            fillcolor=f"rgba({int(team_color(team)[1:3], 16)},{int(team_color(team)[3:5], 16)},{int(team_color(team)[5:7], 16)},0.1)",
-            hovertemplate=f"<b>{team_short(team)}</b><br>Over: %{{x}}<br>Score: %{{y}}<extra></extra>",
+            fillcolor=f"rgba({r},{g},{b},0.1)",
+            hovertemplate=f"<b>{team_short(team)}</b><br>Over: %{{x:.2f}}<br>Score: %{{y}}<extra></extra>",
+            legendgroup=team,
         ))
 
+        # Overlay wicket markers — same legendgroup so toggling the team in the
+        # legend hides its wickets too.
+        if fow_df is not None and not fow_df.empty:
+            wkts = fow_df[(fow_df["match_number"] == match_number) & (fow_df["team"] == team)].copy()
+            if not wkts.empty:
+                wkts = wkts.sort_values("wicket_number")
+                wkts["_balls"] = wkts["over"].apply(_fow_over_to_balls)
+                wkts = wkts.dropna(subset=["_balls"])
+                wkts["x_overs"] = wkts["_balls"] / 6.0
+                fig.add_trace(go.Scatter(
+                    x=wkts["x_overs"], y=wkts["score"],
+                    mode="markers",
+                    name=f"{team_short(team)} wickets",
+                    marker=dict(color=color, size=11, symbol="x", line=dict(width=2, color="white")),
+                    customdata=list(zip(wkts["wicket_number"], wkts["player_out"], wkts["over"])),
+                    hovertemplate=(
+                        f"<b>{team_short(team)}</b> · Wicket %{{customdata[0]}}<br>"
+                        "%{customdata[1]} — %{y} (%{customdata[2]} ov)"
+                        "<extra></extra>"
+                    ),
+                    legendgroup=team,
+                    showlegend=False,
+                ))
+
+    tick_step = 2 if allotted_overs >= 12 else 1
     fig.update_layout(
-        xaxis_title="Over", yaxis_title="Runs",
+        xaxis=dict(title="Over", range=[0, allotted_overs], dtick=tick_step),
+        yaxis_title="Runs",
         legend=dict(orientation="h", yanchor="top", y=-0.25, xanchor="center", x=0.5),
         margin=dict(b=90),
-        hovermode="x unified",
+        hovermode="closest",
     )
     return _apply_style(fig, height=400)
 
@@ -357,11 +415,13 @@ def manhattan_chart(bbb_df, match_number, innings, allotted_overs=20):
     return _apply_style(fig, height=360)
 
 
-def run_rate_chart(bbb_df, match_number, allotted_overs=20):
+def run_rate_chart(bbb_df, match_number, allotted_overs=20, dls_revised_target=None):
     """Current run rate (both innings) + required run rate (2nd innings) over time.
 
     `allotted_overs` sets the x-axis extent and the balls-remaining horizon
     for the RRR curve (matters for DLS-shortened matches).
+    `dls_revised_target` is the DLS-adjusted chase target. When set, RRR uses
+    it; otherwise the chase target falls back to `innings_1_total + 1`.
     """
     mdf = bbb_df[bbb_df["match_number"] == match_number].copy()
     if mdf.empty:
@@ -392,23 +452,37 @@ def run_rate_chart(bbb_df, match_number, allotted_overs=20):
         fig.add_trace(go.Scatter(
             x=curve["x"], y=curve["current_rr"],
             mode="lines", name=f"{team_short(team)} RR",
-            line=dict(color=team_color(team), width=3),
+            line=dict(color=team_color(team), width=3, shape="spline", smoothing=0.6),
             hovertemplate=f"<b>{team_short(team)}</b><br>RR: %{{y:.2f}}<extra></extra>",
+            legendgroup=team,
         ))
 
         if inn == 1:
             target = int(idf["total_runs"].sum()) + 1
+            if dls_revised_target is not None:
+                target = int(dls_revised_target)
         elif inn == 2 and target is not None:
             curve["balls_remaining"] = allotted_balls - curve["balls"]
             curve["runs_needed"] = (target - curve["score"]).clip(lower=0)
             # RRR is only meaningful while balls remain AND chase isn't already decided.
             rrr_curve = curve[(curve["balls_remaining"] > 0) & (curve["runs_needed"] > 0)].copy()
             rrr_curve["required_rr"] = rrr_curve["runs_needed"] / (rrr_curve["balls_remaining"] / 6)
+            # Cap the *displayed* RRR at 36 ("six every ball") so a failed chase
+            # in the last over doesn't spike to ∞ and dwarf every other line.
+            # Hover shows the actual computed RRR, with a "(capped)" note when
+            # the displayed value differs.
+            RRR_DISPLAY_CAP = 36.0
+            rrr_curve["required_rr_display"] = rrr_curve["required_rr"].clip(upper=RRR_DISPLAY_CAP)
+            rrr_curve["rrr_label"] = rrr_curve["required_rr"].apply(
+                lambda v: f"{v:.2f}" if v <= RRR_DISPLAY_CAP else f"{v:.2f} (capped at {RRR_DISPLAY_CAP:.0f})"
+            )
             fig.add_trace(go.Scatter(
-                x=rrr_curve["x"], y=rrr_curve["required_rr"],
+                x=rrr_curve["x"], y=rrr_curve["required_rr_display"],
+                customdata=rrr_curve["rrr_label"],
                 mode="lines", name=f"{team_short(team)} RRR",
-                line=dict(color=team_color(team), width=2, dash="dash"),
-                hovertemplate=f"<b>Required RR</b><br>RRR: %{{y:.2f}}<extra></extra>",
+                line=dict(color=team_color(team), width=2, dash="dash", shape="spline", smoothing=0.6),
+                hovertemplate="<b>Required RR</b><br>RRR: %{customdata}<extra></extra>",
+                legendgroup=team,
             ))
 
     fig.update_layout(
@@ -418,7 +492,10 @@ def run_rate_chart(bbb_df, match_number, allotted_overs=20):
             hoverformat=".1f",
         ),
         yaxis=dict(title="Runs / over", rangemode="tozero"),
-        legend=dict(orientation="h", yanchor="top", y=-0.25, xanchor="center", x=0.5),
+        legend=dict(
+            orientation="h", yanchor="top", y=-0.25, xanchor="center", x=0.5,
+            entrywidth=110, entrywidthmode="pixels", tracegroupgap=8,
+        ),
         margin=dict(b=90),
         hovermode="x unified",
     )

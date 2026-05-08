@@ -134,6 +134,18 @@ def build_points_table(all_match_data, season_dir):
                 target_overs = 20.0
             full_innings_balls = _overs_to_balls(target_overs)
 
+            # DLS adjustment. ICC rule: in a DLS-decided match, the team
+            # batting first is credited with the par score (= revised_target - 1)
+            # for NRR purposes — this represents the DLS-equivalent total under
+            # the playing conditions. The team batting second uses actual runs.
+            method = match_info.get("method", "")
+            dls_revised_target = match_info.get("dls_revised_target", "")
+            try:
+                dls_revised_target = int(dls_revised_target) if dls_revised_target != "" else None
+            except (TypeError, ValueError):
+                dls_revised_target = None
+            apply_dls_par = method == "D/L" and dls_revised_target is not None
+
             for team, opponent in [(team_1, team_2), (team_2, team_1)]:
                 score_str = team_scores.get(team, "0/0")
                 parts = score_str.split("/")
@@ -148,6 +160,13 @@ def build_points_table(all_match_data, season_dir):
                 opp_wickets = int(opp_parts[1]) if len(opp_parts) > 1 else 0
                 opp_overs = innings_overs.get(opponent, 0.0)
                 opp_balls = full_innings_balls if opp_wickets == 10 else _overs_to_balls(opp_overs)
+
+                # Replace team_1's score with par on both sides of the calc
+                if apply_dls_par:
+                    if team == team_1:
+                        runs = dls_revised_target - 1
+                    if opponent == team_1:
+                        opp_runs = dls_revised_target - 1
 
                 teams[team]["runs_scored"] += runs
                 teams[team]["balls_faced"] += balls

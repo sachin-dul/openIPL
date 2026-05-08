@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-05-07
+
+### Added
+
+- `dls_revised_target` column in `matches.csv` — DLS-adjusted chase target, populated only when `method = "D/L"`. Sourced from cricsheet's `innings[1].target.runs` and used by the dashboard wherever the chase target matters
+- DLS annotations in **Match Centre** — `(D/L Method)` suffix on the result line and a small `DLS target: ` line under the chasing team's score
+- `(D/L)` suffix on the margin text in the **Recent Results** card on Overview
+- `Last match updated: ` indicator in the top-right of the Overview tab — floats to the right of the Key Stats / Leaders / Numbers pill row so it sits on the same horizontal line without breaking the value-box themes
+
+### Changed
+
+- **Run Rate (Match Centre)** chart now reads `dls_revised_target` from `matches.csv` and uses it as the chase target. For DLS matches the displayed RRR reflects the revised target; falls back to `innings_1_total + 1` for non-DLS matches
+- **Worm Chart** x-axis adapts to the match's allotted overs (was hardcoded `[0, 20]`; now uses `target_overs` so DLS-shortened matches render with a tight x-range and ticks step down to 1 below 12 overs)
+- **Run Rate** chart legend lays out RR / RRR items in a clean grid via fixed `entrywidth=110` + `tracegroupgap=8`, instead of the grouped pair pushing a single RR entry out of column
+- **NRR calculation** now applies the DLS rule — in any DLS-decided match the team batting first is credited with the par score (`dls_revised_target − 1`) on both sides of the run-rate ratio (their `runs_scored` and the opponent's `runs_conceded`)
+
+### Fixed
+
+- Match 43 `partnerships.csv` refreshed to the current 12-column schema (was on the stale 11-column format from before the `extras` column was added in 2026-04-27); contents unchanged, just the missing `extras` column populated
+
+---
+
 ## 2026-05-05
 
 ### Added

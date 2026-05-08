@@ -16,7 +16,7 @@ from utils.data_loader import (
 )
 from utils.charts import (
     horizontal_bar, vertical_bar, line_chart, worm_chart,
-    phase_comparison_chart, fow_timeline, _apply_style,
+    phase_comparison_chart, _apply_style,
     manhattan_chart, run_rate_chart,
     team_dna_heatmap, team_radar_chart,
     runs_per_over_innings_compare,
@@ -234,6 +234,10 @@ app_ui = ui.page_navbar(
     ui.nav_spacer(),
     # Overview
     ui.nav_panel("Overview",
+        ui.tags.div(
+            ui.output_ui("overview_last_updated"),
+            style="float:right; padding-top:14px; max-width:60%;",
+        ),
         # Stats tabs — compact on mobile, full grid on desktop
         ui.navset_pill(
             ui.nav_panel("Key Stats",
@@ -455,21 +459,27 @@ app_ui = ui.page_navbar(
         ),
         ui.layout_columns(
             ui.card(
-                ui.card_header("DRS Reviews"),
+                ui.card_header(
+                    ui.HTML(
+                        '<div style="display:flex;align-items:center;justify-content:space-between;width:100%;">'
+                        '<span>DRS Reviews</span>'
+                        '<span class="info-icon" tabindex="0" aria-label="How DRS metrics are calculated">i'
+                        '<span class="info-popup">'
+                        '<strong>Umpire — Accuracy</strong> = (Stood + Umpire\'s Call) / total reviews.<br>'
+                        '<strong>Team — Success</strong> = Overturned / total reviews.<br><br>'
+                        'Umpire\'s Call helps the umpire\'s accuracy, but not the team\'s success — the on-field decision stands.<br><br>'
+                        'Numbered bubbles group ties at the same (volume, accuracy) coordinate; hover any bubble for individual names with their stood / UC / overturned breakdown. Umpires with fewer than 2 reviews are excluded.'
+                        '</span>'
+                        '</span>'
+                        '</div>'
+                    ),
+                ),
                 ui.tags.style("#drs_view .form-check-inline { margin-right: 1.25rem; } #drs_view-label { display:none; }"),
                 ui.div(
                     ui.input_radio_buttons("drs_view", None, choices={"umpire": "By Umpire", "team": "By Team"}, selected="umpire", inline=True),
                     style="display:flex;justify-content:flex-end;",
                 ),
                 ui.output_ui("drs_scatter_chart"),
-                ui.HTML(
-                    '<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb;line-height:1.6;">'
-                    '<div><strong>Umpire — Accuracy</strong> = (Stood + Umpire\'s Call) / total &nbsp;·&nbsp; '
-                    '<strong>Team — Success</strong> = Overturned / total</div>'
-                    '<div>Umpire\'s Call helps the umpire\'s accuracy, not the team\'s success.</div>'
-                    '<div>Numbered bubbles group ties — hover for names + breakdown. Umpires with &lt;2 reviews excluded.</div>'
-                    '</div>'
-                ),
             ),
             col_widths=[12],
         ),
@@ -561,10 +571,6 @@ app_ui = ui.page_navbar(
             ui.card(ui.output_ui("scorecard_bowl_1_header"), ui.output_ui("scorecard_bowl_1")),
             ui.card(ui.output_ui("scorecard_bowl_2_header"), ui.output_ui("scorecard_bowl_2")),
             col_widths=[6, 6],
-        ),
-        ui.layout_columns(
-            ui.card(ui.card_header("Fall of Wickets"), ui.output_ui("match_fow_chart")),
-            col_widths=[12],
         ),
         ui.layout_columns(
             ui.card(ui.output_ui("match_phase_1_header"), ui.output_ui("match_phase_1")),
@@ -748,6 +754,30 @@ def server(input, output, session):
     def overview_matches():
         m = load_matches()
         return str(len(m))
+
+    @render.ui
+    def overview_last_updated():
+        """Small header line on the Overview page showing the most
+        recently played match."""
+        m = load_matches()
+        if m.empty:
+            return ui.HTML("")
+        mc = m.copy()
+        mc["_mn"] = pd.to_numeric(mc["match_number"], errors="coerce")
+        mc = mc.dropna(subset=["_mn"]).sort_values("_mn")
+        if mc.empty:
+            return ui.HTML("")
+        row = mc.iloc[-1]
+        try:
+            date_label = pd.to_datetime(row["date"]).strftime("%b %-d, %Y")
+        except Exception:
+            date_label = str(row.get("date", ""))
+        return ui.HTML(
+            f'<div style="font-size:12px;color:#6b7280;line-height:1.4;text-align:right;">'
+            f'Last match updated: <strong style="color:#1f2937">M{int(row["_mn"])} — '
+            f'{team_short(row["team_1"])} vs {team_short(row["team_2"])}</strong>'
+            f' <span style="color:#9ca3af">· {date_label}</span></div>'
+        )
 
 
 
@@ -1139,6 +1169,7 @@ def server(input, output, session):
             is_no_result = result == "no result" or winner == "nan" or winner == ""
             logo1, logo2 = team_logo(t1), team_logo(t2)
             mn = int(row["match_number"])
+            is_dls = str(row.get("method", "")) == "D/L"
             if is_no_result:
                 w1 = w2 = "opacity:0.6"
                 margin = "No Result"
@@ -1160,6 +1191,8 @@ def server(input, output, session):
                     margin = f"{winner} won by {int(row['win_by_runs'])} runs"
                 else:
                     margin = f"{winner} won the Super Over"
+            if is_dls and not is_no_result:
+                margin = f"{margin} (D/L)"
             cards_html += f"""
             <div class="rr-card" onclick="goToMatch('{mn}')">
                 <div style="font-size:11px;color:#6b7280;margin-bottom:8px">Match {mn} &bull; {row['date']}</div>
@@ -2302,6 +2335,17 @@ def server(input, output, session):
         v = pd.to_numeric(row["target_overs"].iloc[0], errors="coerce")
         return float(v) if pd.notna(v) and v > 0 else 20
 
+    def _match_dls_target(mn):
+        """DLS-revised chase target for a match, or None when no DLS was applied."""
+        m = load_matches()
+        if m.empty or "dls_revised_target" not in m.columns:
+            return None
+        row = m[m["match_number"] == mn]
+        if row.empty:
+            return None
+        v = pd.to_numeric(row["dls_revised_target"].iloc[0], errors="coerce")
+        return int(v) if pd.notna(v) and v > 0 else None
+
     @reactive.calc
     def match_innings_teams():
         """Return dict mapping innings number to team name for selected match."""
@@ -2339,6 +2383,8 @@ def server(input, output, session):
                 f' won the toss, chose to <strong style="color:#111827;">{toss_decision}</strong>'
             )
 
+        method = str(row.get("method", ""))
+        is_dls = method == "D/L"
         if is_no_result:
             result_line = '<span style="color:#6b7280;">No Result</span>'
             pom = ""
@@ -2353,6 +2399,8 @@ def server(input, output, session):
                 margin = "won the Super Over"
             else:
                 margin = result
+            if is_dls:
+                margin = f"{margin} (D/L Method)"
             result_line = f'<span style="color:{team_color(winner)}; font-weight:700;">{winner}</span> {margin}'
             pom = str(row.get("player_of_match", ""))
             if pom == "nan":
@@ -2365,6 +2413,26 @@ def server(input, output, session):
         meta_cells.append(("VENUE", str(row["venue"]), "#374151"))
         if pom:
             meta_cells.append(("PLAYER OF THE MATCH", pom, "#1a56db"))
+
+        # Chase target annotation under team_2's score (only when DLS revised it).
+        # An invisible placeholder is mirrored under team_1 so both blocks keep
+        # the same height and the "vs" stays centered.
+        chase_target_html = ""
+        chase_target_spacer = ""
+        if is_dls:
+            dls_target = pd.to_numeric(row.get("dls_revised_target"), errors="coerce")
+            tov = pd.to_numeric(row.get("target_overs"), errors="coerce")
+            if pd.notna(dls_target) and dls_target > 0:
+                tov_part = f" in {int(tov) if tov == int(tov) else tov} ov" if pd.notna(tov) and tov < 20 else ""
+                label = f"DLS target: {int(dls_target)}{tov_part}"
+                chase_target_html = (
+                    f'<div style="font-size:11px; color:#b45309; font-weight:600; margin-top:2px;">'
+                    f'{label}</div>'
+                )
+                chase_target_spacer = (
+                    f'<div style="font-size:11px; font-weight:600; margin-top:2px; visibility:hidden;">'
+                    f'{label}</div>'
+                )
 
         meta_html = "".join(
             f'<div style="flex:1; min-width:140px; text-align:center; padding:0 12px;">'
@@ -2382,6 +2450,7 @@ def server(input, output, session):
                 </div>
                 <div style="font-weight:700; font-size:16px; margin-top:8px; white-space:nowrap;">{t1}</div>
                 <div style="font-size:28px; font-weight:800; color:{team_color(t1)};">{s1}</div>
+                {chase_target_spacer}
             </div>
             <div style="font-size:20px; font-weight:600; color:#6b7280;">vs</div>
             <div style="text-align:center;">
@@ -2390,6 +2459,7 @@ def server(input, output, session):
                 </div>
                 <div style="font-weight:700; font-size:16px; margin-top:8px; white-space:nowrap;">{t2}</div>
                 <div style="font-size:28px; font-weight:800; color:{team_color(t2)};">{s2}</div>
+                {chase_target_html}
             </div>
         </div>
         <div style="text-align:center; font-size:16px; padding-bottom:16px;">{result_line}</div>
@@ -2528,7 +2598,9 @@ def server(input, output, session):
         bbb = load_ball_by_ball()
         if bbb.empty:
             return empty_state()
-        return plotly_ui(worm_chart(bbb, selected_match_num()))
+        fow = load_fall_of_wickets()
+        mn = selected_match_num()
+        return plotly_ui(worm_chart(bbb, mn, fow_df=fow if not fow.empty else None, allotted_overs=_match_allotted_overs(mn)))
 
     @render.ui
     def match_key_moments():
@@ -2646,7 +2718,7 @@ def server(input, output, session):
         mbbb = bbb[bbb["match_number"] == mn]
         if mbbb.empty:
             return empty_state()
-        return plotly_ui(run_rate_chart(bbb, mn, allotted_overs=_match_allotted_overs(mn)))
+        return plotly_ui(run_rate_chart(bbb, mn, allotted_overs=_match_allotted_overs(mn), dls_revised_target=_match_dls_target(mn)))
 
     def _team_header(innings, label):
         teams = match_innings_teams()
@@ -2735,13 +2807,6 @@ def server(input, output, session):
     @render.ui
     def scorecard_bowl_2():
         return _bowling_scorecard(2)
-
-    @render.ui
-    def match_fow_chart():
-        fow = load_fall_of_wickets()
-        if fow.empty:
-            return empty_state()
-        return plotly_ui(fow_timeline(fow, selected_match_num()))
 
     def _phase_table(innings):
         phase = load_phase_summaries()

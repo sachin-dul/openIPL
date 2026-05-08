@@ -31,6 +31,7 @@ Season-level match index.
 | team_2_overs       | float  | Overs batted by team_2                                          |
 | method             | string | Match result method (e.g., "D/L" for Duckworth-Lewis)           |
 | target_overs       | float  | Target overs for rain-shortened matches (< 20 if affected)      |
+| dls_revised_target | int    | DLS-adjusted chase target — only set when method = "D/L"        |
 | match_stage        | string | league / Qualifier 1 / Qualifier 2 / Eliminator / Final         |
 | umpire_1           | string | On-field umpire                                                 |
 | umpire_2           | string | On-field umpire                                                 |
@@ -61,7 +62,7 @@ Final standings with Net Run Rate.
 | won          | int    | Matches won                        |
 | lost         | int    | Matches lost                       |
 | no_result    | int    | No result matches                  |
-| net_run_rate | float  | Net Run Rate                       |
+| net_run_rate | float  | Net Run Rate (DLS rule applied: in DLS-decided matches, the team batting first is credited with the par score `dls_revised_target − 1` on both sides of the calc) |
 | points       | int    | Total points (2 per win, 1 per NR) |
 
 ### `players.csv`

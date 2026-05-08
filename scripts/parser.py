@@ -628,8 +628,13 @@ def parse_match(json_path, match_number_override=None):
 
     # Compute overs bowled per innings (for NRR, exclude super overs)
     innings_overs = {}
-    # Extract target overs for 2nd innings (< 20 means rain-shortened)
+    # Extract target overs/runs for 2nd innings.
+    # `target_overs < 20` means rain-shortened.
+    # `dls_revised_target` is only set when DLS was applied — for normal matches
+    # the target is simply innings_1_total + 1 and doesn't need to be stored.
+    # Cricsheet stores it on the chasing innings as `target.runs`.
     target_overs = 20
+    cricsheet_target_runs = None
     for inn_idx, innings in enumerate(innings_data):
         if innings.get("super_over"):
             continue
@@ -637,6 +642,8 @@ def parse_match(json_path, match_number_override=None):
         target = innings.get("target", {})
         if target.get("overs") and target["overs"] < 20:
             target_overs = target["overs"]
+        if target.get("runs") and cricsheet_target_runs is None:
+            cricsheet_target_runs = int(target["runs"])
         total_balls = 0
         for over_obj in innings["overs"]:
             for delivery in over_obj["deliveries"]:
@@ -646,6 +653,8 @@ def parse_match(json_path, match_number_override=None):
         overs_complete = total_balls // 6
         overs_partial = total_balls % 6
         innings_overs[team] = float(f"{overs_complete}.{overs_partial}")
+    # Only persist the revised target when DLS was the result method
+    dls_revised_target = cricsheet_target_runs if method == "D/L" and cricsheet_target_runs is not None else ""
 
     umpires = officials.get("umpires", [])
     match_row = {
@@ -668,6 +677,7 @@ def parse_match(json_path, match_number_override=None):
         "team_2_overs": innings_overs.get(team_2, 0.0),
         "method": method,
         "target_overs": target_overs,
+        "dls_revised_target": dls_revised_target,
         "match_stage": match_stage,
         "umpire_1": umpires[0] if len(umpires) > 0 else "",
         "umpire_2": umpires[1] if len(umpires) > 1 else "",
