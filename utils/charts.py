@@ -87,7 +87,7 @@ LAYOUT_TEMPLATE = dict(
 )
 
 
-def _apply_style(fig, height=None):
+def apply_style(fig, height=None):
     """Apply common styling to all charts."""
     fig.update_layout(
         **LAYOUT_TEMPLATE,
@@ -155,7 +155,7 @@ def player_impact_treemap(impact_df, top_per_team=8):
         tiling=dict(packing="squarify", squarifyratio=1.0, pad=0),
     ))
     fig.update_layout(margin=dict(l=4, r=4, t=4, b=4))
-    return _apply_style(fig, height=620)
+    return apply_style(fig, height=620)
 
 
 def horizontal_bar(df, x, y, title, color=None, text=None, team_colored=False, player_teams=None):
@@ -195,7 +195,7 @@ def horizontal_bar(df, x, y, title, color=None, text=None, team_colored=False, p
             fig.update_traces(textposition="outside", textfont=dict(size=13))
 
     fig.update_layout(xaxis_title="", yaxis_title="")
-    return _apply_style(fig, height=max(300, len(df) * 40))
+    return apply_style(fig, height=max(300, len(df) * 40))
 
 
 def vertical_bar(df, x, y, title, color=None, text=None):
@@ -209,7 +209,7 @@ def vertical_bar(df, x, y, title, color=None, text=None):
         fig.update_traces(marker=dict(color="#3b82f6", cornerradius=4))
     if text:
         fig.update_traces(textposition="outside", textfont=dict(size=13, color="#1f2937"))
-    return _apply_style(fig)
+    return apply_style(fig)
 
 
 def line_chart(df, x, y, color, title, markers=True):
@@ -220,10 +220,10 @@ def line_chart(df, x, y, color, title, markers=True):
     )
     fig.update_traces(line=dict(width=3), marker=dict(size=8))
     fig.update_layout(xaxis_title="", yaxis_title="")
-    return _apply_style(fig)
+    return apply_style(fig)
 
 
-def _fow_over_to_balls(over_val):
+def fow_over_to_balls(over_val):
     """FOW's `over` column uses cricket "during over X, ball Y" notation
     (`4.3` = during the 4th over, 3rd ball = the 21st legal ball; `20.6` = the
     120th = last ball). Convert to a 1-indexed legal-ball count so it can
@@ -258,14 +258,14 @@ def worm_chart(bbb_df, match_number, fow_df=None, allotted_overs=20):
         team = idf["team"].iloc[0]
         # Track cumulative legal balls (advances the x-axis) and cumulative
         # score (advances on every ball, including wides/no-balls).
-        idf["_legal"] = ((idf["wides"].fillna(0) == 0) & (idf["noballs"].fillna(0) == 0)).astype(int)
-        idf["cum_legal"] = idf["_legal"].cumsum()
+        idf["legal"] = ((idf["wides"].fillna(0) == 0) & (idf["noballs"].fillna(0) == 0)).astype(int)
+        idf["cum_legal"] = idf["legal"].cumsum()
         idf["cum_runs"] = idf["total_runs"].cumsum()
         # x = overs-bowled (continuous). Filter to the last row of each legal-ball
         # group so the curve has one (x, y) per legal ball — runs from any
         # intervening wides/no-balls are already folded into cum_runs at that row.
         # Result: evenly-spaced x ticks and a clean line that can be splined.
-        legal_only = idf[idf["_legal"] == 1].copy()
+        legal_only = idf[idf["legal"] == 1].copy()
         # Anchor at (0, 0) so the worm starts from the origin, not the first ball
         x_vals = [0.0] + (legal_only["cum_legal"] / 6.0).tolist()
         y_vals = [0] + legal_only["cum_runs"].tolist()
@@ -289,9 +289,9 @@ def worm_chart(bbb_df, match_number, fow_df=None, allotted_overs=20):
             wkts = fow_df[(fow_df["match_number"] == match_number) & (fow_df["team"] == team)].copy()
             if not wkts.empty:
                 wkts = wkts.sort_values("wicket_number")
-                wkts["_balls"] = wkts["over"].apply(_fow_over_to_balls)
-                wkts = wkts.dropna(subset=["_balls"])
-                wkts["x_overs"] = wkts["_balls"] / 6.0
+                wkts["balls"] = wkts["over"].apply(fow_over_to_balls)
+                wkts = wkts.dropna(subset=["balls"])
+                wkts["x_overs"] = wkts["balls"] / 6.0
                 fig.add_trace(go.Scatter(
                     x=wkts["x_overs"], y=wkts["score"],
                     mode="markers",
@@ -315,7 +315,7 @@ def worm_chart(bbb_df, match_number, fow_df=None, allotted_overs=20):
         margin=dict(b=90),
         hovermode="closest",
     )
-    return _apply_style(fig, height=400)
+    return apply_style(fig, height=400)
 
 
 def phase_comparison_chart(phase_df, metric="run_rate", metric_label=None):
@@ -336,7 +336,7 @@ def phase_comparison_chart(phase_df, metric="run_rate", metric_label=None):
         metric_label = metric.replace("_", " ").title()
     fig.update_layout(xaxis_title="", yaxis_title=metric_label)
     fig.update_traces(marker=dict(cornerradius=3))
-    return _apply_style(fig)
+    return apply_style(fig)
 
 
 def manhattan_chart(bbb_df, match_number, innings, allotted_overs=20):
@@ -412,7 +412,7 @@ def manhattan_chart(bbb_df, match_number, innings, allotted_overs=20):
         margin=dict(b=90),
         bargap=0.25,
     )
-    return _apply_style(fig, height=360)
+    return apply_style(fig, height=360)
 
 
 def run_rate_chart(bbb_df, match_number, allotted_overs=20, dls_revised_target=None):
@@ -499,7 +499,7 @@ def run_rate_chart(bbb_df, match_number, allotted_overs=20, dls_revised_target=N
         margin=dict(b=90),
         hovermode="x unified",
     )
-    return _apply_style(fig, height=360)
+    return apply_style(fig, height=360)
 
 
 def fow_timeline(fow_df, match_number):
@@ -535,7 +535,7 @@ def fow_timeline(fow_df, match_number):
         xaxis_title="Over", yaxis_title="Score",
         legend=dict(orientation="h", yanchor="bottom", y=-0.25, xanchor="center", x=0.5),
     )
-    return _apply_style(fig, height=400)
+    return apply_style(fig, height=400)
 
 
 def team_dna_heatmap(bbb_df):
@@ -584,7 +584,7 @@ def team_dna_heatmap(bbb_df):
         xaxis=dict(title="Over", tickmode="linear", dtick=1),
         yaxis=dict(title=""),
     )
-    return _apply_style(fig, height=max(300, 34 * len(mean_pivot.index) + 80))
+    return apply_style(fig, height=max(300, 34 * len(mean_pivot.index) + 80))
 
 
 def team_radar_chart(bbb_df, matches_df):
@@ -682,7 +682,7 @@ def team_radar_chart(bbb_df, matches_df):
         legend=dict(orientation="h", yanchor="top", y=-0.08, xanchor="center", x=0.5),
         margin=dict(t=60, b=70),
     )
-    return _apply_style(fig, height=560)
+    return apply_style(fig, height=560)
 
 
 def runs_per_over_innings_compare(bbb_df, team_label=None):
@@ -764,7 +764,7 @@ def runs_per_over_innings_compare(bbb_df, team_label=None):
         legend=dict(orientation="h", yanchor="top", y=-0.18, xanchor="center", x=0.5),
         margin=dict(l=60, r=40, b=70, t=40),
     )
-    return _apply_style(fig, height=560)
+    return apply_style(fig, height=560)
 
 
 def economy_vs_average_scatter(bowling_df, min_overs=4):
@@ -869,10 +869,10 @@ def economy_vs_average_scatter(bowling_df, min_overs=4):
         legend=dict(orientation="h", yanchor="top", y=-0.28, xanchor="center", x=0.5),
         margin=dict(b=110),
     )
-    return _apply_style(fig, height=520)
+    return apply_style(fig, height=520)
 
 
-def _drs_pivot(reviews_df, by="umpire", min_reviews=2):
+def drs_pivot(reviews_df, by="umpire", min_reviews=2):
     """Shared aggregation: pivot reviews by team or umpire into outcome counts."""
     df = reviews_df.copy()
     df["decision_norm"] = df["decision"].astype(str).str.lower().str.strip()
@@ -880,13 +880,13 @@ def _drs_pivot(reviews_df, by="umpire", min_reviews=2):
         df["umpires_call"] = False
     df["umpires_call"] = df["umpires_call"].fillna(False).astype(bool)
 
-    def _classify(row):
+    def classify(row):
         if row["decision_norm"] == "upheld":
             return "Overturned"
         if row["umpires_call"]:
             return "Umpire's Call"
         return "On-field Stood"
-    df["outcome"] = df.apply(_classify, axis=1)
+    df["outcome"] = df.apply(classify, axis=1)
 
     index_col = "umpire" if by == "umpire" else "team"
     pivot = df.pivot_table(index=index_col, columns="outcome", aggfunc="size", fill_value=0)
@@ -913,7 +913,7 @@ def drs_volume_accuracy_scatter(reviews_df, by="umpire", min_reviews=2):
     """
     if reviews_df.empty:
         return go.Figure()
-    pivot = _drs_pivot(reviews_df, by=by, min_reviews=min_reviews)
+    pivot = drs_pivot(reviews_df, by=by, min_reviews=min_reviews)
     if pivot.empty:
         return go.Figure()
 
@@ -936,7 +936,7 @@ def drs_volume_accuracy_scatter(reviews_df, by="umpire", min_reviews=2):
     for i in range(len(pivot)):
         coord_groups.setdefault((xs_all[i], ys_all[i]), []).append(i)
 
-    def _breakdown(i):
+    def breakdown(i):
         s = int(pivot["On-field Stood"].iloc[i])
         u = int(pivot["Umpire's Call"].iloc[i])
         o = int(pivot["Overturned"].iloc[i])
@@ -951,7 +951,7 @@ def drs_volume_accuracy_scatter(reviews_df, by="umpire", min_reviews=2):
             s_color.append(colors[i])
             s_total.append(int(pivot["total"].iloc[i]))
             s_pct.append(int(pivot["pct"].iloc[i]))
-            s_break.append(_breakdown(i))
+            s_break.append(breakdown(i))
         else:
             idxs_sorted = sorted(idxs, key=lambda j: str(pivot.index[j]))
             c_x.append(x); c_y.append(y); c_count.append(str(len(idxs_sorted)))
@@ -1007,7 +1007,7 @@ def drs_volume_accuracy_scatter(reviews_df, by="umpire", min_reviews=2):
         yaxis=dict(title=y_title, range=[-5, 115], ticksuffix="%", dtick=20),
         margin=dict(l=60, r=40, t=30, b=50),
     )
-    return _apply_style(fig, height=400)
+    return apply_style(fig, height=400)
 
 
 def drs_reviews_by_team(reviews_df):
@@ -1061,7 +1061,7 @@ def drs_reviews_by_team(reviews_df):
         legend=dict(orientation="h", yanchor="top", y=-0.15, xanchor="center", x=0.5),
         margin=dict(l=60, r=90, t=30, b=60),
     )
-    return _apply_style(fig, height=max(320, len(teams) * 38 + 120))
+    return apply_style(fig, height=max(320, len(teams) * 38 + 120))
 
 
 def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None):
@@ -1085,7 +1085,7 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
     bat_roles = {"batter", "wicketkeeper", "wicket-keeper"}
     bowl_roles = {"bowler"}
 
-    def _classify(row):
+    def classify(row):
         ro = role_map.get(row["player_out"], "")
         ri = role_map.get(row["player_in"], "")
         if ro in bowl_roles and ri not in bowl_roles:
@@ -1098,7 +1098,7 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
             return "bowl"
         return "same"
 
-    df["intent"] = df.apply(_classify, axis=1)
+    df["intent"] = df.apply(classify, axis=1)
     df["x_raw"] = df["over"] + df["ball"] / 10
     df["team_s"] = df["team"].map(team_short)
 
@@ -1195,7 +1195,7 @@ def impact_player_subs_by_team(subs_df, players_df, bbb_df=None, matches_df=None
                 x=sub["x"], y=sub["y"],
                 mode="markers",
                 name=intent_label[intent],
-                legendgroup="intent",
+                legendgroup=intent,
                 showlegend=show,
                 marker=dict(symbol="circle", size=13,
                             color=intent_color[intent],
@@ -1336,4 +1336,4 @@ def drs_umpire_performance(reviews_df, min_reviews=2):
         legend=dict(orientation="h", yanchor="top", y=-0.15, xanchor="center", x=0.5),
         margin=dict(l=140, r=130, t=30, b=60),
     )
-    return _apply_style(fig, height=max(320, len(umpires) * 34 + 120))
+    return apply_style(fig, height=max(320, len(umpires) * 34 + 120))

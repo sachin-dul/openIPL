@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## 2026-05-08
+
+### Added
+
+- **`IMP` badge** in Match Centre batting and bowling scorecards — small purple pill rendered next to the impact player's name; only the player who came on is flagged (not the player they replaced)
+- **Sticky player column** in Match Centre batting and bowling scorecards — the Batter / Bowler cell stays pinned to the left while horizontal scrolling reveals the long Dismissal text on narrower viewports
+
+### Fixed
+
+- **Impact Player Introductions** legend filtering — each intent (Strengthen batting / Strengthen bowling / Like-for-like) now uses its own `legendgroup` instead of sharing a single `"intent"` group, so clicking a legend item now toggles only that intent's traces across all team panels (previously every click toggled all traces together)
+
+---
+
 ## 2026-05-07
 
 ### Added

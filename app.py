@@ -16,7 +16,7 @@ from utils.data_loader import (
 )
 from utils.charts import (
     horizontal_bar, vertical_bar, line_chart, worm_chart,
-    phase_comparison_chart, _apply_style,
+    phase_comparison_chart, apply_style,
     manhattan_chart, run_rate_chart,
     team_dna_heatmap, team_radar_chart,
     runs_per_over_innings_compare,
@@ -73,41 +73,41 @@ def plotly_ui(fig, emphasize_on_hover=False):
     return ui.HTML(html + script)
 
 
-def _overs_to_balls(overs):
+def overs_to_balls(overs):
     """Convert overs (e.g. 11.3) to total legal balls (e.g. 69)."""
     ov = int(overs)
     balls = round((overs - ov) * 10)
     return ov * 6 + balls
 
 
-def _normalize_score(score, overs, target_overs=20):
+def normalize_score(score, overs, target_overs=20):
     """Normalize a score to 20-over equivalent. Only applies to rain-shortened matches (target_overs < 20)."""
     target_overs = pd.to_numeric(target_overs, errors="coerce")
     overs = pd.to_numeric(overs, errors="coerce")
     if pd.isna(target_overs) or target_overs >= 20 or pd.isna(overs) or overs <= 0:
         return score
     full_balls = int(target_overs * 6)
-    balls = _overs_to_balls(overs)
+    balls = overs_to_balls(overs)
     if balls >= 120 or balls == 0 or balls != full_balls:
         return score
     return score * 120 / balls
 
 
-def _exclude_no_results(matches_df):
+def exclude_no_results(matches_df):
     """Filter out abandoned/no-result matches — these don't count in official stats."""
     if "result" in matches_df.columns:
         return matches_df[matches_df["result"] != "no result"]
     return matches_df
 
 
-def _nr_match_numbers(matches_df):
+def compute_nr_match_numbers(matches_df):
     """Return set of match numbers that are no-result."""
     if "result" in matches_df.columns:
         return set(matches_df[matches_df["result"] == "no result"]["match_number"])
     return set()
 
 
-def _has_rain_shortened(matches_df):
+def has_rain_shortened(matches_df):
     """Check if any matches were rain-shortened (target_overs < 20)."""
     if "target_overs" not in matches_df.columns:
         return False
@@ -157,7 +157,7 @@ def empty_state(message="No data available"):
     )
 
 
-def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, player_col=None, player_teams=None, row_highlight=None):
+def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, player_col=None, player_teams=None, row_highlight=None, impact_players=None, sticky_first_col=False):
     """Render a DataFrame as a styled HTML table.
 
     highlight_cols: list of column names to highlight with accent color
@@ -166,12 +166,14 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
     player_col: column name containing player names (to prepend team logo)
     player_teams: dict mapping player name -> team name
     row_highlight: optional iterable of bools aligned with df rows; True rows get a tinted background
+    impact_players: optional set of player names to flag with an "IMP" badge in the player_col
     """
     highlight_cols = highlight_cols or []
     bold_cols = bold_cols or []
     align_right = align_right or []
     player_teams = player_teams or {}
     row_highlight = list(row_highlight) if row_highlight is not None else [False] * len(df)
+    impact_players = impact_players or set()
 
     # Right-align all columns except player/name columns (first col, bold cols, player col)
     if not align_right:
@@ -182,12 +184,21 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
             if col not in text_cols:
                 align_right.append(col)
 
-    header = "".join(
-        f'<th style="padding:8px 12px;text-align:{"right" if c in align_right else "left"};'
-        f'border-bottom:2px solid #1a56db;font-weight:700;font-size:12px;color:#1a56db;'
-        f'text-transform:uppercase;letter-spacing:0.5px;background:#f8f9fc">{c}</th>'
-        for c in df.columns
-    )
+    def sticky_th():
+        return "position:sticky;left:0;z-index:3;box-shadow:1px 0 0 #e5e7eb;"
+
+    def sticky_td(bg_color):
+        return f"position:sticky;left:0;background:{bg_color};z-index:1;box-shadow:1px 0 0 #e5e7eb;"
+
+    header_cells = []
+    for c in df.columns:
+        th_extra = sticky_th() if (sticky_first_col and c == player_col) else ""
+        header_cells.append(
+            f'<th style="padding:8px 12px;text-align:{"right" if c in align_right else "left"};'
+            f'border-bottom:2px solid #1a56db;font-weight:700;font-size:12px;color:#1a56db;'
+            f'text-transform:uppercase;letter-spacing:0.5px;background:#f8f9fc;{th_extra}">{c}</th>'
+        )
+    header = "".join(header_cells)
     rows = ""
     for i, (_, row) in enumerate(df.iterrows()):
         if i < len(row_highlight) and row_highlight[i]:
@@ -196,18 +207,31 @@ def styled_table(df, highlight_cols=None, bold_cols=None, align_right=None, play
         else:
             bg = "#f9fafb" if i % 2 == 1 else "transparent"
             row_extra = ""
+        sticky_bg = "#ffffff" if bg == "transparent" else bg
         cells = ""
         for c in df.columns:
             val = row[c]
-            style = f'padding:8px 12px;text-align:{"right" if c in align_right else "left"};color:#1f2937;'
+            style = f'padding:8px 12px;text-align:{"right" if c in align_right else "left"};color:#1f2937;white-space:nowrap;'
             if c in highlight_cols:
                 style += "color:#1a56db;font-weight:700;"
             elif c in bold_cols:
                 style += "font-weight:700;"
-            if c == player_col and val in player_teams:
-                logo_url = team_logo(player_teams[val])
-                if logo_url:
-                    val = f'<img src="{logo_url}" style="height:18px;width:18px;object-fit:contain;vertical-align:middle;margin-right:6px" onerror="this.style.display=\'none\'">{val}'
+            if sticky_first_col and c == player_col:
+                style += sticky_td(sticky_bg)
+            if c == player_col:
+                name = str(val)
+                prefix = ""
+                if name in player_teams:
+                    logo_url = team_logo(player_teams[name])
+                    if logo_url:
+                        prefix = f'<img src="{logo_url}" style="height:18px;width:18px;object-fit:contain;vertical-align:middle;margin-right:6px" onerror="this.style.display=\'none\'">'
+                suffix = ""
+                if name in impact_players:
+                    suffix = (' <span title="Impact Player" style="display:inline-block;margin-left:6px;padding:1px 5px;'
+                              'font-size:9px;font-weight:700;letter-spacing:0.5px;color:#7c3aed;'
+                              'background:#f5f3ff;border:1px solid #ddd6fe;border-radius:3px;'
+                              'vertical-align:middle">IMP</span>')
+                val = f'{prefix}{name}{suffix}'
             cells += f'<td style="{style}">{val}</td>'
         rows += f'<tr style="background:{bg};border-bottom:1px solid #e5e7eb;{row_extra}">{cells}</tr>'
 
@@ -690,31 +714,31 @@ def server(input, output, session):
     @reactive.calc
     def nr_match_numbers():
         """Match numbers of abandoned/no-result matches — excluded from stats."""
-        return _nr_match_numbers(load_matches())
+        return compute_nr_match_numbers(load_matches())
 
-    def _stat_matches():
+    def stat_matches():
         """Matches excluding no-result — for all stat calculations."""
-        return _exclude_no_results(load_matches())
+        return exclude_no_results(load_matches())
 
-    def _stat_bbb():
+    def stat_bbb():
         """Ball-by-ball excluding no-result matches."""
         bbb = load_ball_by_ball()
         nr = nr_match_numbers()
         return bbb[~bbb["match_number"].isin(nr)] if nr and not bbb.empty else bbb
 
-    def _stat_bat():
+    def stat_bat():
         """Batting scorecards excluding no-result matches."""
         bat = load_batting_scorecards()
         nr = nr_match_numbers()
         return bat[~bat["match_number"].isin(nr)] if nr and not bat.empty else bat
 
-    def _stat_bowl():
+    def stat_bowl():
         """Bowling scorecards excluding no-result matches."""
         bowl = load_bowling_scorecards()
         nr = nr_match_numbers()
         return bowl[~bowl["match_number"].isin(nr)] if nr and not bowl.empty else bowl
 
-    def _stat_phase():
+    def stat_phase():
         """Phase summaries excluding no-result matches."""
         phase = load_phase_summaries()
         nr = nr_match_numbers()
@@ -737,7 +761,7 @@ def server(input, output, session):
 
     # Populate team filters for phase charts
     @reactive.effect
-    def _populate_phase_teams():
+    def populate_phase_teams():
         bbb = load_ball_by_ball()
         if bbb.empty:
             return
@@ -763,8 +787,8 @@ def server(input, output, session):
         if m.empty:
             return ui.HTML("")
         mc = m.copy()
-        mc["_mn"] = pd.to_numeric(mc["match_number"], errors="coerce")
-        mc = mc.dropna(subset=["_mn"]).sort_values("_mn")
+        mc["mn"] = pd.to_numeric(mc["match_number"], errors="coerce")
+        mc = mc.dropna(subset=["mn"]).sort_values("mn")
         if mc.empty:
             return ui.HTML("")
         row = mc.iloc[-1]
@@ -774,7 +798,7 @@ def server(input, output, session):
             date_label = str(row.get("date", ""))
         return ui.HTML(
             f'<div style="font-size:12px;color:#6b7280;line-height:1.4;text-align:right;">'
-            f'Last match updated: <strong style="color:#1f2937">M{int(row["_mn"])} — '
+            f'Last match updated: <strong style="color:#1f2937">M{int(row["mn"])} — '
             f'{team_short(row["team_1"])} vs {team_short(row["team_2"])}</strong>'
             f' <span style="color:#9ca3af">· {date_label}</span></div>'
         )
@@ -783,7 +807,7 @@ def server(input, output, session):
 
     @reactive.calc
     def all_scores():
-        matches = _stat_matches()
+        matches = stat_matches()
         # Exclude rain-shortened matches from highest/lowest totals
         if "target_overs" in matches.columns:
             matches = matches[pd.to_numeric(matches["target_overs"], errors="coerce").fillna(20) >= 20]
@@ -827,7 +851,7 @@ def server(input, output, session):
         worst = min(scores, key=lambda x: x[0])
         return f"{team_short(worst[2])} vs {team_short(worst[3])}, M{worst[4]}"
 
-    def _recent_form_map(matches_df, n=5):
+    def recent_form_map(matches_df, n=5):
         """Map team → list of last n results in chronological order ('W'/'L'/'NR')."""
         out = {}
         if matches_df.empty:
@@ -847,14 +871,14 @@ def server(input, output, session):
             out[team] = results
         return out
 
-    def _next_match_map(fixtures_df, matches_df=None):
+    def next_match_map(fixtures_df, matches_df=None):
         """Map team -> next scheduled fixture (earliest date), skipping any match
         that already has a result in matches.csv (compared by match_number)."""
         if fixtures_df is None or fixtures_df.empty:
             return {}
         df = fixtures_df.copy()
-        df["_date"] = pd.to_datetime(df["date"], errors="coerce")
-        df = df.dropna(subset=["_date"]).sort_values("_date")
+        df["date"] = pd.to_datetime(df["date"], errors="coerce")
+        df = df.dropna(subset=["date"]).sort_values("date")
         played = set()
         if matches_df is not None and not matches_df.empty and "match_number" in matches_df.columns:
             played = set(pd.to_numeric(matches_df["match_number"], errors="coerce").dropna().astype(int))
@@ -871,13 +895,13 @@ def server(input, output, session):
                 if t not in out:
                     out[t] = {
                         "opp": r[opp_col],
-                        "date_label": r["_date"].strftime("%b %-d"),
+                        "date_label": r["date"].strftime("%b %-d"),
                         "venue": venue,
                         "is_home": is_home_venue(t, venue),
                     }
         return out
 
-    def _form_badges_html(results):
+    def form_badges_html(results):
         """Render W/L/NR results as colored badges; most recent one underlined."""
         if not results:
             return '<span style="color:#9ca3af;font-size:12px">–</span>'
@@ -907,8 +931,8 @@ def server(input, output, session):
             return empty_state("Points table not available")
         pt = pt.copy()
         matches_df = load_matches()
-        form_by_team = _recent_form_map(matches_df, n=5)
-        next_by_team = _next_match_map(load_fixtures(), matches_df)
+        form_by_team = recent_form_map(matches_df, n=5)
+        next_by_team = next_match_map(load_fixtures(), matches_df)
         show_next = bool(next_by_team)
 
         rows_html = ""
@@ -916,7 +940,7 @@ def server(input, output, session):
             logo = team_logo(r["team"])
             short = team_short(r["team"])
             nrr = f"{r['net_run_rate']:+.3f}"
-            form_html = _form_badges_html(form_by_team.get(r["team"], []))
+            form_html = form_badges_html(form_by_team.get(r["team"], []))
             next_cell = ""
             if show_next:
                 nx = next_by_team.get(r["team"])
@@ -957,36 +981,36 @@ def server(input, output, session):
                 {next_th}
             </tr></thead><tbody style="line-height:2.2">{rows_html}</tbody></table>""")
 
-    def _toss_matches():
+    def toss_matches():
         """Matches for toss stats: exclude no-result only (rain-shortened games still have a toss outcome)."""
-        return _exclude_no_results(load_matches())
+        return exclude_no_results(load_matches())
 
-    def _has_abandoned():
+    def has_abandoned():
         """Check if any matches were abandoned."""
         m = load_matches()
         return "result" in m.columns and (m["result"] == "no result").any()
 
     @render.ui
     def toss_win_pct():
-        m = _toss_matches()
+        m = toss_matches()
         if m.empty:
             return ui.HTML("-")
         wins = (m["toss_winner"] == m["winner"]).sum()
         pct = round(wins / len(m) * 100)
-        foot = '<div style="font-size:10px;color:#6b7280;margin-top:4px">Abandoned matches excluded</div>' if _has_abandoned() else ""
+        foot = '<div style="font-size:10px;color:#6b7280;margin-top:4px">Abandoned matches excluded</div>' if has_abandoned() else ""
         return ui.HTML(f'{wins}/{len(m)} <span style="font-size:0.6em;color:#6b7280;">({pct}%)</span>{foot}')
 
     @render.ui
     def field_first_pct():
-        m = _toss_matches()
+        m = toss_matches()
         if m.empty:
             return ui.HTML("-")
         ff = (m["toss_decision"] == "field").sum()
         pct = round(ff / len(m) * 100)
-        foot = '<div style="font-size:10px;color:#6b7280;margin-top:4px">Abandoned matches excluded</div>' if _has_abandoned() else ""
+        foot = '<div style="font-size:10px;color:#6b7280;margin-top:4px">Abandoned matches excluded</div>' if has_abandoned() else ""
         return ui.HTML(f'{ff}/{len(m)} <span style="font-size:0.6em;color:#6b7280;">({pct}%)</span>{foot}')
 
-    def _player_with_logo(name):
+    def player_with_logo(name):
         """Return player name with team logo HTML inline."""
         pt = player_teams()
         if name in pt:
@@ -1004,7 +1028,7 @@ def server(input, output, session):
         agg = batting_agg()
         if agg.empty:
             return "-"
-        return _player_with_logo(agg.iloc[0]["batter"])
+        return player_with_logo(agg.iloc[0]["batter"])
 
     @render.ui
     def top_scorer_runs():
@@ -1018,7 +1042,7 @@ def server(input, output, session):
         agg = bowling_agg()
         if agg.empty:
             return "-"
-        return _player_with_logo(agg.iloc[0]["bowler"])
+        return player_with_logo(agg.iloc[0]["bowler"])
 
     @render.ui
     def top_bowler_wkts():
@@ -1029,22 +1053,22 @@ def server(input, output, session):
 
     @render.text
     def total_sixes():
-        bbb = _stat_bbb()
+        bbb = stat_bbb()
         if bbb.empty:
             return "0"
         return str(int(bbb["is_six"].sum()))
 
     @render.text
     def total_fours():
-        bbb = _stat_bbb()
+        bbb = stat_bbb()
         if bbb.empty:
             return "0"
         return str(int(bbb["is_four"].sum()))
 
     @render.ui
     def overview_pie():
-        m = _stat_matches()
-        has_rain = _has_rain_shortened(m)
+        m = stat_matches()
+        has_rain = has_rain_shortened(m)
         # Exclude rain-shortened matches — no clear bat-first/chase distinction
         if has_rain and "target_overs" in m.columns:
             m = m[pd.to_numeric(m["target_overs"], errors="coerce").fillna(20) >= 20]
@@ -1070,17 +1094,17 @@ def server(input, output, session):
 
     @render.ui
     def overview_avg_innings():
-        m = _stat_matches()
+        m = stat_matches()
         if m.empty:
             return empty_state()
-        has_rain = _has_rain_shortened(m)
+        has_rain = has_rain_shortened(m)
         # Exclude rain-shortened matches from averages (they skew unnaturally)
         if has_rain and "target_overs" in m.columns:
             m = m[pd.to_numeric(m["target_overs"], errors="coerce").fillna(20) >= 20]
-        m["_s1"] = m["team_1_score"].apply(lambda x: int(str(x).split("/")[0]) if "/" in str(x) else 0)
-        m["_s2"] = m["team_2_score"].apply(lambda x: int(str(x).split("/")[0]) if "/" in str(x) else 0)
-        avg1 = m["_s1"].mean()
-        avg2 = m["_s2"].mean()
+        m["s1"] = m["team_1_score"].apply(lambda x: int(str(x).split("/")[0]) if "/" in str(x) else 0)
+        m["s2"] = m["team_2_score"].apply(lambda x: int(str(x).split("/")[0]) if "/" in str(x) else 0)
+        avg1 = m["s1"].mean()
+        avg2 = m["s2"].mean()
         fig = go.Figure(go.Bar(
             x=["1st Innings", "2nd Innings"], y=[avg1, avg2],
             marker=dict(color=["#1a73e8", "#45B7D1"], cornerradius=4),
@@ -1229,9 +1253,9 @@ def server(input, output, session):
         </script>
         <div class="rr-scroll">{cards_html}</div>""")
 
-    def _boundary_chart(stat, view_value, color):
+    def boundary_chart(stat, view_value, color):
         """Shared logic for most sixes/fours charts."""
-        bat = _stat_bat()
+        bat = stat_bat()
         if bat.empty:
             return empty_state()
         pt = player_teams()
@@ -1241,7 +1265,7 @@ def server(input, output, session):
             top["team_code"] = top["batter"].map(lambda b: f" ({team_short(pt[b])})" if b in pt else "")
             top["label"] = top["batter"] + top["team_code"] + " — " + top["innings"].astype(str) + " inn"
         else:
-            matches = _stat_matches()
+            matches = stat_matches()
             top = bat.sort_values([stat, "strike_rate"], ascending=[False, False]).head(10)[["batter", stat, "runs", "balls", "team", "match_number"]].copy()
             top = top.merge(matches[["match_number", "team_1", "team_2"]], on="match_number", how="left")
             top["opponent"] = top.apply(lambda r: team_short(r["team_2"]) if r["team"] == r["team_1"] else team_short(r["team_1"]), axis=1)
@@ -1256,31 +1280,31 @@ def server(input, output, session):
         ))
         fig.update_layout(yaxis=dict(autorange="reversed"))
         fig.update_xaxes(dtick=nice_dtick(top["count"].max()))
-        return plotly_ui(_apply_style(fig, height=max(300, len(top) * 40)))
+        return plotly_ui(apply_style(fig, height=max(300, len(top) * 40)))
 
     @render.ui
     def most_sixes_chart():
-        return _boundary_chart("sixes", input.sixes_view(), "#FF6B6B")
+        return boundary_chart("sixes", input.sixes_view(), "#FF6B6B")
 
     @render.ui
     def most_fours_chart():
-        return _boundary_chart("fours", input.fours_view(), "#1a73e8")
+        return boundary_chart("fours", input.fours_view(), "#1a73e8")
 
     # ── Batting ───────────────────────────────
 
     @reactive.calc
     def batting_agg():
-        bat = _stat_bat()
+        bat = stat_bat()
         if bat.empty:
             return pd.DataFrame()
-        bat["_dismissed"] = bat["dismissal"].apply(lambda d: 0 if str(d).strip().lower() == "not out" else 1)
-        bat["_fifty"] = bat["runs"].apply(lambda r: 1 if 50 <= r < 100 else 0)
-        bat["_hundred"] = bat["runs"].apply(lambda r: 1 if r >= 100 else 0)
+        bat["dismissed"] = bat["dismissal"].apply(lambda d: 0 if str(d).strip().lower() == "not out" else 1)
+        bat["fifty"] = bat["runs"].apply(lambda r: 1 if 50 <= r < 100 else 0)
+        bat["hundred"] = bat["runs"].apply(lambda r: 1 if r >= 100 else 0)
         agg = bat.groupby("batter").agg(
             runs=("runs", "sum"), innings=("runs", "count"),
             balls=("balls", "sum"), fours=("fours", "sum"), sixes=("sixes", "sum"),
-            dismissals=("_dismissed", "sum"),
-            fifties=("_fifty", "sum"), hundreds=("_hundred", "sum"),
+            dismissals=("dismissed", "sum"),
+            fifties=("fifty", "sum"), hundreds=("hundred", "sum"),
         ).reset_index()
         agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["dismissals"], 2) if r["dismissals"] > 0 else float("inf"), axis=1)
         agg["sr"] = agg.apply(lambda r: round(r["runs"] / r["balls"] * 100, 2) if r["balls"] > 0 else 0, axis=1)
@@ -1307,7 +1331,7 @@ def server(input, output, session):
 
     @render.ui
     def highest_scores():
-        bat = _stat_bat()
+        bat = stat_bat()
         if bat.empty:
             return empty_state()
         matches = load_matches()
@@ -1367,10 +1391,10 @@ def server(input, output, session):
 
     @render.ui
     def batting_phase_chart():
-        bbb = _stat_bbb()
+        bbb = stat_bbb()
         if bbb.empty:
             return empty_state()
-        dls = _has_rain_shortened(_stat_matches())
+        dls = has_rain_shortened(stat_matches())
         team_filter = input.batting_phase_team()
         if team_filter and team_filter != "All Teams":
             bbb = bbb[bbb["team"] == team_filter]
@@ -1381,19 +1405,19 @@ def server(input, output, session):
         is_wide = et.str.contains("wides", na=False)
         is_legal = ~is_wide & ~et.str.contains("noballs", na=False)
         bbb_b = bbb.assign(
-            _legal=is_legal.astype(int),
-            _faced=(~is_wide).astype(int),
-            _dot=((bbb["total_runs"] == 0) & (~is_wide)).astype(int),
-            _four=bbb["is_four"].astype(int),
-            _six=bbb["is_six"].astype(int),
+            legal=is_legal.astype(int),
+            faced=(~is_wide).astype(int),
+            dot=((bbb["total_runs"] == 0) & (~is_wide)).astype(int),
+            four=bbb["is_four"].astype(int),
+            six=bbb["is_six"].astype(int),
         )
         phase_bat = bbb_b.groupby("phase").agg(
             runs=("total_runs", "sum"),
-            legal_balls=("_legal", "sum"),
-            faced_balls=("_faced", "sum"),
-            sixes=("_six", "sum"),
-            fours=("_four", "sum"),
-            dots=("_dot", "sum"),
+            legal_balls=("legal", "sum"),
+            faced_balls=("faced", "sum"),
+            sixes=("six", "sum"),
+            fours=("four", "sum"),
+            dots=("dot", "sum"),
         ).reset_index()
         phase_bat["Run Rate"] = phase_bat.apply(lambda r: round(r["runs"] / r["legal_balls"] * 6, 2) if r["legal_balls"] > 0 else 0, axis=1)
         phase_bat["Boundary %"] = phase_bat.apply(lambda r: round((r["sixes"] + r["fours"]) / r["faced_balls"] * 100, 1) if r["faced_balls"] > 0 else 0, axis=1)
@@ -1469,7 +1493,7 @@ def server(input, output, session):
 
     @reactive.calc
     def bowling_agg():
-        bowl = _stat_bowl()
+        bowl = stat_bowl()
         if bowl.empty:
             return pd.DataFrame()
         agg = bowl.groupby("bowler").agg(
@@ -1480,7 +1504,7 @@ def server(input, output, session):
         agg["economy"] = agg.apply(lambda r: round(r["runs"] / r["overs"], 2) if r["overs"] > 0 else 0, axis=1)
         agg["avg"] = agg.apply(lambda r: round(r["runs"] / r["wickets"], 2) if r["wickets"] > 0 else float("inf"), axis=1)
         # Strike rate: balls per wicket
-        agg["sr"] = agg.apply(lambda r: round(_overs_to_balls(r["overs"]) / r["wickets"], 1) if r["wickets"] > 0 else float("inf"), axis=1)
+        agg["sr"] = agg.apply(lambda r: round(overs_to_balls(r["overs"]) / r["wickets"], 1) if r["wickets"] > 0 else float("inf"), axis=1)
         # Best bowling figures (best innings)
         best = bowl.sort_values(["wickets", "runs"], ascending=[False, True]).drop_duplicates("bowler")[["bowler", "wickets", "runs"]].copy()
         best["bbi"] = best["wickets"].astype(str) + "/" + best["runs"].astype(str)
@@ -1514,12 +1538,12 @@ def server(input, output, session):
 
     @render.ui
     def best_figures():
-        bowl = _stat_bowl()
+        bowl = stat_bowl()
         if bowl.empty:
             return empty_state()
         bowl = bowl.copy()
         bowl["figures"] = bowl["wickets"].astype(str) + "/" + bowl["runs"].astype(str)
-        matches = _stat_matches()
+        matches = stat_matches()
         best = bowl.sort_values(["wickets", "runs", "overs"], ascending=[False, True, True]).head(10)[["bowler", "figures", "overs", "economy", "dots", "team", "match_number"]].copy()
         def get_opponent(row):
             m = matches[matches["match_number"] == row["match_number"]]
@@ -1548,22 +1572,22 @@ def server(input, output, session):
         if agg.empty:
             return empty_state()
         top = agg.sort_values(["dots", "economy"], ascending=[False, True]).head(10)[["bowler", "dots", "overs", "economy", "wickets"]].copy()
-        balls_total = top["overs"].apply(_overs_to_balls)
-        top["dot_%"] = top.apply(lambda r: round(r["dots"] / _overs_to_balls(r["overs"]) * 100, 1) if _overs_to_balls(r["overs"]) > 0 else 0, axis=1)
+        balls_total = top["overs"].apply(overs_to_balls)
+        top["dot_%"] = top.apply(lambda r: round(r["dots"] / overs_to_balls(r["overs"]) * 100, 1) if overs_to_balls(r["overs"]) > 0 else 0, axis=1)
         top = top[["bowler", "dots", "dot_%", "overs", "economy", "wickets"]]
         top.columns = ["Bowler", "Dots", "Dot %", "Overs", "Econ", "Wkts"]
         return styled_table(top, highlight_cols=["Dots"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
 
     @render.ui
     def bowling_phase_chart():
-        bbb = _stat_bbb()
+        bbb = stat_bbb()
         if bbb.empty:
             return empty_state()
-        dls = _has_rain_shortened(_stat_matches())
+        dls = has_rain_shortened(stat_matches())
         team_filter = input.bowling_phase_team()
         if team_filter and team_filter != "All Teams":
             # Derive bowling team from match data
-            matches = _stat_matches()[["match_number", "team_1", "team_2"]]
+            matches = stat_matches()[["match_number", "team_1", "team_2"]]
             bbb = bbb.merge(matches, on="match_number", how="left")
             bbb["bowling_team"] = bbb.apply(
                 lambda r: r["team_2"] if r["team"] == r["team_1"] else r["team_1"], axis=1
@@ -1574,15 +1598,15 @@ def server(input, output, session):
         et = bbb["extra_type"].astype(str)
         is_legal = ~et.str.contains("wides|noballs", na=False)
         bbb_w = bbb.assign(
-            _legal=is_legal.astype(int),
-            _dot=((bbb["total_runs"] == 0) & is_legal).astype(int),
-            _wicket=bbb["is_wicket"].astype(bool).astype(int),
+            legal=is_legal.astype(int),
+            dot=((bbb["total_runs"] == 0) & is_legal).astype(int),
+            wicket=bbb["is_wicket"].astype(bool).astype(int),
         )
         phase_bowl = bbb_w.groupby("phase").agg(
             runs=("total_runs", "sum"),
-            balls=("_legal", "sum"),
-            wickets=("_wicket", "sum"),
-            dots=("_dot", "sum"),
+            balls=("legal", "sum"),
+            wickets=("wicket", "sum"),
+            dots=("dot", "sum"),
         ).reset_index()
         phase_bowl["Economy"] = phase_bowl.apply(lambda r: round(r["runs"] / r["balls"] * 6, 2) if r["balls"] > 0 else 0, axis=1)
         phase_bowl["Strike Rate"] = phase_bowl.apply(
@@ -1690,7 +1714,7 @@ def server(input, output, session):
         if p.empty:
             return empty_state()
         top = p.nlargest(10, "total_runs").copy()
-        matches = _stat_matches()
+        matches = stat_matches()
         def get_opponent(row):
             m = matches[matches["match_number"] == row["match_number"]]
             if m.empty:
@@ -1758,7 +1782,7 @@ def server(input, output, session):
         best = best.sort_values("wicket_number", ascending=False)
         def ordinal(n):
             return str(n) + ("th" if 4 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th"))
-        matches = _stat_matches()
+        matches = stat_matches()
         def get_opponent(row):
             m = matches[matches["match_number"] == row["match_number"]]
             if m.empty:
@@ -2099,12 +2123,12 @@ def server(input, output, session):
                 font=dict(size=10, color="#dc2626"),
             )
 
-        chart = plotly_ui(_apply_style(fig, height=500), emphasize_on_hover=True)
+        chart = plotly_ui(apply_style(fig, height=500), emphasize_on_hover=True)
         footnote = ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Standings are recorded after every match (starting from the first match where all 10 teams have played at least once). Hover any line to see that team\'s position, points, and NRR after a given match.</div>')
         return ui.TagList(chart, footnote)
 
     @reactive.calc
-    def _impact_scores():
+    def impact_scores():
         bbb = load_ball_by_ball()
         if bbb.empty:
             return pd.DataFrame()
@@ -2116,36 +2140,36 @@ def server(input, output, session):
 
     @render.ui
     def player_impact_chart():
-        df = _impact_scores()
+        df = impact_scores()
         if df.empty:
             return empty_state()
         return plotly_ui(player_impact_treemap(df))
 
     @render.ui
     def toss_decision_chart():
-        m = _toss_matches()
+        m = toss_matches()
         td = m["toss_decision"].value_counts().reset_index()
         td.columns = ["Decision", "Count"]
         chart = plotly_ui(vertical_bar(td, x="Decision", y="Count", title="", text="Count"))
-        if _has_abandoned():
+        if has_abandoned():
             return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Abandoned matches excluded</div>'))
         return chart
 
     @render.ui
     def toss_match_chart():
-        m = _toss_matches().copy()
+        m = toss_matches().copy()
         m["toss_won_match"] = m["toss_winner"] == m["winner"]
         tw = m["toss_won_match"].value_counts().reset_index()
         tw.columns = ["Result", "Count"]
         tw["Result"] = tw["Result"].map({True: "Yes", False: "No"})
         chart = plotly_ui(vertical_bar(tw, x="Result", y="Count", title="", text="Count"))
-        if _has_abandoned():
+        if has_abandoned():
             return ui.TagList(chart, ui.HTML('<div style="font-size:11px;color:#6b7280;margin-top:8px;padding-top:6px;border-top:1px solid #e5e7eb">Abandoned matches excluded</div>'))
         return chart
 
     @render.ui
     def team_phase_chart():
-        phase = _stat_phase()
+        phase = stat_phase()
         if phase.empty:
             return empty_state()
         metric = input.phase_metric()
@@ -2154,7 +2178,7 @@ def server(input, output, session):
         # For bowling perspective: swap each row's batting team for the opposing team in that match.
         # All metrics flip semantics: runs scored -> conceded, wickets lost -> taken, etc.
         if perspective == "bowling":
-            matches = _stat_matches()
+            matches = stat_matches()
             opp_map = {}
             for _, m in matches.iterrows():
                 t1, t2 = m.get("team_1"), m.get("team_2")
@@ -2178,13 +2202,13 @@ def server(input, output, session):
             "bowling": {"run_rate": "Economy (conceded)", "wickets": "Wickets Taken", "boundaries": "Boundaries Conceded", "dots": "Dots Bowled"},
         }
         chart = plotly_ui(phase_comparison_chart(team_phase, metric=metric, metric_label=labels[perspective][metric]))
-        if _has_rain_shortened(_stat_matches()):
+        if has_rain_shortened(stat_matches()):
             return ui.TagList(chart, ui.HTML(RAIN_PHASE_FOOTNOTE))
         return chart
 
     @render.ui
     def venue_table():
-        matches = _stat_matches()
+        matches = stat_matches()
         matches = matches.copy()
         # Split "Stadium, City" into separate columns
         venue_parts = matches["venue"].str.rsplit(", ", n=1, expand=True)
@@ -2225,7 +2249,7 @@ def server(input, output, session):
 
     @render.ui
     def home_away_overall():
-        matches = _stat_matches()
+        matches = stat_matches()
         if matches.empty:
             return empty_state()
 
@@ -2258,11 +2282,11 @@ def server(input, output, session):
             showlegend=False,
             annotations=[dict(text=f"{total}", x=0.5, y=0.5, font_size=20, font_color="#1f2937", showarrow=False)],
         )
-        return plotly_ui(_apply_style(fig, height=350))
+        return plotly_ui(apply_style(fig, height=350))
 
     @render.ui
     def home_advantage_chart():
-        matches = _stat_matches()
+        matches = stat_matches()
         if matches.empty:
             return empty_state()
 
@@ -2294,10 +2318,10 @@ def server(input, output, session):
             colors = [team_color(t) for t in ldf["team"]]
             # Away bars get 50% opacity
             if loc == "Away":
-                def _fade(hex_c):
+                def fade(hex_c):
                     r, g, b = int(hex_c[1:3], 16), int(hex_c[3:5], 16), int(hex_c[5:7], 16)
                     return f"rgba({r},{g},{b},0.45)"
-                colors = [_fade(c) for c in colors]
+                colors = [fade(c) for c in colors]
             fig.add_trace(go.Bar(
                 x=[team_short(t) for t in ldf["team"]],
                 y=ldf["win_pct"].fillna(0),
@@ -2316,7 +2340,7 @@ def server(input, output, session):
             yaxis=dict(range=[0, 110]),
             legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5),
         )
-        return plotly_ui(_apply_style(fig))
+        return plotly_ui(apply_style(fig))
 
     # ── Match Centre ──────────────────────────
 
@@ -2324,7 +2348,7 @@ def server(input, output, session):
     def selected_match_num():
         return int(input.match_select())
 
-    def _match_allotted_overs(mn):
+    def match_allotted_overs(mn):
         """Allotted overs for a match (target_overs from matches.csv, fallback 20)."""
         m = load_matches()
         if m.empty or "target_overs" not in m.columns:
@@ -2335,7 +2359,7 @@ def server(input, output, session):
         v = pd.to_numeric(row["target_overs"].iloc[0], errors="coerce")
         return float(v) if pd.notna(v) and v > 0 else 20
 
-    def _match_dls_target(mn):
+    def match_dls_target(mn):
         """DLS-revised chase target for a match, or None when no DLS was applied."""
         m = load_matches()
         if m.empty or "dls_revised_target" not in m.columns:
@@ -2486,7 +2510,7 @@ def server(input, output, session):
         # Order innings by appearance in the file (first batting team first).
         teams_in_order = list(dict.fromkeys(m_so["team"].tolist()))
 
-        def _clean(v):
+        def clean(v):
             if v is None:
                 return ""
             s = str(v)
@@ -2495,7 +2519,7 @@ def server(input, output, session):
         EXTRA_SHORT = {"wides": "wd", "noballs": "nb", "legbyes": "lb",
                        "byes": "b", "penalty": "pen"}
 
-        def _outcome_chip(row):
+        def outcome_chip(row):
             if bool(row["is_wicket"]):
                 return ('<span style="display:inline-block;min-width:26px;text-align:center;'
                         'padding:2px 6px;border-radius:4px;background:#dc2626;color:#fff;'
@@ -2504,7 +2528,7 @@ def server(input, output, session):
             bg = {0: "#e5e7eb", 1: "#dbeafe", 2: "#bfdbfe", 3: "#93c5fd",
                   4: "#1d4ed8", 6: "#7c3aed"}.get(runs, "#e5e7eb")
             color = "#1f2937" if runs < 4 else "#fff"
-            extra = _clean(row.get("extra_type", ""))
+            extra = clean(row.get("extra_type", ""))
             label = str(runs)
             if extra:
                 first = extra.split(",")[0].strip().lower()
@@ -2513,11 +2537,11 @@ def server(input, output, session):
                     f'padding:2px 6px;border-radius:4px;background:{bg};color:{color};'
                     f'font-weight:700;font-size:12px;">{label}</span>')
 
-        def _dismissal_text(row):
+        def dismissal_text(row):
             """Short dismissal note (bowler is shown once in the innings header)."""
-            kind = _clean(row.get("wicket_kind", "")).lower()
-            fielders = _clean(row.get("fielders", ""))
-            bowler = _clean(row.get("bowler", ""))
+            kind = clean(row.get("wicket_kind", "")).lower()
+            fielders = clean(row.get("fielders", ""))
+            bowler = clean(row.get("bowler", ""))
             if kind == "bowled":
                 return "bowled"
             if kind == "lbw":
@@ -2542,16 +2566,16 @@ def server(input, output, session):
             balls = int(inn["ball"].max())
             is_winner = team == winner
             score_color = team_color(team) if is_winner else "#374151"
-            bowlers = list(dict.fromkeys(_clean(b) for b in inn["bowler"].tolist() if _clean(b)))
+            bowlers = list(dict.fromkeys(clean(b) for b in inn["bowler"].tolist() if clean(b)))
             bowler_line = (f'<div style="font-size:11px;color:#6b7280;margin-top:2px;">'
                            f'Bowler: <strong style="color:#1f2937;">{" / ".join(bowlers)}</strong></div>'
                            if bowlers else "")
             balls_html = ""
             for _, brow in inn.iterrows():
-                outcome = _outcome_chip(brow)
+                outcome = outcome_chip(brow)
                 if bool(brow["is_wicket"]):
                     detail = (f'<span style="color:#6b7280;font-size:12px;"> '
-                              f'{_dismissal_text(brow)}</span>')
+                              f'{dismissal_text(brow)}</span>')
                 else:
                     detail = ""
                 balls_html += f"""
@@ -2600,7 +2624,7 @@ def server(input, output, session):
             return empty_state()
         fow = load_fall_of_wickets()
         mn = selected_match_num()
-        return plotly_ui(worm_chart(bbb, mn, fow_df=fow if not fow.empty else None, allotted_overs=_match_allotted_overs(mn)))
+        return plotly_ui(worm_chart(bbb, mn, fow_df=fow if not fow.empty else None, allotted_overs=match_allotted_overs(mn)))
 
     @render.ui
     def match_key_moments():
@@ -2685,13 +2709,13 @@ def server(input, output, session):
 
     @render.ui
     def match_manhattan_1_header():
-        return _team_header(1, "Manhattan")
+        return team_header(1, "Manhattan")
 
     @render.ui
     def match_manhattan_2_header():
-        return _team_header(2, "Manhattan")
+        return team_header(2, "Manhattan")
 
-    def _match_manhattan(innings):
+    def match_manhattan(innings):
         bbb = load_ball_by_ball()
         if bbb.empty:
             return empty_state()
@@ -2699,15 +2723,15 @@ def server(input, output, session):
         mbbb = bbb[(bbb["match_number"] == mn) & (bbb["innings"] == innings)]
         if mbbb.empty:
             return empty_state()
-        return plotly_ui(manhattan_chart(bbb, mn, innings, allotted_overs=_match_allotted_overs(mn)))
+        return plotly_ui(manhattan_chart(bbb, mn, innings, allotted_overs=match_allotted_overs(mn)))
 
     @render.ui
     def match_manhattan_1():
-        return _match_manhattan(1)
+        return match_manhattan(1)
 
     @render.ui
     def match_manhattan_2():
-        return _match_manhattan(2)
+        return match_manhattan(2)
 
     @render.ui
     def match_run_rate():
@@ -2718,9 +2742,9 @@ def server(input, output, session):
         mbbb = bbb[bbb["match_number"] == mn]
         if mbbb.empty:
             return empty_state()
-        return plotly_ui(run_rate_chart(bbb, mn, allotted_overs=_match_allotted_overs(mn), dls_revised_target=_match_dls_target(mn)))
+        return plotly_ui(run_rate_chart(bbb, mn, allotted_overs=match_allotted_overs(mn), dls_revised_target=match_dls_target(mn)))
 
-    def _team_header(innings, label):
+    def team_header(innings, label):
         teams = match_innings_teams()
         team = teams.get(innings, f"{innings} Innings")
         short = team_short(team)
@@ -2734,37 +2758,46 @@ def server(input, output, session):
 
     @render.ui
     def scorecard_bat_1_header():
-        return _team_header(1, "Batting")
+        return team_header(1, "Batting")
 
     @render.ui
     def scorecard_bat_2_header():
-        return _team_header(2, "Batting")
+        return team_header(2, "Batting")
 
     @render.ui
     def scorecard_bowl_1_header():
-        return _team_header(2, "Bowling")  # team 2 bowls in innings 1
+        return team_header(2, "Bowling")  # team 2 bowls in innings 1
 
     @render.ui
     def scorecard_bowl_2_header():
-        return _team_header(1, "Bowling")  # team 1 bowls in innings 2
+        return team_header(1, "Bowling")  # team 1 bowls in innings 2
 
     @render.ui
     def match_phase_1_header():
-        return _team_header(1, "Phase Summary")
+        return team_header(1, "Phase Summary")
 
     @render.ui
     def match_phase_2_header():
-        return _team_header(2, "Phase Summary")
+        return team_header(2, "Phase Summary")
 
     @render.ui
     def match_partnership_1_header():
-        return _team_header(1, "Partnerships")
+        return team_header(1, "Partnerships")
 
     @render.ui
     def match_partnership_2_header():
-        return _team_header(2, "Partnerships")
+        return team_header(2, "Partnerships")
 
-    def _batting_scorecard(innings):
+    def impact_players_for_match(mn):
+        s = load_substitutions()
+        if s.empty or "reason" not in s.columns:
+            return set()
+        sub = s[(s["match_number"] == mn) & (s["reason"].astype(str) == "impact_player")]
+        if sub.empty:
+            return set()
+        return set(sub["player_in"].astype(str).tolist())
+
+    def batting_scorecard(innings):
         batting = load_batting_scorecards()
         if batting.empty:
             return empty_state()
@@ -2779,9 +2812,11 @@ def server(input, output, session):
             df, highlight_cols=["Runs"], bold_cols=["Batter"],
             player_col="Batter", player_teams=player_teams(),
             row_highlight=not_out.tolist(),
+            impact_players=impact_players_for_match(selected_match_num()),
+            sticky_first_col=True,
         )
 
-    def _bowling_scorecard(innings):
+    def bowling_scorecard(innings):
         bowling = load_bowling_scorecards()
         if bowling.empty:
             return empty_state()
@@ -2790,25 +2825,30 @@ def server(input, output, session):
             return empty_state()
         df = df[["bowler", "overs", "maidens", "runs", "wickets", "economy", "dots"]].copy()
         df.columns = ["Bowler", "Overs", "Mdns", "Runs", "Wkts", "Econ", "Dots"]
-        return styled_table(df, highlight_cols=["Wkts"], bold_cols=["Bowler"], player_col="Bowler", player_teams=player_teams())
+        return styled_table(
+            df, highlight_cols=["Wkts"], bold_cols=["Bowler"],
+            player_col="Bowler", player_teams=player_teams(),
+            impact_players=impact_players_for_match(selected_match_num()),
+            sticky_first_col=True,
+        )
 
     @render.ui
     def scorecard_bat_1():
-        return _batting_scorecard(1)
+        return batting_scorecard(1)
 
     @render.ui
     def scorecard_bat_2():
-        return _batting_scorecard(2)
+        return batting_scorecard(2)
 
     @render.ui
     def scorecard_bowl_1():
-        return _bowling_scorecard(1)
+        return bowling_scorecard(1)
 
     @render.ui
     def scorecard_bowl_2():
-        return _bowling_scorecard(2)
+        return bowling_scorecard(2)
 
-    def _phase_table(innings):
+    def phase_table(innings):
         phase = load_phase_summaries()
         if phase.empty:
             return empty_state()
@@ -2826,13 +2866,13 @@ def server(input, output, session):
 
     @render.ui
     def match_phase_1():
-        return _phase_table(1)
+        return phase_table(1)
 
     @render.ui
     def match_phase_2():
-        return _phase_table(2)
+        return phase_table(2)
 
-    def _partnership_chart(innings):
+    def partnership_chart(innings):
         p = load_partnerships()
         if p.empty:
             return empty_state()
@@ -2885,11 +2925,11 @@ def server(input, output, session):
 
     @render.ui
     def match_partnership_1():
-        return _partnership_chart(1)
+        return partnership_chart(1)
 
     @render.ui
     def match_partnership_2():
-        return _partnership_chart(2)
+        return partnership_chart(2)
 
     @render.ui
     def match_reviews():

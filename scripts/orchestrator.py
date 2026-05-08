@@ -61,7 +61,7 @@ def get_season_matches(json_dir, season):
     return matches
 
 
-def _overs_to_balls(overs):
+def overs_to_balls(overs):
     """Convert cricket overs (e.g. 19.4 = 19 overs 4 balls) to total balls (118)."""
     full = int(overs)
     balls = round((overs - full) * 10)
@@ -132,7 +132,7 @@ def build_points_table(all_match_data, season_dir):
                 target_overs = float(target_overs)
             except (TypeError, ValueError):
                 target_overs = 20.0
-            full_innings_balls = _overs_to_balls(target_overs)
+            full_innings_balls = overs_to_balls(target_overs)
 
             # DLS adjustment. ICC rule: in a DLS-decided match, the team
             # batting first is credited with the par score (= revised_target - 1)
@@ -152,14 +152,14 @@ def build_points_table(all_match_data, season_dir):
                 runs = int(parts[0])
                 wickets = int(parts[1]) if len(parts) > 1 else 0
                 overs = innings_overs.get(team, 0.0)
-                balls = full_innings_balls if wickets == 10 else _overs_to_balls(overs)
+                balls = full_innings_balls if wickets == 10 else overs_to_balls(overs)
 
                 opp_score_str = team_scores.get(opponent, "0/0")
                 opp_parts = opp_score_str.split("/")
                 opp_runs = int(opp_parts[0])
                 opp_wickets = int(opp_parts[1]) if len(opp_parts) > 1 else 0
                 opp_overs = innings_overs.get(opponent, 0.0)
-                opp_balls = full_innings_balls if opp_wickets == 10 else _overs_to_balls(opp_overs)
+                opp_balls = full_innings_balls if opp_wickets == 10 else overs_to_balls(opp_overs)
 
                 # Replace team_1's score with par on both sides of the calc
                 if apply_dls_par:

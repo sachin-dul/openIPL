@@ -72,7 +72,7 @@ BOWLER_ATTRIBUTABLE_KINDS = {
 }
 
 
-def _pressure_factor(phase: str, wickets_fallen: int, current_rr: float, rrr: float, innings: int) -> float:
+def pressure_factor(phase: str, wickets_fallen: int, current_rr: float, rrr: float, innings: int) -> float:
     """Heuristic pressure multiplier for a single ball (0.9–3.9 range)."""
     pf = {"powerplay": 1.1, "middle": 1.0, "death": 1.3}.get(phase, 1.0)
     if wickets_fallen >= 8:
@@ -97,21 +97,21 @@ def _pressure_factor(phase: str, wickets_fallen: int, current_rr: float, rrr: fl
     return pf * wf * cf
 
 
-def _running_state(group: pd.DataFrame) -> pd.DataFrame:
+def running_state(group: pd.DataFrame) -> pd.DataFrame:
     """Add per-ball state used by the pressure factor."""
     g = group.copy()
-    g["_legal"] = (~g["extra_type"].astype(str).str.contains("wides|noballs", na=False)).astype(int)
-    g["_wkt_int"] = g["is_wicket"].astype(bool).astype(int)
+    g["legal"] = (~g["extra_type"].astype(str).str.contains("wides|noballs", na=False)).astype(int)
+    g["wkt_int"] = g["is_wicket"].astype(bool).astype(int)
     g["cum_runs_after"] = g["total_runs"].cumsum()
     g["cum_runs_before"] = g["cum_runs_after"] - g["total_runs"]
-    g["cum_wickets_before"] = g["_wkt_int"].cumsum() - g["_wkt_int"]
-    g["cum_legal_before"] = g["_legal"].cumsum() - g["_legal"]
+    g["cum_wickets_before"] = g["wkt_int"].cumsum() - g["wkt_int"]
+    g["cum_legal_before"] = g["legal"].cumsum() - g["legal"]
     legal = g["cum_legal_before"]
     g["current_rr"] = (g["cum_runs_before"] / (legal / 6)).where(legal > 0, 0.0)
     return g
 
 
-def _overs_to_balls(overs):
+def overs_to_balls(overs):
     """Cricket overs (e.g. 3.4 = 3 overs + 4 balls = 22 balls) → balls."""
     if pd.isna(overs):
         return 0
@@ -120,11 +120,11 @@ def _overs_to_balls(overs):
     return whole * 6 + frac
 
 
-def _clamp(x, lo=QUALITY_MIN, hi=QUALITY_MAX):
+def clamp(x, lo=QUALITY_MIN, hi=QUALITY_MAX):
     return max(lo, min(hi, x))
 
 
-def _compute_pressure_per_player(bbb_df: pd.DataFrame, matches_df: pd.DataFrame) -> tuple[dict, dict, float]:
+def compute_pressure_per_player(bbb_df: pd.DataFrame, matches_df: pd.DataFrame) -> tuple[dict, dict, float]:
     """Return (batter→avg_pressure, bowler→avg_pressure, league_avg_pressure)."""
     if bbb_df.empty:
         return {}, {}, 1.0
@@ -139,14 +139,14 @@ def _compute_pressure_per_player(bbb_df: pd.DataFrame, matches_df: pd.DataFrame)
     )
 
     bbb = bbb_df.copy()
-    bbb["_ball_order"] = range(len(bbb))
-    bbb = bbb.sort_values(["match_number", "innings", "over", "_ball_order"])
+    bbb["ball_order"] = range(len(bbb))
+    bbb = bbb.sort_values(["match_number", "innings", "over", "ball_order"])
 
     pieces = []
     for (mn, inn), grp in bbb.groupby(["match_number", "innings"], sort=False):
         target_balls = allotted_balls.get(int(mn), 120)
         target_runs = (inn1_totals.get(int(mn)) or 0) + 1 if inn == 2 else None
-        gs = _running_state(grp)
+        gs = running_state(grp)
         if inn == 2 and target_runs is not None:
             balls_remaining = (target_balls - gs["cum_legal_before"]).clip(lower=1)
             runs_needed = (target_runs - gs["cum_runs_before"]).clip(lower=0)
@@ -157,7 +157,7 @@ def _compute_pressure_per_player(bbb_df: pd.DataFrame, matches_df: pd.DataFrame)
     bbb = pd.concat(pieces, ignore_index=True)
 
     bbb["pressure"] = [
-        _pressure_factor(p, w, cr, rr, int(inn))
+        pressure_factor(p, w, cr, rr, int(inn))
         for p, w, cr, rr, inn in zip(
             bbb["phase"], bbb["cum_wickets_before"],
             bbb["current_rr"], bbb["rrr"], bbb["innings"],
@@ -193,11 +193,11 @@ def compute_impact_scores(
     # ── 1. Batting season aggregates ─────────────────────────────────────────
     if not batting_scorecards.empty:
         bat = batting_scorecards.copy()
-        bat["_no"] = bat["dismissal"].astype(str).str.strip().str.lower().eq("not out").astype(int)
+        bat["no"] = bat["dismissal"].astype(str).str.strip().str.lower().eq("not out").astype(int)
         bat_agg = bat.groupby(["batter", "team"]).agg(
             runs=("runs", "sum"),
             balls=("balls", "sum"),
-            not_outs=("_no", "sum"),
+            not_outs=("no", "sum"),
             fifties=("runs", lambda s: ((s >= 50) & (s < 100)).sum()),
             hundreds=("runs", lambda s: (s >= 100).sum()),
             ducks=("runs", lambda s: ((s == 0) & (~bat.loc[s.index, "dismissal"].astype(str).str.strip().str.lower().isin(["not out", ""]))).sum()),
@@ -208,9 +208,9 @@ def compute_impact_scores(
     # ── 2. Bowling season aggregates ─────────────────────────────────────────
     if not bowling_scorecards.empty:
         bowl = bowling_scorecards.copy()
-        bowl["_balls"] = bowl["overs"].apply(_overs_to_balls)
+        bowl["balls"] = bowl["overs"].apply(overs_to_balls)
         bowl_agg = bowl.groupby(["bowler", "team"]).agg(
-            balls=("_balls", "sum"),
+            balls=("balls", "sum"),
             runs=("runs", "sum"),
             wickets=("wickets", "sum"),
             maiden=("maidens", "sum"),
@@ -241,7 +241,7 @@ def compute_impact_scores(
     if not bat_agg.empty:
         bat_agg["sr"] = (bat_agg["runs"] / bat_agg["balls"].replace(0, pd.NA) * 100).fillna(league_sr)
         bat_agg["rel_sr"] = bat_agg.apply(
-            lambda r: _clamp(r["sr"] / league_sr) if r["balls"] >= MIN_BALLS_FOR_BATTER_QUALITY else 1.0,
+            lambda r: clamp(r["sr"] / league_sr) if r["balls"] >= MIN_BALLS_FOR_BATTER_QUALITY else 1.0,
             axis=1,
         ) if apply_quality else 1.0
         bat_agg["bat_base"] = (bat_agg["runs"] + 10 * bat_agg["not_outs"]) * bat_agg["rel_sr"]
@@ -251,12 +251,12 @@ def compute_impact_scores(
     if not bowl_agg.empty:
         bowl_agg["econ"] = (bowl_agg["runs"] / bowl_agg["balls"].replace(0, pd.NA) * 6).fillna(league_econ)
         bowl_agg["rel_econ"] = bowl_agg.apply(
-            lambda r: _clamp(league_econ / r["econ"]) if r["balls"] >= MIN_BALLS_FOR_BOWLER_QUALITY else 1.0,
+            lambda r: clamp(league_econ / r["econ"]) if r["balls"] >= MIN_BALLS_FOR_BOWLER_QUALITY else 1.0,
             axis=1,
         ) if apply_quality else 1.0
         bowl_agg["bowl_sr_player"] = (bowl_agg["balls"] / bowl_agg["wickets"].replace(0, pd.NA)).fillna(league_bowl_sr * 2)
         bowl_agg["rel_bsr"] = bowl_agg.apply(
-            lambda r: _clamp(league_bowl_sr / r["bowl_sr_player"]) if r["balls"] >= MIN_BALLS_FOR_BOWLER_QUALITY else 1.0,
+            lambda r: clamp(league_bowl_sr / r["bowl_sr_player"]) if r["balls"] >= MIN_BALLS_FOR_BOWLER_QUALITY else 1.0,
             axis=1,
         ) if apply_quality else 1.0
         bowl_agg["bowl_base"] = (bowl_agg["balls"] * bowl_agg["rel_econ"] * BOWL_VOLUME_WEIGHT) + (
@@ -279,16 +279,16 @@ def compute_impact_scores(
 
     # ── 7. Per-ball pressure adjustment (Option B layer) ─────────────────────
     if apply_pressure:
-        batter_p, bowler_p, league_avg_p = _compute_pressure_per_player(bbb_df, matches_df)
+        batter_p, bowler_p, league_avg_p = compute_pressure_per_player(bbb_df, matches_df)
         if league_avg_p > 0:
             if not bat_agg.empty:
                 bat_agg["pressure_mult"] = bat_agg["player"].map(
-                    lambda p: _clamp(batter_p.get(p, league_avg_p) / league_avg_p, PRESSURE_MIN, PRESSURE_MAX)
+                    lambda p: clamp(batter_p.get(p, league_avg_p) / league_avg_p, PRESSURE_MIN, PRESSURE_MAX)
                 )
                 bat_agg["bat_base"] = bat_agg["bat_base"] * bat_agg["pressure_mult"]
             if not bowl_agg.empty:
                 bowl_agg["pressure_mult"] = bowl_agg["player"].map(
-                    lambda p: _clamp(bowler_p.get(p, league_avg_p) / league_avg_p, PRESSURE_MIN, PRESSURE_MAX)
+                    lambda p: clamp(bowler_p.get(p, league_avg_p) / league_avg_p, PRESSURE_MIN, PRESSURE_MAX)
                 )
                 bowl_agg["bowl_base_norm"] = bowl_agg["bowl_base_norm"] * bowl_agg["pressure_mult"]
 
