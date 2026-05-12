@@ -1,0 +1,255 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Mumbai Indians,1,1,RD Rickelton,B Kumar,RG Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,2,RG Sharma,B Kumar,RD Rickelton,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,3,RD Rickelton,B Kumar,RG Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,4,RG Sharma,B Kumar,RD Rickelton,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,5,RD Rickelton,B Kumar,RG Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,1,6,RD Rickelton,B Kumar,RG Sharma,0,0,0,False,False,,0,0,0,0,0,True,caught,RD Rickelton,RM Patidar,powerplay
+1,Mumbai Indians,2,1,RG Sharma,JR Hazlewood,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,2,RG Sharma,JR Hazlewood,Naman Dhir,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,3,RG Sharma,JR Hazlewood,Naman Dhir,0,2,2,False,False,legbyes,0,0,0,2,0,False,,,,powerplay
+1,Mumbai Indians,2,4,RG Sharma,JR Hazlewood,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,5,RG Sharma,JR Hazlewood,Naman Dhir,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,2,6,RG Sharma,JR Hazlewood,Naman Dhir,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1.wides,Naman Dhir,B Kumar,RG Sharma,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,1,Naman Dhir,B Kumar,RG Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,2,Naman Dhir,B Kumar,RG Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,3,Naman Dhir,B Kumar,RG Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,4,RG Sharma,B Kumar,Naman Dhir,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,3,5,RG Sharma,B Kumar,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,True,caught,RG Sharma,JM Sharma,powerplay
+1,Mumbai Indians,3,6,SA Yadav,B Kumar,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,True,caught,SA Yadav,V Kohli,powerplay
+1,Mumbai Indians,4,1,Naman Dhir,JR Hazlewood,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,2,Naman Dhir,JR Hazlewood,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,3,Naman Dhir,JR Hazlewood,Tilak Varma,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Mumbai Indians,4,4,Tilak Varma,JR Hazlewood,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,5,Naman Dhir,JR Hazlewood,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,4,6,Naman Dhir,JR Hazlewood,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,1,Tilak Varma,B Kumar,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,2,Tilak Varma,B Kumar,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,3,Tilak Varma,B Kumar,Naman Dhir,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,4,Tilak Varma,B Kumar,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,5,Naman Dhir,B Kumar,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,5,6,Naman Dhir,B Kumar,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,1,Tilak Varma,Rasikh Salam,Naman Dhir,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,2,Tilak Varma,Rasikh Salam,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,3,Naman Dhir,Rasikh Salam,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,4,Naman Dhir,Rasikh Salam,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,5,Tilak Varma,Rasikh Salam,Naman Dhir,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,6,6,Tilak Varma,Rasikh Salam,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Mumbai Indians,7,1,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,2,Tilak Varma,R Shepherd,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,3,Tilak Varma,R Shepherd,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,4,Tilak Varma,R Shepherd,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,5,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,7,6,Tilak Varma,R Shepherd,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,1,Tilak Varma,KH Pandya,Naman Dhir,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,2,Tilak Varma,KH Pandya,Naman Dhir,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,3,Tilak Varma,KH Pandya,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,4,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,5,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6.wides,Tilak Varma,KH Pandya,Naman Dhir,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,8,6,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,1,Tilak Varma,Suyash Sharma,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,2,Naman Dhir,Suyash Sharma,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,3,Tilak Varma,Suyash Sharma,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,4,Naman Dhir,Suyash Sharma,Tilak Varma,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,5,Naman Dhir,Suyash Sharma,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,9,6,Naman Dhir,Suyash Sharma,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,1,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,2,Tilak Varma,KH Pandya,Naman Dhir,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,3,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,4,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,5,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,10,6,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,1,Naman Dhir,R Shepherd,Tilak Varma,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,2,Naman Dhir,R Shepherd,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,3,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,4,Tilak Varma,R Shepherd,Naman Dhir,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,5,Tilak Varma,R Shepherd,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,11,6,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,1,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,2,Tilak Varma,KH Pandya,Naman Dhir,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,3,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,4,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,5,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,12,6,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,1,Naman Dhir,Rasikh Salam,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,2,Naman Dhir,Rasikh Salam,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,3,Naman Dhir,Rasikh Salam,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,True,bowled,Naman Dhir,,middle
+1,Mumbai Indians,13,4,WG Jacks,Rasikh Salam,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,5,WG Jacks,Rasikh Salam,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,13,6,WG Jacks,Rasikh Salam,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,1,Tilak Varma,Suyash Sharma,WG Jacks,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,2,WG Jacks,Suyash Sharma,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,3,Tilak Varma,Suyash Sharma,WG Jacks,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,4,Tilak Varma,Suyash Sharma,WG Jacks,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,5,WG Jacks,Suyash Sharma,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,14,6,Tilak Varma,Suyash Sharma,WG Jacks,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,1,Tilak Varma,JR Hazlewood,WG Jacks,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2.wides,Tilak Varma,JR Hazlewood,WG Jacks,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,2,Tilak Varma,JR Hazlewood,WG Jacks,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,3,WG Jacks,JR Hazlewood,Tilak Varma,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,4,WG Jacks,JR Hazlewood,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,5,WG Jacks,JR Hazlewood,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,15,6,WG Jacks,JR Hazlewood,Tilak Varma,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Mumbai Indians,16,1,Tilak Varma,R Shepherd,WG Jacks,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,2,WG Jacks,R Shepherd,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,True,caught,WG Jacks,JG Bethell,death
+1,Mumbai Indians,16,3,RA Bawa,R Shepherd,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,4,RA Bawa,R Shepherd,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,5,RA Bawa,R Shepherd,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,16,6,RA Bawa,R Shepherd,Tilak Varma,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,1,Tilak Varma,Rasikh Salam,RA Bawa,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,2,Tilak Varma,Rasikh Salam,RA Bawa,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,3,Tilak Varma,Rasikh Salam,RA Bawa,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,4,RA Bawa,Rasikh Salam,Tilak Varma,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,5,RA Bawa,Rasikh Salam,Tilak Varma,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,17,6,RA Bawa,Rasikh Salam,Tilak Varma,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,1,Tilak Varma,B Kumar,RA Bawa,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,2,Tilak Varma,B Kumar,RA Bawa,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,3,Tilak Varma,B Kumar,RA Bawa,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,4,RA Bawa,B Kumar,Tilak Varma,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,5,RA Bawa,B Kumar,Tilak Varma,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,18,6,Tilak Varma,B Kumar,RA Bawa,0,0,0,False,False,,0,0,0,0,0,True,bowled,Tilak Varma,,death
+1,Mumbai Indians,19,1,RA Bawa,JR Hazlewood,C Bosch,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,2,RA Bawa,JR Hazlewood,C Bosch,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,3,RA Bawa,JR Hazlewood,C Bosch,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,4,RA Bawa,JR Hazlewood,C Bosch,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,5,C Bosch,JR Hazlewood,RA Bawa,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,19,6,RA Bawa,JR Hazlewood,C Bosch,0,0,0,False,False,,0,0,0,0,0,True,caught,RA Bawa,RM Patidar,death
+1,Mumbai Indians,20,1,C Bosch,Rasikh Salam,DL Chahar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,2,DL Chahar,Rasikh Salam,C Bosch,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,3,C Bosch,Rasikh Salam,DL Chahar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,4,C Bosch,Rasikh Salam,DL Chahar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,5,C Bosch,Rasikh Salam,DL Chahar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Mumbai Indians,20,6,DL Chahar,Rasikh Salam,C Bosch,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,1,1,JG Bethell,DL Chahar,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,2,JG Bethell,DL Chahar,V Kohli,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,3,JG Bethell,DL Chahar,V Kohli,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,4.wides,V Kohli,DL Chahar,JG Bethell,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,4,V Kohli,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,True,caught,V Kohli,RA Bawa,powerplay
+2,Royal Challengers Bengaluru,1,5,D Padikkal,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,1,6,D Padikkal,DL Chahar,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,1,JG Bethell,JJ Bumrah,D Padikkal,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,2,JG Bethell,JJ Bumrah,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,3,D Padikkal,JJ Bumrah,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,4,JG Bethell,JJ Bumrah,D Padikkal,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,5,D Padikkal,JJ Bumrah,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,2,6,D Padikkal,JJ Bumrah,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,1,D Padikkal,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,2,D Padikkal,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,3,D Padikkal,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,4,D Padikkal,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,5,D Padikkal,DL Chahar,JG Bethell,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,3,6,D Padikkal,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,True,caught,D Padikkal,RD Rickelton,powerplay
+2,Royal Challengers Bengaluru,4,1,JG Bethell,JJ Bumrah,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,2,RM Patidar,JJ Bumrah,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,3,JG Bethell,JJ Bumrah,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,4.wides,RM Patidar,JJ Bumrah,JG Bethell,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,4,RM Patidar,JJ Bumrah,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,5,JG Bethell,JJ Bumrah,RM Patidar,0,2,2,False,False,legbyes,0,0,0,2,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,6.wides,JG Bethell,JJ Bumrah,RM Patidar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,4,6,JG Bethell,JJ Bumrah,RM Patidar,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,1,RM Patidar,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,2,RM Patidar,DL Chahar,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,3,RM Patidar,DL Chahar,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,4,RM Patidar,DL Chahar,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,5,JG Bethell,DL Chahar,RM Patidar,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,5,6,RM Patidar,DL Chahar,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,1,RM Patidar,C Bosch,JG Bethell,0,0,0,False,False,,0,0,0,0,0,True,caught,RM Patidar,RD Rickelton,powerplay
+2,Royal Challengers Bengaluru,6,2,KH Pandya,C Bosch,JG Bethell,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,3,KH Pandya,C Bosch,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,4,KH Pandya,C Bosch,JG Bethell,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,5,KH Pandya,C Bosch,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,6,6,KH Pandya,C Bosch,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Royal Challengers Bengaluru,7,1,JG Bethell,WG Jacks,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,2,KH Pandya,WG Jacks,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,3,KH Pandya,WG Jacks,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,4,JG Bethell,WG Jacks,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,5,KH Pandya,WG Jacks,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,7,6,KH Pandya,WG Jacks,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,1,KH Pandya,C Bosch,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,2,JG Bethell,C Bosch,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,3,KH Pandya,C Bosch,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,4,JG Bethell,C Bosch,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,5,KH Pandya,C Bosch,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,8,6,JG Bethell,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,1,KH Pandya,WG Jacks,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,2,JG Bethell,WG Jacks,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,3,JG Bethell,WG Jacks,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,4,KH Pandya,WG Jacks,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,5.wides,KH Pandya,WG Jacks,JG Bethell,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,5,KH Pandya,WG Jacks,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,9,6,JG Bethell,WG Jacks,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,1,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,2,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,3,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,4,KH Pandya,AM Ghazanfar,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,5,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,10,6,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,1,JG Bethell,RA Bawa,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,2,KH Pandya,RA Bawa,JG Bethell,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,3,KH Pandya,RA Bawa,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,4,JG Bethell,RA Bawa,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,5,KH Pandya,RA Bawa,JG Bethell,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,11,6,KH Pandya,RA Bawa,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,1,KH Pandya,AM Ghazanfar,JG Bethell,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,2,KH Pandya,AM Ghazanfar,JG Bethell,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,3,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,4,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,5,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,12,6,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,1,JG Bethell,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,True,caught,JG Bethell,Tilak Varma,middle
+2,Royal Challengers Bengaluru,13,2,JM Sharma,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,3,JM Sharma,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,4,JM Sharma,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,5,JM Sharma,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,13,6,JM Sharma,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,1,KH Pandya,RA Bawa,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,2,JM Sharma,RA Bawa,KH Pandya,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,3,JM Sharma,RA Bawa,KH Pandya,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,4,JM Sharma,RA Bawa,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,5,KH Pandya,RA Bawa,JM Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,6.wides,KH Pandya,RA Bawa,JM Sharma,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,6.wides,KH Pandya,RA Bawa,JM Sharma,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,14,6,KH Pandya,RA Bawa,JM Sharma,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,1,JM Sharma,JJ Bumrah,KH Pandya,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,2,JM Sharma,JJ Bumrah,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,3,KH Pandya,JJ Bumrah,JM Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,4,KH Pandya,JJ Bumrah,JM Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,5,KH Pandya,JJ Bumrah,JM Sharma,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,15,6,KH Pandya,JJ Bumrah,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Royal Challengers Bengaluru,16,1,KH Pandya,C Bosch,JM Sharma,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,2,KH Pandya,C Bosch,JM Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,3,KH Pandya,C Bosch,JM Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,4,JM Sharma,C Bosch,KH Pandya,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,16,5,JM Sharma,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,True,caught,JM Sharma,Naman Dhir,death
+2,Royal Challengers Bengaluru,16,6,TH David,C Bosch,KH Pandya,0,0,0,False,False,,0,0,0,0,0,True,caught,TH David,RD Rickelton,death
+2,Royal Challengers Bengaluru,17,1.wides,KH Pandya,DL Chahar,R Shepherd,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,1,KH Pandya,DL Chahar,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,2,KH Pandya,DL Chahar,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,3,R Shepherd,DL Chahar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,4,KH Pandya,DL Chahar,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,5,R Shepherd,DL Chahar,KH Pandya,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,17,6,KH Pandya,DL Chahar,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,1,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,2,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,3,KH Pandya,AM Ghazanfar,R Shepherd,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,4,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,5,KH Pandya,AM Ghazanfar,R Shepherd,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,18,6,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,False,False,,0,0,0,0,0,True,caught,KH Pandya,Tilak Varma,death
+2,Royal Challengers Bengaluru,19,1,R Shepherd,JJ Bumrah,Rasikh Salam,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,2,Rasikh Salam,JJ Bumrah,R Shepherd,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,3,R Shepherd,JJ Bumrah,Rasikh Salam,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,4,R Shepherd,JJ Bumrah,Rasikh Salam,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,5,R Shepherd,JJ Bumrah,Rasikh Salam,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,19,6,R Shepherd,JJ Bumrah,Rasikh Salam,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+2,Royal Challengers Bengaluru,20,1.wides,R Shepherd,RA Bawa,Rasikh Salam,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,1.noballs,R Shepherd,RA Bawa,Rasikh Salam,0,1,1,False,False,noballs,0,1,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,1,R Shepherd,RA Bawa,Rasikh Salam,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,2.wides,Rasikh Salam,RA Bawa,R Shepherd,0,2,2,False,False,wides,2,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,2,R Shepherd,RA Bawa,Rasikh Salam,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,3,R Shepherd,RA Bawa,Rasikh Salam,0,0,0,False,False,,0,0,0,0,0,True,caught,R Shepherd,Tilak Varma,death
+2,Royal Challengers Bengaluru,20,4.wides,B Kumar,RA Bawa,Rasikh Salam,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,4,B Kumar,RA Bawa,Rasikh Salam,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,5,B Kumar,RA Bawa,Rasikh Salam,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Royal Challengers Bengaluru,20,6,Rasikh Salam,RA Bawa,B Kumar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
