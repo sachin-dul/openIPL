@@ -1,0 +1,217 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Gujarat Titans,1,1,B Sai Sudharsan,PJ Cummins,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,2,B Sai Sudharsan,PJ Cummins,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,3,B Sai Sudharsan,PJ Cummins,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,4,B Sai Sudharsan,PJ Cummins,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,5,Shubman Gill,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,1,6,Shubman Gill,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,1,B Sai Sudharsan,Nithish Kumar Reddy,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,2,B Sai Sudharsan,Nithish Kumar Reddy,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,3,B Sai Sudharsan,Nithish Kumar Reddy,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,4,Shubman Gill,Nithish Kumar Reddy,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,5,Shubman Gill,Nithish Kumar Reddy,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,2,6,Shubman Gill,Nithish Kumar Reddy,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,1,Shubman Gill,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,2,Shubman Gill,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,True,caught,Shubman Gill,H Klaasen,powerplay
+1,Gujarat Titans,3,3,JC Buttler,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,4,JC Buttler,PP Hinge,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,5,B Sai Sudharsan,PP Hinge,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,3,6,JC Buttler,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,1,B Sai Sudharsan,PJ Cummins,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,2,JC Buttler,PJ Cummins,B Sai Sudharsan,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,3,JC Buttler,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,4,JC Buttler,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,4,5,JC Buttler,PJ Cummins,B Sai Sudharsan,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,4,6,B Sai Sudharsan,PJ Cummins,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,1,JC Buttler,Nithish Kumar Reddy,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,2,JC Buttler,Nithish Kumar Reddy,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,3,JC Buttler,Nithish Kumar Reddy,B Sai Sudharsan,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Gujarat Titans,5,4,B Sai Sudharsan,Nithish Kumar Reddy,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,5,B Sai Sudharsan,Nithish Kumar Reddy,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,5,6,B Sai Sudharsan,Nithish Kumar Reddy,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,1,JC Buttler,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,True,caught,JC Buttler,Ishan Kishan,powerplay
+1,Gujarat Titans,6,2,N Sindhu,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,3,N Sindhu,PP Hinge,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,4,N Sindhu,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,5,N Sindhu,PP Hinge,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,6,6,N Sindhu,PP Hinge,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Gujarat Titans,7,1,B Sai Sudharsan,Nithish Kumar Reddy,N Sindhu,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,2,B Sai Sudharsan,Nithish Kumar Reddy,N Sindhu,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,3,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,4,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,5,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,7,6,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,1,B Sai Sudharsan,E Malinga,N Sindhu,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,2,B Sai Sudharsan,E Malinga,N Sindhu,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,3,N Sindhu,E Malinga,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,4,N Sindhu,E Malinga,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,5,B Sai Sudharsan,E Malinga,N Sindhu,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,8,6,B Sai Sudharsan,E Malinga,N Sindhu,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,1,B Sai Sudharsan,Sakib Hussain,N Sindhu,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,2,N Sindhu,Sakib Hussain,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,3,N Sindhu,Sakib Hussain,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,4,B Sai Sudharsan,Sakib Hussain,N Sindhu,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,5,B Sai Sudharsan,Sakib Hussain,N Sindhu,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,9,6,B Sai Sudharsan,Sakib Hussain,N Sindhu,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,1,B Sai Sudharsan,PJ Cummins,N Sindhu,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,2,B Sai Sudharsan,PJ Cummins,N Sindhu,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,3,N Sindhu,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,True,caught,N Sindhu,H Klaasen,middle
+1,Gujarat Titans,10,4,Washington Sundar,PJ Cummins,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,5,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,10,6,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,1,B Sai Sudharsan,E Malinga,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,2,B Sai Sudharsan,E Malinga,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,3,Washington Sundar,E Malinga,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,4,B Sai Sudharsan,E Malinga,Washington Sundar,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,5,B Sai Sudharsan,E Malinga,Washington Sundar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,11,6,B Sai Sudharsan,E Malinga,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,1,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,2.wides,B Sai Sudharsan,Shivang Kumar,Washington Sundar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,2.wides,B Sai Sudharsan,Shivang Kumar,Washington Sundar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,2,B Sai Sudharsan,Shivang Kumar,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,3,Washington Sundar,Shivang Kumar,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,4,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,5,B Sai Sudharsan,Shivang Kumar,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,12,6,Washington Sundar,Shivang Kumar,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,1,B Sai Sudharsan,Sakib Hussain,Washington Sundar,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,2,B Sai Sudharsan,Sakib Hussain,Washington Sundar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,3,B Sai Sudharsan,Sakib Hussain,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,4,Washington Sundar,Sakib Hussain,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,5,B Sai Sudharsan,Sakib Hussain,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,13,6,B Sai Sudharsan,Sakib Hussain,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,1,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,2,B Sai Sudharsan,Shivang Kumar,Washington Sundar,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,3,B Sai Sudharsan,Shivang Kumar,Washington Sundar,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,4,B Sai Sudharsan,Shivang Kumar,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,5,Washington Sundar,Shivang Kumar,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,14,6,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,1,Washington Sundar,PJ Cummins,B Sai Sudharsan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,2,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,3,Washington Sundar,PJ Cummins,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,4,B Sai Sudharsan,PJ Cummins,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,5,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,15,6,Washington Sundar,PJ Cummins,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Gujarat Titans,16,1,Washington Sundar,E Malinga,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,2,B Sai Sudharsan,E Malinga,Washington Sundar,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,3,B Sai Sudharsan,E Malinga,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,4,Washington Sundar,E Malinga,B Sai Sudharsan,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,5,Washington Sundar,E Malinga,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,16,6,Washington Sundar,E Malinga,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,1,Washington Sundar,Sakib Hussain,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,2,B Sai Sudharsan,Sakib Hussain,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,True,caught,B Sai Sudharsan,PP Hinge,death
+1,Gujarat Titans,17,3,JO Holder,Sakib Hussain,Washington Sundar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,4,JO Holder,Sakib Hussain,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,5,Washington Sundar,Sakib Hussain,JO Holder,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,6.wides,Washington Sundar,Sakib Hussain,JO Holder,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,6.wides,Washington Sundar,Sakib Hussain,JO Holder,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Titans,17,6,Washington Sundar,Sakib Hussain,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,1,JO Holder,PP Hinge,Washington Sundar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,2,JO Holder,PP Hinge,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,3,Washington Sundar,PP Hinge,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,4,Washington Sundar,PP Hinge,JO Holder,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,5,Washington Sundar,PP Hinge,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,18,6,JO Holder,PP Hinge,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,1,JO Holder,E Malinga,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,2,Washington Sundar,E Malinga,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,3,Washington Sundar,E Malinga,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,4.wides,JO Holder,E Malinga,Washington Sundar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,4,JO Holder,E Malinga,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,5,Washington Sundar,E Malinga,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,19,6,Washington Sundar,E Malinga,JO Holder,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,1,JO Holder,Sakib Hussain,Washington Sundar,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,2.wides,JO Holder,Sakib Hussain,Washington Sundar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,2,JO Holder,Sakib Hussain,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,3,Washington Sundar,Sakib Hussain,JO Holder,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,4,JO Holder,Sakib Hussain,Washington Sundar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Gujarat Titans,20,5,Washington Sundar,Sakib Hussain,JO Holder,0,0,0,False,False,,0,0,0,0,0,True,caught,Washington Sundar,Ishan Kishan,death
+1,Gujarat Titans,20,6,R Tewatia,Sakib Hussain,JO Holder,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,1,1,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,True,caught,TM Head,N Sindhu,powerplay
+2,Sunrisers Hyderabad,1,5,Ishan Kishan,Mohammed Siraj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,Ishan Kishan,Mohammed Siraj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,Abhishek Sharma,K Rabada,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,Abhishek Sharma,K Rabada,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,Abhishek Sharma,K Rabada,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,Abhishek Sharma,K Rabada,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,True,bowled,Abhishek Sharma,,powerplay
+2,Sunrisers Hyderabad,2,5,R Smaran,K Rabada,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,Ishan Kishan,K Rabada,R Smaran,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,R Smaran,Mohammed Siraj,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,R Smaran,Mohammed Siraj,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,R Smaran,Mohammed Siraj,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,4,Ishan Kishan,Mohammed Siraj,R Smaran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,Ishan Kishan,Mohammed Siraj,R Smaran,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,Ishan Kishan,Mohammed Siraj,R Smaran,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,Ishan Kishan,K Rabada,R Smaran,0,0,0,False,False,,0,0,0,0,0,True,caught,Ishan Kishan,JC Buttler,powerplay
+2,Sunrisers Hyderabad,4,2,H Klaasen,K Rabada,R Smaran,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,R Smaran,K Rabada,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,H Klaasen,K Rabada,R Smaran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,H Klaasen,K Rabada,R Smaran,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,H Klaasen,K Rabada,R Smaran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,R Smaran,Mohammed Siraj,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,R Smaran,K Rabada,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,R Smaran,K Rabada,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,R Smaran,K Rabada,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,H Klaasen,K Rabada,R Smaran,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,R Smaran,K Rabada,H Klaasen,0,0,0,False,False,,0,0,0,0,0,True,caught,R Smaran,Shubman Gill,powerplay
+2,Sunrisers Hyderabad,6,6,S Arora,K Rabada,H Klaasen,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,7,1,H Klaasen,JO Holder,S Arora,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,S Arora,JO Holder,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,S Arora,JO Holder,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,S Arora,JO Holder,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,S Arora,JO Holder,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,S Arora,JO Holder,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,H Klaasen,K Rabada,S Arora,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,H Klaasen,K Rabada,S Arora,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,H Klaasen,K Rabada,S Arora,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,S Arora,K Rabada,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,5,S Arora,K Rabada,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,S Arora,K Rabada,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,H Klaasen,JO Holder,S Arora,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,H Klaasen,JO Holder,S Arora,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,H Klaasen,JO Holder,S Arora,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,H Klaasen,JO Holder,S Arora,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,H Klaasen,JO Holder,S Arora,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,S Arora,JO Holder,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,S Arora,M Prasidh Krishna,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,H Klaasen,M Prasidh Krishna,S Arora,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,S Arora,M Prasidh Krishna,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,S Arora,M Prasidh Krishna,H Klaasen,0,0,0,False,False,,0,0,0,0,0,True,caught,S Arora,JC Buttler,middle
+2,Sunrisers Hyderabad,10,5,Nithish Kumar Reddy,M Prasidh Krishna,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,Nithish Kumar Reddy,M Prasidh Krishna,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,H Klaasen,JO Holder,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,True,caught,H Klaasen,JC Buttler,middle
+2,Sunrisers Hyderabad,11,2,PJ Cummins,JO Holder,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,Nithish Kumar Reddy,JO Holder,PJ Cummins,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4.wides,Nithish Kumar Reddy,JO Holder,PJ Cummins,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,Nithish Kumar Reddy,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,True,caught,Nithish Kumar Reddy,Washington Sundar,middle
+2,Sunrisers Hyderabad,11,5,Shivang Kumar,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,Shivang Kumar,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,PJ Cummins,M Prasidh Krishna,Shivang Kumar,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,PJ Cummins,M Prasidh Krishna,Shivang Kumar,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,PJ Cummins,M Prasidh Krishna,Shivang Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,Shivang Kumar,M Prasidh Krishna,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,Shivang Kumar,M Prasidh Krishna,PJ Cummins,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,Shivang Kumar,M Prasidh Krishna,PJ Cummins,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,PJ Cummins,JO Holder,Shivang Kumar,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,Shivang Kumar,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,True,caught,Shivang Kumar,JC Buttler,middle
+2,Sunrisers Hyderabad,13,3,PP Hinge,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,PP Hinge,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,PP Hinge,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,6,PP Hinge,JO Holder,PJ Cummins,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,1,PJ Cummins,M Prasidh Krishna,PP Hinge,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,2,PJ Cummins,M Prasidh Krishna,PP Hinge,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,3,PJ Cummins,M Prasidh Krishna,PP Hinge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,4,PJ Cummins,M Prasidh Krishna,PP Hinge,0,0,0,False,False,,0,0,0,0,0,True,caught,PJ Cummins,Mohammed Siraj,middle
+2,Sunrisers Hyderabad,14,5,E Malinga,M Prasidh Krishna,PP Hinge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,6,E Malinga,M Prasidh Krishna,PP Hinge,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,1,PP Hinge,Rashid Khan,E Malinga,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,2,PP Hinge,Rashid Khan,E Malinga,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3,E Malinga,Rashid Khan,PP Hinge,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+2,Sunrisers Hyderabad,15,4,PP Hinge,Rashid Khan,E Malinga,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,5,PP Hinge,Rashid Khan,E Malinga,0,0,0,False,False,,0,0,0,0,0,True,stumped,PP Hinge,JC Buttler,middle
