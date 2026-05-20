@@ -1,0 +1,253 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Kolkata Knight Riders,1,1,AM Rahane,Mohammed Siraj,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,2,FH Allen,Mohammed Siraj,AM Rahane,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,3,AM Rahane,Mohammed Siraj,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,4,AM Rahane,Mohammed Siraj,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,5,AM Rahane,Mohammed Siraj,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,1,6,FH Allen,Mohammed Siraj,AM Rahane,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,1,AM Rahane,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,2,AM Rahane,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,3,AM Rahane,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,4,AM Rahane,K Rabada,FH Allen,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,5,AM Rahane,K Rabada,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,2,6,FH Allen,K Rabada,AM Rahane,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,1,FH Allen,Mohammed Siraj,AM Rahane,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,2,FH Allen,Mohammed Siraj,AM Rahane,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,3,FH Allen,Mohammed Siraj,AM Rahane,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,4,FH Allen,Mohammed Siraj,AM Rahane,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,5,FH Allen,Mohammed Siraj,AM Rahane,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,3,6,FH Allen,Mohammed Siraj,AM Rahane,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,1,AM Rahane,K Rabada,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,2,FH Allen,K Rabada,AM Rahane,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,3,FH Allen,K Rabada,AM Rahane,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,4,FH Allen,K Rabada,AM Rahane,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,5,AM Rahane,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,4,6,AM Rahane,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,1,FH Allen,Mohammed Siraj,AM Rahane,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,2,AM Rahane,Mohammed Siraj,FH Allen,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,3,AM Rahane,Mohammed Siraj,FH Allen,0,0,0,False,False,,0,0,0,0,0,True,bowled,AM Rahane,,powerplay
+1,Kolkata Knight Riders,5,4,A Raghuvanshi,Mohammed Siraj,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5.wides,A Raghuvanshi,Mohammed Siraj,FH Allen,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5.wides,A Raghuvanshi,Mohammed Siraj,FH Allen,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,5,A Raghuvanshi,Mohammed Siraj,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,5,6,A Raghuvanshi,Mohammed Siraj,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,1,A Raghuvanshi,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,2,A Raghuvanshi,K Rabada,FH Allen,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3.wides,FH Allen,K Rabada,A Raghuvanshi,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,3,FH Allen,K Rabada,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,4,FH Allen,K Rabada,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,5,A Raghuvanshi,K Rabada,FH Allen,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,6,6,A Raghuvanshi,K Rabada,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Kolkata Knight Riders,7,1,FH Allen,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,2,A Raghuvanshi,JO Holder,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,3,FH Allen,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,4,A Raghuvanshi,JO Holder,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,5,FH Allen,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,7,6,A Raghuvanshi,JO Holder,FH Allen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,1,FH Allen,Rashid Khan,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,2,FH Allen,Rashid Khan,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,3,FH Allen,Rashid Khan,A Raghuvanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,4,FH Allen,Rashid Khan,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,5,A Raghuvanshi,Rashid Khan,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,8,6,A Raghuvanshi,Rashid Khan,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,1,A Raghuvanshi,JO Holder,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,2,FH Allen,JO Holder,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,3,FH Allen,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,4,A Raghuvanshi,JO Holder,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,5,FH Allen,JO Holder,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,9,6,FH Allen,JO Holder,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,1,A Raghuvanshi,R Sai Kishore,FH Allen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,2,A Raghuvanshi,R Sai Kishore,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,3,FH Allen,R Sai Kishore,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,4,FH Allen,R Sai Kishore,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,5,A Raghuvanshi,R Sai Kishore,FH Allen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,10,6,A Raghuvanshi,R Sai Kishore,FH Allen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,1,FH Allen,Arshad Khan,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,2,FH Allen,Arshad Khan,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,3,FH Allen,Arshad Khan,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,4,FH Allen,Arshad Khan,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,5,FH Allen,Arshad Khan,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,11,6,FH Allen,Arshad Khan,A Raghuvanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,1,A Raghuvanshi,R Sai Kishore,FH Allen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,2,FH Allen,R Sai Kishore,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,True,caught,FH Allen,Rashid Khan,middle
+1,Kolkata Knight Riders,12,3,C Green,R Sai Kishore,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,4,A Raghuvanshi,R Sai Kishore,C Green,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,5,A Raghuvanshi,R Sai Kishore,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,12,6,C Green,R Sai Kishore,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,1,A Raghuvanshi,Rashid Khan,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,2,C Green,Rashid Khan,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,3,A Raghuvanshi,Rashid Khan,C Green,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,4,A Raghuvanshi,Rashid Khan,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,5,C Green,Rashid Khan,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,13,6,A Raghuvanshi,Rashid Khan,C Green,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,1,C Green,R Sai Kishore,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,2,C Green,R Sai Kishore,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,3,C Green,R Sai Kishore,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,4,C Green,R Sai Kishore,A Raghuvanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,5,C Green,R Sai Kishore,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,14,6,C Green,R Sai Kishore,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,1,C Green,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,2,A Raghuvanshi,JO Holder,C Green,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,3,A Raghuvanshi,JO Holder,C Green,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,4,A Raghuvanshi,JO Holder,C Green,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,5.noballs,A Raghuvanshi,JO Holder,C Green,0,1,1,False,False,noballs,0,1,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,5,A Raghuvanshi,JO Holder,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,15,6,C Green,JO Holder,A Raghuvanshi,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Kolkata Knight Riders,16,1,A Raghuvanshi,Rashid Khan,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,2,C Green,Rashid Khan,A Raghuvanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,3,C Green,Rashid Khan,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,4,C Green,Rashid Khan,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,5,C Green,Rashid Khan,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,16,6,C Green,Rashid Khan,A Raghuvanshi,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,1,A Raghuvanshi,JO Holder,C Green,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,2,A Raghuvanshi,JO Holder,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,3,C Green,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,4,A Raghuvanshi,JO Holder,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,5,C Green,JO Holder,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,17,6,C Green,JO Holder,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,1,C Green,K Rabada,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,2,A Raghuvanshi,K Rabada,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,3,C Green,K Rabada,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,4,A Raghuvanshi,K Rabada,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,5,C Green,K Rabada,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,18,6,C Green,K Rabada,A Raghuvanshi,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,1,A Raghuvanshi,Mohammed Siraj,C Green,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2.wides,A Raghuvanshi,Mohammed Siraj,C Green,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,2,A Raghuvanshi,Mohammed Siraj,C Green,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,3,A Raghuvanshi,Mohammed Siraj,C Green,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,4,A Raghuvanshi,Mohammed Siraj,C Green,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,5,A Raghuvanshi,Mohammed Siraj,C Green,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,19,6,A Raghuvanshi,Mohammed Siraj,C Green,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,1,C Green,Rashid Khan,A Raghuvanshi,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,2,A Raghuvanshi,Rashid Khan,C Green,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,3,A Raghuvanshi,Rashid Khan,C Green,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,4,C Green,Rashid Khan,A Raghuvanshi,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,5,C Green,Rashid Khan,A Raghuvanshi,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Kolkata Knight Riders,20,6,C Green,Rashid Khan,A Raghuvanshi,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,1,1,B Sai Sudharsan,SR Dubey,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,2,B Sai Sudharsan,SR Dubey,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,3,B Sai Sudharsan,SR Dubey,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,4,B Sai Sudharsan,SR Dubey,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,5.wides,B Sai Sudharsan,SR Dubey,Shubman Gill,0,5,5,False,False,wides,5,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,5,B Sai Sudharsan,SR Dubey,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6.wides,B Sai Sudharsan,SR Dubey,Shubman Gill,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6.wides,B Sai Sudharsan,SR Dubey,Shubman Gill,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,1,6,B Sai Sudharsan,SR Dubey,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,1,Shubman Gill,C Green,B Sai Sudharsan,0,4,4,False,False,legbyes,0,0,0,4,0,False,,,,powerplay
+2,Gujarat Titans,2,2,Shubman Gill,C Green,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,3,Shubman Gill,C Green,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,4,Shubman Gill,C Green,B Sai Sudharsan,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,5,Shubman Gill,C Green,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,2,6,B Sai Sudharsan,C Green,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,1,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,2,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,3,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,4,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,5,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,3,6,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Gujarat Titans,4,1.wides,N Sindhu,M Pathirana,Shubman Gill,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,1,N Sindhu,M Pathirana,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,2,N Sindhu,M Pathirana,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,3,N Sindhu,M Pathirana,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,4,Shubman Gill,M Pathirana,N Sindhu,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,5.wides,Shubman Gill,M Pathirana,N Sindhu,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,5,Shubman Gill,M Pathirana,N Sindhu,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,4,6,Shubman Gill,M Pathirana,N Sindhu,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,1,N Sindhu,SP Narine,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,True,caught,N Sindhu,MK Pandey,powerplay
+2,Gujarat Titans,5,2,JC Buttler,SP Narine,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,3,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,4,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,5,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,5,6,Shubman Gill,SP Narine,JC Buttler,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+2,Gujarat Titans,6,1,Shubman Gill,M Pathirana,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,2,JC Buttler,M Pathirana,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,3,Shubman Gill,SR Dubey,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,4,JC Buttler,SR Dubey,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,5,JC Buttler,SR Dubey,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,6,6,Shubman Gill,SR Dubey,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Gujarat Titans,7,1,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,2,Shubman Gill,SP Narine,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,3,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,4,Shubman Gill,SP Narine,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,5,Shubman Gill,SP Narine,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,7,6,JC Buttler,SP Narine,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,1,Shubman Gill,CV Varun,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,2,JC Buttler,CV Varun,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,3,Shubman Gill,CV Varun,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,4,JC Buttler,CV Varun,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,5,Shubman Gill,CV Varun,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,8,6,Shubman Gill,CV Varun,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,1,Shubman Gill,AS Roy,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,2,Shubman Gill,AS Roy,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,3,Shubman Gill,AS Roy,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,4,Shubman Gill,AS Roy,JC Buttler,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,middle
+2,Gujarat Titans,9,5,JC Buttler,AS Roy,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,9,6,Shubman Gill,AS Roy,JC Buttler,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,1,JC Buttler,CV Varun,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,2,Shubman Gill,CV Varun,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,3,JC Buttler,CV Varun,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,4,JC Buttler,CV Varun,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,5,Shubman Gill,CV Varun,JC Buttler,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,10,6,Shubman Gill,CV Varun,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,1,JC Buttler,Kartik Tyagi,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,2,JC Buttler,Kartik Tyagi,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,3,JC Buttler,Kartik Tyagi,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,4,JC Buttler,Kartik Tyagi,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,5,Shubman Gill,Kartik Tyagi,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,11,6,JC Buttler,Kartik Tyagi,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,1,Shubman Gill,CV Varun,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,2,JC Buttler,CV Varun,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,3.wides,Shubman Gill,CV Varun,JC Buttler,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,3,Shubman Gill,CV Varun,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,4,JC Buttler,CV Varun,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,5,JC Buttler,CV Varun,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,12,6,JC Buttler,CV Varun,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,1,JC Buttler,C Green,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,2,JC Buttler,C Green,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,3,JC Buttler,C Green,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,4,JC Buttler,C Green,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,5,Shubman Gill,C Green,JC Buttler,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,13,6,Shubman Gill,C Green,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,1,Shubman Gill,CV Varun,JC Buttler,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,2,Shubman Gill,CV Varun,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,3,Shubman Gill,CV Varun,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,4,Shubman Gill,CV Varun,JC Buttler,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,5,Shubman Gill,CV Varun,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,14,6,Shubman Gill,CV Varun,JC Buttler,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,1,JC Buttler,SP Narine,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,2,JC Buttler,SP Narine,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,3,Shubman Gill,SP Narine,JC Buttler,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,4,Shubman Gill,SP Narine,JC Buttler,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,5,Shubman Gill,SP Narine,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Gujarat Titans,15,6,JC Buttler,SP Narine,Shubman Gill,0,1,1,False,False,byes,0,0,1,0,0,False,,,,middle
+2,Gujarat Titans,16,1,JC Buttler,Kartik Tyagi,Shubman Gill,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,2,JC Buttler,Kartik Tyagi,Shubman Gill,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,3,JC Buttler,Kartik Tyagi,Shubman Gill,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,4,JC Buttler,Kartik Tyagi,Shubman Gill,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,5,Shubman Gill,Kartik Tyagi,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,16,6,JC Buttler,Kartik Tyagi,Shubman Gill,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,1,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,2,Shubman Gill,SP Narine,JC Buttler,0,0,0,False,False,,0,0,0,0,0,True,caught,Shubman Gill,AS Roy,death
+2,Gujarat Titans,17,3,B Sai Sudharsan,SP Narine,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,4,JC Buttler,SP Narine,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,5,B Sai Sudharsan,SP Narine,JC Buttler,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,17,6,B Sai Sudharsan,SP Narine,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,1,B Sai Sudharsan,Kartik Tyagi,JC Buttler,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,2,B Sai Sudharsan,Kartik Tyagi,JC Buttler,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,3,B Sai Sudharsan,Kartik Tyagi,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,4,B Sai Sudharsan,Kartik Tyagi,JC Buttler,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,5,B Sai Sudharsan,Kartik Tyagi,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,18,6,JC Buttler,Kartik Tyagi,B Sai Sudharsan,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,1,B Sai Sudharsan,SR Dubey,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,2,B Sai Sudharsan,SR Dubey,JC Buttler,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,3.wides,B Sai Sudharsan,SR Dubey,JC Buttler,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,3,B Sai Sudharsan,SR Dubey,JC Buttler,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,4,B Sai Sudharsan,SR Dubey,JC Buttler,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,19,5,JC Buttler,SR Dubey,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,True,caught,JC Buttler,Ramandeep Singh,death
+2,Gujarat Titans,19,6,R Tewatia,SR Dubey,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,1,R Tewatia,C Green,B Sai Sudharsan,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+2,Gujarat Titans,20,2,B Sai Sudharsan,C Green,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,3,R Tewatia,C Green,B Sai Sudharsan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,4,B Sai Sudharsan,C Green,R Tewatia,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,5,B Sai Sudharsan,C Green,R Tewatia,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Gujarat Titans,20,6,R Tewatia,C Green,B Sai Sudharsan,0,0,0,False,False,,0,0,0,0,0,True,caught,R Tewatia,A Raghuvanshi,death

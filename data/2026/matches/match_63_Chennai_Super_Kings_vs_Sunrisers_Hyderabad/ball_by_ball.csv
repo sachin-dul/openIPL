@@ -1,0 +1,250 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Chennai Super Kings,1,1.noballs,SV Samson,Nithish Kumar Reddy,RD Gaikwad,0,1,1,False,False,noballs,0,1,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,1,SV Samson,Nithish Kumar Reddy,RD Gaikwad,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,2,SV Samson,Nithish Kumar Reddy,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,3,SV Samson,Nithish Kumar Reddy,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,4,SV Samson,Nithish Kumar Reddy,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,5,RD Gaikwad,Nithish Kumar Reddy,SV Samson,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,1,6,SV Samson,Nithish Kumar Reddy,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,1,RD Gaikwad,PP Hinge,SV Samson,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,2,SV Samson,PP Hinge,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,3,SV Samson,PP Hinge,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,4,SV Samson,PP Hinge,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,5,SV Samson,PP Hinge,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,2,6,SV Samson,PP Hinge,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,1,RD Gaikwad,PJ Cummins,SV Samson,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,2,SV Samson,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,3,SV Samson,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,True,caught,SV Samson,Ishan Kishan,powerplay
+1,Chennai Super Kings,3,4,Urvil Patel,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,5,Urvil Patel,PJ Cummins,RD Gaikwad,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,3,6,Urvil Patel,PJ Cummins,RD Gaikwad,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,1,RD Gaikwad,E Malinga,Urvil Patel,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,2,RD Gaikwad,E Malinga,Urvil Patel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,3,Urvil Patel,E Malinga,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,4,RD Gaikwad,E Malinga,Urvil Patel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,5,Urvil Patel,E Malinga,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,4,6,Urvil Patel,E Malinga,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,1,RD Gaikwad,Sakib Hussain,Urvil Patel,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2.wides,Urvil Patel,Sakib Hussain,RD Gaikwad,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,2,Urvil Patel,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,3,Urvil Patel,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,True,bowled,Urvil Patel,,powerplay
+1,Chennai Super Kings,5,4,Kartik Sharma,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,5,Kartik Sharma,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,5,6,Kartik Sharma,Sakib Hussain,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,1,RD Gaikwad,E Malinga,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,2,Kartik Sharma,E Malinga,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,3,RD Gaikwad,E Malinga,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,4,Kartik Sharma,E Malinga,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,5,RD Gaikwad,E Malinga,Kartik Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,6,6,RD Gaikwad,E Malinga,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Chennai Super Kings,7,1,RD Gaikwad,Shivang Kumar,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,2,Kartik Sharma,Shivang Kumar,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,3,RD Gaikwad,Shivang Kumar,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,4,Kartik Sharma,Shivang Kumar,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,5,RD Gaikwad,Shivang Kumar,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,7,6,Kartik Sharma,Shivang Kumar,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,1,Kartik Sharma,PP Hinge,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,2,Kartik Sharma,PP Hinge,RD Gaikwad,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,3,Kartik Sharma,PP Hinge,RD Gaikwad,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,4,Kartik Sharma,PP Hinge,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,5,Kartik Sharma,PP Hinge,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6.wides,RD Gaikwad,PP Hinge,Kartik Sharma,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,8,6,RD Gaikwad,PP Hinge,Kartik Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,1,Kartik Sharma,Shivang Kumar,RD Gaikwad,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,2,Kartik Sharma,Shivang Kumar,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,3,RD Gaikwad,Shivang Kumar,Kartik Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,4,RD Gaikwad,Shivang Kumar,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,5,Kartik Sharma,Shivang Kumar,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,9,6,RD Gaikwad,Shivang Kumar,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,1,RD Gaikwad,PJ Cummins,Kartik Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,2,Kartik Sharma,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,3,Kartik Sharma,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,4,Kartik Sharma,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,True,caught,Kartik Sharma,Nithish Kumar Reddy,middle
+1,Chennai Super Kings,10,5,D Brevis,PJ Cummins,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,10,6,D Brevis,PJ Cummins,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,1,D Brevis,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,2,D Brevis,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,3,D Brevis,Sakib Hussain,RD Gaikwad,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4.wides,D Brevis,Sakib Hussain,RD Gaikwad,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,4,D Brevis,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,5,D Brevis,Sakib Hussain,RD Gaikwad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,11,6,D Brevis,Sakib Hussain,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,1,D Brevis,PJ Cummins,RD Gaikwad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,2,RD Gaikwad,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,3,RD Gaikwad,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,True,caught,RD Gaikwad,E Malinga,middle
+1,Chennai Super Kings,12,4,S Dube,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,5,S Dube,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,12,6,S Dube,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,1,D Brevis,Shivang Kumar,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,2,S Dube,Shivang Kumar,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,3,D Brevis,Shivang Kumar,S Dube,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,4,D Brevis,Shivang Kumar,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,5,S Dube,Shivang Kumar,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,13,6,D Brevis,Shivang Kumar,S Dube,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1.wides,S Dube,Nithish Kumar Reddy,D Brevis,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,1,S Dube,Nithish Kumar Reddy,D Brevis,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,2,S Dube,Nithish Kumar Reddy,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,3,D Brevis,Nithish Kumar Reddy,S Dube,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,4,D Brevis,Nithish Kumar Reddy,S Dube,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,5,D Brevis,Nithish Kumar Reddy,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,14,6,S Dube,Nithish Kumar Reddy,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,1,S Dube,E Malinga,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,2,D Brevis,E Malinga,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,3,S Dube,E Malinga,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,4,S Dube,E Malinga,D Brevis,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,5,S Dube,E Malinga,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,15,6,D Brevis,E Malinga,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Chennai Super Kings,16,1,D Brevis,PJ Cummins,S Dube,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,2,D Brevis,PJ Cummins,S Dube,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,3,D Brevis,PJ Cummins,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,4,S Dube,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5.wides,S Dube,PJ Cummins,D Brevis,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,5,S Dube,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,16,6,S Dube,PJ Cummins,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,1,D Brevis,Sakib Hussain,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,2,S Dube,Sakib Hussain,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,3,S Dube,Sakib Hussain,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,4,D Brevis,Sakib Hussain,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,5,S Dube,Sakib Hussain,D Brevis,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,17,6,S Dube,Sakib Hussain,D Brevis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,1,D Brevis,E Malinga,S Dube,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,2,S Dube,E Malinga,D Brevis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,3,D Brevis,E Malinga,S Dube,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,4,D Brevis,E Malinga,S Dube,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,18,5,D Brevis,E Malinga,S Dube,0,0,0,False,False,,0,0,0,0,0,True,bowled,D Brevis,,death
+1,Chennai Super Kings,18,6,PR Veer,E Malinga,S Dube,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,1,S Dube,Sakib Hussain,PR Veer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,2,S Dube,Sakib Hussain,PR Veer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3.wides,S Dube,Sakib Hussain,PR Veer,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,3,S Dube,Sakib Hussain,PR Veer,0,0,0,False,False,,0,0,0,0,0,True,bowled,S Dube,,death
+1,Chennai Super Kings,19,4,AJ Hosein,Sakib Hussain,PR Veer,3,0,3,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,5,PR Veer,Sakib Hussain,AJ Hosein,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,19,6,PR Veer,Sakib Hussain,AJ Hosein,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1.wides,PR Veer,PP Hinge,AJ Hosein,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1.wides,PR Veer,PP Hinge,AJ Hosein,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,1,PR Veer,PP Hinge,AJ Hosein,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,2,PR Veer,PP Hinge,AJ Hosein,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,3,PR Veer,PP Hinge,AJ Hosein,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,4,PR Veer,PP Hinge,AJ Hosein,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,5,PR Veer,PP Hinge,AJ Hosein,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Chennai Super Kings,20,6,PR Veer,PP Hinge,AJ Hosein,0,0,0,False,False,,0,0,0,0,0,True,caught and bowled,PR Veer,,death
+2,Sunrisers Hyderabad,1,1,Abhishek Sharma,Mukesh Choudhary,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,2,Abhishek Sharma,Mukesh Choudhary,TM Head,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,3,Abhishek Sharma,Mukesh Choudhary,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,4,Abhishek Sharma,Mukesh Choudhary,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,5,Abhishek Sharma,Mukesh Choudhary,TM Head,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6.wides,Abhishek Sharma,Mukesh Choudhary,TM Head,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,1,6,Abhishek Sharma,Mukesh Choudhary,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,1,Abhishek Sharma,SH Johnson,TM Head,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,2,Abhishek Sharma,SH Johnson,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,3,TM Head,SH Johnson,Abhishek Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,4,TM Head,SH Johnson,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,5,TM Head,SH Johnson,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,2,6,TM Head,SH Johnson,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,1,Abhishek Sharma,Mukesh Choudhary,TM Head,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,2,TM Head,Mukesh Choudhary,Abhishek Sharma,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,3,TM Head,Mukesh Choudhary,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,True,caught and bowled,TM Head,,powerplay
+2,Sunrisers Hyderabad,3,4,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,5,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,3,6,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,1,Ishan Kishan,SH Johnson,Abhishek Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,2,Ishan Kishan,SH Johnson,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,3,Ishan Kishan,SH Johnson,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,4,Ishan Kishan,SH Johnson,Abhishek Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,5,Ishan Kishan,SH Johnson,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,4,6,Ishan Kishan,SH Johnson,Abhishek Sharma,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,1,Abhishek Sharma,Mukesh Choudhary,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,2,Abhishek Sharma,Mukesh Choudhary,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,3,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,4,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,5,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,5,6,Abhishek Sharma,Mukesh Choudhary,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,1,Abhishek Sharma,A Kamboj,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,2,Abhishek Sharma,A Kamboj,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,3,Ishan Kishan,A Kamboj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,4,Ishan Kishan,A Kamboj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,5,Ishan Kishan,A Kamboj,Abhishek Sharma,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,6,6,Ishan Kishan,A Kamboj,Abhishek Sharma,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Sunrisers Hyderabad,7,1,Abhishek Sharma,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,2,Abhishek Sharma,Noor Ahmad,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,3,Ishan Kishan,Noor Ahmad,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,4,Abhishek Sharma,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,5,Abhishek Sharma,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,7,6,Abhishek Sharma,Noor Ahmad,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,1,Ishan Kishan,AJ Hosein,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,2,Abhishek Sharma,AJ Hosein,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,3,Ishan Kishan,AJ Hosein,Abhishek Sharma,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,4,Abhishek Sharma,AJ Hosein,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,True,caught,Abhishek Sharma,SH Johnson,middle
+2,Sunrisers Hyderabad,8,5,H Klaasen,AJ Hosein,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,8,6,H Klaasen,AJ Hosein,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,1,H Klaasen,Noor Ahmad,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,2,Ishan Kishan,Noor Ahmad,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,3,H Klaasen,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,4,H Klaasen,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,5,H Klaasen,Noor Ahmad,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,9,6,H Klaasen,Noor Ahmad,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,1,H Klaasen,AJ Hosein,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,2,H Klaasen,AJ Hosein,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,3,H Klaasen,AJ Hosein,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,4,H Klaasen,AJ Hosein,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,5,H Klaasen,AJ Hosein,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,10,6,H Klaasen,AJ Hosein,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,1,H Klaasen,Noor Ahmad,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,2,Ishan Kishan,Noor Ahmad,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,3,H Klaasen,Noor Ahmad,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,4,H Klaasen,Noor Ahmad,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,5,H Klaasen,Noor Ahmad,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,11,6,Ishan Kishan,Noor Ahmad,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,1,Ishan Kishan,SH Johnson,H Klaasen,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,2,Ishan Kishan,SH Johnson,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,3,Ishan Kishan,SH Johnson,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,4,H Klaasen,SH Johnson,Ishan Kishan,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,5,H Klaasen,SH Johnson,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,12,6,Ishan Kishan,SH Johnson,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,1,Ishan Kishan,A Kamboj,H Klaasen,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,2,Ishan Kishan,A Kamboj,H Klaasen,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,3,Ishan Kishan,A Kamboj,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4.wides,H Klaasen,A Kamboj,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,4,H Klaasen,A Kamboj,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,5,Ishan Kishan,A Kamboj,H Klaasen,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,13,6,Ishan Kishan,A Kamboj,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,1,Ishan Kishan,S Dube,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,2,H Klaasen,S Dube,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,3,H Klaasen,S Dube,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,4,Ishan Kishan,S Dube,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,5.wides,H Klaasen,S Dube,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,5,H Klaasen,S Dube,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,14,6,H Klaasen,S Dube,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,1,Ishan Kishan,Noor Ahmad,H Klaasen,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,2,H Klaasen,Noor Ahmad,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,3,H Klaasen,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,True,stumped,H Klaasen,SV Samson,middle
+2,Sunrisers Hyderabad,15,4,Nithish Kumar Reddy,Noor Ahmad,Ishan Kishan,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,5,Nithish Kumar Reddy,Noor Ahmad,Ishan Kishan,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,15,6,Nithish Kumar Reddy,Noor Ahmad,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Sunrisers Hyderabad,16,1,Ishan Kishan,AJ Hosein,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,2,Ishan Kishan,AJ Hosein,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,3,Ishan Kishan,AJ Hosein,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4.wides,Nithish Kumar Reddy,AJ Hosein,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,4,Nithish Kumar Reddy,AJ Hosein,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,5,Ishan Kishan,AJ Hosein,Nithish Kumar Reddy,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,16,6,Ishan Kishan,AJ Hosein,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,1,Ishan Kishan,A Kamboj,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,2,Nithish Kumar Reddy,A Kamboj,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,3,Ishan Kishan,A Kamboj,Nithish Kumar Reddy,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,4,Nithish Kumar Reddy,A Kamboj,Ishan Kishan,3,0,3,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,5,Ishan Kishan,A Kamboj,Nithish Kumar Reddy,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,17,6,Ishan Kishan,A Kamboj,Nithish Kumar Reddy,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,1,Nithish Kumar Reddy,Mukesh Choudhary,Ishan Kishan,0,0,0,False,False,,0,0,0,0,0,True,caught,Nithish Kumar Reddy,Urvil Patel,death
+2,Sunrisers Hyderabad,18,2.wides,S Arora,Mukesh Choudhary,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2.wides,S Arora,Mukesh Choudhary,Ishan Kishan,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,2,S Arora,Mukesh Choudhary,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,3,Ishan Kishan,Mukesh Choudhary,S Arora,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,4,S Arora,Mukesh Choudhary,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,5,Ishan Kishan,Mukesh Choudhary,S Arora,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,18,6,Ishan Kishan,Mukesh Choudhary,S Arora,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,1,S Arora,A Kamboj,Ishan Kishan,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,2,S Arora,A Kamboj,Ishan Kishan,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,3,Ishan Kishan,A Kamboj,S Arora,0,0,0,False,False,,0,0,0,0,0,True,caught,Ishan Kishan,Urvil Patel,death
+2,Sunrisers Hyderabad,19,4,R Smaran,A Kamboj,S Arora,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,5,S Arora,A Kamboj,R Smaran,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Sunrisers Hyderabad,19,6,R Smaran,A Kamboj,S Arora,4,0,4,True,False,,0,0,0,0,0,False,,,,death
