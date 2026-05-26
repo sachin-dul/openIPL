@@ -1,0 +1,240 @@
+innings,team,over,ball,batter,bowler,non_striker,batter_runs,extra_runs,total_runs,is_boundary,non_boundary_run,extra_type,wides,noballs,byes,legbyes,penalty,is_wicket,wicket_kind,player_out,fielder,phase
+1,Lucknow Super Giants,1,1,JP Inglis,Arshdeep Singh,AA Kulkarni,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,1,2,JP Inglis,Arshdeep Singh,AA Kulkarni,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,1,3,JP Inglis,Arshdeep Singh,AA Kulkarni,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,1,4,JP Inglis,Arshdeep Singh,AA Kulkarni,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,1,5,JP Inglis,Arshdeep Singh,AA Kulkarni,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,1,6,JP Inglis,Arshdeep Singh,AA Kulkarni,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,2,1,AA Kulkarni,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,True,caught,AA Kulkarni,P Simran Singh,powerplay
+1,Lucknow Super Giants,2,2,N Pooran,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,2,3,N Pooran,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,2,4,N Pooran,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,2,5,N Pooran,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,2,6,N Pooran,Azmatullah Omarzai,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,3,1,N Pooran,M Jansen,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,3,2.wides,JP Inglis,M Jansen,N Pooran,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,3,2,JP Inglis,M Jansen,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,3,3,JP Inglis,M Jansen,N Pooran,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,3,4,JP Inglis,M Jansen,N Pooran,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,powerplay
+1,Lucknow Super Giants,3,5,N Pooran,M Jansen,JP Inglis,0,0,0,False,False,,0,0,0,0,0,True,bowled,N Pooran,,powerplay
+1,Lucknow Super Giants,3,6,A Badoni,M Jansen,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,4,1,JP Inglis,Azmatullah Omarzai,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,4,2,A Badoni,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,4,3,A Badoni,Azmatullah Omarzai,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,4,4,A Badoni,Azmatullah Omarzai,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,4,5,JP Inglis,Azmatullah Omarzai,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,4,6,A Badoni,Azmatullah Omarzai,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,1,A Badoni,M Jansen,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,2,A Badoni,M Jansen,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,3,A Badoni,M Jansen,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,4,A Badoni,M Jansen,JP Inglis,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,5,A Badoni,M Jansen,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,5,6,A Badoni,M Jansen,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,1,JP Inglis,Azmatullah Omarzai,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,2.wides,A Badoni,Azmatullah Omarzai,JP Inglis,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,2,A Badoni,Azmatullah Omarzai,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,3,A Badoni,Azmatullah Omarzai,JP Inglis,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,4,A Badoni,Azmatullah Omarzai,JP Inglis,6,0,6,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,5,A Badoni,Azmatullah Omarzai,JP Inglis,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,6,6,A Badoni,Azmatullah Omarzai,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+1,Lucknow Super Giants,7,1,JP Inglis,YS Chahal,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,7,2,A Badoni,YS Chahal,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,7,3,JP Inglis,YS Chahal,A Badoni,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,7,4,A Badoni,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,True,stumped,A Badoni,P Simran Singh,middle
+1,Lucknow Super Giants,7,5,RR Pant,YS Chahal,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,7,6,JP Inglis,YS Chahal,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,1,JP Inglis,Vijaykumar Vyshak,RR Pant,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,2,JP Inglis,Vijaykumar Vyshak,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,3,RR Pant,Vijaykumar Vyshak,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,4,RR Pant,Vijaykumar Vyshak,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,5,RR Pant,Vijaykumar Vyshak,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,6.wides,JP Inglis,Vijaykumar Vyshak,RR Pant,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,8,6,JP Inglis,Vijaykumar Vyshak,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,9,1,JP Inglis,YS Chahal,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,9,2,RR Pant,YS Chahal,JP Inglis,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,9,3,RR Pant,YS Chahal,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,9,4,RR Pant,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,9,5,RR Pant,YS Chahal,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,9,6,JP Inglis,YS Chahal,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,10,1,JP Inglis,Vijaykumar Vyshak,RR Pant,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,10,2,JP Inglis,Vijaykumar Vyshak,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,10,3,RR Pant,Vijaykumar Vyshak,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,10,4,RR Pant,Vijaykumar Vyshak,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,10,5,JP Inglis,Vijaykumar Vyshak,RR Pant,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,10,6,JP Inglis,Vijaykumar Vyshak,RR Pant,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,11,1,RR Pant,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,11,2,RR Pant,YS Chahal,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,11,3,JP Inglis,YS Chahal,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,11,4,RR Pant,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,11,5,RR Pant,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,11,6,RR Pant,YS Chahal,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,1,RR Pant,Arshdeep Singh,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,2.wides,JP Inglis,Arshdeep Singh,RR Pant,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,2,JP Inglis,Arshdeep Singh,RR Pant,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,3,JP Inglis,Arshdeep Singh,RR Pant,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,4,JP Inglis,Arshdeep Singh,RR Pant,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,5,JP Inglis,Arshdeep Singh,RR Pant,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,12,6,JP Inglis,Arshdeep Singh,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,1,JP Inglis,Shashank Singh,RR Pant,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,2,JP Inglis,Shashank Singh,RR Pant,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,3,JP Inglis,Shashank Singh,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,4,RR Pant,Shashank Singh,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,5,JP Inglis,Shashank Singh,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,13,6,RR Pant,Shashank Singh,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,1,RR Pant,YS Chahal,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,2,JP Inglis,YS Chahal,RR Pant,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,3,RR Pant,YS Chahal,JP Inglis,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,4,RR Pant,YS Chahal,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,14,5,RR Pant,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,True,caught,RR Pant,M Jansen,middle
+1,Lucknow Super Giants,14,6,Abdul Samad,YS Chahal,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,1,JP Inglis,Shashank Singh,Abdul Samad,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,2,JP Inglis,Shashank Singh,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,3.wides,JP Inglis,Shashank Singh,Abdul Samad,0,1,1,False,False,wides,1,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,3,JP Inglis,Shashank Singh,Abdul Samad,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,4,JP Inglis,Shashank Singh,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,5,Abdul Samad,Shashank Singh,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,15,6,JP Inglis,Shashank Singh,Abdul Samad,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+1,Lucknow Super Giants,16,1,Abdul Samad,M Jansen,JP Inglis,0,1,1,False,False,legbyes,0,0,0,1,0,False,,,,death
+1,Lucknow Super Giants,16,2,JP Inglis,M Jansen,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,16,3,Abdul Samad,M Jansen,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,16,4,JP Inglis,M Jansen,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,16,5,Abdul Samad,M Jansen,JP Inglis,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,16,6,Abdul Samad,M Jansen,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,1,JP Inglis,Shashank Singh,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,2,Abdul Samad,Shashank Singh,JP Inglis,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,3,Abdul Samad,Shashank Singh,JP Inglis,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,4,Abdul Samad,Shashank Singh,JP Inglis,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,5,Abdul Samad,Shashank Singh,JP Inglis,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,17,6,JP Inglis,Shashank Singh,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,True,caught,JP Inglis,SS Iyer,death
+1,Lucknow Super Giants,18,1,Abdul Samad,M Jansen,MD Choudhary,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,18,2,MD Choudhary,M Jansen,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,18,3,Abdul Samad,M Jansen,MD Choudhary,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,18,4,MD Choudhary,M Jansen,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,18,5,MD Choudhary,M Jansen,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,True,caught,MD Choudhary,P Dubey,death
+1,Lucknow Super Giants,18,6,Arjun Tendulkar,M Jansen,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,19,1,Arjun Tendulkar,Vijaykumar Vyshak,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,19,2,Abdul Samad,Vijaykumar Vyshak,Arjun Tendulkar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,19,3,Arjun Tendulkar,Vijaykumar Vyshak,Abdul Samad,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,19,4,Arjun Tendulkar,Vijaykumar Vyshak,Abdul Samad,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,19,5,Abdul Samad,Vijaykumar Vyshak,Arjun Tendulkar,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,19,6,Arjun Tendulkar,Vijaykumar Vyshak,Abdul Samad,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,1.wides,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,1,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,2,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,3,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,4,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,5,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,6.wides,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,6.wides,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,0,1,1,False,False,wides,1,0,0,0,0,False,,,,death
+1,Lucknow Super Giants,20,6,Abdul Samad,Arshdeep Singh,Arjun Tendulkar,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,1,1,Priyansh Arya,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,True,caught,Priyansh Arya,Arjun Tendulkar,powerplay
+2,Punjab Kings,1,2.wides,C Connolly,Mohammed Shami,P Simran Singh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,2,C Connolly,Mohammed Shami,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,3,C Connolly,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,4,C Connolly,Mohammed Shami,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,5,C Connolly,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,6.wides,C Connolly,Mohammed Shami,P Simran Singh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,1,6,C Connolly,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,1,P Simran Singh,Prince Yadav,C Connolly,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,2,P Simran Singh,Prince Yadav,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,3,C Connolly,Prince Yadav,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,4,C Connolly,Prince Yadav,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,5,C Connolly,Prince Yadav,P Simran Singh,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,2,6,C Connolly,Prince Yadav,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,1,P Simran Singh,Mohammed Shami,C Connolly,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,2,C Connolly,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,True,bowled,C Connolly,,powerplay
+2,Punjab Kings,3,3,SS Iyer,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,4,SS Iyer,Mohammed Shami,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,5,SS Iyer,Mohammed Shami,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,3,6,SS Iyer,Mohammed Shami,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,1,P Simran Singh,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,2,SS Iyer,Mohsin Khan,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,3,P Simran Singh,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,4,SS Iyer,Mohsin Khan,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,5,SS Iyer,Mohsin Khan,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,4,6,SS Iyer,Mohsin Khan,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,1,P Simran Singh,DS Rathi,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,2,P Simran Singh,DS Rathi,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,3,P Simran Singh,DS Rathi,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,4,P Simran Singh,DS Rathi,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,5,P Simran Singh,DS Rathi,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,5,6,SS Iyer,DS Rathi,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,1,SS Iyer,Prince Yadav,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,2,P Simran Singh,Prince Yadav,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,3,SS Iyer,Prince Yadav,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,4,SS Iyer,Prince Yadav,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,5.wides,SS Iyer,Prince Yadav,P Simran Singh,0,1,1,False,False,wides,1,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,5,SS Iyer,Prince Yadav,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,6,6,P Simran Singh,Prince Yadav,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,powerplay
+2,Punjab Kings,7,1,SS Iyer,Arjun Tendulkar,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,2,SS Iyer,Arjun Tendulkar,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,3,SS Iyer,Arjun Tendulkar,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,4,P Simran Singh,Arjun Tendulkar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,5,SS Iyer,Arjun Tendulkar,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,7,6,P Simran Singh,Arjun Tendulkar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,1,P Simran Singh,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,2,SS Iyer,Mohsin Khan,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,3,P Simran Singh,Mohsin Khan,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,4,P Simran Singh,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,5,SS Iyer,Mohsin Khan,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,8,6,P Simran Singh,Mohsin Khan,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,1,SS Iyer,Arjun Tendulkar,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,2,SS Iyer,Arjun Tendulkar,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,3,SS Iyer,Arjun Tendulkar,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,4,P Simran Singh,Arjun Tendulkar,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,5,P Simran Singh,Arjun Tendulkar,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,9,6,P Simran Singh,Arjun Tendulkar,SS Iyer,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,1,SS Iyer,DS Rathi,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,2,P Simran Singh,DS Rathi,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,3,SS Iyer,DS Rathi,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,4,SS Iyer,DS Rathi,P Simran Singh,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,5,SS Iyer,DS Rathi,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,10,6,SS Iyer,DS Rathi,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,1,SS Iyer,Mohammed Shami,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,2,P Simran Singh,Mohammed Shami,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,3,SS Iyer,Mohammed Shami,P Simran Singh,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,4,SS Iyer,Mohammed Shami,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,5,P Simran Singh,Mohammed Shami,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,11,6,P Simran Singh,Mohammed Shami,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,1,P Simran Singh,Mohsin Khan,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,2,P Simran Singh,Mohsin Khan,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,3,P Simran Singh,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,4,SS Iyer,Mohsin Khan,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,5,P Simran Singh,Mohsin Khan,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,12,6,P Simran Singh,Mohsin Khan,SS Iyer,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,1,SS Iyer,DS Rathi,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,2,P Simran Singh,DS Rathi,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,3,SS Iyer,DS Rathi,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,4,P Simran Singh,DS Rathi,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,5,P Simran Singh,DS Rathi,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,13,6,SS Iyer,DS Rathi,P Simran Singh,6,0,6,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,1,P Simran Singh,Prince Yadav,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,2,P Simran Singh,Prince Yadav,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,3,SS Iyer,Prince Yadav,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,4,SS Iyer,Prince Yadav,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,5,P Simran Singh,Prince Yadav,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,14,6,P Simran Singh,Prince Yadav,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,1,P Simran Singh,Arjun Tendulkar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,2,SS Iyer,Arjun Tendulkar,P Simran Singh,2,0,2,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,3,SS Iyer,Arjun Tendulkar,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,4,SS Iyer,Arjun Tendulkar,P Simran Singh,4,0,4,True,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,5,SS Iyer,Arjun Tendulkar,P Simran Singh,1,0,1,False,False,,0,0,0,0,0,False,,,,middle
+2,Punjab Kings,15,6,P Simran Singh,Arjun Tendulkar,SS Iyer,0,0,0,False,False,,0,0,0,0,0,True,lbw,P Simran Singh,,middle
+2,Punjab Kings,16,1,SS Iyer,Mohammed Shami,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,2,SS Iyer,Mohammed Shami,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,3,SS Iyer,Mohammed Shami,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,4,SS Iyer,Mohammed Shami,Suryansh Shedge,2,0,2,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,5,SS Iyer,Mohammed Shami,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,16,6,SS Iyer,Mohammed Shami,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,1,Suryansh Shedge,Arjun Tendulkar,SS Iyer,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,2,Suryansh Shedge,Arjun Tendulkar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,3,SS Iyer,Arjun Tendulkar,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,4,Suryansh Shedge,Arjun Tendulkar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,5,SS Iyer,Arjun Tendulkar,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,17,6,Suryansh Shedge,Arjun Tendulkar,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,1,Suryansh Shedge,Mohsin Khan,SS Iyer,4,0,4,True,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,2,Suryansh Shedge,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,3,SS Iyer,Mohsin Khan,Suryansh Shedge,0,0,0,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,4,SS Iyer,Mohsin Khan,Suryansh Shedge,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,5,Suryansh Shedge,Mohsin Khan,SS Iyer,1,0,1,False,False,,0,0,0,0,0,False,,,,death
+2,Punjab Kings,18,6,SS Iyer,Mohsin Khan,Suryansh Shedge,6,0,6,True,False,,0,0,0,0,0,False,,,,death
