@@ -1,4 +1,4 @@
-import { AnalysisContent } from "./_analysis-content";
+import { AnalysisContent } from "./analysis-content";
 
 export default async function AnalysisPage({
   params,

@@ -1,4 +1,4 @@
-import { BattingContent } from "./_batting-content";
+import { BattingContent } from "./batting-content";
 
 export default async function BattingPage({
   params,

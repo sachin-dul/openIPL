@@ -1,4 +1,4 @@
-import { OverviewContent } from "./_overview-content";
+import { OverviewContent } from "./overview-content";
 
 export default async function OverviewPage({
   params,

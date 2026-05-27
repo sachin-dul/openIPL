@@ -1,4 +1,4 @@
-import { BowlingContent } from "./_bowling-content";
+import { BowlingContent } from "./bowling-content";
 
 export default async function BowlingPage({
   params,

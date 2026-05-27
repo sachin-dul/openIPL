@@ -20,35 +20,51 @@ import os
 import csv
 
 
-def get_phase_ball_boundaries(total_overs):
-    """Return (pp_balls, middle_balls) — cumulative ball counts for phase boundaries.
+def get_powerplay_end(innings):
+    """Extract PP end as (over_0idx, ball_1idx_within_over) from cricsheet block.
 
-    For 20-over matches: PP = balls 1-36, Middle = 37-90, Death = 91-120.
-    For shortened matches: PP = 30% of total balls (rounded to nearest ball),
-    remaining 70% split equally between middle and death.
+    Cricsheet stores it as {from: 0.1, to: 5.6, type: 'mandatory'} where the
+    over part is 0-indexed and the ball part counts every delivery in the over
+    (so 5.7+ means PP extended past ball 6 because of extras). Falls back to
+    (5, 6) — the standard 20-over boundary — when missing.
     """
-    if total_overs >= 20:
-        return 36, 90  # standard boundaries
+    for block in innings.get("powerplays") or []:
+        if block.get("type") == "mandatory":
+            to = block.get("to")
+            if to is None:
+                continue
+            over_part = int(to)
+            # Use round to handle float artefacts like 5.6000000001.
+            ball_part = round((to - over_part) * 10)
+            return over_part, ball_part
+    return 5, 6
 
-    total_balls = int(total_overs) * 6 + round((total_overs % 1) * 10)
-    pp_balls = round(total_balls * 0.30)
-    remaining_balls = total_balls - pp_balls
-    middle_balls = remaining_balls // 2
-    return pp_balls, pp_balls + middle_balls
 
+def get_phase(over_0idx, ball_pos_in_over, pp_end_over_0idx, pp_end_ball, scheduled_overs):
+    """Classify a delivery into powerplay / middle / death.
 
-def get_phase(cumulative_legal_ball, total_overs=20):
-    """Return phase based on cumulative legal ball number (1-indexed).
+    The phase is determined by where the ball sits inside the *scheduled*
+    innings, not the actual chase length — so a 15-over chase still treats
+    overs 1-6 as PP and 16-20 as death (even if death is never reached).
 
-    For shortened matches, phase boundaries fall at ball level, not over level.
+    Middle/death split mirrors the standard T20 ratio: of the post-PP overs,
+    middle gets ~9/14, death gets ~5/14. For a full 20-over innings this
+    yields the conventional 7-15 / 16-20 split.
     """
-    pp_end, middle_end = get_phase_ball_boundaries(total_overs)
-    if cumulative_legal_ball <= pp_end:
+    if over_0idx < pp_end_over_0idx:
         return "powerplay"
-    elif cumulative_legal_ball <= middle_end:
+    if over_0idx == pp_end_over_0idx and ball_pos_in_over <= pp_end_ball:
+        return "powerplay"
+
+    pp_end_over_1idx = pp_end_over_0idx + 1
+    remaining = max(scheduled_overs - pp_end_over_1idx, 0)
+    middle_overs = round(remaining * 9 / 14)
+    middle_end_over_1idx = pp_end_over_1idx + middle_overs
+
+    over_1idx = over_0idx + 1
+    if over_1idx <= middle_end_over_1idx:
         return "middle"
-    else:
-        return "death"
+    return "death"
 
 
 def parse_match(json_path, match_number_override=None):
@@ -118,22 +134,7 @@ def parse_match(json_path, match_number_override=None):
 
     innings_teams = {}  # inn_num -> (batting_team, bowling_team)
 
-    # Pre-compute actual overs per innings for phase boundary calculation
-    innings_actual_overs = {}  # inn_num (1-based) -> float overs
-    _pre_inn = 0
-    for innings in innings_data:
-        if innings.get("super_over"):
-            continue
-        _pre_inn += 1
-        _total_balls = 0
-        for over_obj in innings["overs"]:
-            for delivery in over_obj["deliveries"]:
-                extras = delivery.get("extras", {})
-                if "wides" not in extras and "noballs" not in extras:
-                    _total_balls += 1
-        _ov = _total_balls // 6
-        _b = _total_balls % 6
-        innings_actual_overs[_pre_inn] = float(f"{_ov}.{_b}")
+    scheduled_overs_default = info.get("overs", 20) or 20
 
     inn_num = 0  # track actual innings number (excludes super overs)
     for inn_idx, innings in enumerate(innings_data):
@@ -186,14 +187,20 @@ def parse_match(json_path, match_number_override=None):
         pair_stats = {}  # batter -> {runs, balls}
         wicket_number = 0
 
-        innings_total_overs = innings_actual_overs.get(inn_num, 20)
-        innings_legal_balls = 0
+        # Phase boundaries — PP from cricsheet block; scheduled length from
+        # innings target (DLS-revised) or top-level info.overs.
+        pp_end_over, pp_end_ball = get_powerplay_end(innings)
+        scheduled_overs = (
+            (innings.get("target") or {}).get("overs") or scheduled_overs_default
+        )
 
         for over_obj in innings["overs"]:
             over_num = over_obj["over"]  # 0-indexed
             ball_counter = 0
+            delivery_pos = 0  # 1-indexed position within this over, counts every ball incl. extras
 
             for delivery in over_obj["deliveries"]:
+                delivery_pos += 1
                 batter = delivery["batter"]
                 bowler = delivery["bowler"]
                 non_striker = delivery["non_striker"]
@@ -210,9 +217,7 @@ def parse_match(json_path, match_number_override=None):
                 is_wide = "wides" in extras
                 is_noball = "noballs" in extras
 
-                if not is_wide and not is_noball:
-                    innings_legal_balls += 1
-                phase = get_phase(max(innings_legal_balls, 1), innings_total_overs)
+                phase = get_phase(over_num, delivery_pos, pp_end_over, pp_end_ball, scheduled_overs)
 
                 # --- DRS reviews ---
                 if "review" in delivery:

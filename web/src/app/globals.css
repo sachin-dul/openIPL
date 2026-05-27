@@ -2,21 +2,74 @@
 
 :root {
   color-scheme: light;
-  --background: #ffffff;
-  --foreground: #171717;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Surfaces */
+  --color-ipl-bg:      #f7f6f2;
+  --color-ipl-surface: #ffffff;
+  --color-ipl-line:    #e6e3dc;
+  --color-ipl-line2:   #efece5;
+
+  /* Text */
+  --color-ipl-ink:     #15171a;
+  --color-ipl-sub:     #6b6a64;
+  --color-ipl-soft:    #a09e96;
+
+  /* Accent */
+  --color-ipl-accent:  #3a5cff;
+  --color-ipl-accent2: #0c1024;
+
+  /* Semantic */
+  --color-ipl-pos:     #1f8a5b;
+  --color-ipl-neg:     #d23a3a;
+  --color-ipl-orange:  #f59e0b;
+  --color-ipl-purple:  #7c3aed;
+
+  /* Fonts — names map to the variables emitted by next/font/google in layout.tsx */
+  --font-sans:  var(--font-geist), system-ui, sans-serif;
+  --font-mono:  var(--font-jbmono), ui-monospace, monospace;
+  --font-serif: var(--font-instrument), serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  background: var(--color-ipl-bg);
+  color: var(--color-ipl-ink);
+  font-family: var(--font-sans);
+}
+
+/* Mono utility carries tabular figures so numbers line up in tables. */
+.font-mono {
+  font-feature-settings: "tnum", "zero";
+}
+
+/* The disclosure widget for the season chip; hide the default triangle. */
+summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Sleek scrollbar — apply to any overflow container to swap the OS-default
+   chunky scrollbar for a thin, palette-aware one. Webkit + Firefox supported. */
+.sleek-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-ipl-soft) transparent;
+}
+.sleek-scroll::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.sleek-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.sleek-scroll::-webkit-scrollbar-thumb {
+  background: var(--color-ipl-soft);
+  border-radius: 3px;
+}
+.sleek-scroll::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ipl-sub);
 }
 
 /* Bar load-in animations: chart bars grow from their anchor on first render. */

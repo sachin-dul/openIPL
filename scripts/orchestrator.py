@@ -59,9 +59,13 @@ def get_season_matches(json_dir, season):
         except (json.JSONDecodeError, KeyError):
             continue
     matches.sort(key=lambda m: (m[0] == 0, m[0]))
-    # Assign sequential match numbers to playoff matches (match_number=0)
+    # Assign sequential numbers to playoff matches (match_number=0). Playoffs
+    # start after the highest existing league match_number — including washout
+    # rows already in matches.csv that have no Cricsheet JSON.
     if matches:
-        max_num = max(m[0] for m in matches if m[0] != 0) if any(m[0] != 0 for m in matches) else 0
+        parsed_max = max((m[0] for m in matches if m[0] != 0), default=0)
+        existing_max = _existing_league_max(season)
+        max_num = max(parsed_max, existing_max)
         renumbered = []
         for m in matches:
             if m[0] != 0:
@@ -71,6 +75,27 @@ def get_season_matches(json_dir, season):
                 renumbered.append((max_num, m[1], m[2]))
         matches = renumbered
     return matches
+
+
+def _existing_league_max(season):
+    """Highest league-stage match_number already in data/{season}/matches.csv.
+
+    Lets the playoff auto-numbering account for washout rows we hand-patched in
+    via scripts/patch_washouts.py, which Cricsheet has no JSON for.
+    """
+    import csv as _csv
+    path = os.path.join(os.path.dirname(__file__), "..", "data", str(season), "matches.csv")
+    if not os.path.exists(path):
+        return 0
+    try:
+        with open(path, newline="") as f:
+            return max(
+                (int(r["match_number"]) for r in _csv.DictReader(f)
+                 if (r.get("match_stage") or "").strip() == "league"),
+                default=0,
+            )
+    except (OSError, ValueError, KeyError):
+        return 0
 
 
 def _overs_to_balls(overs):
@@ -103,11 +128,17 @@ def compute_nrr(team_data):
 
 
 def build_points_table(all_match_data, season_dir):
-    """Build progressive points table from parsed match data."""
+    """Build league-stage points table from parsed match data.
+
+    Playoff fixtures (Qualifier 1/2, Eliminator, Final) are excluded — the
+    points table reflects league seeding, not tournament outcome.
+    """
     teams = {}  # team -> stats
 
     for parsed in all_match_data:
         match_info = parsed["match"]
+        if (match_info.get("match_stage") or "league") != "league":
+            continue
         team_1 = parsed["team_1"]
         team_2 = parsed["team_2"]
         winner = match_info.get("winner", "")

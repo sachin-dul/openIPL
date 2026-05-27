@@ -1,6 +1,13 @@
-import { redirect } from "next/navigation";
-import { LATEST_SEASON } from "@/lib/seasons";
+import { SiteHeader } from "@/components/site-header";
+import { LandingContent } from "./landing-content";
 
 export default function Home() {
-  redirect(`/season/${LATEST_SEASON}/overview`);
+  return (
+    <>
+      <SiteHeader />
+      <main className="w-full">
+        <LandingContent />
+      </main>
+    </>
+  );
 }
